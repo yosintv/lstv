@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h1>無料パスワード生成ツール</h1>
+
+<p>
+安全で強力なパスワードをワンクリックで生成できます。
+登録不要・完全無料・日本語対応。
+</p>
+
+<div class="tool">
+  <input type="number" id="length" value="16">
+  <button onclick="generatePassword()">生成</button>
+  <input type="text" id="output" readonly>
+</div>
+
+{% endblock %}
