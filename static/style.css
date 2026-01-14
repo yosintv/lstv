@@ -1,0 +1,14 @@
+body {
+  font-family: system-ui, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+.tool {
+  margin: 20px 0;
+}
+
+input, button {
+  padding: 8px;
+  margin-top: 5px;
+}
