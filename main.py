@@ -2,7 +2,7 @@ import json, os, re, glob, time, shutil, tempfile
 from datetime import datetime, timedelta, timezone
 
 # --- 1. CONFIGURATION ---
-DOMAIN = "https://yosintv.github.io/psg"
+DOMAIN = "https://tv.singhyogendra.com.np"
 
 # Auto-detect system timezone offset
 LOCAL_OFFSET = timezone(
