@@ -155,12 +155,14 @@ for m in all_matches:
         atomic_write(f"match/{m_slug}/{m_date_folder}/index.html", m_html)
         sitemap_urls.append(f"{DOMAIN}/match/{m_slug}/{m_date_folder}/")
 
-        # Channel data collection
+        # Channel data collection WITH DEDUPLICATION
         for c in m.get('tv_channels', []):
             for ch in c['channels']:
                 if ch not in channels_data:
-                    channels_data[ch] = []
-                channels_data[ch].append(m)
+                    channels_data[ch] = {}
+                mid = m.get('match_id')
+                if mid and mid not in channels_data[ch]:
+                    channels_data[ch][mid] = m
     except Exception:
         continue
 
@@ -218,7 +220,7 @@ for day in ALL_DATES:
 
     # ALL home_template.html placeholders
     h_output = templates['home']
-    h_output = h_output.replace("{{MATCH_LISTING}}", listing_html)  # NO FOOTER - already in template
+    h_output = h_output.replace("{{MATCH_LISTING}}", listing_html)
     h_output = h_output.replace("{{WEEKLY_MENU}}", WEEKLY_MENU_HTML)
     h_output = h_output.replace("{{DOMAIN}}", DOMAIN)
     h_output = h_output.replace("{{SELECTED_DATE}}", day.strftime("%A, %b %d, %Y"))
@@ -230,13 +232,17 @@ for day in ALL_DATES:
     if day == TODAY_DATE:
         atomic_write("index.html", h_output)
 
-# 6c. CHANNEL PAGES ✅ (channel_template.html) 
-for ch_name, m_list in channels_data.items():
+# 6c. CHANNEL PAGES ✅ FIXED DEDUPLICATION (channel_template.html) 
+for ch_name, match_dict in channels_data.items():
     c_slug = slugify(ch_name)
+    
+    # Convert dict values back to list (already deduplicated)
+    unique_matches = list(match_dict.values())
+    print(f"📺 Channel '{ch_name}': {len(unique_matches)} unique matches")
     
     # Build match listing for this channel
     c_listing = ""
-    for m in sorted(m_list, key=lambda x: x['kickoff']):
+    for m in sorted(unique_matches, key=lambda x: x['kickoff']):
         dt_m = datetime.fromtimestamp(int(m['kickoff']), tz=timezone.utc).astimezone(LOCAL_OFFSET)
         m_url = f"{DOMAIN}/match/{slugify(m['fixture'])}/{dt_m.strftime('%Y%m%d')}/"
         c_listing += f'''
@@ -250,12 +256,11 @@ for ch_name, m_list in channels_data.items():
             </div>
         </div>'''
 
-    # ONLY channel_template.html placeholders - NO WEEKLY_MENU!
+    # ONLY channel_template.html placeholders
     c_html = templates['channel']
     c_html = c_html.replace("{{CHANNEL_NAME}}", ch_name)
-    c_html = c_html.replace("{{MATCH_LISTING}}", c_listing)  # NO EXTRA HEADER - already in template
+    c_html = c_html.replace("{{MATCH_LISTING}}", c_listing)
     c_html = c_html.replace("{{DOMAIN}}", DOMAIN)
-    # NO {{WEEKLY_MENU}} - not in channel_template.html
 
     atomic_write(f"channel/{c_slug}/index.html", c_html)
     sitemap_urls.append(f"{DOMAIN}/channel/{c_slug}/")
@@ -267,4 +272,4 @@ for url in sorted(set(sitemap_urls)):
 sitemap += '</urlset>'
 atomic_write("sitemap.xml", sitemap)
 
-print("🏁 PERFECT! All 3 templates fully supported: home/, match/, channel/")
+print("🏁 PERFECT! All 3 templates fully supported + CHANNEL DUPLICATES FIXED!")
