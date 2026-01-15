@@ -10,12 +10,6 @@ LOCAL_OFFSET = timezone(
 )
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-TEMP_DIR = os.path.join(BASE_DIR, "dist_temp")
-
-# Clean and create temp directory for the build process
-if os.path.exists(TEMP_DIR):
-    shutil.rmtree(TEMP_DIR)
-os.makedirs(TEMP_DIR, exist_ok=True)
 
 NOW = datetime.now(LOCAL_OFFSET)
 TODAY_DATE = NOW.date()
@@ -77,13 +71,13 @@ def slugify(t):
     return re.sub(r'[^a-z0-9]+', '-', str(t).lower()).strip('-')
 
 def atomic_write(relative_path, content):
-    """Write file atomically inside TEMP_DIR."""
-    full_path = os.path.join(TEMP_DIR, relative_path)
+    """Write file atomically directly to BASE_DIR."""
+    full_path = os.path.join(BASE_DIR, relative_path)
     directory = os.path.dirname(full_path)
     if directory:
         os.makedirs(directory, exist_ok=True)
 
-    fd, tmp_path = tempfile.mkstemp(dir=directory or None, text=True)
+    fd, tmp_path = tempfile.mkstemp(dir=directory or BASE_DIR, text=True)
     try:
         with os.fdopen(fd, 'w', encoding='utf-8') as f:
             f.write(content)
@@ -92,6 +86,12 @@ def atomic_write(relative_path, content):
         if os.path.exists(tmp_path):
             os.unlink(tmp_path)
         raise
+
+# Clean existing folders (optional - remove if you want to keep old files)
+for folder in ['home', 'match', 'channel']:
+    folder_path = os.path.join(BASE_DIR, folder)
+    if os.path.exists(folder_path):
+        shutil.rmtree(folder_path)
 
 # --- 3. LOAD ORIGINAL TEMPLATES ---
 templates = {}
@@ -102,7 +102,6 @@ for name in ['home', 'match', 'channel']:
             templates[name] = f.read()
     except FileNotFoundError:
         print(f"❌ ERROR: {t_path} not found!")
-        # simple fallback contains all placeholders used
         templates[name] = (
             "{{WEEKLY_MENU}}{{MATCH_LISTING}}"
             "{{BROADCAST_ROWS}}{{LEAGUE}}"
@@ -133,7 +132,6 @@ channels_data = {}
 sitemap_urls = [DOMAIN + "/"]
 
 # --- 5. SHARED UI: WEEKLY MENU ---
-
 def build_weekly_menu():
     html = MENU_CSS + '<div class="weekly-menu-container">'
     for i in range(7):
@@ -152,7 +150,7 @@ WEEKLY_MENU_HTML = build_weekly_menu()
 
 # --- 6. PAGE GENERATION ---
 
-# 6a. Match Pages (8 placeholders)
+# 6a. Match Pages (8 placeholders) → match/{slug}/{YYYYMMDD}/index.html
 for m in all_matches:
     try:
         m_dt = datetime.fromtimestamp(
@@ -219,8 +217,7 @@ for m in all_matches:
     except Exception:
         continue
 
-# 6b. Daily Pages & Home Folder (5 placeholders)
-
+# 6b. Daily Pages → home/{YYYY-MM-DD}.html + index.html (today)
 ALL_DATES = sorted({
     datetime.fromtimestamp(
         int(m['kickoff']), tz=timezone.utc
@@ -231,7 +228,6 @@ ALL_DATES = sorted({
 for day in ALL_DATES:
     day_str = day.strftime('%Y-%m-%d')
 
-    # collect matches for this day
     day_matches = [
         m for m in all_matches
         if datetime.fromtimestamp(
@@ -239,7 +235,6 @@ for day in ALL_DATES:
         ).astimezone(LOCAL_OFFSET).date() == day
     ]
 
-    # sort with top leagues first, then league name, then kickoff
     day_matches.sort(
         key=lambda x: (
             x.get('league_id') not in TOP_LEAGUE_IDS,
@@ -299,8 +294,7 @@ for day in ALL_DATES:
     if day == TODAY_DATE:
         atomic_write("index.html", h_output)
 
-# 6c. Channel Pages (4 placeholders)
-
+# 6c. Channel Pages → channel/{slug}/index.html
 for ch_name, m_list in channels_data.items():
     c_slug = slugify(ch_name)
     c_listing = ""
@@ -323,8 +317,7 @@ for ch_name, m_list in channels_data.items():
     atomic_write(f"channel/{c_slug}/index.html", c_html)
     sitemap_urls.append(f"{DOMAIN}/channel/{c_slug}/")
 
-# 6d. Sitemap
-
+# 6d. Sitemap → sitemap.xml
 sitemap = (
     '<?xml version="1.0" encoding="UTF-8"?>'
     '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
@@ -337,16 +330,4 @@ for url in sorted(set(sitemap_urls)):
 sitemap += '</urlset>'
 atomic_write("sitemap.xml", sitemap)
 
-# --- 7. DEPLOYMENT: MOVE FROM dist_temp TO ROOT ---
-
-print("📦 Build complete. Moving files to root...")
-for root, dirs, files in os.walk(TEMP_DIR):
-    for file in files:
-        src = os.path.join(root, file)
-        rel_path = os.path.relpath(src, TEMP_DIR)
-        dest = os.path.join(BASE_DIR, rel_path)
-        os.makedirs(os.path.dirname(dest), exist_ok=True)
-        shutil.move(src, dest)
-
-shutil.rmtree(TEMP_DIR)
-print("🏁 DONE. Root updated with all folders.")
+print("🏁 DONE. Files generated directly to home/, match/, channel/, and root.")
