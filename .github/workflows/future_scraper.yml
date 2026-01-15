@@ -2,8 +2,7 @@ name: +7 Days Future Listings
 
 on:
   schedule:
-    # Runs every 20 hours (00:00 and 12:00 UTC)
-    - cron: '0 */20 * * *'
+    - cron: '0 */12 * * *'
   workflow_dispatch: # Allows manual trigger from the Actions tab
 
 permissions:
