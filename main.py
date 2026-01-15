@@ -142,12 +142,15 @@ WEEKLY_MENU_HTML = build_weekly_menu()
 
 # --- 6. PAGE GENERATION ---
 
-# 6a. MATCH PAGES ✅ (match_template.html)
+# 6a. MATCH PAGES → match/slug-YYYYMMDD.html (FLAT)
 for m in all_matches:
     try:
         m_dt = datetime.fromtimestamp(int(m['kickoff']), tz=timezone.utc).astimezone(LOCAL_OFFSET)
         m_slug = slugify(m['fixture'])
         m_date_folder = m_dt.strftime('%Y%m%d')
+        
+        # FLAT STRUCTURE: match/slug-YYYYMMDD.html
+        match_filename = f"{m_slug}-{m_date_folder}.html"
 
         league = m.get('league', 'Other Football')
         venue_val = m.get('venue') or m.get('stadium') or "To Be Announced"
@@ -157,7 +160,7 @@ for m in all_matches:
         country_counter = 0
         for c in m.get('tv_channels', []):
             country_counter += 1
-            ch_links = [f'<a href="{DOMAIN}/channel/{slugify(ch)}/">{ch}</a>' for ch in c['channels']]
+            ch_links = [f'<a href="{DOMAIN}/channel/{slugify(ch)}.html">{ch}</a>' for ch in c['channels']]
             rows += f'''
             <div class="broadcast-row">
                 <div style="font-weight: 800; color: #475569; font-size: 13px; min-width: 100px;">{c["country"]}</div>
@@ -179,8 +182,8 @@ for m in all_matches:
         m_html = m_html.replace("{{UNIX}}", str(m['kickoff']))
         m_html = m_html.replace("{{VENUE}}", venue_val)
 
-        atomic_write(f"match/{m_slug}/{m_date_folder}/index.html", m_html)
-        sitemap_urls.append(f"{DOMAIN}/match/{m_slug}/{m_date_folder}/")
+        atomic_write(f"match/{match_filename}", m_html)
+        sitemap_urls.append(f"{DOMAIN}/match/{match_filename}")
 
         # Channel data collection WITH DEDUPLICATION
         for c in m.get('tv_channels', []):
@@ -193,7 +196,7 @@ for m in all_matches:
     except Exception:
         continue
 
-# 6b. HOME PAGES ✅ (home_template.html)
+# 6b. HOME PAGES → home/YYYY-MM-DD.html (KEEP SAME)
 ALL_DATES = sorted({
     datetime.fromtimestamp(int(m['kickoff']), tz=timezone.utc).astimezone(LOCAL_OFFSET).date()
     for m in all_matches
@@ -229,7 +232,8 @@ for day in ALL_DATES:
             last_league = league
 
         dt_m = datetime.fromtimestamp(int(m['kickoff']), tz=timezone.utc).astimezone(LOCAL_OFFSET)
-        m_url = f"{DOMAIN}/match/{slugify(m['fixture'])}/{dt_m.strftime('%Y%m%d')}/"
+        match_filename = f"{slugify(m['fixture'])}-{dt_m.strftime('%Y%m%d')}.html"
+        m_url = f"{DOMAIN}/match/{match_filename}"
         
         listing_html += f'''
         <a href="{m_url}" class="match-row flex items-center p-4 hover:bg-slate-50 transition-all">
@@ -259,7 +263,7 @@ for day in ALL_DATES:
     if day == TODAY_DATE:
         atomic_write("index.html", h_output)
 
-# 6c. CHANNEL PAGES ✅ FIXED DEDUPLICATION (channel_template.html) 
+# 6c. CHANNEL PAGES → channel/channel-name.html (FLAT)
 for ch_name, match_dict in channels_data.items():
     c_slug = slugify(ch_name)
     
@@ -271,7 +275,8 @@ for ch_name, match_dict in channels_data.items():
     c_listing = ""
     for m in sorted(unique_matches, key=lambda x: x['kickoff']):
         dt_m = datetime.fromtimestamp(int(m['kickoff']), tz=timezone.utc).astimezone(LOCAL_OFFSET)
-        m_url = f"{DOMAIN}/match/{slugify(m['fixture'])}/{dt_m.strftime('%Y%m%d')}/"
+        match_filename = f"{slugify(m['fixture'])}-{dt_m.strftime('%Y%m%d')}.html"
+        m_url = f"{DOMAIN}/match/{match_filename}"
         c_listing += f'''
         <div class="match-row">
             <div class="time-box">
@@ -289,8 +294,9 @@ for ch_name, match_dict in channels_data.items():
     c_html = c_html.replace("{{MATCH_LISTING}}", c_listing)
     c_html = c_html.replace("{{DOMAIN}}", DOMAIN)
 
-    atomic_write(f"channel/{c_slug}/index.html", c_html)
-    sitemap_urls.append(f"{DOMAIN}/channel/{c_slug}/")
+    # FLAT STRUCTURE: channel/a-sport.html
+    atomic_write(f"channel/{c_slug}.html", c_html)
+    sitemap_urls.append(f"{DOMAIN}/channel/{c_slug}.html")
 
 # 6d. SITEMAP
 sitemap = '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
@@ -299,4 +305,4 @@ for url in sorted(set(sitemap_urls)):
 sitemap += '</urlset>'
 atomic_write("sitemap.xml", sitemap)
 
-print("🏁 PERFECT! All 3 templates fully supported + CHANNEL DUPLICATES FIXED!")
+print("🏁 PERFECT! FLAT STRUCTURE: channel/a-sport.html + match/slug-YYYYMMDD.html")
