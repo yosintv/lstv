@@ -28,6 +28,46 @@ ADS_CODE = '''
 </div>
 '''
 
+# Footer HTML for home/index.html
+FOOTER_HTML = '''
+<footer style="margin-top: 40px; padding: 20px 0; border-top: 1px solid #e2e8f0; text-align: center; color: #64748b; font-size: 14px;">
+    <div style="max-width: 800px; margin: 0 auto; padding: 0 20px;">
+        <p>⚽ Football TV Schedules • Updated automatically every hour</p>
+        <p style="margin-top: 8px; font-size: 12px;">Live match listings may vary by region • Check local listings for confirmation</p>
+    </div>
+</footer>
+'''
+
+# Channel page header CSS + "Upcoming Live Matches on" styling
+CHANNEL_HEADER_CSS = '''
+<style>
+.channel-header {
+    background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
+    color: white;
+    padding: 24px 20px;
+    border-radius: 12px 12px 0 0;
+    margin: -20px -20px 20px -20px;
+    text-align: center;
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
+}
+.channel-header h1 {
+    font-size: 28px;
+    font-weight: 700;
+    margin: 0 0 4px 0;
+    text-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+.channel-header .subtitle {
+    font-size: 16px;
+    opacity: 0.9;
+    margin: 0;
+}
+@media (max-width: 480px) {
+    .channel-header h1 { font-size: 24px; }
+    .channel-header .subtitle { font-size: 14px; }
+}
+</style>
+'''
+
 # Weekly menu CSS from build.py
 MENU_CSS = '''
 <style>
@@ -217,7 +257,7 @@ for m in all_matches:
     except Exception:
         continue
 
-# 6b. Daily Pages → home/{YYYY-MM-DD}.html + index.html (today)
+# 6b. Daily Pages → home/{YYYY-MM-DD}.html + index.html (today) WITH FOOTER
 ALL_DATES = sorted({
     datetime.fromtimestamp(
         int(m['kickoff']), tz=timezone.utc
@@ -277,7 +317,7 @@ for day in ALL_DATES:
         listing_html += ADS_CODE
 
     h_output = templates['home']
-    h_output = h_output.replace("{{MATCH_LISTING}}", listing_html)
+    h_output = h_output.replace("{{MATCH_LISTING}}", listing_html + FOOTER_HTML)  # ADD FOOTER HERE
     h_output = h_output.replace("{{WEEKLY_MENU}}", WEEKLY_MENU_HTML)
     h_output = h_output.replace("{{DOMAIN}}", DOMAIN)
     h_output = h_output.replace(
@@ -294,7 +334,7 @@ for day in ALL_DATES:
     if day == TODAY_DATE:
         atomic_write("index.html", h_output)
 
-# 6c. Channel Pages → channel/{slug}/index.html
+# 6c. Channel Pages → channel/{slug}/index.html WITH HEADER CSS
 for ch_name, m_list in channels_data.items():
     c_slug = slugify(ch_name)
     c_listing = ""
@@ -308,9 +348,17 @@ for ch_name, m_list in channels_data.items():
             f'<a href="{m_url}">{m["fixture"]}</a></li>'
         )
 
+    channel_header = f'''
+    {CHANNEL_HEADER_CSS}
+    <div class="channel-header">
+        <h1>📺 {ch_name}</h1>
+        <p class="subtitle">Upcoming Live Matches on {ch_name}</p>
+    </div>
+    '''
+
     c_html = templates['channel']
     c_html = c_html.replace("{{CHANNEL_NAME}}", ch_name)
-    c_html = c_html.replace("{{MATCH_LISTING}}", f"<ul>{c_listing}</ul>")
+    c_html = c_html.replace("{{MATCH_LISTING}}", channel_header + f"<ul>{c_listing}</ul>")
     c_html = c_html.replace("{{DOMAIN}}", DOMAIN)
     c_html = c_html.replace("{{WEEKLY_MENU}}", WEEKLY_MENU_HTML)
 
@@ -330,4 +378,4 @@ for url in sorted(set(sitemap_urls)):
 sitemap += '</urlset>'
 atomic_write("sitemap.xml", sitemap)
 
-print("🏁 DONE. Files generated directly to home/, match/, channel/, and root.")
+print("🏁 DONE. Files generated directly to home/, match/, channel/, and root with footer & channel styling.")
