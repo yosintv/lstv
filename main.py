@@ -2,7 +2,7 @@ import json, os, re, glob, time
 from datetime import datetime, timedelta, timezone
 
 # --- 1. CONFIGURATION ---
-DOMAIN = "https://yosintv.github.io/psg/"
+DOMAIN = "https://yosintv.github.io/psg"
 # Force UTC to avoid server-time confusion
 LOCAL_OFFSET = timezone(timedelta(hours=0)) 
 NOW = datetime.now(LOCAL_OFFSET)
