@@ -28,45 +28,6 @@ ADS_CODE = '''
 </div>
 '''
 
-# Footer HTML for home/index.html
-FOOTER_HTML = '''
-<footer style="margin-top: 40px; padding: 20px 0; border-top: 1px solid #e2e8f0; text-align: center; color: #64748b; font-size: 14px;">
-    <div style="max-width: 800px; margin: 0 auto; padding: 0 20px;">
-        <p>⚽ Football TV Schedules • Updated automatically every hour</p>
-        <p style="margin-top: 8px; font-size: 12px;">Live match listings may vary by region • Check local listings for confirmation</p>
-    </div>
-</footer>
-'''
-
-# Channel page header CSS + "Upcoming Live Matches on" styling
-CHANNEL_HEADER_CSS = '''
-<style>
-.channel-header {
-    background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
-    color: white;
-    padding: 24px 20px;
-    border-radius: 12px 12px 0 0;
-    margin: -20px -20px 20px -20px;
-    text-align: center;
-    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
-}
-.channel-header h1 {
-    font-size: 28px;
-    font-weight: 700;
-    margin: 0 0 4px 0;
-    text-shadow: 0 2px 4px rgba(0,0,0,0.2);
-}
-.channel-header .subtitle {
-    font-size: 16px;
-    opacity: 0.9;
-    margin: 0;
-}
-@media (max-width: 480px) {
-    .channel-header h1 { font-size: 24px; }
-    .channel-header .subtitle { font-size: 14px; }
-}
-</style>
-'''
 
 # Weekly menu CSS from build.py
 MENU_CSS = '''
@@ -203,20 +164,12 @@ for m in all_matches:
         league = m.get('league', 'Other Football')
         venue_val = m.get('venue') or m.get('stadium') or "To Be Announced"
 
-        # build broadcast rows (countries + channels)
-        rows = ""
-        country_counter = 0
-        for c in m.get('tv_channels', []):
-            country_counter += 1
-            ch_links = [
-                f'<a href="{DOMAIN}/channel/{slugify(ch)}/" '
-                f'style="display: inline-block; background: #f1f5f9; '
-                f'color: #2563eb; padding: 2px 8px; border-radius: 4px; '
-                f'margin: 2px; text-decoration: none; font-weight: 600; '
-                f'border: 1px solid #e2e8f0;">{ch}</a>'
-                for ch in c['channels']
-            ]
-            pills = "".join(ch_links)
+    rows = ""
+    country_counter = 0
+    for c in m.get('tv_channels', []):
+        country_counter += 1
+        channel_links = [f'<a href="{DOMAIN}/channel/{slugify(ch)}/" style="display: inline-block; background: #f1f5f9; color: #2563eb; padding: 2px 8px; border-radius: 4px; margin: 2px; text-decoration: none; font-weight: 600; border: 1px solid #e2e8f0;">{ch}</a>' for ch in c['channels']]
+        pills = "".join(channel_links)
 
             rows += f'''
             <div style="display: flex; align-items: flex-start; padding: 12px; border-bottom: 1px solid #edf2f7; background: #fff;">
