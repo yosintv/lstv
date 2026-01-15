@@ -1,0 +1,109 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live Football TV - 2026-01-14 | CricFootTV</title>
+    <link href='https://www.hls-player.net/fav.png' rel='icon' type='image/x-icon'/>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap');
+        body { font-family: 'Inter', sans-serif; background-color: #f1f5f9; }
+        
+        /* Navigation - Dark Blue Theme */
+        .weekly-nav { background: #002d56; display: flex; overflow-x: auto; scrollbar-width: none; position: sticky; top: 0; z-index: 50; }
+        .weekly-nav::-webkit-scrollbar { display: none; }
+        .date-btn { padding: 12px; text-align: center; color: #ccc; text-decoration: none; border-right: 1px solid #00447c; flex: 1; min-width: 90px; transition: 0.2s; }
+        .date-btn:hover { background: #003a6e; color: #fff; }
+        
+        /* THE CLICKED EFFECT */
+        .date-btn.active { background: #f90 !important; color: #002d56 !important; font-weight: 800; }
+        
+        .league-header { background: #1a202c; color: #fff; padding: 12px 16px; font-weight: 800; font-size: 11px; text-transform: uppercase; border-left: 4px solid #f90; }
+        .match-row { transition: all 0.2s; border-bottom: 1px solid #edf2f7; background: #fff; text-decoration: none; }
+        .match-row:hover { background-color: #f8fafc; transform: translateX(4px); }
+        .time-box { min-width: 75px; border-right: 1px solid #edf2f7; text-align: center; }
+        
+        .search-container { position: sticky; top: 55px; z-index: 40; }
+        .selected-banner { background: #f8fafc; color: #64748b; font-size: 12px; font-weight: 700; text-transform: uppercase; border-top: 1px solid #e2e8f0; }
+    </style>
+</head>
+<body class="bg-slate-100">
+    <header class="bg-[#002d56] py-4 border-b-4 border-[#f90]">
+        <div class="max-w-4xl mx-auto px-4">
+            <a href="https://yosintv.github.io/" class="text-white text-2xl font-black italic tracking-tighter">CRICFOOT<span class="text-[#f90]">TV</span></a>
+        </div>
+    </header>
+
+    <nav class="weekly-nav shadow-lg">
+        <div class="max-w-4xl mx-auto flex w-full">
+            <a href="https://yosintv.github.io/2026-01-14.html">Jan 14</a> | <a href="https://yosintv.github.io/index.html">Jan 15</a> | <a href="https://yosintv.github.io/2026-01-16.html">Jan 16</a> | <a href="https://yosintv.github.io/2026-01-17.html">Jan 17</a> | <a href="https://yosintv.github.io/2026-01-18.html">Jan 18</a> | <a href="https://yosintv.github.io/2026-01-19.html">Jan 19</a> | <a href="https://yosintv.github.io/2026-01-20.html">Jan 20</a>
+        </div>
+    </nav>
+
+    <div class="search-container bg-white shadow-sm">
+        <div class="max-w-4xl mx-auto p-4">
+            <input type="text" id="matchSearch" placeholder="Search team or league..." class="w-full p-3 bg-slate-50 border border-slate-200 rounded-lg outline-none focus:ring-2 focus:ring-blue-500 transition-all">
+        </div>
+        <div class="selected-banner py-2 px-8">
+            <div class="max-w-4xl mx-auto flex items-center">
+                <span class="w-2 h-2 bg-orange-500 rounded-full mr-2"></span>
+                Matches for: <span class="text-slate-900 ml-1">{{SELECTED_DATE}}</span>
+            </div>
+        </div>
+    </div>
+
+    <main class="max-w-4xl mx-auto p-4 py-8">
+        <div class="bg-white shadow-2xl rounded-lg overflow-hidden border border-slate-200">
+            <ul><li><b>10:00</b> <a href="https://yosintv.github.io/match/alia-a-fk-vs-samsunspor/20260114/">Aliağa FK vs Samsunspor</a></li><li><b>11:00</b> <a href="https://yosintv.github.io/match/portimonense-u23-vs-mar-timo-u23/20260114/">Portimonense U23 vs Marítimo U23</a></li><li><b>11:00</b> <a href="https://yosintv.github.io/match/rio-ave-u23-vs-sc-farense-u23/20260114/">Rio Ave U23 vs SC Farense U23</a></li><li><b>11:00</b> <a href="https://yosintv.github.io/match/zag-bie-sosnowiec-vs-wieczysta-krak-w/20260114/">Zagłębie Sosnowiec vs Wieczysta Kraków</a></li><li><b>11:30</b> <a href="https://yosintv.github.io/match/iraq-u23-vs-australia-u23/20260114/">Iraq U23 vs Australia U23</a></li><li><b>11:30</b> <a href="https://yosintv.github.io/match/thailand-u23-vs-china-u23/20260114/">Thailand U23 vs China U23</a></li><li><b>12:00</b> <a href="https://yosintv.github.io/match/mfk-skalica-vs-fc-zl-n/20260114/">MFK Skalica vs FC Zlín</a></li><li><b>12:00</b> <a href="https://yosintv.github.io/match/fc-schalke-04-ii-u23-vs-roda-jc-kerkrade/20260114/">FC Schalke 04 II U23 vs Roda JC Kerkrade</a></li><li><b>12:15</b> <a href="https://yosintv.github.io/match/johor-darul-ta-zim-vs-kuching-city/20260114/">Johor Darul Ta'zim vs Kuching City</a></li><li><b>12:15</b> <a href="https://yosintv.github.io/match/kuala-lumpur-city-fc-vs-penang/20260114/">Kuala Lumpur City FC vs Penang</a></li><li><b>12:30</b> <a href="https://yosintv.github.io/match/antalyaspor-vs-gen-lerbirli-i/20260114/">Antalyaspor vs Gençlerbirliği</a></li><li><b>12:30</b> <a href="https://yosintv.github.io/match/nk-istra-1961-vs-kalcer-radomlje/20260114/">NK Istra 1961 vs Kalcer Radomlje</a></li><li><b>13:00</b> <a href="https://yosintv.github.io/match/apo-levadiakos-vs-ae-kifisia/20260114/">APO Levadiakos vs AE Kifisia</a></li><li><b>13:00</b> <a href="https://yosintv.github.io/match/melaka-fc-vs-pdrm-fc/20260114/">Melaka FC vs PDRM FC</a></li><li><b>13:00</b> <a href="https://yosintv.github.io/match/selangor-football-club-vs-negeri-sembilan/20260114/">Selangor Football Club vs Negeri Sembilan</a></li><li><b>13:00</b> <a href="https://yosintv.github.io/match/ludogorets-vs-rak-w-cz-stochowa/20260114/">Ludogorets vs Raków Częstochowa</a></li><li><b>13:30</b> <a href="https://yosintv.github.io/match/renate-vs-latina/20260114/">Renate vs Latina</a></li><li><b>14:00</b> <a href="https://yosintv.github.io/match/sk-sturm-graz-vs-fc-k-benhavn/20260114/">SK Sturm Graz vs FC København</a></li><li><b>14:45</b> <a href="https://yosintv.github.io/match/al-qadsiah-vs-al-fayha/20260114/">Al-Qadsiah vs Al-Fayha</a></li><li><b>15:00</b> <a href="https://yosintv.github.io/match/sporting-cp-vs-avs-futebol-sad/20260114/">Sporting CP vs AVS - Futebol SAD</a></li><li><b>15:00</b> <a href="https://yosintv.github.io/match/i-stanbulspor-vs-trabzonspor/20260114/">İstanbulspor vs Trabzonspor</a></li><li><b>15:00</b> <a href="https://yosintv.github.io/match/aek-athens-vs-ofi-crete/20260114/">AEK Athens vs OFI Crete</a></li><li><b>15:00</b> <a href="https://yosintv.github.io/match/sc-covilh-vs-acad-mica-coimbra/20260114/">SC Covilhã vs Académica Coimbra</a></li><li><b>15:00</b> <a href="https://yosintv.github.io/match/ud-leiria-u23-vs-estrela-amadora-u23/20260114/">UD Leiria U23 vs Estrela Amadora U23</a></li><li><b>15:00</b> <a href="https://yosintv.github.io/match/vizela-u23-vs-gil-vicente-u23/20260114/">Vizela U23 vs Gil Vicente U23</a></li><li><b>15:45</b> <a href="https://yosintv.github.io/match/al-sharjah-vs-al-bataeh/20260114/">Al-Sharjah vs Al Bataeh</a></li><li><b>16:00</b> <a href="https://yosintv.github.io/match/a-ali-vs-al-khaldiya/20260114/">A'ali vs Al Khaldiya</a></li><li><b>16:00</b> <a href="https://yosintv.github.io/match/malkiya-vs-hidd/20260114/">Malkiya vs Hidd</a></li><li><b>16:30</b> <a href="https://yosintv.github.io/match/olympiacos-fc-vs-paok/20260114/">Olympiacos FC vs PAOK</a></li><li><b>17:00</b> <a href="https://yosintv.github.io/match/senegal-vs-egypt/20260114/">Senegal vs Egypt</a></li><li><b>17:00</b> <a href="https://yosintv.github.io/match/ternana-vs-potenza-calcio/20260114/">Ternana vs Potenza Calcio</a></li><li><b>17:30</b> <a href="https://yosintv.github.io/match/napoli-vs-parma/20260114/">Napoli vs Parma</a></li><li><b>17:30</b> <a href="https://yosintv.github.io/match/vfl-wolfsburg-vs-fc-st-pauli/20260114/">VfL Wolfsburg vs FC St. Pauli</a></li><li><b>17:30</b> <a href="https://yosintv.github.io/match/beyo-lu-yeni-ar-fa-vs-fenerbah-e/20260114/">Beyoğlu Yeni Çarşı FAŞ vs Fenerbahçe</a></li><li><b>17:30</b> <a href="https://yosintv.github.io/match/al-ahli-vs-al-taawoun/20260114/">Al-Ahli vs Al-Taawoun</a></li><li><b>17:30</b> <a href="https://yosintv.github.io/match/al-shabab-vs-neom-sc/20260114/">Al-Shabab vs Neom SC</a></li><li><b>17:45</b> <a href="https://yosintv.github.io/match/fc-den-bosch-vs-psv-eindhoven/20260114/">FC Den Bosch vs PSV Eindhoven</a></li><li><b>18:00</b> <a href="https://yosintv.github.io/match/dijon-fco-vs-paris-saint-germain/20260114/">Dijon FCO vs Paris Saint-Germain</a></li><li><b>18:00</b> <a href="https://yosintv.github.io/match/le-havre-ac-vs-fc-fleury-91/20260114/">Le Havre AC vs FC Fleury 91</a></li><li><b>18:00</b> <a href="https://yosintv.github.io/match/ol-lyonnes-vs-rc-lens/20260114/">OL Lyonnes vs RC Lens</a></li><li><b>18:00</b> <a href="https://yosintv.github.io/match/olympique-de-marseille-vs-saint-tienne/20260114/">Olympique de Marseille vs Saint-Étienne</a></li><li><b>18:00</b> <a href="https://yosintv.github.io/match/strasbourg-vs-montpellier-hsc/20260114/">Strasbourg vs Montpellier HSC</a></li><li><b>18:00</b> <a href="https://yosintv.github.io/match/f-tbol-club-barcelona-vs-club-atl-tico-de-madrid/20260114/">Fútbol Club Barcelona vs Club Atlético de Madrid</a></li><li><b>18:00</b> <a href="https://yosintv.github.io/match/ec-democrata-vs-am-rica-mineiro/20260114/">EC Democrata vs América Mineiro</a></li><li><b>18:30</b> <a href="https://yosintv.github.io/match/panathinaikos-vs-aris-thessaloniki/20260114/">Panathinaikos vs Aris Thessaloniki</a></li><li><b>18:45</b> <a href="https://yosintv.github.io/match/ad-fafe-vs-sporting-braga/20260114/">AD Fafe vs Sporting Braga</a></li><li><b>19:00</b> <a href="https://yosintv.github.io/match/almere-city-fc-vs-sc-telstar/20260114/">Almere City FC vs SC Telstar</a></li><li><b>19:00</b> <a href="https://yosintv.github.io/match/go-ahead-eagles-vs-heracles-almelo/20260114/">Go Ahead Eagles vs Heracles Almelo</a></li><li><b>19:00</b> <a href="https://yosintv.github.io/match/northampton-town-vs-walsall/20260114/">Northampton Town vs Walsall</a></li><li><b>19:30</b> <a href="https://yosintv.github.io/match/1-fc-k-ln-vs-fc-bayern-m-nchen/20260114/">1. FC Köln vs FC Bayern München</a></li><li><b>19:30</b> <a href="https://yosintv.github.io/match/rb-leipzig-vs-sc-freiburg/20260114/">RB Leipzig vs SC Freiburg</a></li><li><b>19:30</b> <a href="https://yosintv.github.io/match/tsg-hoffenheim-vs-borussia-m-gladbach/20260114/">TSG Hoffenheim vs Borussia M'gladbach</a></li><li><b>19:30</b> <a href="https://yosintv.github.io/match/fc-sion-vs-fc-winterthur/20260114/">FC Sion vs FC Winterthur</a></li><li><b>19:30</b> <a href="https://yosintv.github.io/match/servette-fc-vs-fc-lausanne-sport/20260114/">Servette FC vs FC Lausanne-Sport</a></li><li><b>19:30</b> <a href="https://yosintv.github.io/match/fcv-dender-vs-royale-union-saint-gilloise/20260114/">FCV Dender vs Royale Union Saint-Gilloise</a></li><li><b>19:45</b> <a href="https://yosintv.github.io/match/inter-vs-lecce/20260114/">Inter vs Lecce</a></li><li><b>19:45</b> <a href="https://yosintv.github.io/match/falkirk-fc-vs-celtic/20260114/">Falkirk FC vs Celtic</a></li><li><b>19:45</b> <a href="https://yosintv.github.io/match/heart-of-midlothian-vs-st-mirren/20260114/">Heart of Midlothian vs St. Mirren</a></li><li><b>20:00</b> <a href="https://yosintv.github.io/match/nigeria-vs-morocco/20260114/">Nigeria vs Morocco</a></li><li><b>20:00</b> <a href="https://yosintv.github.io/match/albacete-balompi-vs-real-madrid/20260114/">Albacete Balompié vs Real Madrid</a></li><li><b>20:00</b> <a href="https://yosintv.github.io/match/deportivo-alav-s-vs-rayo-vallecano/20260114/">Deportivo Alavés vs Rayo Vallecano</a></li><li><b>20:00</b> <a href="https://yosintv.github.io/match/real-betis-vs-elche/20260114/">Real Betis vs Elche</a></li><li><b>20:00</b> <a href="https://yosintv.github.io/match/chelsea-vs-arsenal/20260114/">Chelsea vs Arsenal</a></li><li><b>20:00</b> <a href="https://yosintv.github.io/match/az-alkmaar-vs-afc-ajax/20260114/">AZ Alkmaar vs AFC Ajax</a></li><li><b>20:00</b> <a href="https://yosintv.github.io/match/paris-fc-vs-nantes/20260114/">Paris FC vs Nantes</a></li><li><b>20:00</b> <a href="https://yosintv.github.io/match/volta-redonda-futebol-clube-vs-boavista/20260114/">Volta Redonda Futebol Clube vs Boavista</a></li><li><b>20:00</b> <a href="https://yosintv.github.io/match/decis-o-goiana-vs-clube-n-utico-capibaribe/20260114/">Decisão Goiana vs Clube Náutico Capibaribe</a></li><li><b>20:00</b> <a href="https://yosintv.github.io/match/deportes-concepci-n-vs-coquimbo-unido/20260114/">Deportes Concepción vs Coquimbo Unido</a></li><li><b>20:45</b> <a href="https://yosintv.github.io/match/fc-porto-vs-benfica/20260114/">FC Porto vs Benfica</a></li><li><b>21:15</b> <a href="https://yosintv.github.io/match/club-atl-tico-uni-n-de-santa-fe-vs-alianza-lima/20260114/">Club Atlético Unión de Santa Fe vs Alianza Lima</a></li><li><b>21:30</b> <a href="https://yosintv.github.io/match/betim-futebol-vs-uberl-ndia-ec/20260114/">Betim Futebol vs Uberlândia EC</a></li><li><b>22:00</b> <a href="https://yosintv.github.io/match/ec-primavera-vs-mirassol/20260114/">EC Primavera vs Mirassol</a></li><li><b>22:00</b> <a href="https://yosintv.github.io/match/fluminense-vs-madureira/20260114/">Fluminense vs Madureira</a></li><li><b>22:00</b> <a href="https://yosintv.github.io/match/inter-de-santa-maria-vs-s-o-luiz/20260114/">Inter de Santa Maria vs São Luiz</a></li><li><b>22:00</b> <a href="https://yosintv.github.io/match/novo-hamburgo-vs-juventude/20260114/">Novo Hamburgo vs Juventude</a></li><li><b>22:00</b> <a href="https://yosintv.github.io/match/athletic-club-vs-uni-o-recreativa-dos-trabalhadores/20260114/">Athletic Club vs União Recreativa dos Trabalhadores</a></li><li><b>22:00</b> <a href="https://yosintv.github.io/match/boca-juniors-vs-millonarios/20260114/">Boca Juniors vs Millonarios</a></li><li><b>22:30</b> <a href="https://yosintv.github.io/match/palmeiras-vs-santos/20260114/">Palmeiras vs Santos</a></li><li><b>22:30</b> <a href="https://yosintv.github.io/match/north-esporte-clube-vs-atl-tico-mineiro/20260114/">North Esporte Clube vs Atlético Mineiro</a></li><li><b>23:00</b> <a href="https://yosintv.github.io/match/cruz-azul-vs-atlas-fc/20260114/">Cruz Azul vs Atlas FC</a></li><li><b>23:30</b> <a href="https://yosintv.github.io/match/maguary-vs-santa-cruz/20260114/">Maguary vs Santa Cruz</a></li></ul>
+        </div>
+    </main>
+
+    <script>
+function autoDetectTimezone() {
+    // Update the Time (HH:MM)
+    document.querySelectorAll('.auto-time').forEach(el => {
+        const unix = el.getAttribute('data-unix');
+        if (unix) {
+            const date = new Date(unix * 1000);
+            el.innerText = date.toLocaleTimeString([], { 
+                hour: '2-digit', 
+                minute: '2-digit', 
+                hour12: false 
+            });
+        }
+    });
+
+    // Update the Date (e.g., 12 Jan)
+    document.querySelectorAll('.auto-date').forEach(el => {
+        const unix = el.getAttribute('data-unix');
+        if (unix) {
+            const date = new Date(unix * 1000);
+            el.innerText = date.toLocaleDateString([], { 
+                day: 'numeric', 
+                month: 'short' 
+            });
+        }
+    });
+}
+// Run once on load
+autoDetectTimezone();
+
+        document.getElementById('matchSearch').addEventListener('input', function(e) {
+            let term = e.target.value.toLowerCase();
+            document.querySelectorAll('.match-row').forEach(row => {
+                row.style.display = row.textContent.toLowerCase().includes(term) ? 'flex' : 'none';
+            });
+            document.querySelectorAll('.league-header').forEach(header => {
+                let next = header.nextElementSibling;
+                let visible = false;
+                while(next && next.classList.contains('match-row')) {
+                    if(next.style.display !== 'none') { visible = true; break; }
+                    next = next.nextElementSibling;
+                }
+                header.style.display = visible ? 'block' : 'none';
+            });
+        });
+    </script>
+</body>
+</html>
