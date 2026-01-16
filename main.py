@@ -165,7 +165,8 @@ for m in all_matches:
             <div style="display: flex; align-items: flex-start; padding: 12px; border-bottom: 1px solid #edf2f7; background: #fff;">
             <div style="flex: 0 0 100px; font-weight: 800; color: #475569; font-size: 13px; padding-top: 4px;">{c["country"]}</div>
             <div style="flex: 1; display: flex; flex-wrap: wrap; gap: 4px;">{" ".join(ch_links)}</div>
-            </div>'''
+            <div style="flex: 1; display: flex; flex-wrap: wrap; gap: 4px;">{pills}</div>
+</div>'''
             
             if country_counter % 10 == 0: rows += ADS_CODE
 
