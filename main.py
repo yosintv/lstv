@@ -14,7 +14,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 NOW = datetime.now(LOCAL_OFFSET)
 TODAY_DATE = NOW.date()
 
-# Weekly menu center logic: today is the 4th item
+# Weekly menu center logic: today is the 4th item (3 days back, 3 days forward)
 MENU_START_DATE = TODAY_DATE - timedelta(days=3)
 MENU_END_DATE = TODAY_DATE + timedelta(days=3)
 
@@ -24,11 +24,10 @@ TOP_LEAGUE_IDS = [17, 35, 23, 7, 8, 34, 679]
 # Google Ads placeholder block
 ADS_CODE = '''
 <div class="ad-container" style="margin: 20px 0; text-align: center;">
- 
-</div>
+    </div>
 '''
 
-# Home template CSS for weekly menu (matches home_template styling)
+# Home template CSS for weekly menu
 MENU_CSS = '''
 <style>
     .weekly-menu-container {
@@ -82,10 +81,28 @@ def atomic_write(relative_path, content):
         with os.fdopen(fd, 'w', encoding='utf-8') as f:
             f.write(content)
         os.replace(tmp_path, full_path)
-    except:
+    except Exception:
         if os.path.exists(tmp_path):
             os.unlink(tmp_path)
         raise
+
+def build_weekly_menu(current_page_date):
+    """Generates menu HTML with dynamic 'active' state for the page being viewed."""
+    html = MENU_CSS + '<div class="weekly-menu-container">'
+    for i in range(7):
+        d = MENU_START_DATE + timedelta(days=i)
+        d_str = d.strftime('%Y-%m-%d')
+        # Link logic: Today points to root, others point to home/ folder
+        link = f"{DOMAIN}/" if d == TODAY_DATE else f"{DOMAIN}/home/{d_str}.html"
+        active = "active" if d == current_page_date else ""
+        
+        html += f'''
+        <a href="{link}" class="date-btn {active}">
+            <div>{d.strftime("%a")}</div>
+            <b>{d.strftime("%b %d")}</b>
+        </a>'''
+    html += '</div>'
+    return html
 
 # Clean existing folders
 for folder in ['home', 'match', 'channel']:
@@ -113,8 +130,7 @@ for f in json_files:
     with open(f, 'r', encoding='utf-8') as j:
         try:
             data = json.load(j)
-            if isinstance(data, dict):
-                data = [data]
+            if isinstance(data, dict): data = [data]
             for m in data:
                 mid = m.get('match_id')
                 if mid and mid not in seen_match_ids:
@@ -127,157 +143,114 @@ print(f"⚽ Matches loaded: {len(all_matches)}")
 channels_data = {}
 sitemap_urls = [DOMAIN + "/"]
 
-# --- 5. WEEKLY MENU FOR HOME PAGES ---
-def build_weekly_menu():
-    html = MENU_CSS + '<div class="weekly-menu-container">'
-    for i in range(7):
-        d = MENU_START_DATE + timedelta(days=i)
-        d_str = d.strftime('%Y-%m-%d')
-        active = "active" if d == TODAY_DATE else ""
-        html += f'<a href="/home/{d_str}.html" class="date-btn {active}">{d.strftime("%a %b %d")}</a>'
-    html += '</div>'
-    return html
+# --- 5. PAGE GENERATION ---
 
-WEEKLY_MENU_HTML = build_weekly_menu()
-
-# --- 6. PAGE GENERATION ---
-
-# 6a. MATCH PAGES → match/slug-YYYYMMDD.html (FLAT)
+# 5a. MATCH PAGES → match/slug-YYYYMMDD.html
 for m in all_matches:
     try:
         m_dt = datetime.fromtimestamp(int(m['kickoff']), tz=timezone.utc).astimezone(LOCAL_OFFSET)
         m_slug = slugify(m['fixture'])
-        m_date_folder = m_dt.strftime('%Y%m%d')
-        
-        # FLAT STRUCTURE: match/slug-YYYYMMDD.html
-        match_filename = f"{m_slug}-{m_date_folder}.html"
+        m_date_str = m_dt.strftime('%Y%m%d')
+        match_filename = f"{m_slug}-{m_date_str}.html"
 
-        league = m.get('league', 'Other Football')
-        venue_val = m.get('venue') or m.get('stadium') or "To Be Announced"
-
-        # Build BROADCAST_ROWS exactly as template expects
         rows = ""
         country_counter = 0
         for c in m.get('tv_channels', []):
             country_counter += 1
-            ch_links = [f'<a href="{DOMAIN}/channel/{slugify(ch)}.html" style="display: inline-block; background: #f1f5f9; color: #2563eb; padding: 2px 8px; border-radius: 4px; margin: 2px; text-decoration: none; font-weight: 600; border: 1px solid #e2e8f0;">{ch}</a>' for ch in c['channels']]
-           
+            ch_links = [f'<a href="{DOMAIN}/channel/{slugify(ch)}.html" class="channel-link">{ch}</a>' for ch in c['channels']]
             rows += f'''
             <div class="broadcast-row">
-                <div style="font-weight: 800; color: #475569; font-size: 13px; min-width: 100px;">{c["country"]}</div>
-                <div style="display: flex; flex-wrap: wrap; gap: 4px;">{" ".join(ch_links)}</div>
+                <div class="country-name">{c["country"]}</div>
+                <div class="channel-list">{" ".join(ch_links)}</div>
             </div>'''
-            if country_counter % 10 == 0:
-                rows += ADS_CODE
+            if country_counter % 10 == 0: rows += ADS_CODE
 
-        # ALL match_template.html placeholders
-        m_html = templates['match']
-        m_html = m_html.replace("{{FIXTURE}}", m['fixture'])
-        m_html = m_html.replace("{{LEAGUE}}", league)
-        m_html = m_html.replace("{{DOMAIN}}", DOMAIN)
-        m_html = m_html.replace("{{BROADCAST_ROWS}}", rows)
-        m_html = m_html.replace("{{LOCAL_DATE}}", f'<span class="auto-date" data-unix="{m["kickoff"]}">{m_dt.strftime("%d %b %Y")}</span>')
-        m_html = m_html.replace("{{LOCAL_TIME}}", f'<span class="auto-time" data-unix="{m["kickoff"]}">{m_dt.strftime("%H:%M")}</span>')
-        m_html = m_html.replace("{{DATE}}", m_dt.strftime("%Y-%m-%d"))
-        m_html = m_html.replace("{{TIME}}", m_dt.strftime("%H:%M"))
-        m_html = m_html.replace("{{UNIX}}", str(m['kickoff']))
-        m_html = m_html.replace("{{VENUE}}", venue_val)
+        m_html = templates['match'].replace("{{FIXTURE}}", m['fixture']) \
+                                   .replace("{{LEAGUE}}", m.get('league', 'Other Football')) \
+                                   .replace("{{DOMAIN}}", DOMAIN) \
+                                   .replace("{{BROADCAST_ROWS}}", rows) \
+                                   .replace("{{LOCAL_DATE}}", f'<span class="auto-date" data-unix="{m["kickoff"]}">{m_dt.strftime("%d %b %Y")}</span>') \
+                                   .replace("{{LOCAL_TIME}}", f'<span class="auto-time" data-unix="{m["kickoff"]}">{m_dt.strftime("%H:%M")}</span>') \
+                                   .replace("{{DATE}}", m_dt.strftime("%Y-%m-%d")) \
+                                   .replace("{{TIME}}", m_dt.strftime("%H:%M")) \
+                                   .replace("{{UNIX}}", str(m['kickoff'])) \
+                                   .replace("{{VENUE}}", m.get('venue') or m.get('stadium') or "To Be Announced")
 
         atomic_write(f"match/{match_filename}", m_html)
         sitemap_urls.append(f"{DOMAIN}/match/{match_filename}")
 
-        # Channel data collection WITH DEDUPLICATION
+        # Channel data collection
         for c in m.get('tv_channels', []):
             for ch in c['channels']:
-                if ch not in channels_data:
-                    channels_data[ch] = {}
-                mid = m.get('match_id')
-                if mid and mid not in channels_data[ch]:
-                    channels_data[ch][mid] = m
+                if ch not in channels_data: channels_data[ch] = {}
+                channels_data[ch][m['match_id']] = m
     except Exception:
         continue
 
-# 6b. HOME PAGES → home/YYYY-MM-DD.html (KEEP SAME)
-ALL_DATES = sorted({
-    datetime.fromtimestamp(int(m['kickoff']), tz=timezone.utc).astimezone(LOCAL_OFFSET).date()
-    for m in all_matches
-})
+# 5b. HOME PAGES → home/YYYY-MM-DD.html & index.html
+# We loop through the full 7-day range to ensure pages exist even if no matches found
+TARGET_DATES = [MENU_START_DATE + timedelta(days=i) for i in range(7)]
 
-for day in ALL_DATES:
+for day in TARGET_DATES:
     day_str = day.strftime('%Y-%m-%d')
-    current_path = f"/home/{day_str}.html" if day != TODAY_DATE else "/"
+    current_path = "/" if day == TODAY_DATE else f"/home/{day_str}.html"
 
-    # Filter matches for this day
     day_matches = [m for m in all_matches if 
         datetime.fromtimestamp(int(m['kickoff']), tz=timezone.utc).astimezone(LOCAL_OFFSET).date() == day]
     
-    day_matches.sort(key=lambda x: (
-        x.get('league_id') not in TOP_LEAGUE_IDS,
-        x.get('league', 'Other Football'),
-        x['kickoff']
-    ))
+    day_matches.sort(key=lambda x: (x.get('league_id') not in TOP_LEAGUE_IDS, x.get('league', 'Other Football'), x['kickoff']))
 
-    # Build MATCH_LISTING with league headers
     listing_html = ""
-    last_league = ""
-    league_counter = 0
-    
-    for m in day_matches:
-        league = m.get('league', 'Other Football')
-        if league != last_league:
-            if last_league != "":
-                league_counter += 1
-                if league_counter % 3 == 0:
-                    listing_html += ADS_CODE
-            listing_html += f'<div class="league-header">{league}</div>'
-            last_league = league
+    if not day_matches:
+        listing_html = '<div style="text-align:center; padding:40px; color:#64748b;">No matches scheduled for this date.</div>'
+    else:
+        last_league = ""
+        league_counter = 0
+        for m in day_matches:
+            league = m.get('league', 'Other Football')
+            if league != last_league:
+                if last_league != "":
+                    league_counter += 1
+                    if league_counter % 3 == 0: listing_html += ADS_CODE
+                listing_html += f'<div class="league-header">{league}</div>'
+                last_league = league
 
-        dt_m = datetime.fromtimestamp(int(m['kickoff']), tz=timezone.utc).astimezone(LOCAL_OFFSET)
-        match_filename = f"{slugify(m['fixture'])}-{dt_m.strftime('%Y%m%d')}.html"
-        m_url = f"{DOMAIN}/match/{match_filename}"
-        
-        listing_html += f'''
-        <a href="{m_url}" class="match-row flex items-center p-4 hover:bg-slate-50 transition-all">
-            <div class="time-box">
-                <div class="text-[10px] uppercase text-slate-400 font-bold auto-date" data-unix="{m['kickoff']}">{dt_m.strftime('%d %b')}</div>
-                <div class="font-bold text-blue-600 text-sm auto-time" data-unix="{m['kickoff']}">{dt_m.strftime('%H:%M')}</div>
-            </div>
-            <div class="flex-1 ml-4">
-                <span class="text-slate-800 font-semibold">{m['fixture']}</span>
-            </div>
-        </a>'''
-
-    if listing_html:
+            dt_m = datetime.fromtimestamp(int(m['kickoff']), tz=timezone.utc).astimezone(LOCAL_OFFSET)
+            m_url = f"{DOMAIN}/match/{slugify(m['fixture'])}-{dt_m.strftime('%Y%m%d')}.html"
+            listing_html += f'''
+            <a href="{m_url}" class="match-row flex items-center p-4 hover:bg-slate-50 transition-all">
+                <div class="time-box">
+                    <div class="text-[10px] uppercase text-slate-400 font-bold auto-date" data-unix="{m['kickoff']}">{dt_m.strftime('%d %b')}</div>
+                    <div class="font-bold text-blue-600 text-sm auto-time" data-unix="{m['kickoff']}">{dt_m.strftime('%H:%M')}</div>
+                </div>
+                <div class="flex-1 ml-4">
+                    <span class="text-slate-800 font-semibold">{m['fixture']}</span>
+                </div>
+            </a>'''
         listing_html += ADS_CODE
 
-    # ALL home_template.html placeholders
-    h_output = templates['home']
-    h_output = h_output.replace("{{MATCH_LISTING}}", listing_html)
-    h_output = h_output.replace("{{WEEKLY_MENU}}", WEEKLY_MENU_HTML)
-    h_output = h_output.replace("{{DOMAIN}}", DOMAIN)
-    h_output = h_output.replace("{{SELECTED_DATE}}", day.strftime("%A, %b %d, %Y"))
-    h_output = h_output.replace("{{PAGE_TITLE}}", f"TV Channels For {day.strftime('%A, %b %d, %Y')}")
-    h_output = h_output.replace("{{CURRENT_PATH}}", current_path)
+    h_output = templates['home'].replace("{{MATCH_LISTING}}", listing_html) \
+                                .replace("{{WEEKLY_MENU}}", build_weekly_menu(day)) \
+                                .replace("{{DOMAIN}}", DOMAIN) \
+                                .replace("{{SELECTED_DATE}}", day.strftime("%A, %b %d, %Y")) \
+                                .replace("{{PAGE_TITLE}}", f"TV Channels For {day.strftime('%A, %b %d, %Y')}") \
+                                .replace("{{CURRENT_PATH}}", current_path)
 
     atomic_write(f"home/{day_str}.html", h_output)
     sitemap_urls.append(f"{DOMAIN}/home/{day_str}.html")
     if day == TODAY_DATE:
         atomic_write("index.html", h_output)
+        print(f"✅ Updated index.html for {day_str}")
 
-# 6c. CHANNEL PAGES → channel/channel-name.html (FLAT)
+# 5c. CHANNEL PAGES
 for ch_name, match_dict in channels_data.items():
     c_slug = slugify(ch_name)
+    unique_matches = sorted(list(match_dict.values()), key=lambda x: x['kickoff'])
     
-    # Convert dict values back to list (already deduplicated)
-    unique_matches = list(match_dict.values())
-    print(f"📺 Channel '{ch_name}': {len(unique_matches)} unique matches")
-    
-    # Build match listing for this channel
     c_listing = ""
-    for m in sorted(unique_matches, key=lambda x: x['kickoff']):
+    for m in unique_matches:
         dt_m = datetime.fromtimestamp(int(m['kickoff']), tz=timezone.utc).astimezone(LOCAL_OFFSET)
-        match_filename = f"{slugify(m['fixture'])}-{dt_m.strftime('%Y%m%d')}.html"
-        m_url = f"{DOMAIN}/match/{match_filename}"
+        m_url = f"{DOMAIN}/match/{slugify(m['fixture'])}-{dt_m.strftime('%Y%m%d')}.html"
         c_listing += f'''
         <div class="match-row">
             <div class="time-box">
@@ -289,21 +262,18 @@ for ch_name, match_dict in channels_data.items():
             </div>
         </div>'''
 
-    # ONLY channel_template.html placeholders
-    c_html = templates['channel']
-    c_html = c_html.replace("{{CHANNEL_NAME}}", ch_name)
-    c_html = c_html.replace("{{MATCH_LISTING}}", c_listing)
-    c_html = c_html.replace("{{DOMAIN}}", DOMAIN)
+    c_html = templates['channel'].replace("{{CHANNEL_NAME}}", ch_name) \
+                                 .replace("{{MATCH_LISTING}}", c_listing) \
+                                 .replace("{{DOMAIN}}", DOMAIN)
 
-    # FLAT STRUCTURE: channel/a-sport.html
     atomic_write(f"channel/{c_slug}.html", c_html)
     sitemap_urls.append(f"{DOMAIN}/channel/{c_slug}.html")
 
-# 6d. SITEMAP
+# 5d. SITEMAP
 sitemap = '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
 for url in sorted(list(set(sitemap_urls))):
     sitemap += f'<url><loc>{url}</loc><lastmod>{NOW.strftime("%Y-%m-%d")}</lastmod></url>'
 sitemap += '</urlset>'
 atomic_write("sitemap.xml", sitemap)
 
-print("🏁 PERFECT! FLAT STRUCTURE: channel/a-sport.html + match/slug-YYYYMMDD.html")
+print("🏁 Perfect! Website generated with flat structure and updated home dates.")
