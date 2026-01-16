@@ -183,23 +183,31 @@
             
 <style>
     .weekly-menu-container {
-        display: flex; width: 100%; gap: 4px; padding: 10px 5px;
-        box-sizing: border-box; justify-content: space-between;
+        display: flex;
+        width: 100%;
+        gap: 4px;
+        padding: 10px 5px;
+        box-sizing: border-box;
+        justify-content: space-between;
     }
     .date-btn {
-        flex: 1; display: flex; flex-direction: column; align-items: center;
-        justify-content: center; padding: 8px 2px; text-decoration: none;
-        border-radius: 6px; background: #fff; border: 1px solid #e2e8f0;
-        min-width: 0; transition: all 0.2s; color: inherit;
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 8px 2px;
+        text-decoration: none;
+        border-radius: 6px;
+        background: #fff;
+        border: 1px solid #e2e8f0;
+        min-width: 0; 
+        transition: all 0.2s;
     }
     .date-btn div { font-size: 9px; text-transform: uppercase; color: #64748b; font-weight: bold; }
     .date-btn b { font-size: 10px; color: #1e293b; white-space: nowrap; }
-    
-    /* STRONGER active state - overrides template CSS */
-    .date-btn.active, .date-btn.active:link, .date-btn.active:visited, .date-btn.active:hover {
-        background: #2563eb !important; border-color: #2563eb !important;
-    }
-    .date-btn.active div, .date-btn.active b { color: #fff !important; }
+    .date-btn.active { background: #2563eb; border-color: #2563eb; }
+    .date-btn.active div, .date-btn.active b { color: #fff; }
     
     @media (max-width: 480px) {
         .date-btn b { font-size: 8px; }
@@ -320,30 +328,6 @@
         });
     });
     </script>
-
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    var currentPath = window.location.pathname;
-    var currentPage = currentPath.split('/').pop() || 'index.html';
-    
-    if (currentPath === '/' || currentPath === '' || currentPath === '/index.html') {
-        currentPage = 'index.html';
-    }
-    
-    var dateButtons = document.querySelectorAll('.date-btn');
-    
-    dateButtons.forEach(function(btn) {
-        var btnHref = btn.getAttribute('href');
-        var btnPage = btnHref.split('/').pop();
-        
-        btn.classList.remove('active');
-        
-        if (btnPage === currentPage) {
-            btn.classList.add('active');
-        }
-    });
-});
-</script>
     
 </body>
 </html>
