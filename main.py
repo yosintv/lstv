@@ -1,5 +1,5 @@
 import json, os, re, glob, time, shutil, tempfile 
-from datetime import datetime, timedelta, timezone 
+from datetime import datetime, timedelta, timezone
 
 # --- 1. CONFIGURATION ---
 DOMAIN = "https://tv.singhyogendra.com.np"
@@ -111,11 +111,7 @@ def build_weekly_menu(current_page_date):
     html += '</div>'
     return html
 
-# Clean folders to avoid stale files
-for folder in ['home', 'match', 'channel']:
-    folder_path = os.path.join(BASE_DIR, folder)
-    if os.path.exists(folder_path):
-        shutil.rmtree(folder_path)
+# 🚫 NO DELETION - Directories preserved!
 
 # --- 3. LOAD TEMPLATES ---
 templates = {}
