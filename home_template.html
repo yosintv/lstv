@@ -265,30 +265,6 @@
         });
     });
     </script>
-
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    var currentPath = window.location.pathname;
-    var currentPage = currentPath.split('/').pop() || 'index.html';
-    
-    if (currentPath === '/' || currentPath === '' || currentPath === '/index.html') {
-        currentPage = 'index.html';
-    }
-    
-    var dateButtons = document.querySelectorAll('.date-btn');
-    
-    dateButtons.forEach(function(btn) {
-        var btnHref = btn.getAttribute('href');
-        var btnPage = btnHref.split('/').pop();
-        
-        btn.classList.remove('active');
-        
-        if (btnPage === currentPage) {
-            btn.classList.add('active');
-        }
-    });
-});
-</script>
     
 </body>
 </html>
