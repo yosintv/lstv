@@ -31,9 +31,6 @@ jobs:
       - name: Install Libraries
         run: pip install curl_cffi pycountry
 
-      - name: Run Scraper
-        run: python future_scraper.py
-
       - name: Build Website
         run: python main.py
 
