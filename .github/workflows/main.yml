@@ -31,34 +31,30 @@ jobs:
       - name: Install Libraries
         run: pip install curl_cffi pycountry
 
-      - name: Run Scraper
-        run: python future_scraper.py
-
+      # Now runs the builder directly using existing data in the date/ folder
       - name: Build Website
         run: python main.py
 
-      # This step ensures the folders actually exist and contain files before we try to commit.
-      # It helps GitHub's runner "index" the new file system state.
+      # This step forces the runner to "index" the disk, ensuring Git sees the new files
       - name: Verify Generated Files
         run: |
           echo "Checking generated folders..."
-          ls -R home/ match/ channel/ date/ || echo "Some folders are missing!"
+          ls -R home/ match/ channel/ date/ || echo "Warning: Some folders were not found!"
 
       - name: Commit and Push Changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           
-          # 'git add -A' is the secret. It catches the folders your script 
-          # deleted (rmtree) and the ones it recreated.
+          # -A stages everything: new files, modified files, and deleted files
           git add -A
           
-          # Only commit if there are actually changes to avoid workflow errors
+          # Prevents the workflow from failing if there are no new updates
           if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "Site Update: Re-generated all 4 folders and index [skip ci]"
+            git commit -m "Site Update: Re-generated all folders and index [skip ci]"
             git push origin main
           else
-            echo "No changes detected."
+            echo "No changes detected to commit."
           fi
 
       - name: Setup Pages
