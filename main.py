@@ -1,4 +1,4 @@
-import json, os, re, glob, time, shutil, tempfile  
+import json, os, re, glob, time, shutil, tempfile 
 from datetime import datetime, timedelta, timezone
 
 # --- 1. CONFIGURATION ---
@@ -67,6 +67,11 @@ MENU_CSS = '''
     }
 </style>
 '''
+
+# NEW: League name display helper
+def get_league_display(league):
+    """Format league name for display below matches."""
+    return f'<div class="league-name text-slate-500 text-xs mt-1">{league}</div>'
 
 # --- 2. HELPERS ---
 def slugify(t):
@@ -190,7 +195,7 @@ for m in all_matches:
     except Exception:
         continue
 
-# 5b. HOME PAGES & INDEX.HTML (FIXED RE-GENERATION)
+# 5b. HOME PAGES & INDEX.HTML (FIXED RE-GENERATION) - LEAGUE NAME ADDED
 # This loop now iterates through TARGET_DATES, ensuring files are ALWAYS created.
 for day in TARGET_DATES:
     day_str = day.strftime('%Y-%m-%d')
@@ -220,6 +225,9 @@ for day in TARGET_DATES:
             dt_m = datetime.fromtimestamp(int(m['kickoff']), tz=timezone.utc).astimezone(LOCAL_OFFSET)
             m_url = f"{DOMAIN}/match/{slugify(m['fixture'])}-{dt_m.strftime('%Y%m%d')}.html"
             
+            # ADDED LEAGUE NAME BELOW MATCH
+            league_display = get_league_display(league)
+            
             listing_html += f'''
             <a href="{m_url}" class="match-row flex items-center p-4 hover:bg-slate-50 transition-all">
                 <div class="time-box">
@@ -227,7 +235,8 @@ for day in TARGET_DATES:
                     <div class="font-bold text-blue-600 text-sm auto-time" data-unix="{m['kickoff']}">{dt_m.strftime('%H:%M')}</div>
                 </div>
                 <div class="flex-1 ml-4">
-                    <span class="text-slate-800 font-semibold">{m['fixture']}</span>
+                    <span class="text-slate-800 font-semibold block">{m['fixture']}</span>
+                    {league_display}
                 </div>
             </a>'''
         listing_html += ADS_CODE
@@ -248,7 +257,7 @@ for day in TARGET_DATES:
         atomic_write("index.html", h_output)
         print(f"✅ index.html and home/{day_str}.html successfully updated for Today.")
 
-# 5c. CHANNEL PAGES
+# 5c. CHANNEL PAGES - LEAGUE NAME ADDED
 for ch_name, match_dict in channels_data.items():
     c_slug = slugify(ch_name)
     unique_matches = sorted(list(match_dict.values()), key=lambda x: x['kickoff'])
@@ -257,6 +266,9 @@ for ch_name, match_dict in channels_data.items():
     for m in unique_matches:
         dt_m = datetime.fromtimestamp(int(m['kickoff']), tz=timezone.utc).astimezone(LOCAL_OFFSET)
         m_url = f"{DOMAIN}/match/{slugify(m['fixture'])}-{dt_m.strftime('%Y%m%d')}.html"
+        league = m.get('league', 'Other Football')
+        league_display = get_league_display(league)
+        
         c_listing += f'''
         <div class="match-row">
             <div class="time-box">
@@ -264,7 +276,8 @@ for ch_name, match_dict in channels_data.items():
                 <div class="font-bold text-blue-600 text-sm auto-time" data-unix="{m['kickoff']}">{dt_m.strftime('%H:%M')}</div>
             </div>
             <div class="flex-1 ml-4">
-                <a href="{m_url}" class="text-slate-800 font-semibold">{m['fixture']}</a>
+                <a href="{m_url}" class="text-slate-800 font-semibold block">{m['fixture']}</a>
+                {league_display}
             </div>
         </div>'''
 
