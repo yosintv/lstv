@@ -157,7 +157,7 @@ for m in all_matches:
         country_counter = 0
         for c in m.get('tv_channels', []):
             country_counter += 1
-            ch_links = [f'<a href="{DOMAIN}/channel/{slugify(ch)}.html" class="channel-link">{ch}</a>' for ch in c['channels']]
+            ch_links = [f'<a href="{DOMAIN}/channel/{slugify(ch)}.html" style="display: inline-block; background: #f1f5f9; color: #2563eb; padding: 2px 8px; border-radius: 4px; margin: 2px; text-decoration: none; font-weight: 600; border: 1px solid #e2e8f0;">{ch}</a>' for ch in c['channels']]
             rows += f'''
             <div class="broadcast-row">
                 <div class="country-name">{c["country"]}</div>
