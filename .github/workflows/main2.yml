@@ -39,10 +39,6 @@ jobs:
         run: |
           pip install curl_cffi pycountry
 
-      # 4. Run the Scraper (Creates the JSON data)
-      - name: Run Scraper
-        run: python future_scraper.py
-
       # 5. Run the Page Builder (Creates match/, channel/, and index.html)
       - name: Build Website
         run: python main.py
