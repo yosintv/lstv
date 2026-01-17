@@ -256,6 +256,11 @@ for ch_name, match_dict in channels_data.items():
     c_listing = ""
     for m in unique_matches:
         dt_m = datetime.fromtimestamp(int(m['kickoff']), tz=timezone.utc).astimezone(LOCAL_OFFSET)
+        
+        # ONLY show matches that haven't happened yet (Future matches only)
+        if dt_m < NOW:
+            continue
+            
         m_url = f"{DOMAIN}/match/{slugify(m['fixture'])}-{dt_m.strftime('%Y%m%d')}.html"
         league = m.get('league', 'Other Football')
         league_display = get_league_display(league)
