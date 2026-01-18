@@ -1,5 +1,5 @@
 import json, os, re, glob, time, shutil, tempfile  
-from datetime import datetime, timedelta, timezone 
+from datetime import datetime, timedelta, timezone
 
 # --- 1. CONFIGURATION ---
 DOMAIN = "https://tv.cricfoot.net"
@@ -121,7 +121,7 @@ for name in ['home', 'match', 'channel']:
 # --- 4. LOAD DATA ---
 all_matches = []
 seen_match_ids = set()
-unique_dates = {TODAY_DATE} # Set to track every day that needs a page
+unique_dates = {TODAY_DATE} 
 json_files = glob.glob(os.path.join(BASE_DIR, "date", "*.json"))
 
 for f in json_files:
@@ -134,13 +134,11 @@ for f in json_files:
                 if mid and mid not in seen_match_ids:
                     all_matches.append(m)
                     seen_match_ids.add(mid)
-                    # Track this date for SEO generation
                     m_date = datetime.fromtimestamp(int(m['kickoff']), tz=timezone.utc).astimezone(LOCAL_OFFSET).date()
                     unique_dates.add(m_date)
         except Exception:
             continue
 
-# Full list of dates to generate for SEO
 ALL_GENERATION_DATES = sorted(list(unique_dates))
 print(f"⚽ Matches Loaded: {len(all_matches)} | Days to generate: {len(ALL_GENERATION_DATES)}")
 
@@ -161,7 +159,6 @@ for m in all_matches:
         country_counter = 0
         for c in m.get('tv_channels', []):
             country_counter += 1
-            # Channel Links with .html
             ch_links = [f'<a href="{DOMAIN}/channel/{slugify(ch)}.html" style="display: inline-block; background: #f1f5f9; color: #2563eb; padding: 2px 8px; border-radius: 4px; margin: 2px; text-decoration: none; font-weight: 600; border: 1px solid #e2e8f0;">{ch}</a>' for ch in c['channels']]
 
             rows += f'''
@@ -193,7 +190,7 @@ for m in all_matches:
     except Exception:
         continue
 
-# 5b. HOME PAGES & INDEX.HTML (Generates ALL dates for SEO, but Menu is only 7 days)
+# 5b. HOME PAGES & INDEX.HTML
 for day in ALL_GENERATION_DATES:
     day_str = day.strftime('%Y-%m-%d')
     current_path = "/" if day == TODAY_DATE else f"/home/{day_str}.html"
@@ -246,13 +243,20 @@ for day in ALL_GENERATION_DATES:
     if day == TODAY_DATE:
         atomic_write("index.html", h_output)
 
-# 5c. CHANNEL PAGES (Shows ALL matches in history + future)
+# 5c. CHANNEL PAGES (Filters out matches that ended more than 2 hours ago)
+now_unix = int(time.time())
 for ch_name, match_dict in channels_data.items():
     c_slug = slugify(ch_name)
     unique_matches = sorted(list(match_dict.values()), key=lambda x: x['kickoff'])
     
     c_listing = ""
+    match_count = 0
     for m in unique_matches:
+        # If match kickoff + 2 hours (7200s) is in the past, skip it
+        if (int(m['kickoff']) + 7200) < now_unix:
+            continue
+            
+        match_count += 1
         dt_m = datetime.fromtimestamp(int(m['kickoff']), tz=timezone.utc).astimezone(LOCAL_OFFSET)
         m_url = f"{DOMAIN}/match/{slugify(m['fixture'])}-{dt_m.strftime('%Y%m%d')}.html"
         league = m.get('league', 'Other Football')
@@ -270,6 +274,9 @@ for ch_name, match_dict in channels_data.items():
             </div>
         </div>'''
 
+    if not c_listing:
+        c_listing = '<div style="text-align:center; padding:40px; color:#64748b;">No upcoming matches for this channel.</div>'
+
     c_html = templates['channel'].replace("{{CHANNEL_NAME}}", ch_name) \
                                  .replace("{{MATCH_LISTING}}", c_listing) \
                                  .replace("{{DOMAIN}}", DOMAIN)
@@ -277,11 +284,11 @@ for ch_name, match_dict in channels_data.items():
     atomic_write(f"channel/{c_slug}.html", c_html)
     sitemap_urls.append(f"{DOMAIN}/channel/{c_slug}.html")
 
-# 5d. SITEMAP (Includes ALL pages generated)
+# 5d. SITEMAP
 sitemap = '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
 for url in sorted(list(set(sitemap_urls))):
     sitemap += f'<url><loc>{url}</loc><lastmod>{NOW.strftime("%Y-%m-%d")}</lastmod></url>'
 sitemap += '</urlset>'
 atomic_write("sitemap.xml", sitemap)
 
-print(f"🏁 Deployment Ready: {len(ALL_GENERATION_DATES)} home pages and {len(channels_data)} channel pages generated.")
+print(f"🏁 Deployment Ready: {len(ALL_GENERATION_DATES)} home pages and {len(channels_data)} channel pages updated.")
