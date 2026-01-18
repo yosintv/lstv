@@ -15,11 +15,6 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 NOW = datetime.now(LOCAL_OFFSET)
 TODAY_DATE = NOW.date()
 
-# Weekly menu logic: fixed window (3 days back, today, 3 days forward)
-# This ensures index.html is ALWAYS part of the generation cycle.
-MENU_START_DATE = TODAY_DATE - timedelta(days=3)
-TARGET_DATES = [MENU_START_DATE + timedelta(days=i) for i in range(7)]
-
 # Top leagues used for ordering on daily pages
 TOP_LEAGUE_IDS = [17, 35, 23, 7, 8, 34, 679]
 
@@ -30,29 +25,34 @@ ADS_CODE = '''
 </div>
 '''
 
-# Home template CSS for weekly menu
+# Home template CSS for weekly menu - UPDATED for horizontal scrolling
 MENU_CSS = '''
 <style>
+    .weekly-menu-wrapper {
+        width: 100%;
+        overflow-x: auto;
+        background: #f8fafc;
+        border-bottom: 1px solid #e2e8f0;
+        -webkit-overflow-scrolling: touch;
+    }
     .weekly-menu-container {
         display: flex;
-        width: 100%;
-        gap: 4px;
-        padding: 10px 5px;
-        box-sizing: border-box;
-        justify-content: space-between;
+        padding: 10px;
+        gap: 8px;
+        width: max-content;
+        min-width: 100%;
     }
     .date-btn {
-        flex: 1;
+        flex: 0 0 65px;
         display: flex;
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        padding: 8px 2px;
+        padding: 8px 5px;
         text-decoration: none;
         border-radius: 6px;
         background: #fff;
         border: 1px solid #e2e8f0;
-        min-width: 0; 
         transition: all 0.2s;
     }
     .date-btn div { font-size: 9px; text-transform: uppercase; color: #64748b; font-weight: bold; }
@@ -61,9 +61,8 @@ MENU_CSS = '''
     .date-btn.active div, .date-btn.active b { color: #fff; }
     
     @media (max-width: 480px) {
-        .date-btn b { font-size: 8px; }
-        .date-btn div { font-size: 7px; }
-        .weekly-menu-container { gap: 2px; padding: 5px 2px; }
+        .date-btn { flex: 0 0 55px; }
+        .date-btn b { font-size: 9px; }
     }
 </style>
 '''
@@ -94,12 +93,11 @@ def atomic_write(relative_path, content):
             os.unlink(tmp_path)
         raise e
 
-def build_weekly_menu(current_page_date):
-    """Generates menu HTML, highlighting the button for the date being viewed."""
-    html = MENU_CSS + '<div class="weekly-menu-container">'
-    for d in TARGET_DATES:
+def build_weekly_menu(current_page_date, target_dates):
+    """Generates menu HTML for all available dates with scrolling support."""
+    html = MENU_CSS + '<div class="weekly-menu-wrapper"><div class="weekly-menu-container">'
+    for d in target_dates:
         d_str = d.strftime('%Y-%m-%d')
-        # Link logic: Today points to root /, others to /home/
         link = f"{DOMAIN}/" if d == TODAY_DATE else f"{DOMAIN}/home/{d_str}.html"
         active_class = "active" if d == current_page_date else ""
         
@@ -108,10 +106,8 @@ def build_weekly_menu(current_page_date):
             <div>{d.strftime("%a")}</div>
             <b>{d.strftime("%b %d")}</b>
         </a>'''
-    html += '</div>'
+    html += '</div></div>'
     return html
-
-# 🚫 NO DELETION - Directories preserved!
 
 # --- 3. LOAD TEMPLATES ---
 templates = {}
@@ -143,6 +139,16 @@ for f in json_files:
             continue
 
 print(f"⚽ Matches Loaded: {len(all_matches)}")
+
+# NEW LOGIC: Determine the full range of dates present in the JSON data
+unique_dates = {TODAY_DATE} # Always include today
+for m in all_matches:
+    m_date = datetime.fromtimestamp(int(m['kickoff']), tz=timezone.utc).astimezone(LOCAL_OFFSET).date()
+    unique_dates.add(m_date)
+
+# Sorted list of every date that has data
+TARGET_DATES = sorted(list(unique_dates))
+
 channels_data = {}
 sitemap_urls = [DOMAIN + "/"]
 
@@ -191,12 +197,11 @@ for m in all_matches:
     except Exception:
         continue
 
-# 5b. HOME PAGES & INDEX.HTML (NO league_display - uses league headers)
+# 5b. HOME PAGES & INDEX.HTML
 for day in TARGET_DATES:
     day_str = day.strftime('%Y-%m-%d')
     current_path = "/" if day == TODAY_DATE else f"/home/{day_str}.html"
 
-    # Find matches for this specific day
     day_matches = [m for m in all_matches if 
         datetime.fromtimestamp(int(m['kickoff']), tz=timezone.utc).astimezone(LOCAL_OFFSET).date() == day]
     
@@ -204,7 +209,7 @@ for day in TARGET_DATES:
 
     listing_html = ""
     if not day_matches:
-        listing_html = '<div style="text-align:center; padding:40px; color:#64748b;">No matches scheduled for this date. Check back later!</div>'
+        listing_html = '<div style="text-align:center; padding:40px; color:#64748b;">No matches scheduled for this date.</div>'
     else:
         last_league = ""
         league_counter = 0
@@ -233,24 +238,22 @@ for day in TARGET_DATES:
         listing_html += ADS_CODE
 
     h_output = templates['home'].replace("{{MATCH_LISTING}}", listing_html) \
-                                .replace("{{WEEKLY_MENU}}", build_weekly_menu(day)) \
+                                .replace("{{WEEKLY_MENU}}", build_weekly_menu(day, TARGET_DATES)) \
                                 .replace("{{DOMAIN}}", DOMAIN) \
                                 .replace("{{SELECTED_DATE}}", day.strftime("%A, %b %d, %Y")) \
                                 .replace("{{PAGE_TITLE}}", f"TV Channels For {day.strftime('%A, %b %d, %Y')}") \
                                 .replace("{{CURRENT_PATH}}", current_path)
 
-    # WRITE TO HOME FOLDER
     atomic_write(f"home/{day_str}.html", h_output)
     sitemap_urls.append(f"{DOMAIN}/home/{day_str}.html")
     
-    # WRITE TO ROOT (INDEX.HTML)
     if day == TODAY_DATE:
         atomic_write("index.html", h_output)
-        print(f"✅ index.html and home/{day_str}.html successfully updated for Today.")
 
-# 5c. CHANNEL PAGES (league_display ADDED HERE ONLY)
+# 5c. CHANNEL PAGES (Now shows ALL matches: past, today, and future)
 for ch_name, match_dict in channels_data.items():
     c_slug = slugify(ch_name)
+    # Sort all matches by time
     unique_matches = sorted(list(match_dict.values()), key=lambda x: x['kickoff'])
     
     c_listing = ""
@@ -286,4 +289,4 @@ for url in sorted(list(set(sitemap_urls))):
 sitemap += '</urlset>'
 atomic_write("sitemap.xml", sitemap)
 
-print("🏁 Deployment Ready: index.html and home/ files are generated.")
+print(f"🏁 Deployment Ready: {len(TARGET_DATES)} home pages generated.")
