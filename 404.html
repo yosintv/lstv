@@ -23,7 +23,7 @@
         </div>
 
         <div class="w-full bg-slate-200 rounded-full h-1.5 mb-8 overflow-hidden">
-            <div id="progress-bar" class="bg-blue-600 h-1.5 rounded-full transition-all duration-1000 ease-linear" style="width: 100%"></div>
+            <div id="progress-bar" class="bg-blue-600 h-1.5 rounded-full transition-all duration-1000 ease-linear" style="width: 0%"></div>
         </div>
 
         <a href="/" class="inline-block w-full py-3 px-6 bg-blue-600 hover:bg-blue-700 text-white font-bold rounded-xl transition-colors duration-200 mb-6 shadow-lg shadow-blue-100">
@@ -34,39 +34,35 @@
     </div>
 
     <script>
-        const totalTime = 0; // Total duration in seconds
+        // Total duration set to 0 for immediate redirection
+        const totalTime = 0; 
         let timeLeft = totalTime;
 
         const countdownElement = document.getElementById('countdown');
         const progressBar = document.getElementById('progress-bar');
 
         const updateUI = () => {
-            // Calculate minutes and seconds
-            const minutes = Math.floor(timeLeft / 60);
-            const seconds = timeLeft % 60;
-
-            // Format display
-            const displayMin = String(minutes).padStart(2, '0');
-            const displaySec = String(seconds).padStart(2, '0');
-            countdownElement.innerText = `${displayMin}:${displaySec}`;
-
-            // Update Progress Bar width
-            const progressPercentage = (timeLeft / totalTime) * 100;
-            progressBar.style.width = `${progressPercentage}%`;
-
             if (timeLeft <= 0) {
-                clearInterval(timerInterval);
+                // Ensure the visual elements reflect the zero state immediately
                 countdownElement.innerText = "Redirecting...";
+                progressBar.style.width = `0%`;
+                
+                // Clear any existing intervals and trigger the navigation
+                if (typeof timerInterval !== 'undefined') clearInterval(timerInterval);
                 window.location.href = "/";
             } else {
+                const minutes = Math.floor(timeLeft / 60);
+                const seconds = timeLeft % 60;
+                countdownElement.innerText = `${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
+                progressBar.style.width = `${(timeLeft / totalTime) * 100}%`;
                 timeLeft--;
             }
         };
 
-        // Run immediately so there is no 1-second delay on load
+        // Execute immediately upon script loading
         updateUI(); 
 
-        // Then start the interval
+        // Interval is defined but will likely be cleared instantly if timeLeft is 0
         const timerInterval = setInterval(updateUI, 1000);
     </script>
 </body>
