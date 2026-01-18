@@ -5,8 +5,6 @@ from datetime import datetime, timedelta, timezone
 DOMAIN = "https://tv.cricfoot.net"
 
 # FIX: Hardcode the Timezone to Nepal (UTC+5:45). 
-# GitHub Actions runners always use UTC. Without this, your "Today" 
-# will be 5 hours and 45 minutes behind, causing index.html to show yesterday's matches.
 LOCAL_OFFSET = timezone(timedelta(hours=5, minutes=45))
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -14,6 +12,10 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 # Get current time in the target timezone
 NOW = datetime.now(LOCAL_OFFSET)
 TODAY_DATE = NOW.date()
+
+# UI MENU LOGIC: Fixed 7-day window for the visual menu (3 back, today, 3 forward)
+MENU_START_DATE = TODAY_DATE - timedelta(days=3)
+DISPLAY_MENU_DATES = [MENU_START_DATE + timedelta(days=i) for i in range(7)]
 
 # Top leagues used for ordering on daily pages
 TOP_LEAGUE_IDS = [17, 35, 23, 7, 8, 34, 679]
@@ -25,34 +27,29 @@ ADS_CODE = '''
 </div>
 '''
 
-# Home template CSS for weekly menu - UPDATED for horizontal scrolling
+# Home template CSS for weekly menu (Original 7-day layout)
 MENU_CSS = '''
 <style>
-    .weekly-menu-wrapper {
-        width: 100%;
-        overflow-x: auto;
-        background: #f8fafc;
-        border-bottom: 1px solid #e2e8f0;
-        -webkit-overflow-scrolling: touch;
-    }
     .weekly-menu-container {
         display: flex;
-        padding: 10px;
-        gap: 8px;
-        width: max-content;
-        min-width: 100%;
+        width: 100%;
+        gap: 4px;
+        padding: 10px 5px;
+        box-sizing: border-box;
+        justify-content: space-between;
     }
     .date-btn {
-        flex: 0 0 65px;
+        flex: 1;
         display: flex;
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        padding: 8px 5px;
+        padding: 8px 2px;
         text-decoration: none;
         border-radius: 6px;
         background: #fff;
         border: 1px solid #e2e8f0;
+        min-width: 0; 
         transition: all 0.2s;
     }
     .date-btn div { font-size: 9px; text-transform: uppercase; color: #64748b; font-weight: bold; }
@@ -61,8 +58,9 @@ MENU_CSS = '''
     .date-btn.active div, .date-btn.active b { color: #fff; }
     
     @media (max-width: 480px) {
-        .date-btn { flex: 0 0 55px; }
-        .date-btn b { font-size: 9px; }
+        .date-btn b { font-size: 8px; }
+        .date-btn div { font-size: 7px; }
+        .weekly-menu-container { gap: 2px; padding: 5px 2px; }
     }
 </style>
 '''
@@ -93,10 +91,10 @@ def atomic_write(relative_path, content):
             os.unlink(tmp_path)
         raise e
 
-def build_weekly_menu(current_page_date, target_dates):
-    """Generates menu HTML for all available dates with scrolling support."""
-    html = MENU_CSS + '<div class="weekly-menu-wrapper"><div class="weekly-menu-container">'
-    for d in target_dates:
+def build_weekly_menu(current_page_date):
+    """Generates the visual 7-day menu HTML."""
+    html = MENU_CSS + '<div class="weekly-menu-container">'
+    for d in DISPLAY_MENU_DATES:
         d_str = d.strftime('%Y-%m-%d')
         link = f"{DOMAIN}/" if d == TODAY_DATE else f"{DOMAIN}/home/{d_str}.html"
         active_class = "active" if d == current_page_date else ""
@@ -106,7 +104,7 @@ def build_weekly_menu(current_page_date, target_dates):
             <div>{d.strftime("%a")}</div>
             <b>{d.strftime("%b %d")}</b>
         </a>'''
-    html += '</div></div>'
+    html += '</div>'
     return html
 
 # --- 3. LOAD TEMPLATES ---
@@ -123,6 +121,7 @@ for name in ['home', 'match', 'channel']:
 # --- 4. LOAD DATA ---
 all_matches = []
 seen_match_ids = set()
+unique_dates = {TODAY_DATE} # Set to track every day that needs a page
 json_files = glob.glob(os.path.join(BASE_DIR, "date", "*.json"))
 
 for f in json_files:
@@ -135,19 +134,15 @@ for f in json_files:
                 if mid and mid not in seen_match_ids:
                     all_matches.append(m)
                     seen_match_ids.add(mid)
+                    # Track this date for SEO generation
+                    m_date = datetime.fromtimestamp(int(m['kickoff']), tz=timezone.utc).astimezone(LOCAL_OFFSET).date()
+                    unique_dates.add(m_date)
         except Exception:
             continue
 
-print(f"⚽ Matches Loaded: {len(all_matches)}")
-
-# NEW LOGIC: Determine the full range of dates present in the JSON data
-unique_dates = {TODAY_DATE} # Always include today
-for m in all_matches:
-    m_date = datetime.fromtimestamp(int(m['kickoff']), tz=timezone.utc).astimezone(LOCAL_OFFSET).date()
-    unique_dates.add(m_date)
-
-# Sorted list of every date that has data
-TARGET_DATES = sorted(list(unique_dates))
+# Full list of dates to generate for SEO
+ALL_GENERATION_DATES = sorted(list(unique_dates))
+print(f"⚽ Matches Loaded: {len(all_matches)} | Days to generate: {len(ALL_GENERATION_DATES)}")
 
 channels_data = {}
 sitemap_urls = [DOMAIN + "/"]
@@ -166,6 +161,7 @@ for m in all_matches:
         country_counter = 0
         for c in m.get('tv_channels', []):
             country_counter += 1
+            # Channel Links with .html
             ch_links = [f'<a href="{DOMAIN}/channel/{slugify(ch)}.html" style="display: inline-block; background: #f1f5f9; color: #2563eb; padding: 2px 8px; border-radius: 4px; margin: 2px; text-decoration: none; font-weight: 600; border: 1px solid #e2e8f0;">{ch}</a>' for ch in c['channels']]
 
             rows += f'''
@@ -197,8 +193,8 @@ for m in all_matches:
     except Exception:
         continue
 
-# 5b. HOME PAGES & INDEX.HTML
-for day in TARGET_DATES:
+# 5b. HOME PAGES & INDEX.HTML (Generates ALL dates for SEO, but Menu is only 7 days)
+for day in ALL_GENERATION_DATES:
     day_str = day.strftime('%Y-%m-%d')
     current_path = "/" if day == TODAY_DATE else f"/home/{day_str}.html"
 
@@ -238,7 +234,7 @@ for day in TARGET_DATES:
         listing_html += ADS_CODE
 
     h_output = templates['home'].replace("{{MATCH_LISTING}}", listing_html) \
-                                .replace("{{WEEKLY_MENU}}", build_weekly_menu(day, TARGET_DATES)) \
+                                .replace("{{WEEKLY_MENU}}", build_weekly_menu(day)) \
                                 .replace("{{DOMAIN}}", DOMAIN) \
                                 .replace("{{SELECTED_DATE}}", day.strftime("%A, %b %d, %Y")) \
                                 .replace("{{PAGE_TITLE}}", f"TV Channels For {day.strftime('%A, %b %d, %Y')}") \
@@ -250,10 +246,9 @@ for day in TARGET_DATES:
     if day == TODAY_DATE:
         atomic_write("index.html", h_output)
 
-# 5c. CHANNEL PAGES (Now shows ALL matches: past, today, and future)
+# 5c. CHANNEL PAGES (Shows ALL matches in history + future)
 for ch_name, match_dict in channels_data.items():
     c_slug = slugify(ch_name)
-    # Sort all matches by time
     unique_matches = sorted(list(match_dict.values()), key=lambda x: x['kickoff'])
     
     c_listing = ""
@@ -282,11 +277,11 @@ for ch_name, match_dict in channels_data.items():
     atomic_write(f"channel/{c_slug}.html", c_html)
     sitemap_urls.append(f"{DOMAIN}/channel/{c_slug}.html")
 
-# 5d. SITEMAP
+# 5d. SITEMAP (Includes ALL pages generated)
 sitemap = '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
 for url in sorted(list(set(sitemap_urls))):
     sitemap += f'<url><loc>{url}</loc><lastmod>{NOW.strftime("%Y-%m-%d")}</lastmod></url>'
 sitemap += '</urlset>'
 atomic_write("sitemap.xml", sitemap)
 
-print(f"🏁 Deployment Ready: {len(TARGET_DATES)} home pages generated.")
+print(f"🏁 Deployment Ready: {len(ALL_GENERATION_DATES)} home pages and {len(channels_data)} channel pages generated.")
