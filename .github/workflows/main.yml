@@ -1,9 +1,9 @@
 name: Daily Build & Deploy
- 
+
 on:
   schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
+    - cron: '0 */6 * * *' # Runs every 6 hours
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   build-and-deploy:
@@ -24,7 +24,7 @@ jobs:
           fetch-depth: 0
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
@@ -38,8 +38,9 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add index.xml sitemap.xml home/ match/ channel/ date/ 2>/dev/null || git add .
-          git commit -m "Automated Site Update [skip ci]" || echo "No changes to commit"
+          # We specifically include the pt/ folder here so Git tracks all Portuguese pages
+          git add index.html sitemap.xml home/ match/ channel/ date/ pt/ 2>/dev/null || git add .
+          git commit -m "Automated Site Update: English & Portuguese [skip ci]" || echo "No changes to commit"
           git push origin main || echo "No changes to push"
 
       - name: Setup Pages
