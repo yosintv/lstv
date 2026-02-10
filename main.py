@@ -2,7 +2,7 @@ import json, os, re, glob, time, shutil, tempfile
 from datetime import datetime, timedelta, timezone
 
 # --- 1. CONFIGURATION ---
-DOMAIN = "https://tv.cricfoot.net" 
+DOMAIN = "https://www.cricfoot.net" 
 
 # FIX: Hardcode the Timezone to Nepal (UTC+5:45). 
 LOCAL_OFFSET = timezone(timedelta(hours=5, minutes=45))
