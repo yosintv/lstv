@@ -25,7 +25,6 @@ ADS_CODE = '''
 <div class="ad-container" style="margin: 20px 0; text-align: center;">
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5525538810839147"
      crossorigin="anonymous"></script>
-<!-- Ressponsive -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-5525538810839147"
@@ -302,4 +301,7 @@ for url in sorted(list(set(sitemap_urls))):
 sitemap += '</urlset>'
 atomic_write("sitemap.xml", sitemap)
 
-print(f"🏁 Deployment Ready: {len(ALL_GENERATION_DATES)} home pages and {len(channels_data)} channel pages updated.")
+# 5e. ADS.TXT
+atomic_write("ads.txt", "google.com, pub-5525538810839147, DIRECT, f08c47fec0942fa0")
+
+print(f"🏁 Deployment Ready: {len(ALL_GENERATION_DATES)} home pages and {len(channels_data)} channel pages updated. ads.txt included.")
