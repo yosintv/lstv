@@ -2342,8 +2342,8 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "Liga 1 Play",
-                    "Liga 1 Max"
+                    "Liga 1 Max",
+                    "Liga 1 Play"
                 ]
             }
         ]
@@ -2359,8 +2359,8 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "Liga 1 Play",
-                    "Liga 1 Max"
+                    "Liga 1 Max",
+                    "Liga 1 Play"
                 ]
             }
         ]
@@ -2376,8 +2376,8 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "Liga 1 Play",
-                    "Liga 1 Max"
+                    "Liga 1 Max",
+                    "Liga 1 Play"
                 ]
             }
         ]
@@ -2443,7 +2443,20 @@
         "league_id": 955,
         "league": "Saudi Pro League",
         "venue": "Al-Awwal Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bermuda",
+                "channels": [
+                    "Fox Soccer Plus"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Fox Soccer Plus"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14065031,
@@ -2776,7 +2789,20 @@
         "league_id": 10640,
         "league": "Serie A Femminile",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bermuda",
+                "channels": [
+                    "Fox Soccer Plus"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Fox Soccer Plus"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14287044,
@@ -6037,6 +6063,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 15273913,
+        "kickoff": 1771671600,
+        "fixture": "Sporting U23 vs Santa Clara U23",
+        "league_id": 11341,
+        "league": "U23 Championship, Championship Round",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 14260881,
         "kickoff": 1771668000,
         "fixture": "CS Dinamo Bucure\u0219ti vs Sepsi OSK",
@@ -6283,6 +6318,15 @@
         "match_id": 15546374,
         "kickoff": 1771801200,
         "fixture": "Brazil U20 vs Argentina U20",
+        "league_id": 1612,
+        "league": "U20 CONMEBOL Championship, Women, Final round",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15547017,
+        "kickoff": 1771808400,
+        "fixture": "Paraguay U20 vs Colombia U20",
         "league_id": 1612,
         "league": "U20 CONMEBOL Championship, Women, Final round",
         "venue": "TBA",
