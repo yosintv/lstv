@@ -6,7 +6,14 @@
         "league_id": 17,
         "league": "Premier League",
         "venue": "Vitality Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Peacock"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14023941,
@@ -15,7 +22,14 @@
         "league_id": 17,
         "league": "Premier League",
         "venue": "Hill Dickinson Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Peacock"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14023982,
@@ -105,7 +119,20 @@
         "league_id": 329,
         "league": "Copa del Rey",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Andorra",
+                "channels": [
+                    "TVE La 1"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "TVE La 1"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15496190,
@@ -1960,18 +1987,18 @@
         "tv_channels": []
     },
     {
-        "match_id": 14324639,
-        "kickoff": 1772629200,
-        "fixture": "FK Arsimi 1973 vs Tikve\u0161 Kavadarci",
+        "match_id": 14324646,
+        "kickoff": 1772542800,
+        "fixture": "KF Shkupi vs Bashkimi 1947",
         "league_id": 199,
         "league": "1. MFL",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 14324646,
+        "match_id": 14324639,
         "kickoff": 1772629200,
-        "fixture": "KF Shkupi vs Bashkimi 1947",
+        "fixture": "FK Arsimi 1973 vs Tikve\u0161 Kavadarci",
         "league_id": 199,
         "league": "1. MFL",
         "venue": "TBA",
