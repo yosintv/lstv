@@ -122,7 +122,7 @@
         "fixture": "Club Sporting Cristal vs Carabobo",
         "league_id": 384,
         "league": "CONMEBOL Libertadores, Qualification",
-        "venue": "TBA",
+        "venue": "Estadio Alberto Gallardo",
         "tv_channels": []
     },
     {
@@ -883,15 +883,6 @@
         "match_id": 15569902,
         "kickoff": 1772568000,
         "fixture": "Doncaster Rovers vs Stockport County",
-        "league_id": 334,
-        "league": "EFL Trophy, Knockout stage",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15615536,
-        "kickoff": 1772652600,
-        "fixture": "Luton Town vs Northampton Town",
         "league_id": 334,
         "league": "EFL Trophy, Knockout stage",
         "venue": "TBA",
@@ -2005,6 +1996,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 15621585,
+        "kickoff": 1772653500,
+        "fixture": "Portadown FC vs Cliftonville FC",
+        "league_id": 200,
+        "league": "Premiership",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15205243,
         "kickoff": 1772567100,
         "fixture": "GKS Katowice vs Widzew \u0141\u00f3d\u017a",
@@ -2078,7 +2078,7 @@
     },
     {
         "match_id": 15273903,
-        "kickoff": 1772647200,
+        "kickoff": 1772640000,
         "fixture": "SC Braga U23 vs Benfica U23",
         "league_id": 11341,
         "league": "U23 Championship, Championship Round",
@@ -2330,11 +2330,20 @@
     },
     {
         "match_id": 15158653,
-        "kickoff": 1772636400,
+        "kickoff": 1772553600,
         "fixture": "Dynamo Kyiv vs Inhulets Petrove",
         "league_id": 312,
         "league": "Ukraine Cup",
         "venue": "Valeriy Lobanovskyi",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15158654,
+        "kickoff": 1772631000,
+        "fixture": "LNZ Cherkasy vs Bukovyna Chernivtsi",
+        "league_id": 312,
+        "league": "Ukraine Cup",
+        "venue": "Tsentralnyi Stadium",
         "tv_channels": []
     },
     {
@@ -2344,15 +2353,6 @@
         "league_id": 312,
         "league": "Ukraine Cup",
         "venue": "Chernigiv-Arena",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15158654,
-        "kickoff": 1772636400,
-        "fixture": "LNZ Cherkasy vs Bukovyna Chernivtsi",
-        "league_id": 312,
-        "league": "Ukraine Cup",
-        "venue": "Tsentralnyi Stadium",
         "tv_channels": []
     },
     {
