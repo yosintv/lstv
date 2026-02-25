@@ -119,7 +119,7 @@
     {
         "match_id": 15253550,
         "kickoff": 1772575200,
-        "fixture": "Winner C3 vs Carabobo",
+        "fixture": "Club Sporting Cristal vs Carabobo",
         "league_id": 384,
         "league": "CONMEBOL Libertadores, Qualification",
         "venue": "TBA",
@@ -321,7 +321,14 @@
         "league_id": 336,
         "league": "Ta\u00e7a de Portugal",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Portugal",
+                "channels": [
+                    "RTP 1"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15190971,
@@ -1569,6 +1576,15 @@
         "match_id": 15605718,
         "kickoff": 1772560800,
         "fixture": "SGV Freiberg vs Eintracht Trier",
+        "league_id": 1079,
+        "league": "Regionalliga Southwest",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15605734,
+        "kickoff": 1772647200,
+        "fixture": "TSV Steinbach Haiger vs Kickers Offenbach",
         "league_id": 1079,
         "league": "Regionalliga Southwest",
         "venue": "TBA",
