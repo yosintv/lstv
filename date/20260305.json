@@ -231,7 +231,14 @@
         "league_id": 335,
         "league": "Coupe de France",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Fox Sports 2"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15492899,
@@ -375,7 +382,62 @@
         "league_id": 11620,
         "league": "Liga MX, Clausura",
         "venue": "Estadio Azteca",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "TUDN"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "TUDN"
+                ]
+            },
+            {
+                "country": "El Salvador",
+                "channels": [
+                    "TUDN"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "TUDN"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "TUDN"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "TUDN"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "TUDN"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "TUDN"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "TUDN"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15195733,
@@ -933,15 +995,6 @@
         "league_id": 373,
         "league": "Copa Betano do Brasil",
         "venue": "Est\u00e1dio da Ressacada",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15592408,
-        "kickoff": 1772663400,
-        "fixture": "Betim Futebol vs Oper\u00e1rio-PR",
-        "league_id": 373,
-        "league": "Copa Betano do Brasil",
-        "venue": "Arena Urbsan",
         "tv_channels": []
     },
     {
