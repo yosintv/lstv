@@ -96,7 +96,20 @@
         "league_id": 35,
         "league": "Bundesliga",
         "venue": "Allianz Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "BBC iPlayer"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "BBC iPlayer"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14065186,
@@ -384,7 +397,37 @@
         "league_id": 19,
         "league": "FA Cup",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Discovery+",
+                    "TNT Sports 1",
+                    "BBC iPlayer",
+                    "BBC One"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "channels": [
+                    "BBC One"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "BBC One"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "BBC One",
+                    "Discovery+",
+                    "BBC iPlayer"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15556600,
@@ -645,7 +688,23 @@
         "league_id": 18,
         "league": "Championship",
         "venue": "Deepdale",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Ultra HDR",
+                    "Sky Sports Main Event",
+                    "Sky Sports Football"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Main Event",
+                    "Sky Sports Football"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14059878,
@@ -744,7 +803,20 @@
         "league_id": 54,
         "league": "LaLiga 2",
         "venue": "Nuevo Mirandilla",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 2 HD"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 2 HD"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14083377,
@@ -4039,6 +4111,15 @@
         "fixture": "TSV Schwaben Augsburg vs TSV Buchbach",
         "league_id": 1085,
         "league": "Regionalliga Bavaria",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14489930,
+        "kickoff": 1772809200,
+        "fixture": "Nations FC vs Bechem United",
+        "league_id": 1191,
+        "league": "Premier League",
         "venue": "TBA",
         "tv_channels": []
     },
