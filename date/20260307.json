@@ -1752,7 +1752,20 @@
         "league_id": 192,
         "league": "Premier Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOI TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "LOI TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15238029,
@@ -1761,7 +1774,20 @@
         "league_id": 192,
         "league": "Premier Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOI TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "LOI TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15238030,
@@ -1770,7 +1796,20 @@
         "league_id": 192,
         "league": "Premier Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOI TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "LOI TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15238028,
@@ -1779,7 +1818,20 @@
         "league_id": 192,
         "league": "Premier Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOI TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "LOI TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15238031,
@@ -1842,7 +1894,20 @@
         "league_id": 955,
         "league": "Saudi Pro League",
         "venue": "Alinma Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bermuda",
+                "channels": [
+                    "Fox Soccer Plus"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Fox Soccer Plus"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14771855,
@@ -2871,9 +2936,9 @@
         "tv_channels": []
     },
     {
-        "match_id": 14530085,
-        "kickoff": 1772802000,
-        "fixture": "Qaraba\u011f FK vs Araz Nax\u00e7\u0131van",
+        "match_id": 14530086,
+        "kickoff": 1772881200,
+        "fixture": "FK Karvan Yevlax vs Sumqay\u0131t FK",
         "league_id": 709,
         "league": "Premier League",
         "venue": "TBA",
@@ -2881,17 +2946,8 @@
     },
     {
         "match_id": 14530087,
-        "kickoff": 1772802000,
+        "kickoff": 1772967600,
         "fixture": "\u015eamax\u0131 FK vs \u0130mi\u015fli FK",
-        "league_id": 709,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14530086,
-        "kickoff": 1772881200,
-        "fixture": "FK Karvan Yevlax vs Sumqay\u0131t FK",
         "league_id": 709,
         "league": "Premier League",
         "venue": "TBA",
@@ -3056,7 +3112,7 @@
         "fixture": "FK Septemvri Sofia vs Cherno More Varna",
         "league_id": 247,
         "league": "Parva Liga",
-        "venue": "Dragalevtsi Stadium",
+        "venue": "Stadion Lokomotiv",
         "tv_channels": []
     },
     {
@@ -4200,7 +4256,20 @@
         "league_id": 193,
         "league": "First Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOI TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "LOI TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15238723,
@@ -4209,7 +4278,20 @@
         "league_id": 193,
         "league": "First Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOI TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "LOI TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15238724,
@@ -4218,7 +4300,20 @@
         "league_id": 193,
         "league": "First Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOI TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "LOI TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15238725,
@@ -4227,7 +4322,20 @@
         "league_id": 193,
         "league": "First Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOI TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "LOI TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15238726,
@@ -4734,6 +4842,33 @@
         "tv_channels": []
     },
     {
+        "match_id": 15635537,
+        "kickoff": 1772956800,
+        "fixture": "FC Kyzylzhar vs Caspiy Aktau",
+        "league_id": 682,
+        "league": "Premier League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15635550,
+        "kickoff": 1772960400,
+        "fixture": "Atyrau vs Ulytau FC",
+        "league_id": 682,
+        "league": "Premier League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15635549,
+        "kickoff": 1772964000,
+        "fixture": "FC Kaysar vs FK Zhenys",
+        "league_id": 682,
+        "league": "Premier League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15472393,
         "kickoff": 1772812800,
         "fixture": "RFS vs Ogre United",
@@ -4955,6 +5090,24 @@
         "fixture": "Renaissance Zemamra vs AS FAR Rabat",
         "league_id": 937,
         "league": "Botola Pro",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14324653,
+        "kickoff": 1772888400,
+        "fixture": "FC Struga Trim & Lum vs KF Shkupi",
+        "league_id": 199,
+        "league": "1. MFL",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14324650,
+        "kickoff": 1772888400,
+        "fixture": "FK Rabotni\u010dki Skopje vs FK Arsimi 1973",
+        "league_id": 199,
+        "league": "1. MFL",
         "venue": "TBA",
         "tv_channels": []
     },
