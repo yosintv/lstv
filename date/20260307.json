@@ -98,6 +98,12 @@
         "venue": "Allianz Arena",
         "tv_channels": [
             {
+                "country": "Austria",
+                "channels": [
+                    "Sky Sport Bundesliga"
+                ]
+            },
+            {
                 "country": "Germany",
                 "channels": [
                     "Sky Bundesliga HD 1"
@@ -175,7 +181,20 @@
         "league_id": 35,
         "league": "Bundesliga",
         "venue": "RheinEnergieStadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Football"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Football"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14167912,
@@ -628,6 +647,8 @@
             {
                 "country": "Ireland",
                 "channels": [
+                    "TNT Sports 2",
+                    "Discovery+",
                     "BBC One",
                     "BBC iPlayer"
                 ]
@@ -647,6 +668,7 @@
             {
                 "country": "United Kingdom",
                 "channels": [
+                    "Discovery+",
                     "BBC One",
                     "BBC iPlayer"
                 ]
@@ -904,15 +926,15 @@
                 "country": "Ireland",
                 "channels": [
                     "Sky Sports Ultra HDR",
-                    "Sky Sports Football",
-                    "Sky Sports Main Event"
+                    "Sky Sports Main Event",
+                    "Sky Sports Football"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Sky Sports Football",
-                    "Sky Sports Main Event"
+                    "Sky Sports Main Event",
+                    "Sky Sports Football"
                 ]
             }
         ]
@@ -929,15 +951,15 @@
                 "country": "Ireland",
                 "channels": [
                     "Sky Sports Ultra HDR",
-                    "Sky Sports Football",
-                    "Sky Sports Main Event"
+                    "Sky Sports Main Event",
+                    "Sky Sports Football"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Sky Sports Football",
-                    "Sky Sports Main Event"
+                    "Sky Sports Main Event",
+                    "Sky Sports Football"
                 ]
             }
         ]
@@ -2139,7 +2161,20 @@
         "league_id": 192,
         "league": "Premier Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOI TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "LOI TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15590541,
@@ -2270,12 +2305,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 14065049,
-        "kickoff": 1772899200,
-        "fixture": "CFR 1907 Cluj vs FC Dinamo Bucure\u0219ti",
+        "match_id": 14065050,
+        "kickoff": 1772818200,
+        "fixture": "FK Cs\u00edkszereda Miercurea Ciuc vs FC Farul Constan\u021ba",
         "league_id": 152,
         "league": "Superliga",
-        "venue": "Dr. Constantin Radulescu",
+        "venue": "Stadionul Municipal",
         "tv_channels": []
     },
     {
@@ -2288,15 +2323,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 14065052,
-        "kickoff": 1772899200,
-        "fixture": "FC Boto\u0219ani vs FC Petrolul Ploie\u0219ti",
-        "league_id": 152,
-        "league": "Superliga",
-        "venue": "Stadionul Municipal",
-        "tv_channels": []
-    },
-    {
         "match_id": 14065047,
         "kickoff": 1772899200,
         "fixture": "FC Metaloglobus Bucure\u0219ti vs UTA Arad",
@@ -2306,39 +2332,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 14065051,
-        "kickoff": 1772899200,
-        "fixture": "FC Rapid Bucure\u0219ti vs Universitatea Craiova",
-        "league_id": 152,
-        "league": "Superliga",
-        "venue": "Stadionul Rapid-Giulesti",
-        "tv_channels": []
-    },
-    {
         "match_id": 14065046,
-        "kickoff": 1772899200,
+        "kickoff": 1772906400,
         "fixture": "FCSB vs FC Universitatea Cluj",
         "league_id": 152,
         "league": "Superliga",
         "venue": "National Arena",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14065050,
-        "kickoff": 1772899200,
-        "fixture": "FK Cs\u00edkszereda Miercurea Ciuc vs FC Farul Constan\u021ba",
-        "league_id": 152,
-        "league": "Superliga",
-        "venue": "Stadionul Municipal",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14065048,
-        "kickoff": 1772899200,
-        "fixture": "SC O\u021belul Gala\u021bi vs FC Hermannstadt",
-        "league_id": 152,
-        "league": "Superliga",
-        "venue": "Stadionul O\u021belul",
         "tv_channels": []
     },
     {
@@ -4668,7 +4667,20 @@
         "league_id": 193,
         "league": "First Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOI TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "LOI TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14302789,
@@ -5496,15 +5508,6 @@
         "league_id": 29,
         "league": "NM Cup",
         "venue": "KFUM Arena",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14770558,
-        "kickoff": 1772906400,
-        "fixture": "Molde FK vs Bod\u00f8/Glimt",
-        "league_id": 29,
-        "league": "NM Cup",
-        "venue": "Aker Stadion",
         "tv_channels": []
     },
     {
@@ -6494,6 +6497,15 @@
         "fixture": "PVF-C\u00f4ng An Nh\u00e2n D\u00e2n vs Th\u00e9p Xanh Nam \u0110\u1ecbnh",
         "league_id": 626,
         "league": "V-League 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15639969,
+        "kickoff": 1772924400,
+        "fixture": "Mexico vs Brazil",
+        "league_id": 852,
+        "league": "International Friendly Games, Women",
         "venue": "TBA",
         "tv_channels": []
     },
