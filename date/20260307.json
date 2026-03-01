@@ -6,7 +6,14 @@
         "league_id": 23,
         "league": "Serie A",
         "venue": "Stadio Diego Armando Maradona",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 13981693,
@@ -15,7 +22,15 @@
         "league_id": 23,
         "league": "Serie A",
         "venue": "Unipol Domus",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+",
+                    "ESPN 4"
+                ]
+            }
+        ]
     },
     {
         "match_id": 13981695,
@@ -24,7 +39,15 @@
         "league_id": 23,
         "league": "Serie A",
         "venue": "New Balance Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+",
+                    "ESPN 4"
+                ]
+            }
+        ]
     },
     {
         "match_id": 13981697,
@@ -33,7 +56,14 @@
         "league_id": 23,
         "league": "Serie A",
         "venue": "Allianz Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 13981701,
@@ -42,7 +72,15 @@
         "league_id": 23,
         "league": "Serie A",
         "venue": "Via del Mare",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+",
+                    "ESPN 4"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14083607,
@@ -51,7 +89,14 @@
         "league_id": 8,
         "league": "LaLiga",
         "venue": "Estadio Abanca Bala\u00eddos",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14081805,
@@ -60,7 +105,14 @@
         "league_id": 8,
         "league": "LaLiga",
         "venue": "Estadio El Sadar",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14081802,
@@ -69,7 +121,15 @@
         "league_id": 8,
         "league": "LaLiga",
         "venue": "Ciudad de Valencia",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+",
+                    "ESPN 3"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14083602,
@@ -78,7 +138,14 @@
         "league_id": 8,
         "league": "LaLiga",
         "venue": "Riyadh Air Metropolitano",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14083597,
@@ -87,7 +154,15 @@
         "league_id": 8,
         "league": "LaLiga",
         "venue": "San Mam\u00e9s",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "ESPN",
+                    "Disney+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14062228,
@@ -101,6 +176,13 @@
                 "country": "Austria",
                 "channels": [
                     "Sky Sport Bundesliga"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball",
+                    "Xsports"
                 ]
             },
             {
@@ -136,7 +218,14 @@
         "league_id": 35,
         "league": "Bundesliga",
         "venue": "Voith-Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14065179,
@@ -145,7 +234,14 @@
         "league_id": 35,
         "league": "Bundesliga",
         "venue": "MEWA Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14065180,
@@ -154,7 +250,14 @@
         "league_id": 35,
         "league": "Bundesliga",
         "venue": "Red Bull Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14062233,
@@ -163,7 +266,14 @@
         "league_id": 35,
         "league": "Bundesliga",
         "venue": "Europa-Park-Stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14065178,
@@ -172,7 +282,14 @@
         "league_id": 35,
         "league": "Bundesliga",
         "venue": "Volkswagen Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14065185,
@@ -183,15 +300,47 @@
         "venue": "RheinEnergieStadion",
         "tv_channels": [
             {
+                "country": "Austria",
+                "channels": [
+                    "Prime Video"
+                ]
+            },
+            {
+                "country": "Belgium",
+                "channels": [
+                    "Prime Video"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Prime Video",
+                    "OneFootball",
+                    "YouTube - Caz\u00e9TV"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "Sky Sports Football"
                 ]
             },
             {
+                "country": "Spain",
+                "channels": [
+                    "Prime Video"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "channels": [
                     "Sky Sports Football"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Prime Video"
                 ]
             }
         ]
@@ -203,7 +352,39 @@
         "league_id": 34,
         "league": "Ligue 1",
         "venue": "Parc des Princes",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Austria",
+                "channels": [
+                    "Prime Video"
+                ]
+            },
+            {
+                "country": "Belgium",
+                "channels": [
+                    "Prime Video"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Prime Video",
+                    "YouTube - Caz\u00e9TV"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "Prime Video"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Prime Video"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14167910,
@@ -212,7 +393,39 @@
         "league_id": 34,
         "league": "Ligue 1",
         "venue": "Stade de la Beaujoire",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Austria",
+                "channels": [
+                    "Prime Video"
+                ]
+            },
+            {
+                "country": "Belgium",
+                "channels": [
+                    "Prime Video"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Prime Video",
+                    "YouTube - Caz\u00e9TV"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "Prime Video"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Prime Video"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14167908,
@@ -221,7 +434,39 @@
         "league_id": 34,
         "league": "Ligue 1",
         "venue": "Stade de l'Abb\u00e9-Deschamps",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Austria",
+                "channels": [
+                    "Prime Video"
+                ]
+            },
+            {
+                "country": "Belgium",
+                "channels": [
+                    "Prime Video"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Prime Video",
+                    "YouTube - Caz\u00e9TV"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "Prime Video"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Prime Video"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14167896,
@@ -230,7 +475,39 @@
         "league_id": 34,
         "league": "Ligue 1",
         "venue": "Stadium de Toulouse",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Austria",
+                "channels": [
+                    "Prime Video"
+                ]
+            },
+            {
+                "country": "Belgium",
+                "channels": [
+                    "Prime Video"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Prime Video",
+                    "YouTube - Caz\u00e9TV"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "Prime Video"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Prime Video"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14288815,
@@ -266,7 +543,14 @@
         "league_id": 238,
         "league": "Liga Portugal Betclic",
         "venue": "Est\u00e1dio Municipal de Braga",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14288814,
@@ -442,6 +726,13 @@
                 ]
             },
             {
+                "country": "Brazil",
+                "channels": [
+                    "ESPN",
+                    "Disney+"
+                ]
+            },
+            {
                 "country": "Chad",
                 "channels": [
                     "beIN SPORTS 2"
@@ -475,9 +766,9 @@
                 "country": "Ireland",
                 "channels": [
                     "Discovery+",
+                    "BBC iPlayer",
                     "TNT Sports 1",
-                    "BBC One",
-                    "BBC iPlayer"
+                    "BBC One"
                 ]
             },
             {
@@ -592,8 +883,8 @@
                 "country": "United Kingdom",
                 "channels": [
                     "Discovery+",
-                    "BBC One",
-                    "BBC iPlayer"
+                    "BBC iPlayer",
+                    "BBC One"
                 ]
             },
             {
@@ -645,12 +936,19 @@
         "venue": "TBA",
         "tv_channels": [
             {
+                "country": "Brazil",
+                "channels": [
+                    "ESPN",
+                    "Disney+"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
-                    "TNT Sports 2",
                     "Discovery+",
-                    "BBC One",
-                    "BBC iPlayer"
+                    "TNT Sports 2",
+                    "BBC iPlayer",
+                    "BBC One"
                 ]
             },
             {
@@ -669,8 +967,8 @@
                 "country": "United Kingdom",
                 "channels": [
                     "Discovery+",
-                    "BBC One",
-                    "BBC iPlayer"
+                    "BBC iPlayer",
+                    "BBC One"
                 ]
             }
         ]
@@ -925,16 +1223,16 @@
             {
                 "country": "Ireland",
                 "channels": [
+                    "Sky Sports Football",
                     "Sky Sports Ultra HDR",
-                    "Sky Sports Main Event",
-                    "Sky Sports Football"
+                    "Sky Sports Main Event"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Sky Sports Main Event",
-                    "Sky Sports Football"
+                    "Sky Sports Football",
+                    "Sky Sports Main Event"
                 ]
             }
         ]
@@ -950,16 +1248,16 @@
             {
                 "country": "Ireland",
                 "channels": [
+                    "Sky Sports Football",
                     "Sky Sports Ultra HDR",
-                    "Sky Sports Main Event",
-                    "Sky Sports Football"
+                    "Sky Sports Main Event"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Sky Sports Main Event",
-                    "Sky Sports Football"
+                    "Sky Sports Football",
+                    "Sky Sports Main Event"
                 ]
             }
         ]
@@ -1110,7 +1408,14 @@
         "league_id": 44,
         "league": "2. Bundesliga",
         "venue": "VELTINS-Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14065464,
@@ -1119,7 +1424,14 @@
         "league_id": 44,
         "league": "2. Bundesliga",
         "venue": "Ursapharm-Arena an der Kaiserlinde",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14065471,
@@ -1128,7 +1440,14 @@
         "league_id": 44,
         "league": "2. Bundesliga",
         "venue": "Max-Morlock-Stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14065470,
@@ -1137,7 +1456,14 @@
         "league_id": 44,
         "league": "2. Bundesliga",
         "venue": "Merck-Stadion am B\u00f6llenfalltor",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14065466,
@@ -1146,7 +1472,14 @@
         "league_id": 44,
         "league": "2. Bundesliga",
         "venue": "Home Deluxe Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14065468,
@@ -1155,7 +1488,14 @@
         "league_id": 44,
         "league": "2. Bundesliga",
         "venue": "Vonovia Ruhrstadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14317748,
@@ -5481,15 +5821,6 @@
         "league_id": 29,
         "league": "NM Cup",
         "venue": "Egersund Idrettsparken",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14770555,
-        "kickoff": 1772906400,
-        "fixture": "Fredrikstad FK vs Sarpsborg 08",
-        "league_id": 29,
-        "league": "NM Cup",
-        "venue": "Fredrikstad Stadion",
         "tv_channels": []
     },
     {
