@@ -609,7 +609,21 @@
         "league_id": 19,
         "league": "FA Cup",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Discovery+",
+                    "TNT Sports 1"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Discovery+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15556602,
@@ -627,7 +641,34 @@
         "league_id": 19,
         "league": "FA Cup",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "BBC One",
+                    "BBC iPlayer"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "channels": [
+                    "BBC One"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "BBC One"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "BBC One",
+                    "BBC iPlayer"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15556597,
@@ -636,7 +677,21 @@
         "league_id": 19,
         "league": "FA Cup",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Discovery+",
+                    "TNT Sports 1"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Discovery+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15556598,
@@ -951,7 +1006,23 @@
         "league_id": 18,
         "league": "Championship",
         "venue": "Ewood Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Ultra HDR",
+                    "Sky Sports Football",
+                    "Sky Sports Main Event"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Football",
+                    "Sky Sports Main Event"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14059886,
@@ -2094,7 +2165,14 @@
         "league_id": 406,
         "league": "Liga 1, Apertura",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Peru",
+                "channels": [
+                    "Liga 1 Max"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15590543,
@@ -2107,7 +2185,7 @@
     },
     {
         "match_id": 15590587,
-        "kickoff": 1772917200,
+        "kickoff": 1772919000,
         "fixture": "Club Sporting Cristal vs Alianza Atl\u00e9tico de Sullana",
         "league_id": 406,
         "league": "Liga 1, Apertura",
@@ -2358,6 +2436,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 15285706,
+        "kickoff": 1772938800,
+        "fixture": "Orange County SC vs Las Vegas Lights",
+        "league_id": 13363,
+        "league": "USL Championship",
+        "venue": "Championship Soccer Stadium ",
+        "tv_channels": []
+    },
+    {
         "match_id": 15227340,
         "kickoff": 1772938800,
         "fixture": "Sacramento Republic FC vs FC Tulsa",
@@ -2376,17 +2463,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 15227344,
-        "kickoff": 1772920800,
-        "fixture": "AV Alta FC vs Richmond Kickers",
-        "league_id": 13362,
-        "league": "USL, League One",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 15227325,
-        "kickoff": 1772920800,
+        "kickoff": 1772928000,
         "fixture": "FC Naples vs Fort Wayne FC",
         "league_id": 13362,
         "league": "USL, League One",
@@ -2394,8 +2472,17 @@
         "tv_channels": []
     },
     {
+        "match_id": 15227370,
+        "kickoff": 1772928000,
+        "fixture": "Westchester SC vs One Knoxville SC",
+        "league_id": 13362,
+        "league": "USL, League One",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15227343,
-        "kickoff": 1772920800,
+        "kickoff": 1772929800,
         "fixture": "Sarasota Paradise vs AC Boise",
         "league_id": 13362,
         "league": "USL, League One",
@@ -2403,9 +2490,9 @@
         "tv_channels": []
     },
     {
-        "match_id": 15227370,
-        "kickoff": 1772920800,
-        "fixture": "Westchester SC vs One Knoxville SC",
+        "match_id": 15227344,
+        "kickoff": 1772940600,
+        "fixture": "AV Alta FC vs Richmond Kickers",
         "league_id": 13362,
         "league": "USL, League One",
         "venue": "TBA",
@@ -6499,6 +6586,33 @@
         "match_id": 15633745,
         "kickoff": 1772884800,
         "fixture": "US Monastir vs CS Sfaxien",
+        "league_id": 984,
+        "league": "Ligue 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15633748,
+        "kickoff": 1772971200,
+        "fixture": "JS Kairouanaise vs CA Bizertin",
+        "league_id": 984,
+        "league": "Ligue 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15633751,
+        "kickoff": 1772971200,
+        "fixture": "Stade Tunisien vs Etoile Sportive Du Sahel",
+        "league_id": 984,
+        "league": "Ligue 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15633750,
+        "kickoff": 1772971200,
+        "fixture": "US Ben Guerdane vs Club Africain",
         "league_id": 984,
         "league": "Ligue 1",
         "venue": "TBA",
