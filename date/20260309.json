@@ -62,6 +62,18 @@
                 "channels": [
                     "Disney+"
                 ]
+            },
+            {
+                "country": "Italy",
+                "channels": [
+                    "Sky Sport Calcio"
+                ]
+            },
+            {
+                "country": "San Marino",
+                "channels": [
+                    "Sky Sport Calcio"
+                ]
             }
         ]
     },
@@ -1261,17 +1273,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 15502463,
-        "kickoff": 1773007200,
-        "fixture": "Barcelona SC Guayaquil vs Emelec",
-        "league_id": 240,
-        "league": "LigaPro Serie A, Primera Etapa",
-        "venue": "Estadio Monumental Banco Pichincha",
-        "tv_channels": []
-    },
-    {
         "match_id": 15502466,
-        "kickoff": 1773012600,
+        "kickoff": 1772994600,
         "fixture": "Macar\u00e1 vs T\u00e9cnico Universitario",
         "league_id": 240,
         "league": "LigaPro Serie A, Primera Etapa",
@@ -2249,24 +2252,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 14489934,
-        "kickoff": 1772982000,
-        "fixture": "Samartex vs Dreams",
-        "league_id": 1191,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14489932,
-        "kickoff": 1772982000,
-        "fixture": "Vision FC vs Berekum Chelsea",
-        "league_id": 1191,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 14489933,
         "kickoff": 1772982000,
         "fixture": "Young Apostles FC vs Bibiani Gold Stars FC",
@@ -2569,6 +2554,69 @@
         "fixture": "Monopoli vs Casarano",
         "league_id": 11446,
         "league": "Serie C, Group C",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14068693,
+        "kickoff": 1772964000,
+        "fixture": "Hellas Verona U20 vs Frosinone U20",
+        "league_id": 2292,
+        "league": "Primavera 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14068694,
+        "kickoff": 1772964000,
+        "fixture": "Roma U20 vs Parma U20",
+        "league_id": 2292,
+        "league": "Primavera 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14068698,
+        "kickoff": 1772971200,
+        "fixture": "Inter U20 vs Fiorentina U20",
+        "league_id": 2292,
+        "league": "Primavera 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14068697,
+        "kickoff": 1772978400,
+        "fixture": "Cagliari U20 vs Monza U20",
+        "league_id": 2292,
+        "league": "Primavera 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14068695,
+        "kickoff": 1773050400,
+        "fixture": "Lecce U20 vs Torino U20",
+        "league_id": 2292,
+        "league": "Primavera 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14068696,
+        "kickoff": 1773057600,
+        "fixture": "Cremonese U20 vs Atalanta U20",
+        "league_id": 2292,
+        "league": "Primavera 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14068706,
+        "kickoff": 1773064800,
+        "fixture": "Cesena U20 vs Milan U20",
+        "league_id": 2292,
+        "league": "Primavera 1",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -3230,6 +3278,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 14260899,
+        "kickoff": 1772964000,
+        "fixture": "CSM Re\u015fi\u0163a vs FC Corvinul Hunedoara",
+        "league_id": 562,
+        "league": "Liga II",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15551852,
         "kickoff": 1772974800,
         "fixture": "Torpedo Moscow vs Rodina Moscow",
@@ -3326,7 +3383,20 @@
         "league_id": 347,
         "league": "Scottish Cup",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 1 HD"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 1 HD"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15511609,
