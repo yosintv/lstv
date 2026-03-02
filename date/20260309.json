@@ -10,8 +10,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN 4"
+                    "ESPN 4",
+                    "Disney+"
                 ]
             }
         ]
@@ -27,8 +27,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN 4"
+                    "ESPN 4",
+                    "Disney+"
                 ]
             }
         ]
@@ -221,6 +221,12 @@
                 "channels": [
                     "YouTube - Caz\u00e9TV",
                     "Prime Video"
+                ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "Ligue 1+"
                 ]
             },
             {
@@ -795,7 +801,20 @@
         "league_id": 18,
         "league": "Championship",
         "venue": "Loftus Road Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Football"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Football"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14083383,
@@ -1843,6 +1862,15 @@
         ]
     },
     {
+        "match_id": 15643468,
+        "kickoff": 1773003600,
+        "fixture": "Cruzeiro vs Atl\u00e9tico Mineiro",
+        "league_id": 379,
+        "league": "Mineiro M\u00f3dulo I - Playoffs",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15603936,
         "kickoff": 1773003600,
         "fixture": "Campinense vs Sousa EC",
@@ -2713,6 +2741,24 @@
         "league_id": 199,
         "league": "1. MFL",
         "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14770556,
+        "kickoff": 1772974800,
+        "fixture": "Tromsdalen UIL vs SK Brann",
+        "league_id": 29,
+        "league": "NM Cup",
+        "venue": "Tuil Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14770557,
+        "kickoff": 1772982000,
+        "fixture": "Bryne FK vs Rosenborg BK",
+        "league_id": 29,
+        "league": "NM Cup",
+        "venue": "Bryne Stadion",
         "tv_channels": []
     },
     {
