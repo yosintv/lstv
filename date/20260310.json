@@ -58,8 +58,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "HBO Max",
-                    "SBT"
+                    "SBT",
+                    "HBO Max"
                 ]
             }
         ]
@@ -93,8 +93,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             }
         ]
@@ -171,8 +171,8 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "TNT Sports 1",
-                    "Discovery+"
+                    "Discovery+",
+                    "TNT Sports 1"
                 ]
             },
             {
@@ -722,6 +722,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 15530886,
+        "kickoff": 1773163800,
+        "fixture": "Al Bataeh vs Ajman",
+        "league_id": 971,
+        "league": "Pro League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15652376,
+        "kickoff": 1773163800,
+        "fixture": "Al-Dhafra vs Al-Jazira",
+        "league_id": 971,
+        "league": "Pro League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 14117860,
         "kickoff": 1773169200,
         "fixture": "Jong KRC Genk U23 vs Club NXT U23",
@@ -767,6 +785,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 15269994,
+        "kickoff": 1773174600,
+        "fixture": "Newell's Old Boys vs Platense",
+        "league_id": 155,
+        "league": "Liga Profesional de F\u00fatbol, Apertura",
+        "venue": "Estadio Marcelo Bielsa",
+        "tv_channels": []
+    },
+    {
         "match_id": 15270005,
         "kickoff": 1773182700,
         "fixture": "CA Independiente vs Club Atl\u00e9tico Uni\u00f3n de Santa Fe",
@@ -777,11 +804,20 @@
     },
     {
         "match_id": 15269992,
-        "kickoff": 1773193500,
+        "kickoff": 1773182700,
         "fixture": "Tigre vs V\u00e9lez Sarsfield",
         "league_id": 155,
         "league": "Liga Profesional de F\u00fatbol, Apertura",
         "venue": "Estadio Jose Dellagiovanna",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15270014,
+        "kickoff": 1773190800,
+        "fixture": "Sarmiento vs Racing Club",
+        "league_id": 155,
+        "league": "Liga Profesional de F\u00fatbol, Apertura",
+        "venue": "Estadio Eva Per\u00f3n",
         "tv_channels": []
     },
     {

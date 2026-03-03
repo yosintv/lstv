@@ -10,8 +10,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN 4"
+                    "ESPN 4",
+                    "Disney+"
                 ]
             }
         ]
@@ -27,8 +27,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN 4"
+                    "ESPN 4",
+                    "Disney+"
                 ]
             }
         ]
@@ -72,9 +72,9 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
+                    "Prime Video",
                     "YouTube - Caz\u00e9TV",
-                    "Prime Video"
+                    "Disney+"
                 ]
             },
             {
@@ -211,9 +211,9 @@
             {
                 "country": "Brazil",
                 "channels": [
+                    "ESPN",
                     "Disney+",
-                    "YouTube - ESPN Brasil",
-                    "ESPN"
+                    "YouTube - ESPN Brasil"
                 ]
             },
             {
@@ -250,8 +250,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "OneFootball",
-                    "Canal Goat"
+                    "Canal Goat",
+                    "OneFootball"
                 ]
             }
         ]
@@ -267,9 +267,9 @@
             {
                 "country": "Brazil",
                 "channels": [
+                    "Canal Goat",
                     "OneFootball",
-                    "RedeTV!",
-                    "Canal Goat"
+                    "RedeTV!"
                 ]
             }
         ]
@@ -297,8 +297,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "YouTube - Caz\u00e9TV",
-                    "Prime Video"
+                    "Prime Video",
+                    "YouTube - Caz\u00e9TV"
                 ]
             },
             {
@@ -344,8 +344,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "YouTube - Caz\u00e9TV",
-                    "Prime Video"
+                    "Prime Video",
+                    "YouTube - Caz\u00e9TV"
                 ]
             },
             {
@@ -385,8 +385,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "YouTube - Caz\u00e9TV",
-                    "Prime Video"
+                    "Prime Video",
+                    "YouTube - Caz\u00e9TV"
                 ]
             },
             {
@@ -435,8 +435,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "YouTube - Caz\u00e9TV",
-                    "Prime Video"
+                    "Prime Video",
+                    "YouTube - Caz\u00e9TV"
                 ]
             },
             {
@@ -696,8 +696,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             },
             {
@@ -725,15 +725,15 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             },
             {
                 "country": "Ireland",
                 "channels": [
-                    "TNT Sports 1",
-                    "Discovery+"
+                    "Discovery+",
+                    "TNT Sports 1"
                 ]
             },
             {
@@ -755,8 +755,8 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "TNT Sports 1",
-                    "Discovery+"
+                    "Discovery+",
+                    "TNT Sports 1"
                 ]
             },
             {
@@ -2000,7 +2000,7 @@
     },
     {
         "match_id": 15648858,
-        "kickoff": 1772992800,
+        "kickoff": 1773003600,
         "fixture": "Fluminense vs Flamengo",
         "league_id": 92,
         "league": "Carioca S\u00e9rie A \u2013 Mata-mata",
@@ -2056,7 +2056,7 @@
         "fixture": "Cruzeiro vs Atl\u00e9tico Mineiro",
         "league_id": 379,
         "league": "Mineiro M\u00f3dulo I - Playoffs",
-        "venue": "TBA",
+        "venue": "Governador Magalh\u00e3es Pinto",
         "tv_channels": []
     },
     {
@@ -3186,7 +3186,7 @@
     },
     {
         "match_id": 15444580,
-        "kickoff": 1772991000,
+        "kickoff": 1772982000,
         "fixture": "USC Paredes vs AD Fafe",
         "league_id": 17101,
         "league": "Liga 3, Relegation Round, Group 1",
@@ -3618,7 +3618,22 @@
         "league_id": 347,
         "league": "Scottish Cup",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "BBC iPlayer",
+                    "BBC Scotland"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "BBC iPlayer",
+                    "BBC Scotland"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14195539,
@@ -3879,6 +3894,15 @@
         "league_id": 18641,
         "league": "MLS Next Pro",
         "venue": "Providence Park",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15420842,
+        "kickoff": 1773003600,
+        "fixture": "New England Revolution II vs Toronto FC II",
+        "league_id": 18641,
+        "league": "MLS Next Pro",
+        "venue": "Beirne Stadium",
         "tv_channels": []
     },
     {
