@@ -72,9 +72,9 @@
             {
                 "country": "Brazil",
                 "channels": [
+                    "Disney+",
                     "Prime Video",
-                    "YouTube - Caz\u00e9TV",
-                    "Disney+"
+                    "YouTube - Caz\u00e9TV"
                 ]
             },
             {
@@ -187,9 +187,21 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
+                    "YouTube - ESPN Brasil",
                     "ESPN",
-                    "YouTube - ESPN Brasil"
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 1 HD"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 1 HD"
                 ]
             }
         ]
@@ -214,8 +226,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "OneFootball",
-                    "Canal Goat"
+                    "Canal Goat",
+                    "OneFootball"
                 ]
             }
         ]
@@ -232,8 +244,8 @@
                 "country": "Brazil",
                 "channels": [
                     "RedeTV!",
-                    "OneFootball",
-                    "Canal Goat"
+                    "Canal Goat",
+                    "OneFootball"
                 ]
             }
         ]
@@ -660,8 +672,20 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Discovery+"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Discovery+"
                 ]
             }
         ]
@@ -677,8 +701,21 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Discovery+",
+                    "TNT Sports 1"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Discovery+"
                 ]
             }
         ]
@@ -690,7 +727,20 @@
         "league_id": 19,
         "league": "FA Cup",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Discovery+"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Discovery+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15479160,
@@ -1291,7 +1341,20 @@
         "league_id": 24,
         "league": "League One",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Football"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Football"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15502469,
@@ -1415,7 +1478,14 @@
         "league_id": 406,
         "league": "Liga 1, Apertura",
         "venue": "Estadio Alejandro Villanueva",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Peru",
+                "channels": [
+                    "Liga 1 Max"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14065048,
@@ -1873,6 +1943,15 @@
         "fixture": "Slavia Mozyr vs Arsenal Dzerzhinsk",
         "league_id": 578,
         "league": "Belarus Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15648858,
+        "kickoff": 1773003600,
+        "fixture": "Fluminense vs Flamengo",
+        "league_id": 92,
+        "league": "Carioca S\u00e9rie A \u2013 Mata-mata",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -3360,6 +3439,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 15645564,
+        "kickoff": 1773068400,
+        "fixture": "ASA T\u00e2rgu Mure\u015f vs Chindia T\u00e2rgovi\u0219te",
+        "league_id": 562,
+        "league": "Liga II",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15551852,
         "kickoff": 1772974800,
         "fixture": "Torpedo Moscow vs Rodina Moscow",
@@ -3913,6 +4001,33 @@
         "tv_channels": []
     },
     {
+        "match_id": 15362578,
+        "kickoff": 1772998200,
+        "fixture": "Rayo Zuliano vs Universidad Central",
+        "league_id": 231,
+        "league": "Primera Division, Apertura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15362575,
+        "kickoff": 1773005400,
+        "fixture": "Metropolitanos vs Portuguesa FC",
+        "league_id": 231,
+        "league": "Primera Division, Apertura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15362579,
+        "kickoff": 1773012600,
+        "fixture": "Monagas vs Trujillanos FC",
+        "league_id": 231,
+        "league": "Primera Division, Apertura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15485533,
         "kickoff": 1772967600,
         "fixture": "Becamex Ho Chi Minh City FC vs Th\u1ec3 C\u00f4ng - Viettel",
@@ -3936,6 +4051,15 @@
         "fixture": "H\u00e0 N\u1ed9i vs C\u00f4ng An H\u00e0 N\u1ed9i",
         "league_id": 626,
         "league": "V-League 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15518617,
+        "kickoff": 1772976600,
+        "fixture": "CPD Y Rhyl 1879 vs Caernarfon Town",
+        "league_id": 388,
+        "league": "FAW Welsh Cup",
         "venue": "TBA",
         "tv_channels": []
     }
