@@ -10,8 +10,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 4",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 4"
                 ]
             }
         ]
@@ -27,8 +27,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 4",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 4"
                 ]
             }
         ]
@@ -73,8 +73,20 @@
                 "country": "Brazil",
                 "channels": [
                     "Disney+",
-                    "Prime Video",
-                    "YouTube - Caz\u00e9TV"
+                    "YouTube - Caz\u00e9TV",
+                    "Prime Video"
+                ]
+            },
+            {
+                "country": "Denmark",
+                "channels": [
+                    "TV2 Play Denmark"
+                ]
+            },
+            {
+                "country": "Faroe Islands",
+                "channels": [
+                    "TV2 Play Denmark"
                 ]
             },
             {
@@ -115,6 +127,18 @@
                 "country": "Brazil",
                 "channels": [
                     "Disney+"
+                ]
+            },
+            {
+                "country": "Denmark",
+                "channels": [
+                    "TV2 Play Denmark"
+                ]
+            },
+            {
+                "country": "Faroe Islands",
+                "channels": [
+                    "TV2 Play Denmark"
                 ]
             }
         ]
@@ -187,9 +211,9 @@
             {
                 "country": "Brazil",
                 "channels": [
+                    "Disney+",
                     "YouTube - ESPN Brasil",
-                    "ESPN",
-                    "Disney+"
+                    "ESPN"
                 ]
             },
             {
@@ -226,8 +250,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Canal Goat",
-                    "OneFootball"
+                    "OneFootball",
+                    "Canal Goat"
                 ]
             }
         ]
@@ -243,9 +267,9 @@
             {
                 "country": "Brazil",
                 "channels": [
+                    "OneFootball",
                     "RedeTV!",
-                    "Canal Goat",
-                    "OneFootball"
+                    "Canal Goat"
                 ]
             }
         ]
@@ -273,8 +297,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Prime Video",
-                    "YouTube - Caz\u00e9TV"
+                    "YouTube - Caz\u00e9TV",
+                    "Prime Video"
                 ]
             },
             {
@@ -320,8 +344,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Prime Video",
-                    "YouTube - Caz\u00e9TV"
+                    "YouTube - Caz\u00e9TV",
+                    "Prime Video"
                 ]
             },
             {
@@ -361,8 +385,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Prime Video",
-                    "YouTube - Caz\u00e9TV"
+                    "YouTube - Caz\u00e9TV",
+                    "Prime Video"
                 ]
             },
             {
@@ -411,8 +435,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Prime Video",
-                    "YouTube - Caz\u00e9TV"
+                    "YouTube - Caz\u00e9TV",
+                    "Prime Video"
                 ]
             },
             {
@@ -672,8 +696,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             },
             {
@@ -701,15 +725,15 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Ireland",
                 "channels": [
-                    "Discovery+",
-                    "TNT Sports 1"
+                    "TNT Sports 1",
+                    "Discovery+"
                 ]
             },
             {
@@ -731,6 +755,7 @@
             {
                 "country": "Ireland",
                 "channels": [
+                    "TNT Sports 1",
                     "Discovery+"
                 ]
             },
@@ -811,7 +836,7 @@
         "fixture": "HNK Vukovar 1991 vs HNK Rijeka",
         "league_id": 170,
         "league": "HNL",
-        "venue": "Stadion HNK Cibalia",
+        "venue": "Stadion Gradski vrt",
         "tv_channels": []
     },
     {
@@ -1224,6 +1249,33 @@
         "league_id": 11653,
         "league": "Liga de Primera",
         "venue": "Nacional Julio Mart\u00ednez Pr\u00e1danos",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15362578,
+        "kickoff": 1772998200,
+        "fixture": "Rayo Zuliano vs Universidad Central",
+        "league_id": 231,
+        "league": "Primera Division, Apertura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15362575,
+        "kickoff": 1773005400,
+        "fixture": "Metropolitanos vs Portuguesa FC",
+        "league_id": 231,
+        "league": "Primera Division, Apertura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15362579,
+        "kickoff": 1773012600,
+        "fixture": "Monagas vs Trujillanos FC",
+        "league_id": 231,
+        "league": "Primera Division, Apertura",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -1948,7 +2000,7 @@
     },
     {
         "match_id": 15648858,
-        "kickoff": 1773003600,
+        "kickoff": 1772992800,
         "fixture": "Fluminense vs Flamengo",
         "league_id": 92,
         "league": "Carioca S\u00e9rie A \u2013 Mata-mata",
@@ -2152,6 +2204,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 14222870,
+        "kickoff": 1772978400,
+        "fixture": "Apollon Limassol vs AEL Limassol",
+        "league_id": 171,
+        "league": "1st Division",
+        "venue": "Alphamega Stadium",
+        "tv_channels": []
+    },
+    {
         "match_id": 14222874,
         "kickoff": 1772978400,
         "fixture": "Enosis Neon Paralimniou vs Aris Limassol",
@@ -2167,15 +2228,6 @@
         "league_id": 171,
         "league": "1st Division",
         "venue": "GSP Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14222870,
-        "kickoff": 1772989200,
-        "fixture": "Apollon Limassol vs AEL Limassol",
-        "league_id": 171,
-        "league": "1st Division",
-        "venue": "Alphamega Stadium",
         "tv_channels": []
     },
     {
@@ -3998,33 +4050,6 @@
         "league_id": 278,
         "league": "Liga AUF Uruguaya, Apertura",
         "venue": "Estadio Campeones Olimpicos",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15362578,
-        "kickoff": 1772998200,
-        "fixture": "Rayo Zuliano vs Universidad Central",
-        "league_id": 231,
-        "league": "Primera Division, Apertura",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15362575,
-        "kickoff": 1773005400,
-        "fixture": "Metropolitanos vs Portuguesa FC",
-        "league_id": 231,
-        "league": "Primera Division, Apertura",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15362579,
-        "kickoff": 1773012600,
-        "fixture": "Monagas vs Trujillanos FC",
-        "league_id": 231,
-        "league": "Primera Division, Apertura",
-        "venue": "TBA",
         "tv_channels": []
     },
     {

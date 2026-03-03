@@ -6,7 +6,14 @@
         "league_id": 7,
         "league": "UEFA Champions League, Knockout stage",
         "venue": "Rams Park Stadyumu",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "HBO Max"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15631361,
@@ -15,7 +22,14 @@
         "league_id": 7,
         "league": "UEFA Champions League, Knockout stage",
         "venue": "New Balance Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "HBO Max"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15631356,
@@ -24,7 +38,14 @@
         "league_id": 7,
         "league": "UEFA Champions League, Knockout stage",
         "venue": "Riyadh Air Metropolitano",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "HBO Max"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15631347,
@@ -33,7 +54,15 @@
         "league_id": 7,
         "league": "UEFA Champions League, Knockout stage",
         "venue": "St James' Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "HBO Max",
+                    "SBT"
+                ]
+            }
+        ]
     },
     {
         "match_id": 13981699,
@@ -60,7 +89,15 @@
         "league_id": 384,
         "league": "CONMEBOL Libertadores, Qualification",
         "venue": "Est\u00e1dio Nilton Santos",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+",
+                    "ESPN"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14288816,
@@ -78,7 +115,14 @@
         "league_id": 325,
         "league": "Brasileir\u00e3o Betano",
         "venue": "Est\u00e1dio Jos\u00e9 Maria de Campos Maia",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Premiere"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14109829,
@@ -127,6 +171,7 @@
             {
                 "country": "Ireland",
                 "channels": [
+                    "TNT Sports 1",
                     "Discovery+"
                 ]
             },
@@ -728,6 +773,15 @@
         "league_id": 155,
         "league": "Liga Profesional de F\u00fatbol, Apertura",
         "venue": "Libertadores de America",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15269992,
+        "kickoff": 1773193500,
+        "fixture": "Tigre vs V\u00e9lez Sarsfield",
+        "league_id": 155,
+        "league": "Liga Profesional de F\u00fatbol, Apertura",
+        "venue": "Estadio Jose Dellagiovanna",
         "tv_channels": []
     },
     {
