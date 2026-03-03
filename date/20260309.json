@@ -10,8 +10,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN 4"
+                    "ESPN 4",
+                    "Disney+"
                 ]
             }
         ]
@@ -27,8 +27,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN 4"
+                    "ESPN 4",
+                    "Disney+"
                 ]
             }
         ]
@@ -58,8 +58,22 @@
         "venue": "Luigi Ferraris",
         "tv_channels": [
             {
+                "country": "Austria",
+                "channels": [
+                    "Prime Video"
+                ]
+            },
+            {
+                "country": "Belgium",
+                "channels": [
+                    "Prime Video"
+                ]
+            },
+            {
                 "country": "Brazil",
                 "channels": [
+                    "Prime Video",
+                    "YouTube - Caz\u00e9TV",
                     "Disney+"
                 ]
             },
@@ -73,6 +87,18 @@
                 "country": "San Marino",
                 "channels": [
                     "Sky Sport Calcio"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "Prime Video"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Prime Video"
                 ]
             }
         ]
@@ -161,8 +187,9 @@
             {
                 "country": "Brazil",
                 "channels": [
+                    "Disney+",
                     "ESPN",
-                    "Disney+"
+                    "YouTube - ESPN Brasil"
                 ]
             }
         ]
@@ -187,7 +214,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "OneFootball"
+                    "OneFootball",
+                    "Canal Goat"
                 ]
             }
         ]
@@ -203,7 +231,9 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "OneFootball"
+                    "RedeTV!",
+                    "OneFootball",
+                    "Canal Goat"
                 ]
             }
         ]
@@ -231,8 +261,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "YouTube - Caz\u00e9TV",
-                    "Prime Video"
+                    "Prime Video",
+                    "YouTube - Caz\u00e9TV"
                 ]
             },
             {
@@ -278,8 +308,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "YouTube - Caz\u00e9TV",
-                    "Prime Video"
+                    "Prime Video",
+                    "YouTube - Caz\u00e9TV"
                 ]
             },
             {
@@ -319,8 +349,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "YouTube - Caz\u00e9TV",
-                    "Prime Video"
+                    "Prime Video",
+                    "YouTube - Caz\u00e9TV"
                 ]
             },
             {
@@ -369,8 +399,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "YouTube - Caz\u00e9TV",
-                    "Prime Video"
+                    "Prime Video",
+                    "YouTube - Caz\u00e9TV"
                 ]
             },
             {
@@ -630,8 +660,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             }
         ]
@@ -647,8 +677,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             }
         ]
@@ -709,7 +739,7 @@
     },
     {
         "match_id": 15238982,
-        "kickoff": 1773025200,
+        "kickoff": 1773025560,
         "fixture": "Club Tijuana vs Santos Laguna",
         "league_id": 11620,
         "league": "Liga MX, Clausura",
@@ -1336,6 +1366,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 15648600,
+        "kickoff": 1773085500,
+        "fixture": "Shelbourne vs Shamrock Rovers",
+        "league_id": 192,
+        "league": "Premier Division",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15590539,
         "kickoff": 1772993700,
         "fixture": "Asociaci\u00f3n Deportiva Tarma vs ADC Juan Pablo II",
@@ -1351,7 +1390,14 @@
         "league_id": 406,
         "league": "Liga 1, Apertura",
         "venue": "Estadio Los Chankas",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Peru",
+                "channels": [
+                    "Liga 1 Max"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15590542,
@@ -1910,6 +1956,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 15646934,
+        "kickoff": 1773000000,
+        "fixture": "AO Itabaiana vs Am\u00e9rica-SE",
+        "league_id": 11665,
+        "league": "Sergipano,  S\u00e9rie A1 \u2013 Mata-mata",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 14598663,
         "kickoff": 1772966700,
         "fixture": "FK Dobrudzha Dobrich vs Beroe Stara Zagora",
@@ -1965,7 +2020,7 @@
     },
     {
         "match_id": 15416147,
-        "kickoff": 1773090000,
+        "kickoff": 1773012600,
         "fixture": "Rangers de Talca vs San Luis de Quillota",
         "league_id": 1240,
         "league": "Liga de Ascenso",
