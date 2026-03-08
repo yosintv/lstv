@@ -129,8 +129,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 4",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 4"
                 ]
             }
         ]
@@ -194,8 +194,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 4",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 4"
                 ]
             }
         ]
@@ -211,8 +211,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 4",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 4"
                 ]
             }
         ]
@@ -524,9 +524,9 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "OneFootball",
+                    "YouTube - Caz\u00e9TV",
                     "Prime Video",
-                    "YouTube - Caz\u00e9TV"
+                    "OneFootball"
                 ]
             },
             {
@@ -662,9 +662,9 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "OneFootball",
+                    "YouTube - Caz\u00e9TV",
                     "Prime Video",
-                    "YouTube - Caz\u00e9TV"
+                    "OneFootball"
                 ]
             },
             {
@@ -984,7 +984,14 @@
         "league_id": 238,
         "league": "Liga Portugal Betclic",
         "venue": "Est\u00e1dio Cidade de Barcelos",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Sport TV1"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14288830,
@@ -997,8 +1004,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 4",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 4"
                 ]
             }
         ]
@@ -1538,8 +1545,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN 3"
+                    "ESPN 3",
+                    "Disney+"
                 ]
             }
         ]
@@ -1555,8 +1562,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 4",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 4"
                 ]
             }
         ]
@@ -2210,7 +2217,20 @@
         "league_id": 53,
         "league": "Serie B",
         "venue": "U-Power Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bermuda",
+                "channels": [
+                    "Fox Soccer Plus"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Fox Soccer Plus"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14317603,
@@ -3141,8 +3161,8 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "Liga 1 Max",
-                    "Liga 1 Play"
+                    "Liga 1 Play",
+                    "Liga 1 Max"
                 ]
             }
         ]
@@ -3158,8 +3178,8 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "Liga 1 Max",
-                    "Liga 1 Play"
+                    "Liga 1 Play",
+                    "Liga 1 Max"
                 ]
             }
         ]
@@ -3175,8 +3195,8 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "Liga 1 Max",
-                    "Liga 1 Play"
+                    "Liga 1 Play",
+                    "Liga 1 Max"
                 ]
             }
         ]
@@ -3192,8 +3212,8 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "Liga 1 Max",
-                    "Liga 1 Play"
+                    "Liga 1 Play",
+                    "Liga 1 Max"
                 ]
             }
         ]
@@ -3250,7 +3270,20 @@
         "league_id": 955,
         "league": "Saudi Pro League",
         "venue": "Al-Khaleej Club Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bermuda",
+                "channels": [
+                    "Fox Soccer Plus"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Fox Soccer Plus"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14773766,
@@ -3749,8 +3782,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN 3"
+                    "ESPN 3",
+                    "Disney+"
                 ]
             }
         ]
@@ -5216,6 +5249,15 @@
         "match_id": 15388614,
         "kickoff": 1773590400,
         "fixture": "FC Rustavi vs FC Gagra",
+        "league_id": 704,
+        "league": "Erovnuli Liga",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15388601,
+        "kickoff": 1773658800,
+        "fixture": "Meshakhte Tkibuli vs Dinamo Batumi",
         "league_id": 704,
         "league": "Erovnuli Liga",
         "venue": "TBA",
