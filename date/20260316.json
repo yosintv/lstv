@@ -65,16 +65,16 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Sky Sports Premier League",
                     "Sky Sports Main Event",
-                    "Sky Sports Ultra HDR"
+                    "Sky Sports Ultra HDR",
+                    "Sky Sports Premier League"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Sky Sports Premier League",
-                    "Sky Sports Main Event"
+                    "Sky Sports Main Event",
+                    "Sky Sports Premier League"
                 ]
             }
         ]
@@ -153,15 +153,15 @@
             {
                 "country": "Italy",
                 "channels": [
-                    "Sky Sport Calcio",
-                    "NOW"
+                    "NOW",
+                    "Sky Sport Calcio"
                 ]
             },
             {
                 "country": "San Marino",
                 "channels": [
-                    "Sky Sport Calcio",
-                    "NOW"
+                    "NOW",
+                    "Sky Sport Calcio"
                 ]
             }
         ]
@@ -321,8 +321,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "YouTube - Caz\u00e9TV",
                     "OneFootball",
+                    "YouTube - Caz\u00e9TV",
                     "Prime Video"
                 ]
             },
@@ -781,8 +781,14 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Sky Sports Football",
-                    "Sky Sports Main Event"
+                    "Sky Sports Main Event",
+                    "Sky Sports Football"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "CBS Sports Network"
                 ]
             }
         ]
@@ -805,6 +811,12 @@
                 "country": "United Kingdom",
                 "channels": [
                     "Premier Sports 1 HD"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "CBS Sports Network"
                 ]
             }
         ]
@@ -847,8 +859,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN 3"
+                    "ESPN 3",
+                    "Disney+"
                 ]
             }
         ]
@@ -1292,6 +1304,24 @@
         "league_id": 136,
         "league": "A-League Men",
         "venue": "Allianz Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15689968,
+        "kickoff": 1773581400,
+        "fixture": "Red Bull Salzburg vs SK Rapid Wien",
+        "league_id": 45,
+        "league": "Austrian Bundesliga, Championship Round",
+        "venue": "Red Bull Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15689970,
+        "kickoff": 1773590400,
+        "fixture": "FK Austria Wien vs SK Sturm Graz",
+        "league_id": 45,
+        "league": "Austrian Bundesliga, Championship Round",
+        "venue": "Generali Arena",
         "tv_channels": []
     },
     {
@@ -1934,33 +1964,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 15603903,
-        "kickoff": 1773599400,
-        "fixture": "Al Shamal SC vs Al Duhail",
-        "league_id": 825,
-        "league": "Stars League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15603899,
-        "kickoff": 1773599400,
-        "fixture": "Al-Arabi SC vs Al-Sadd",
-        "league_id": 825,
-        "league": "Stars League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15603905,
-        "kickoff": 1773685800,
-        "fixture": "Al-Gharafa vs Al-Ahli Doha",
-        "league_id": 825,
-        "league": "Stars League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 15217106,
         "kickoff": 1773572400,
         "fixture": "True Bangkok United vs Port FC",
@@ -2092,7 +2095,20 @@
         "league_id": 10640,
         "league": "Serie A Femminile",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bermuda",
+                "channels": [
+                    "Fox Soccer Plus"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Fox Soccer Plus"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14287053,
@@ -2325,6 +2341,15 @@
         "fixture": "Arsenal Dzerzhinsk vs Slavia Mozyr",
         "league_id": 578,
         "league": "Belarus Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15690346,
+        "kickoff": 1773597600,
+        "fixture": "Botafogo-PB vs Sousa EC",
+        "league_id": 10295,
+        "league": "Paraibano, Mata-mata",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -3593,18 +3618,18 @@
         "tv_channels": []
     },
     {
-        "match_id": 14349102,
+        "match_id": 14263461,
         "kickoff": 1773586800,
-        "fixture": "Portimonense Sporting Clube vs LGC Moncarapachense",
+        "fixture": "SU Sintrense vs Com\u00e9rcio e Ind\u00fastria",
         "league_id": 10093,
         "league": "Campeonato de Portugal, Group D",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 14263461,
-        "kickoff": 1773586800,
-        "fixture": "SU Sintrense vs Com\u00e9rcio e Ind\u00fastria",
+        "match_id": 14349102,
+        "kickoff": 1773601200,
+        "fixture": "Portimonense Sporting Clube vs LGC Moncarapachense",
         "league_id": 10093,
         "league": "Campeonato de Portugal, Group D",
         "venue": "TBA",
