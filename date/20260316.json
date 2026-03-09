@@ -61,6 +61,21 @@
                 "channels": [
                     "Disney+"
                 ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Premier League",
+                    "Sky Sports Main Event",
+                    "Sky Sports Ultra HDR"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Premier League",
+                    "Sky Sports Main Event"
+                ]
             }
         ]
     },
@@ -134,6 +149,20 @@
                 "channels": [
                     "Disney+"
                 ]
+            },
+            {
+                "country": "Italy",
+                "channels": [
+                    "Sky Sport Calcio",
+                    "NOW"
+                ]
+            },
+            {
+                "country": "San Marino",
+                "channels": [
+                    "Sky Sport Calcio",
+                    "NOW"
+                ]
             }
         ]
     },
@@ -148,8 +177,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             }
         ]
@@ -190,8 +219,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 2",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 2"
                 ]
             }
         ]
@@ -292,9 +321,9 @@
             {
                 "country": "Brazil",
                 "channels": [
+                    "YouTube - Caz\u00e9TV",
                     "OneFootball",
-                    "Prime Video",
-                    "YouTube - Caz\u00e9TV"
+                    "Prime Video"
                 ]
             },
             {
@@ -334,8 +363,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Prime Video",
-                    "YouTube - Caz\u00e9TV"
+                    "YouTube - Caz\u00e9TV",
+                    "Prime Video"
                 ]
             },
             {
@@ -375,8 +404,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Prime Video",
-                    "YouTube - Caz\u00e9TV"
+                    "YouTube - Caz\u00e9TV",
+                    "Prime Video"
                 ]
             },
             {
@@ -416,8 +445,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Prime Video",
-                    "YouTube - Caz\u00e9TV"
+                    "YouTube - Caz\u00e9TV",
+                    "Prime Video"
                 ]
             },
             {
@@ -457,8 +486,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Prime Video",
-                    "YouTube - Caz\u00e9TV"
+                    "YouTube - Caz\u00e9TV",
+                    "Prime Video"
                 ]
             },
             {
@@ -741,7 +770,22 @@
         "league_id": 36,
         "league": "Scottish Premiership",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Main Event",
+                    "Sky Sports Football"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Football",
+                    "Sky Sports Main Event"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14035294,
@@ -750,7 +794,20 @@
         "league_id": 36,
         "league": "Scottish Premiership",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 1 HD"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 1 HD"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15270028,
@@ -1093,7 +1150,14 @@
         "league_id": 53,
         "league": "Serie B",
         "venue": "Stadio Comunale di Chiavari",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Italy",
+                "channels": [
+                    "LaB Channel - Prime Video"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14317600,
@@ -1448,7 +1512,7 @@
     },
     {
         "match_id": 15502474,
-        "kickoff": 1773615600,
+        "kickoff": 1773597600,
         "fixture": "Mushuc Runa SC vs Macar\u00e1",
         "league_id": 240,
         "league": "LigaPro Serie A, Primera Etapa",
@@ -1633,6 +1697,24 @@
         "league_id": 406,
         "league": "Liga 1, Apertura",
         "venue": "Estadio Inca Garcilaso de la Vega",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15689838,
+        "kickoff": 1773579600,
+        "fixture": "UTA Arad vs FC Hermannstadt",
+        "league_id": 152,
+        "league": "SuperLiga, Relegation round",
+        "venue": "Stadionul Francisc von Neumann",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15689839,
+        "kickoff": 1773675000,
+        "fixture": "FC Boto\u0219ani vs AFC Unirea 04 Slobozia",
+        "league_id": 152,
+        "league": "SuperLiga, Relegation round",
+        "venue": "Stadionul Municipal",
         "tv_channels": []
     },
     {
@@ -1952,8 +2034,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             }
         ]
@@ -2856,7 +2938,20 @@
         "league_id": 11447,
         "league": "Serie C, Group B",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Italy",
+                "channels": [
+                    "NOW"
+                ]
+            },
+            {
+                "country": "San Marino",
+                "channels": [
+                    "NOW"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14303568,
