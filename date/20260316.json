@@ -10,8 +10,14 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN 4"
+                    "ESPN 4",
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Peacock"
                 ]
             }
         ]
@@ -66,8 +72,8 @@
                 "country": "Ireland",
                 "channels": [
                     "Sky Sports Main Event",
-                    "Sky Sports Ultra HDR",
-                    "Sky Sports Premier League"
+                    "Sky Sports Premier League",
+                    "Sky Sports Ultra HDR"
                 ]
             },
             {
@@ -177,8 +183,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             }
         ]
@@ -774,15 +780,15 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Sky Sports Main Event",
-                    "Sky Sports Football"
+                    "Sky Sports Football",
+                    "Sky Sports Main Event"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Sky Sports Main Event",
-                    "Sky Sports Football"
+                    "Sky Sports Football",
+                    "Sky Sports Main Event"
                 ]
             },
             {
@@ -859,8 +865,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 3",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 3"
                 ]
             }
         ]
@@ -876,8 +882,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN 4"
+                    "ESPN 4",
+                    "Disney+"
                 ]
             }
         ]
@@ -2037,8 +2043,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             }
         ]
@@ -2346,7 +2352,7 @@
     },
     {
         "match_id": 15690346,
-        "kickoff": 1773597600,
+        "kickoff": 1773604800,
         "fixture": "Botafogo-PB vs Sousa EC",
         "league_id": 10295,
         "league": "Paraibano, Mata-mata",
