@@ -10,8 +10,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN 4"
+                    "ESPN 4",
+                    "Disney+"
                 ]
             },
             {
@@ -71,9 +71,9 @@
             {
                 "country": "Ireland",
                 "channels": [
+                    "Sky Sports Ultra HDR",
                     "Sky Sports Main Event",
-                    "Sky Sports Premier League",
-                    "Sky Sports Ultra HDR"
+                    "Sky Sports Premier League"
                 ]
             },
             {
@@ -92,7 +92,20 @@
         "league_id": 17,
         "league": "Premier League",
         "venue": "Brentford Community Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Premier League"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Premier League"
+                ]
+            }
+        ]
     },
     {
         "match_id": 13981710,
@@ -183,8 +196,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             }
         ]
@@ -261,8 +274,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN 2"
+                    "ESPN 2",
+                    "Disney+"
                 ]
             },
             {
@@ -414,7 +427,44 @@
         "league_id": 8,
         "league": "LaLiga",
         "venue": "Estadio de Vallecas",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Guam",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "Northern Mariana Islands",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "Puerto Rico",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "United States Minor Outlying Islands",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "Virgin Islands, U.S.",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14065189,
@@ -471,9 +521,9 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "YouTube - Caz\u00e9TV",
+                    "Prime Video",
                     "OneFootball",
-                    "Prime Video"
+                    "YouTube - Caz\u00e9TV"
                 ]
             },
             {
@@ -513,8 +563,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "YouTube - Caz\u00e9TV",
-                    "Prime Video"
+                    "Prime Video",
+                    "YouTube - Caz\u00e9TV"
                 ]
             },
             {
@@ -554,8 +604,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "YouTube - Caz\u00e9TV",
-                    "Prime Video"
+                    "Prime Video",
+                    "YouTube - Caz\u00e9TV"
                 ]
             },
             {
@@ -595,8 +645,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "YouTube - Caz\u00e9TV",
-                    "Prime Video"
+                    "Prime Video",
+                    "YouTube - Caz\u00e9TV"
                 ]
             },
             {
@@ -636,8 +686,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "YouTube - Caz\u00e9TV",
-                    "Prime Video"
+                    "Prime Video",
+                    "YouTube - Caz\u00e9TV"
                 ]
             },
             {
@@ -787,8 +837,8 @@
                 "country": "Brazil",
                 "channels": [
                     "TV Globo",
-                    "GETV",
-                    "Premiere"
+                    "Premiere",
+                    "GETV"
                 ]
             }
         ]
@@ -820,8 +870,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Sportv",
-                    "Premiere"
+                    "Premiere",
+                    "Sportv"
                 ]
             }
         ]
@@ -839,8 +889,8 @@
                 "channels": [
                     "R7",
                     "YouTube - Caz\u00e9TV",
-                    "Record",
-                    "Premiere"
+                    "Premiere",
+                    "Record"
                 ]
             }
         ]
@@ -872,8 +922,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Sportv",
-                    "Premiere"
+                    "Premiere",
+                    "Sportv"
                 ]
             }
         ]
@@ -988,15 +1038,15 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Sky Sports Main Event",
-                    "Sky Sports Football"
+                    "Sky Sports Football",
+                    "Sky Sports Main Event"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Sky Sports Main Event",
-                    "Sky Sports Football"
+                    "Sky Sports Football",
+                    "Sky Sports Main Event"
                 ]
             },
             {
@@ -1073,8 +1123,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN 3"
+                    "ESPN 3",
+                    "Disney+"
                 ]
             }
         ]
@@ -1090,8 +1140,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN 4"
+                    "ESPN 4",
+                    "Disney+"
                 ]
             }
         ]
@@ -1265,7 +1315,20 @@
         "league_id": 18,
         "league": "Championship",
         "venue": "Fratton Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Football"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Football"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14083398,
@@ -1590,7 +1653,15 @@
         "league_id": 11653,
         "league": "Liga de Primera",
         "venue": "Municipal Nicolas Chahuan",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Chile",
+                "channels": [
+                    "TNT SPORTS Premium",
+                    "TNT SPORTS Premium HD"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15352997,
@@ -1599,7 +1670,15 @@
         "league_id": 11653,
         "league": "Liga de Primera",
         "venue": "Monumental David Arellano",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Chile",
+                "channels": [
+                    "TNT SPORTS Premium",
+                    "TNT SPORTS Premium HD"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15367384,
@@ -1842,7 +1921,20 @@
         "league_id": 192,
         "league": "Premier Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOI TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "LOI TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15238041,
@@ -2251,8 +2343,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             }
         ]
@@ -2562,6 +2654,15 @@
         "match_id": 15690346,
         "kickoff": 1773604800,
         "fixture": "Botafogo-PB vs Sousa EC",
+        "league_id": 10295,
+        "league": "Paraibano, Mata-mata",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15692536,
+        "kickoff": 1773604800,
+        "fixture": "Sousa EC vs Botafogo-PB",
         "league_id": 10295,
         "league": "Paraibano, Mata-mata",
         "venue": "TBA",

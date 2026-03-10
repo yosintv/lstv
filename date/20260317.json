@@ -42,7 +42,20 @@
         "league_id": 17,
         "league": "Premier League",
         "venue": "Brentford Community Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Premier League"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Premier League"
+                ]
+            }
+        ]
     },
     {
         "match_id": 13981704,
@@ -60,7 +73,44 @@
         "league_id": 8,
         "league": "LaLiga",
         "venue": "Estadio de Vallecas",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Guam",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "Northern Mariana Islands",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "Puerto Rico",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "United States Minor Outlying Islands",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "Virgin Islands, U.S.",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15237944,
@@ -73,8 +123,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Sportv",
-                    "Premiere"
+                    "Premiere",
+                    "Sportv"
                 ]
             }
         ]
@@ -194,7 +244,20 @@
         "league_id": 18,
         "league": "Championship",
         "venue": "Fratton Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Football"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Football"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15632115,
@@ -392,7 +455,15 @@
         "league_id": 11653,
         "league": "Liga de Primera",
         "venue": "Municipal Nicolas Chahuan",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Chile",
+                "channels": [
+                    "TNT SPORTS Premium",
+                    "TNT SPORTS Premium HD"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15352997,
@@ -401,7 +472,15 @@
         "league_id": 11653,
         "league": "Liga de Primera",
         "venue": "Monumental David Arellano",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Chile",
+                "channels": [
+                    "TNT SPORTS Premium",
+                    "TNT SPORTS Premium HD"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15362225,
@@ -716,7 +795,20 @@
         "league_id": 192,
         "league": "Premier Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOI TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "LOI TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15238041,
@@ -950,6 +1042,15 @@
         "league_id": 583,
         "league": "Cup",
         "venue": "Gradski Stadion Bijeljina",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15695653,
+        "kickoff": 1773761400,
+        "fixture": "FK Radnik Bijeljina vs FK Lakta\u0161i",
+        "league_id": 583,
+        "league": "Cup",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
