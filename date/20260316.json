@@ -10,8 +10,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 4",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 4"
                 ]
             },
             {
@@ -159,15 +159,15 @@
             {
                 "country": "Italy",
                 "channels": [
-                    "NOW",
-                    "Sky Sport Calcio"
+                    "Sky Sport Calcio",
+                    "NOW"
                 ]
             },
             {
                 "country": "San Marino",
                 "channels": [
-                    "NOW",
-                    "Sky Sport Calcio"
+                    "Sky Sport Calcio",
+                    "NOW"
                 ]
             }
         ]
@@ -183,8 +183,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             }
         ]
@@ -211,6 +211,42 @@
                 "channels": [
                     "Disney+"
                 ]
+            },
+            {
+                "country": "Guam",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "Northern Mariana Islands",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "Puerto Rico",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "United States Minor Outlying Islands",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "Virgin Islands, U.S.",
+                "channels": [
+                    "ESPN Deportes"
+                ]
             }
         ]
     },
@@ -228,6 +264,42 @@
                     "Disney+",
                     "ESPN 2"
                 ]
+            },
+            {
+                "country": "Guam",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "Northern Mariana Islands",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "Puerto Rico",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "United States Minor Outlying Islands",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "Virgin Islands, U.S.",
+                "channels": [
+                    "ESPN Deportes"
+                ]
             }
         ]
     },
@@ -244,6 +316,42 @@
                 "channels": [
                     "Disney+"
                 ]
+            },
+            {
+                "country": "Guam",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "Northern Mariana Islands",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "Puerto Rico",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "United States Minor Outlying Islands",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "Virgin Islands, U.S.",
+                "channels": [
+                    "ESPN Deportes"
+                ]
             }
         ]
     },
@@ -259,6 +367,42 @@
                 "country": "Brazil",
                 "channels": [
                     "Disney+"
+                ]
+            },
+            {
+                "country": "Guam",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "Northern Mariana Islands",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "Puerto Rico",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "United States Minor Outlying Islands",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "Virgin Islands, U.S.",
+                "channels": [
+                    "ESPN Deportes"
                 ]
             }
         ]
@@ -327,8 +471,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "OneFootball",
                     "YouTube - Caz\u00e9TV",
+                    "OneFootball",
                     "Prime Video"
                 ]
             },
@@ -605,7 +749,15 @@
         "league_id": 325,
         "league": "Brasileir\u00e3o Betano",
         "venue": "Est\u00e1dio do Maracan\u00e3",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "TV Globo",
+                    "Premiere"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15237941,
@@ -614,7 +766,14 @@
         "league_id": 325,
         "league": "Brasileir\u00e3o Betano",
         "venue": "Est\u00e1dio Beira-Rio",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "TV Globo"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15237937,
@@ -623,7 +782,16 @@
         "league_id": 325,
         "league": "Brasileir\u00e3o Betano",
         "venue": "Est\u00e1dio Urbano Caldeira",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "TV Globo",
+                    "GETV",
+                    "Premiere"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15237942,
@@ -632,7 +800,14 @@
         "league_id": 325,
         "league": "Brasileir\u00e3o Betano",
         "venue": "Est\u00e1dio Major Ant\u00f4nio Couto Pereira",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Premiere"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15237938,
@@ -641,7 +816,15 @@
         "league_id": 325,
         "league": "Brasileir\u00e3o Betano",
         "venue": "Allianz Parque",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Sportv",
+                    "Premiere"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15237940,
@@ -650,7 +833,17 @@
         "league_id": 325,
         "league": "Brasileir\u00e3o Betano",
         "venue": "Governador Magalh\u00e3es Pinto",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "R7",
+                    "YouTube - Caz\u00e9TV",
+                    "Record",
+                    "Premiere"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15237939,
@@ -659,7 +852,14 @@
         "league_id": 325,
         "league": "Brasileir\u00e3o Betano",
         "venue": "Est\u00e1dio C\u00edcero de Souza Marques",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Premiere"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15237944,
@@ -668,7 +868,15 @@
         "league_id": 325,
         "league": "Brasileir\u00e3o Betano",
         "venue": "Arena Cond\u00e1",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Sportv",
+                    "Premiere"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14109840,
@@ -780,15 +988,15 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Sky Sports Football",
-                    "Sky Sports Main Event"
+                    "Sky Sports Main Event",
+                    "Sky Sports Football"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Sky Sports Football",
-                    "Sky Sports Main Event"
+                    "Sky Sports Main Event",
+                    "Sky Sports Football"
                 ]
             },
             {
@@ -882,8 +1090,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 4",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 4"
                 ]
             }
         ]
@@ -2043,8 +2251,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             }
         ]
