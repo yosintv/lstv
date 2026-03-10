@@ -81,6 +81,12 @@
                 ]
             },
             {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 1 HD"
+                ]
+            },
+            {
                 "country": "Northern Mariana Islands",
                 "channels": [
                     "ESPN Deportes"
@@ -90,6 +96,12 @@
                 "country": "Puerto Rico",
                 "channels": [
                     "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 1 HD"
                 ]
             },
             {
@@ -123,8 +135,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Premiere",
-                    "Sportv"
+                    "Sportv",
+                    "Premiere"
                 ]
             }
         ]
@@ -777,7 +789,20 @@
         "league_id": 192,
         "league": "Premier Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOI TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "LOI TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15238038,
@@ -786,7 +811,20 @@
         "league_id": 192,
         "league": "Premier Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOI TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "LOI TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15238040,
@@ -817,7 +855,20 @@
         "league_id": 192,
         "league": "Premier Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOI TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "LOI TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15238039,
@@ -826,6 +877,28 @@
         "league_id": 192,
         "league": "Premier Division",
         "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOI TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "LOI TV"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 15698614,
+        "kickoff": 1773685800,
+        "fixture": "FC Universitatea Cluj vs CFR 1907 Cluj",
+        "league_id": 152,
+        "league": "SuperLiga, Championship round",
+        "venue": "Cluj Arena",
         "tv_channels": []
     },
     {
@@ -1234,18 +1307,18 @@
         "tv_channels": []
     },
     {
-        "match_id": 15388605,
-        "kickoff": 1773673200,
-        "fixture": "FC Spaeri vs FC Samgurali Tskhaltubo",
+        "match_id": 15388598,
+        "kickoff": 1773676800,
+        "fixture": "FC Dila Gori vs FC Torpedo Kutaisi",
         "league_id": 704,
         "league": "Erovnuli Liga",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 15388598,
+        "match_id": 15388605,
         "kickoff": 1773676800,
-        "fixture": "FC Dila Gori vs FC Torpedo Kutaisi",
+        "fixture": "FC Spaeri vs FC Samgurali Tskhaltubo",
         "league_id": 704,
         "league": "Erovnuli Liga",
         "venue": "TBA",
@@ -1455,15 +1528,6 @@
         "fixture": "FK \u017dalgiris vs FK Transinvest",
         "league_id": 198,
         "league": "TOPLYGA",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14041325,
-        "kickoff": 1773680400,
-        "fixture": "Wieczysta Krak\u00f3w vs Polonia Bytom",
-        "league_id": 229,
-        "league": "I liga",
         "venue": "TBA",
         "tv_channels": []
     },

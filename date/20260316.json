@@ -15,6 +15,19 @@
                 ]
             },
             {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Ultra HDR",
+                    "Sky Sports Cricket"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Cricket"
+                ]
+            },
+            {
                 "country": "United States",
                 "channels": [
                     "Peacock"
@@ -50,6 +63,18 @@
                 "country": "Brazil",
                 "channels": [
                     "Disney+"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Premier League"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Premier League"
                 ]
             }
         ]
@@ -170,17 +195,30 @@
                 ]
             },
             {
+                "country": "Ireland",
+                "channels": [
+                    "TNT Sports 2",
+                    "Discovery+"
+                ]
+            },
+            {
                 "country": "Italy",
                 "channels": [
-                    "Sky Sport Calcio",
-                    "NOW"
+                    "NOW",
+                    "Sky Sport Calcio"
                 ]
             },
             {
                 "country": "San Marino",
                 "channels": [
-                    "Sky Sport Calcio",
-                    "NOW"
+                    "NOW",
+                    "Sky Sport Calcio"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Discovery+"
                 ]
             }
         ]
@@ -196,8 +234,21 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "TNT Sports 1",
+                    "Discovery+"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Discovery+"
                 ]
             }
         ]
@@ -232,6 +283,12 @@
                 ]
             },
             {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 2 HD"
+                ]
+            },
+            {
                 "country": "Northern Mariana Islands",
                 "channels": [
                     "ESPN Deportes"
@@ -241,6 +298,12 @@
                 "country": "Puerto Rico",
                 "channels": [
                     "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 2 HD"
                 ]
             },
             {
@@ -274,14 +337,20 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 2",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 2"
                 ]
             },
             {
                 "country": "Guam",
                 "channels": [
                     "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 2 HD"
                 ]
             },
             {
@@ -294,6 +363,12 @@
                 "country": "Puerto Rico",
                 "channels": [
                     "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 2 HD"
                 ]
             },
             {
@@ -337,6 +412,12 @@
                 ]
             },
             {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 1 HD"
+                ]
+            },
+            {
                 "country": "Northern Mariana Islands",
                 "channels": [
                     "ESPN Deportes"
@@ -346,6 +427,12 @@
                 "country": "Puerto Rico",
                 "channels": [
                     "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 1 HD"
                 ]
             },
             {
@@ -389,6 +476,12 @@
                 ]
             },
             {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 1 HD"
+                ]
+            },
+            {
                 "country": "Northern Mariana Islands",
                 "channels": [
                     "ESPN Deportes"
@@ -398,6 +491,12 @@
                 "country": "Puerto Rico",
                 "channels": [
                     "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 1 HD"
                 ]
             },
             {
@@ -435,6 +534,12 @@
                 ]
             },
             {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 1 HD"
+                ]
+            },
+            {
                 "country": "Northern Mariana Islands",
                 "channels": [
                     "ESPN Deportes"
@@ -444,6 +549,12 @@
                 "country": "Puerto Rico",
                 "channels": [
                     "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 1 HD"
                 ]
             },
             {
@@ -522,8 +633,8 @@
                 "country": "Brazil",
                 "channels": [
                     "Prime Video",
-                    "OneFootball",
-                    "YouTube - Caz\u00e9TV"
+                    "YouTube - Caz\u00e9TV",
+                    "OneFootball"
                 ]
             },
             {
@@ -781,7 +892,20 @@
         "league_id": 37,
         "league": "VriendenLoterij Eredivisie",
         "venue": "De Kuip",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports Player"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports Player"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14053712,
@@ -803,8 +927,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "TV Globo",
-                    "Premiere"
+                    "Premiere",
+                    "TV Globo"
                 ]
             }
         ]
@@ -836,9 +960,9 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "TV Globo",
+                    "GETV",
                     "Premiere",
-                    "GETV"
+                    "TV Globo"
                 ]
             }
         ]
@@ -870,8 +994,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Premiere",
-                    "Sportv"
+                    "Sportv",
+                    "Premiere"
                 ]
             }
         ]
@@ -887,8 +1011,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "R7",
                     "YouTube - Caz\u00e9TV",
+                    "R7",
                     "Premiere",
                     "Record"
                 ]
@@ -922,8 +1046,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Premiere",
-                    "Sportv"
+                    "Sportv",
+                    "Premiere"
                 ]
             }
         ]
@@ -1038,15 +1162,16 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Sky Sports Football",
-                    "Sky Sports Main Event"
+                    "Sky Sports Ultra HDR",
+                    "Sky Sports Main Event",
+                    "Sky Sports Football"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Sky Sports Football",
-                    "Sky Sports Main Event"
+                    "Sky Sports Main Event",
+                    "Sky Sports Football"
                 ]
             },
             {
@@ -1681,6 +1806,24 @@
         ]
     },
     {
+        "match_id": 15362583,
+        "kickoff": 1773608400,
+        "fixture": "Carabobo FC vs Rayo Zuliano",
+        "league_id": 231,
+        "league": "Primera Division, Apertura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15362585,
+        "kickoff": 1773615600,
+        "fixture": "Deportivo T\u00e1chira vs Zamora",
+        "league_id": 231,
+        "league": "Primera Division, Apertura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15367384,
         "kickoff": 1773608400,
         "fixture": "Deportivo Pereira vs Rionegro \u00c1guilas Doradas",
@@ -1903,7 +2046,20 @@
         "league_id": 192,
         "league": "Premier Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOI TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "LOI TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15238038,
@@ -1912,7 +2068,20 @@
         "league_id": 192,
         "league": "Premier Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOI TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "LOI TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15238040,
@@ -1943,7 +2112,20 @@
         "league_id": 192,
         "league": "Premier Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOI TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "LOI TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15238039,
@@ -1952,7 +2134,20 @@
         "league_id": 192,
         "league": "Premier Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOI TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "LOI TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15260742,
@@ -2033,6 +2228,24 @@
         "league_id": 406,
         "league": "Liga 1, Apertura",
         "venue": "Estadio Inca Garcilaso de la Vega",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15698587,
+        "kickoff": 1773599400,
+        "fixture": "FC Rapid Bucure\u0219ti vs FC Dinamo Bucure\u0219ti",
+        "league_id": 152,
+        "league": "SuperLiga, Championship round",
+        "venue": "Stadionul Rapid-Giulesti",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15698614,
+        "kickoff": 1773685800,
+        "fixture": "FC Universitatea Cluj vs CFR 1907 Cluj",
+        "league_id": 152,
+        "league": "SuperLiga, Championship round",
+        "venue": "Cluj Arena",
         "tv_channels": []
     },
     {
@@ -2343,8 +2556,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             }
         ]
@@ -2648,6 +2861,33 @@
         "league_id": 578,
         "league": "Belarus Cup",
         "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14115541,
+        "kickoff": 1773576000,
+        "fixture": "H\u0160K Posu\u0161je vs H\u0160K Zrinjski Mostar",
+        "league_id": 222,
+        "league": "WWIN Liga BiH",
+        "venue": "Stadion Mokri Dolac",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14115544,
+        "kickoff": 1773584100,
+        "fixture": "NK \u0160iroki Brijeg vs FK Sarajevo",
+        "league_id": 222,
+        "league": "WWIN Liga BiH",
+        "venue": "Pecara",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14115543,
+        "kickoff": 1773601200,
+        "fixture": "FK Rudar Prijedor vs FK Vele\u017e Mostar",
+        "league_id": 222,
+        "league": "WWIN Liga BiH",
+        "venue": "Gradski Stadion Prijedor",
         "tv_channels": []
     },
     {
@@ -2985,7 +3225,7 @@
     },
     {
         "match_id": 15388602,
-        "kickoff": 1773586800,
+        "kickoff": 1773583200,
         "fixture": "FC Iberia 1999 vs Dinamo Tbilisi",
         "league_id": 704,
         "league": "Erovnuli Liga",
@@ -3011,18 +3251,18 @@
         "tv_channels": []
     },
     {
-        "match_id": 15388605,
-        "kickoff": 1773673200,
-        "fixture": "FC Spaeri vs FC Samgurali Tskhaltubo",
+        "match_id": 15388598,
+        "kickoff": 1773676800,
+        "fixture": "FC Dila Gori vs FC Torpedo Kutaisi",
         "league_id": 704,
         "league": "Erovnuli Liga",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 15388598,
+        "match_id": 15388605,
         "kickoff": 1773676800,
-        "fixture": "FC Dila Gori vs FC Torpedo Kutaisi",
+        "fixture": "FC Spaeri vs FC Samgurali Tskhaltubo",
         "league_id": 704,
         "league": "Erovnuli Liga",
         "venue": "TBA",
@@ -3594,15 +3834,6 @@
         "match_id": 14039394,
         "kickoff": 1773590400,
         "fixture": "\u0141KS \u0141\u00f3d\u017a vs OKS Odra Opole",
-        "league_id": 229,
-        "league": "I liga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14041325,
-        "kickoff": 1773680400,
-        "fixture": "Wieczysta Krak\u00f3w vs Polonia Bytom",
         "league_id": 229,
         "league": "I liga",
         "venue": "TBA",
