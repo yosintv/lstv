@@ -44,6 +44,12 @@
         "venue": "Brentford Community Stadium",
         "tv_channels": [
             {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "Sky Sports Premier League"
@@ -64,7 +70,14 @@
         "league_id": 23,
         "league": "Serie A",
         "venue": "Stadio Giovanni Zini",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14083647,
@@ -74,6 +87,12 @@
         "league": "LaLiga",
         "venue": "Estadio de Vallecas",
         "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+"
+                ]
+            },
             {
                 "country": "Guam",
                 "channels": [
@@ -135,8 +154,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Sportv",
-                    "Premiere"
+                    "Premiere",
+                    "Sportv"
                 ]
             }
         ]
@@ -757,7 +776,7 @@
     },
     {
         "match_id": 15502486,
-        "kickoff": 1773801000,
+        "kickoff": 1773783000,
         "fixture": "Universidad Cat\u00f3lica del Ecuador vs Deportivo Cuenca",
         "league_id": 240,
         "league": "LigaPro Serie A, Primera Etapa",
@@ -766,7 +785,7 @@
     },
     {
         "match_id": 15502481,
-        "kickoff": 1773810000,
+        "kickoff": 1773792000,
         "fixture": "Leones del Norte vs LDU",
         "league_id": 240,
         "league": "LigaPro Serie A, Primera Etapa",
@@ -908,6 +927,15 @@
         "league_id": 152,
         "league": "SuperLiga, Relegation round",
         "venue": "Stadionul Municipal",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15702958,
+        "kickoff": 1773685800,
+        "fixture": "FC Farul Constan\u021ba vs FC Petrolul Ploie\u0219ti",
+        "league_id": 152,
+        "league": "SuperLiga, Relegation round",
+        "venue": "Stadionul Central-Academia Gheorghe Hagi",
         "tv_channels": []
     },
     {
@@ -1763,7 +1791,14 @@
         "league_id": 278,
         "league": "Liga AUF Uruguaya, Apertura",
         "venue": "Estadio Alfredo Victor Viera",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15673585,

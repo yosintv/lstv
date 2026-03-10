@@ -97,15 +97,15 @@
                 "country": "Ireland",
                 "channels": [
                     "Sky Sports Ultra HDR",
-                    "Sky Sports Main Event",
-                    "Sky Sports Premier League"
+                    "Sky Sports Premier League",
+                    "Sky Sports Main Event"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Sky Sports Main Event",
-                    "Sky Sports Premier League"
+                    "Sky Sports Premier League",
+                    "Sky Sports Main Event"
                 ]
             }
         ]
@@ -118,6 +118,12 @@
         "league": "Premier League",
         "venue": "Brentford Community Stadium",
         "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+"
+                ]
+            },
             {
                 "country": "Ireland",
                 "channels": [
@@ -197,8 +203,8 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "TNT Sports 2",
-                    "Discovery+"
+                    "Discovery+",
+                    "TNT Sports 2"
                 ]
             },
             {
@@ -234,8 +240,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             },
             {
@@ -260,7 +266,14 @@
         "league_id": 23,
         "league": "Serie A",
         "venue": "Stadio Giovanni Zini",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14083642,
@@ -337,8 +350,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN 2"
+                    "ESPN 2",
+                    "Disney+"
                 ]
             },
             {
@@ -528,6 +541,12 @@
         "venue": "Estadio de Vallecas",
         "tv_channels": [
             {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+"
+                ]
+            },
+            {
                 "country": "Guam",
                 "channels": [
                     "ESPN Deportes"
@@ -632,9 +651,9 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Prime Video",
+                    "OneFootball",
                     "YouTube - Caz\u00e9TV",
-                    "OneFootball"
+                    "Prime Video"
                 ]
             },
             {
@@ -674,8 +693,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Prime Video",
-                    "YouTube - Caz\u00e9TV"
+                    "YouTube - Caz\u00e9TV",
+                    "Prime Video"
                 ]
             },
             {
@@ -715,8 +734,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Prime Video",
-                    "YouTube - Caz\u00e9TV"
+                    "YouTube - Caz\u00e9TV",
+                    "Prime Video"
                 ]
             },
             {
@@ -756,8 +775,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Prime Video",
-                    "YouTube - Caz\u00e9TV"
+                    "YouTube - Caz\u00e9TV",
+                    "Prime Video"
                 ]
             },
             {
@@ -797,8 +816,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Prime Video",
-                    "YouTube - Caz\u00e9TV"
+                    "YouTube - Caz\u00e9TV",
+                    "Prime Video"
                 ]
             },
             {
@@ -994,8 +1013,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Sportv",
-                    "Premiere"
+                    "Premiere",
+                    "Sportv"
                 ]
             }
         ]
@@ -1012,9 +1031,9 @@
                 "country": "Brazil",
                 "channels": [
                     "YouTube - Caz\u00e9TV",
-                    "R7",
                     "Premiere",
-                    "Record"
+                    "Record",
+                    "R7"
                 ]
             }
         ]
@@ -1046,8 +1065,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Sportv",
-                    "Premiere"
+                    "Premiere",
+                    "Sportv"
                 ]
             }
         ]
@@ -1163,15 +1182,15 @@
                 "country": "Ireland",
                 "channels": [
                     "Sky Sports Ultra HDR",
-                    "Sky Sports Main Event",
-                    "Sky Sports Football"
+                    "Sky Sports Football",
+                    "Sky Sports Main Event"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Sky Sports Main Event",
-                    "Sky Sports Football"
+                    "Sky Sports Football",
+                    "Sky Sports Main Event"
                 ]
             },
             {
@@ -1413,7 +1432,56 @@
         "league_id": 242,
         "league": "MLS",
         "venue": "Gillette Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Afghanistan",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "Canada",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "Italy",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "San Marino",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15137949,
@@ -1422,7 +1490,56 @@
         "league_id": 242,
         "league": "MLS",
         "venue": "BC Place",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Afghanistan",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "Canada",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "Italy",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "San Marino",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15137945,
@@ -1431,7 +1548,56 @@
         "league_id": 242,
         "league": "MLS",
         "venue": "PayPal Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Afghanistan",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "Canada",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "Italy",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "San Marino",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15552451,
@@ -1987,7 +2153,7 @@
     },
     {
         "match_id": 15502476,
-        "kickoff": 1773624600,
+        "kickoff": 1773606600,
         "fixture": "Emelec vs Orense SC",
         "league_id": 240,
         "league": "LigaPro Serie A, Primera Etapa",
@@ -1995,17 +2161,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 15502478,
-        "kickoff": 1773630000,
-        "fixture": "Deportivo Cuenca vs Leones del Norte",
-        "league_id": 240,
-        "league": "LigaPro Serie A, Primera Etapa",
-        "venue": "Alejandro Serrano Aguilar",
-        "tv_channels": []
-    },
-    {
         "match_id": 15502471,
-        "kickoff": 1773634500,
+        "kickoff": 1773616500,
         "fixture": "Guayaquil City vs Barcelona SC Guayaquil",
         "league_id": 240,
         "league": "LigaPro Serie A, Primera Etapa",
@@ -2201,7 +2358,15 @@
         "league_id": 406,
         "league": "Liga 1, Apertura",
         "venue": "Estadio Alberto Gallardo",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Peru",
+                "channels": [
+                    "Liga 1 Play",
+                    "Liga 1 Max"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15607091,
@@ -2210,7 +2375,15 @@
         "league_id": 406,
         "league": "Liga 1, Apertura",
         "venue": "Estadio de la UNSA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Peru",
+                "channels": [
+                    "Liga 1 Play",
+                    "Liga 1 Max"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15607097,
@@ -2219,7 +2392,15 @@
         "league_id": 406,
         "league": "Liga 1, Apertura",
         "venue": "Estadio Campeones del 36",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Peru",
+                "channels": [
+                    "Liga 1 Play",
+                    "Liga 1 Max"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15607098,
@@ -2228,7 +2409,15 @@
         "league_id": 406,
         "league": "Liga 1, Apertura",
         "venue": "Estadio Inca Garcilaso de la Vega",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Peru",
+                "channels": [
+                    "Liga 1 Play",
+                    "Liga 1 Max"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15698587,
@@ -2249,12 +2438,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 15689838,
+        "match_id": 15689829,
         "kickoff": 1773579600,
-        "fixture": "UTA Arad vs FC Hermannstadt",
+        "fixture": "SC O\u021belul Gala\u021bi vs FK Cs\u00edkszereda Miercurea Ciuc",
         "league_id": 152,
         "league": "SuperLiga, Relegation round",
-        "venue": "Stadionul Francisc von Neumann",
+        "venue": "Stadionul O\u021belul",
         "tv_channels": []
     },
     {
@@ -2264,6 +2453,15 @@
         "league_id": 152,
         "league": "SuperLiga, Relegation round",
         "venue": "Stadionul Municipal",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15702958,
+        "kickoff": 1773685800,
+        "fixture": "FC Farul Constan\u021ba vs FC Petrolul Ploie\u0219ti",
+        "league_id": 152,
+        "league": "SuperLiga, Relegation round",
+        "venue": "Stadionul Central-Academia Gheorghe Hagi",
         "tv_channels": []
     },
     {
@@ -2556,8 +2754,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             }
         ]
@@ -2774,18 +2972,18 @@
         "tv_channels": []
     },
     {
-        "match_id": 15275459,
+        "match_id": 15275461,
         "kickoff": 1773601200,
-        "fixture": "Ferrocarril Midland vs Almagro",
+        "fixture": "Gimnasia y Tiro de Salta vs Temperley",
         "league_id": 703,
         "league": "Primera B Nacional",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 15275461,
-        "kickoff": 1773601200,
-        "fixture": "Gimnasia y Tiro de Salta vs Temperley",
+        "match_id": 15275459,
+        "kickoff": 1773604800,
+        "fixture": "Ferrocarril Midland vs Almagro",
         "league_id": 703,
         "league": "Primera B Nacional",
         "venue": "TBA",
@@ -3810,7 +4008,14 @@
         "league_id": 11540,
         "league": "Divisi\u00f3n de Honor, Apertura",
         "venue": "Estadio Jose Tomas Silva",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "Tigo Sport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14039398,
@@ -3939,6 +4144,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 14263425,
+        "kickoff": 1773583200,
+        "fixture": "FC Tirsense vs CD Ribeira Brava",
+        "league_id": 10093,
+        "league": "Campeonato de Portugal, Group A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 14263417,
         "kickoff": 1773586800,
         "fixture": "AD Machico vs Grupo Desportivo de Bragan\u00e7a",
@@ -3969,15 +4183,6 @@
         "match_id": 14263426,
         "kickoff": 1773586800,
         "fixture": "Chaves B vs SC Mirandela",
-        "league_id": 10093,
-        "league": "Campeonato de Portugal, Group A",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14263425,
-        "kickoff": 1773586800,
-        "fixture": "FC Tirsense vs CD Ribeira Brava",
         "league_id": 10093,
         "league": "Campeonato de Portugal, Group A",
         "venue": "TBA",
@@ -4344,6 +4549,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 15703136,
+        "kickoff": 1773579600,
+        "fixture": "Hammarby IF vs Djurg\u00e5rdens IF",
+        "league_id": 80,
+        "league": "Svenska Cupen",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15703134,
+        "kickoff": 1773587700,
+        "fixture": "IK Sirius vs IFK G\u00f6teborg",
+        "league_id": 80,
+        "league": "Svenska Cupen",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15204345,
         "kickoff": 1773579600,
         "fixture": "Neuch\u00e2tel Xamax vs FC Rapperswil-Jona",
@@ -4395,7 +4618,14 @@
         "league_id": 278,
         "league": "Liga AUF Uruguaya, Apertura",
         "venue": "Parque Palermo",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15635517,
@@ -4404,7 +4634,14 @@
         "league_id": 278,
         "league": "Liga AUF Uruguaya, Apertura",
         "venue": "Jardines Del Hip\u00f3dromo",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15635515,
@@ -4413,7 +4650,14 @@
         "league_id": 278,
         "league": "Liga AUF Uruguaya, Apertura",
         "venue": "Estadio Domingo Burgueno Miguel",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15635518,
@@ -4422,7 +4666,14 @@
         "league_id": 278,
         "league": "Liga AUF Uruguaya, Apertura",
         "venue": "Estadio Alfredo Victor Viera",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15485516,
