@@ -12,6 +12,60 @@
                 "channels": [
                     "HBO Max"
                 ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "TUDN"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "TUDN"
+                ]
+            },
+            {
+                "country": "El Salvador",
+                "channels": [
+                    "TUDN"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "TUDN"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "TUDN"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "TUDN"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "TUDN"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "TUDN"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "TUDN"
+                ]
             }
         ]
     },
@@ -43,6 +97,24 @@
                 "country": "Brazil",
                 "channels": [
                     "HBO Max"
+                ]
+            },
+            {
+                "country": "Denmark",
+                "channels": [
+                    "Viaplay"
+                ]
+            },
+            {
+                "country": "Greenland",
+                "channels": [
+                    "Viaplay"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "TNT Sports 1"
                 ]
             }
         ]
@@ -943,7 +1015,22 @@
         "league_id": 1044,
         "league": "Women's Super League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "BBC Three",
+                    "BBC iPlayer"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "BBC Three",
+                    "BBC iPlayer"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15482364,
@@ -1536,6 +1623,15 @@
         "fixture": "Dunfermline Athletic vs Falkirk FC",
         "league_id": 347,
         "league": "Scottish Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15715457,
+        "kickoff": 1773858600,
+        "fixture": "M\u0160K \u017dilina vs FK \u017deleziarne Podbrezov\u00e1",
+        "league_id": 303,
+        "league": "Slovnaft Cup",
         "venue": "TBA",
         "tv_channels": []
     },
