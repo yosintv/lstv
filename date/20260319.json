@@ -44,6 +44,12 @@
                 ]
             },
             {
+                "country": "Ireland",
+                "channels": [
+                    "Virgin Media Two"
+                ]
+            },
+            {
                 "country": "Mexico",
                 "channels": [
                     "TUDN"
@@ -442,7 +448,7 @@
         "fixture": "Ey\u00fcpspor vs Trabzonspor",
         "league_id": 52,
         "league": "Trendyol S\u00fcper Lig",
-        "venue": "Ey\u00fcp Stadium",
+        "venue": "Recep Tayyip Erdogan Stadium",
         "tv_channels": []
     },
     {
@@ -479,7 +485,14 @@
         "league_id": 2058,
         "league": "King's Cup",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Fox Sports 2"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15168115,
@@ -488,7 +501,20 @@
         "league_id": 2058,
         "league": "King's Cup",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bermuda",
+                "channels": [
+                    "Fox Soccer Plus"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Fox Soccer Plus"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15624390,
@@ -1019,15 +1045,15 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "BBC Three",
-                    "BBC iPlayer"
+                    "BBC iPlayer",
+                    "BBC Three"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "BBC Three",
-                    "BBC iPlayer"
+                    "BBC iPlayer",
+                    "BBC Three"
                 ]
             }
         ]
