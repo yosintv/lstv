@@ -19,9 +19,9 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "BBC Two",
                     "BBC iPlayer",
-                    "BBC Sport Web"
+                    "BBC Sport Web",
+                    "BBC Two"
                 ]
             },
             {
@@ -33,9 +33,9 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "BBC Two",
                     "BBC iPlayer",
-                    "BBC Sport Web"
+                    "BBC Sport Web",
+                    "BBC Two"
                 ]
             }
         ]
@@ -47,7 +47,14 @@
         "league_id": 155,
         "league": "Liga Profesional de F\u00fatbol, Apertura",
         "venue": "Estadio Ciudad de La Plata",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15270042,
@@ -370,7 +377,7 @@
     },
     {
         "match_id": 15554575,
-        "kickoff": 1774303200,
+        "kickoff": 1774292400,
         "fixture": "Nueva Chicago vs Gimnasia y Tiro de Salta",
         "league_id": 703,
         "league": "Primera B Nacional",
