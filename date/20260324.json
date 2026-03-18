@@ -33,7 +33,110 @@
         "league_id": 155,
         "league": "Liga Profesional de F\u00fatbol, Apertura",
         "venue": "Estadio Tomas Adolfo Duco",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "El Salvador",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Puerto Rico",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14083434,
@@ -207,6 +310,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 15779806,
+        "kickoff": 1774393200,
+        "fixture": "One Knoxville SC vs Corpus Christi FC",
+        "league_id": 13362,
+        "league": "USL, League One",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 14421331,
         "kickoff": 1774285200,
         "fixture": "1. FC Union Berlin vs SV Werder Bremen",
@@ -221,24 +333,6 @@
         "fixture": "Granada Club de F\u00fatbol vs Real Club Deportivo de la Coru\u00f1a",
         "league_id": 1127,
         "league": "Liga F Moeve",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15329653,
-        "kickoff": 1774407600,
-        "fixture": "Atl\u00e9tico Tucum\u00e1n vs Sportivo Barracas",
-        "league_id": 1024,
-        "league": "Copa Argentina",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15329654,
-        "kickoff": 1774407600,
-        "fixture": "Banfield vs Real Pilar",
-        "league_id": 1024,
-        "league": "Copa Argentina",
         "venue": "TBA",
         "tv_channels": []
     },
