@@ -15,7 +15,30 @@
         "league_id": 696,
         "league": "UEFA Champions League, Women, Knockout stage",
         "venue": "Meadow Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "BBC iPlayer",
+                    "BBC Sport Web",
+                    "BBC Two"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "channels": [
+                    "BBC Two"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "BBC iPlayer",
+                    "BBC Sport Web",
+                    "BBC Two"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15270034,
@@ -367,6 +390,24 @@
         "match_id": 15759537,
         "kickoff": 1774391400,
         "fixture": "ASA vs Piau\u00ed EC",
+        "league_id": 1596,
+        "league": "Copa do Nordeste",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15791235,
+        "kickoff": 1774398600,
+        "fixture": "Ferrovi\u00e1rio vs Fortaleza",
+        "league_id": 1596,
+        "league": "Copa do Nordeste",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15791236,
+        "kickoff": 1774398600,
+        "fixture": "Sport Recife vs Jacuipense",
         "league_id": 1596,
         "league": "Copa do Nordeste",
         "venue": "TBA",
