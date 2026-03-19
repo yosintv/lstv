@@ -20,8 +20,8 @@
                 "country": "Ireland",
                 "channels": [
                     "BBC Two",
-                    "BBC Sport Web",
-                    "BBC iPlayer"
+                    "BBC iPlayer",
+                    "BBC Sport Web"
                 ]
             },
             {
@@ -34,8 +34,8 @@
                 "country": "United Kingdom",
                 "channels": [
                     "BBC Two",
-                    "BBC Sport Web",
-                    "BBC iPlayer"
+                    "BBC iPlayer",
+                    "BBC Sport Web"
                 ]
             }
         ]
@@ -723,7 +723,14 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "TNT Sports 3"
+                    "TNT Sports 3",
+                    "Discovery+"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Discovery+"
                 ]
             }
         ]
@@ -775,9 +782,9 @@
             {
                 "country": "Germany",
                 "channels": [
-                    "Magenta Sport",
+                    "DAZN",
                     "Sport1",
-                    "DAZN"
+                    "Magenta Sport"
                 ]
             },
             {
