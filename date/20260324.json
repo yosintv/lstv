@@ -29,7 +29,8 @@
             {
                 "country": "Argentina",
                 "channels": [
-                    "ESPN 2 Sur"
+                    "ESPN 2 Sur",
+                    "ESPN 3 Argentina"
                 ]
             },
             {
@@ -356,9 +357,9 @@
             {
                 "country": "Malaysia",
                 "channels": [
-                    "beIN Sports 1 Malaysia",
+                    "beIN Sports Connect Malaysia",
                     "sooka",
-                    "beIN Sports Connect Malaysia"
+                    "beIN Sports 1 Malaysia"
                 ]
             },
             {
@@ -683,7 +684,8 @@
             {
                 "country": "Argentina",
                 "channels": [
-                    "ESPN 2 Sur"
+                    "ESPN 2 Sur",
+                    "ESPN 3 Argentina"
                 ]
             },
             {
@@ -934,9 +936,9 @@
                 "country": "Ireland",
                 "channels": [
                     "BBC Sport Web",
-                    "Disney+ Premium",
                     "BBC iPlayer",
-                    "BBC Two"
+                    "BBC Two",
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -1014,9 +1016,9 @@
             {
                 "country": "Malaysia",
                 "channels": [
-                    "beIN Sports 1 Malaysia",
+                    "beIN Sports Connect Malaysia",
                     "sooka",
-                    "beIN Sports Connect Malaysia"
+                    "beIN Sports 1 Malaysia"
                 ]
             },
             {
@@ -1273,9 +1275,9 @@
                 "country": "United Kingdom",
                 "channels": [
                     "BBC Sport Web",
-                    "Disney+ Premium",
                     "BBC iPlayer",
-                    "BBC Two"
+                    "BBC Two",
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -2093,11 +2095,11 @@
             {
                 "country": "Romania",
                 "channels": [
-                    "Orange TV Go",
-                    "Prima Play",
                     "Digi Online",
+                    "Prima Sport 1",
+                    "Prima Play",
                     "Digi Sport 1",
-                    "Prima Sport 1"
+                    "Orange TV Go"
                 ]
             }
         ]
@@ -2113,16 +2115,16 @@
             {
                 "country": "Ireland",
                 "channels": [
+                    "Discovery+",
                     "discovery+ App",
-                    "TNT Sports 3",
-                    "Discovery+"
+                    "TNT Sports 3"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "discovery+ App",
-                    "Discovery+"
+                    "Discovery+",
+                    "discovery+ App"
                 ]
             }
         ]
@@ -2174,9 +2176,9 @@
             {
                 "country": "Germany",
                 "channels": [
-                    "DAZN",
                     "Sport1",
-                    "Magenta Sport"
+                    "Magenta Sport",
+                    "DAZN"
                 ]
             },
             {
@@ -2201,6 +2203,12 @@
                 "country": "Switzerland",
                 "channels": [
                     "Sport1"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "DAZN UK"
                 ]
             }
         ]
@@ -2609,7 +2617,7 @@
     },
     {
         "match_id": 15524785,
-        "kickoff": 1774263600,
+        "kickoff": 1774278000,
         "fixture": "Portimonense U23 vs Estoril Praia U23",
         "league_id": 11341,
         "league": "U23 Championship, Relegation Round",
