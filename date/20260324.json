@@ -16,8 +16,8 @@
             {
                 "country": "Andorra",
                 "channels": [
-                    "Disney+ Premium",
-                    "L'\u00c9quipe"
+                    "L'\u00c9quipe",
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -29,8 +29,8 @@
             {
                 "country": "Argentina",
                 "channels": [
-                    "ESPN 3 Argentina",
-                    "ESPN 2 Sur"
+                    "ESPN 2 Sur",
+                    "ESPN 3 Argentina"
                 ]
             },
             {
@@ -66,8 +66,8 @@
             {
                 "country": "Bolivia, Plurinational State of",
                 "channels": [
-                    "Disney+ Premium Chile",
-                    "ESPN 2 Sur"
+                    "ESPN 2 Sur",
+                    "Disney+ Premium Chile"
                 ]
             },
             {
@@ -121,8 +121,8 @@
             {
                 "country": "Chile",
                 "channels": [
-                    "Disney+ Premium Chile",
-                    "ESPN 2 Sur"
+                    "ESPN 2 Sur",
+                    "Disney+ Premium Chile"
                 ]
             },
             {
@@ -200,8 +200,8 @@
             {
                 "country": "France",
                 "channels": [
-                    "Disney+ Premium",
-                    "L'\u00c9quipe"
+                    "L'\u00c9quipe",
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -357,8 +357,8 @@
             {
                 "country": "Malaysia",
                 "channels": [
-                    "beIN Sports 1 Malaysia",
                     "sooka",
+                    "beIN Sports 1 Malaysia",
                     "beIN Sports Connect Malaysia"
                 ]
             },
@@ -395,8 +395,8 @@
             {
                 "country": "Monaco",
                 "channels": [
-                    "Disney+ Premium",
-                    "L'\u00c9quipe"
+                    "L'\u00c9quipe",
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -462,8 +462,8 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "Disney+ Premium Chile",
-                    "ESPN 2 Sur"
+                    "ESPN 2 Sur",
+                    "Disney+ Premium Chile"
                 ]
             },
             {
@@ -613,8 +613,8 @@
             {
                 "country": "United States",
                 "channels": [
-                    "CBS Sports Network",
-                    "ESPN Deportes"
+                    "ESPN Deportes",
+                    "CBS Sports Network"
                 ]
             },
             {
@@ -684,8 +684,8 @@
             {
                 "country": "Argentina",
                 "channels": [
-                    "ESPN 3 Argentina",
-                    "ESPN 2 Sur"
+                    "ESPN 2 Sur",
+                    "ESPN 3 Argentina"
                 ]
             },
             {
@@ -722,8 +722,8 @@
             {
                 "country": "Bolivia, Plurinational State of",
                 "channels": [
-                    "Disney+ Premium Chile",
-                    "ESPN 2 Sur"
+                    "ESPN 2 Sur",
+                    "Disney+ Premium Chile"
                 ]
             },
             {
@@ -783,8 +783,8 @@
             {
                 "country": "Chile",
                 "channels": [
-                    "Disney+ Premium Chile",
-                    "ESPN 2 Sur"
+                    "ESPN 2 Sur",
+                    "Disney+ Premium Chile"
                 ]
             },
             {
@@ -941,9 +941,9 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "BBC Sport Web",
                     "Disney+ Premium",
                     "BBC Two",
+                    "BBC Sport Web",
                     "BBC iPlayer"
                 ]
             },
@@ -1022,8 +1022,8 @@
             {
                 "country": "Malaysia",
                 "channels": [
-                    "beIN Sports 1 Malaysia",
                     "sooka",
+                    "beIN Sports 1 Malaysia",
                     "beIN Sports Connect Malaysia"
                 ]
             },
@@ -1127,8 +1127,8 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "Disney+ Premium Chile",
-                    "ESPN 2 Sur"
+                    "ESPN 2 Sur",
+                    "Disney+ Premium Chile"
                 ]
             },
             {
@@ -1212,8 +1212,8 @@
             {
                 "country": "Slovakia",
                 "channels": [
-                    "\u010cT Sport",
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "\u010cT Sport"
                 ]
             },
             {
@@ -1280,8 +1280,8 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "BBC Sport Web",
                     "Disney+ Premium",
+                    "BBC Sport Web",
                     "BBC Two",
                     "BBC iPlayer"
                 ]
@@ -1289,8 +1289,8 @@
             {
                 "country": "United States",
                 "channels": [
-                    "CBS Sports Network",
-                    "ESPN Deportes"
+                    "ESPN Deportes",
+                    "CBS Sports Network"
                 ]
             },
             {
@@ -1339,6 +1339,12 @@
         "league": "Liga Profesional de F\u00fatbol, Apertura",
         "venue": "Estadio Ciudad de La Plata",
         "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "ESPN Premium"
+                ]
+            },
             {
                 "country": "Bolivia, Plurinational State of",
                 "channels": [
@@ -2119,11 +2125,11 @@
             {
                 "country": "Romania",
                 "channels": [
-                    "Orange TV Go",
+                    "Prima Sport 1",
                     "Digi Online",
-                    "Prima Play",
                     "Digi Sport 1",
-                    "Prima Sport 1"
+                    "Orange TV Go",
+                    "Prima Play"
                 ]
             }
         ]
@@ -2139,8 +2145,8 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "TNT Sports 3",
                     "discovery+ App",
+                    "TNT Sports 3",
                     "Discovery+"
                 ]
             },
@@ -2201,8 +2207,8 @@
                 "country": "Germany",
                 "channels": [
                     "Magenta Sport",
-                    "DAZN",
-                    "Sport1"
+                    "Sport1",
+                    "DAZN"
                 ]
             },
             {
@@ -2538,12 +2544,14 @@
             {
                 "country": "Italy",
                 "channels": [
+                    "Sky Sport Calcio",
                     "NOW"
                 ]
             },
             {
                 "country": "San Marino",
                 "channels": [
+                    "Sky Sport Calcio",
                     "NOW"
                 ]
             }
