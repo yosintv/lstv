@@ -1196,6 +1196,42 @@
         "tv_channels": []
     },
     {
+        "match_id": 15846626,
+        "kickoff": 1774814400,
+        "fixture": "ABC vs Sport Recife",
+        "league_id": 1596,
+        "league": "Copa do Nordeste",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15846624,
+        "kickoff": 1774814400,
+        "fixture": "Confian\u00e7a vs Fluminense-PI",
+        "league_id": 1596,
+        "league": "Copa do Nordeste",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15846625,
+        "kickoff": 1774814400,
+        "fixture": "Piau\u00ed EC vs Sousa EC",
+        "league_id": 1596,
+        "league": "Copa do Nordeste",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15846627,
+        "kickoff": 1774819800,
+        "fixture": "Botafogo-PB vs ASA",
+        "league_id": 1596,
+        "league": "Copa do Nordeste",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15416174,
         "kickoff": 1774710000,
         "fixture": "San Marcos de Arica vs Uni\u00f3n Espa\u00f1ola",
@@ -1895,7 +1931,20 @@
         "league_id": 193,
         "league": "First Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOI TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "LOI TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14302824,
