@@ -667,7 +667,14 @@
         "league_id": 1690,
         "league": "NWSL",
         "venue": "Centennial Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "CBS"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15388442,
@@ -676,7 +683,14 @@
         "league_id": 1690,
         "league": "NWSL",
         "venue": "Providence Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "CBS"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15388444,
