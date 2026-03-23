@@ -66,8 +66,8 @@
             {
                 "country": "Bolivia, Plurinational State of",
                 "channels": [
-                    "ESPN 2 Sur",
-                    "Disney+ Premium Chile"
+                    "Disney+ Premium Chile",
+                    "ESPN 2 Sur"
                 ]
             },
             {
@@ -121,8 +121,8 @@
             {
                 "country": "Chile",
                 "channels": [
-                    "ESPN 2 Sur",
-                    "Disney+ Premium Chile"
+                    "Disney+ Premium Chile",
+                    "ESPN 2 Sur"
                 ]
             },
             {
@@ -357,8 +357,8 @@
             {
                 "country": "Malaysia",
                 "channels": [
-                    "beIN Sports Connect Malaysia",
                     "beIN Sports 1 Malaysia",
+                    "beIN Sports Connect Malaysia",
                     "sooka"
                 ]
             },
@@ -462,8 +462,8 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "ESPN 2 Sur",
-                    "Disney+ Premium Chile"
+                    "Disney+ Premium Chile",
+                    "ESPN 2 Sur"
                 ]
             },
             {
@@ -722,8 +722,8 @@
             {
                 "country": "Bolivia, Plurinational State of",
                 "channels": [
-                    "ESPN 2 Sur",
-                    "Disney+ Premium Chile"
+                    "Disney+ Premium Chile",
+                    "ESPN 2 Sur"
                 ]
             },
             {
@@ -783,8 +783,8 @@
             {
                 "country": "Chile",
                 "channels": [
-                    "ESPN 2 Sur",
-                    "Disney+ Premium Chile"
+                    "Disney+ Premium Chile",
+                    "ESPN 2 Sur"
                 ]
             },
             {
@@ -942,8 +942,8 @@
                 "country": "Ireland",
                 "channels": [
                     "BBC Sport Web",
-                    "BBC iPlayer",
                     "BBC Two",
+                    "BBC iPlayer",
                     "Disney+ Premium"
                 ]
             },
@@ -1022,8 +1022,8 @@
             {
                 "country": "Malaysia",
                 "channels": [
-                    "beIN Sports Connect Malaysia",
                     "beIN Sports 1 Malaysia",
+                    "beIN Sports Connect Malaysia",
                     "sooka"
                 ]
             },
@@ -1127,8 +1127,8 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "ESPN 2 Sur",
-                    "Disney+ Premium Chile"
+                    "Disney+ Premium Chile",
+                    "ESPN 2 Sur"
                 ]
             },
             {
@@ -1281,8 +1281,8 @@
                 "country": "United Kingdom",
                 "channels": [
                     "BBC Sport Web",
-                    "BBC iPlayer",
                     "BBC Two",
+                    "BBC iPlayer",
                     "Disney+ Premium"
                 ]
             },
@@ -1348,8 +1348,8 @@
             {
                 "country": "Bolivia, Plurinational State of",
                 "channels": [
-                    "Disney+ Premium Chile",
-                    "TyC Sports Internacional"
+                    "TyC Sports Internacional",
+                    "Disney+ Premium Chile"
                 ]
             },
             {
@@ -1361,8 +1361,8 @@
             {
                 "country": "Chile",
                 "channels": [
-                    "Disney+ Premium Chile",
-                    "TyC Sports Internacional"
+                    "TyC Sports Internacional",
+                    "Disney+ Premium Chile"
                 ]
             },
             {
@@ -1588,6 +1588,12 @@
                 "country": "Bosnia and Herzegovina",
                 "channels": [
                     "Arena Sport Premium 2"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+"
                 ]
             },
             {
@@ -2137,11 +2143,11 @@
             {
                 "country": "Romania",
                 "channels": [
-                    "Prima Play",
-                    "Digi Sport 1",
                     "Digi Online",
                     "Prima Sport 1",
-                    "Orange TV Go"
+                    "Digi Sport 1",
+                    "Orange TV Go",
+                    "Prima Play"
                 ]
             }
         ]
@@ -2204,6 +2210,12 @@
                 ]
             },
             {
+                "country": "Brazil",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
                 "country": "Denmark",
                 "channels": [
                     "Viaplay"
@@ -2218,9 +2230,9 @@
             {
                 "country": "Germany",
                 "channels": [
-                    "Sport1",
+                    "Magenta Sport",
                     "DAZN",
-                    "Magenta Sport"
+                    "Sport1"
                 ]
             },
             {
@@ -2372,7 +2384,14 @@
         "league_id": 32734,
         "league": "Copa de la Liga, Group C",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Chile",
+                "channels": [
+                    "TNT SPORTS Premium"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15658622,
@@ -2570,17 +2589,17 @@
             {
                 "country": "Italy",
                 "channels": [
-                    "NOW",
                     "Sky Sport Calcio",
-                    "Sky Go"
+                    "Sky Go",
+                    "NOW"
                 ]
             },
             {
                 "country": "San Marino",
                 "channels": [
-                    "NOW",
                     "Sky Sport Calcio",
-                    "Sky Go"
+                    "Sky Go",
+                    "NOW"
                 ]
             }
         ]
@@ -2596,15 +2615,15 @@
             {
                 "country": "Italy",
                 "channels": [
-                    "NOW",
-                    "Sky Go"
+                    "Sky Go",
+                    "NOW"
                 ]
             },
             {
                 "country": "San Marino",
                 "channels": [
-                    "NOW",
-                    "Sky Go"
+                    "Sky Go",
+                    "NOW"
                 ]
             }
         ]
@@ -2620,15 +2639,15 @@
             {
                 "country": "Italy",
                 "channels": [
-                    "NOW",
-                    "Sky Go"
+                    "Sky Go",
+                    "NOW"
                 ]
             },
             {
                 "country": "San Marino",
                 "channels": [
-                    "NOW",
-                    "Sky Go"
+                    "Sky Go",
+                    "NOW"
                 ]
             }
         ]

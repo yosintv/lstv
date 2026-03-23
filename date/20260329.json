@@ -69,7 +69,14 @@
         "league_id": 54,
         "league": "LaLiga 2",
         "venue": "El Molin\u00f3n",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Spain",
+                "channels": [
+                    "TVG2"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14083466,
@@ -664,6 +671,123 @@
         "tv_channels": []
     },
     {
+        "match_id": 15598098,
+        "kickoff": 1774713600,
+        "fixture": "Senegal vs Peru",
+        "league_id": 851,
+        "league": "Int. Friendly Games",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Peru",
+                "channels": [
+                    "Am\u00e9rica Televisi\u00f3n",
+                    "ATV"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 15437153,
+        "kickoff": 1774717200,
+        "fixture": "Canada vs Iceland",
+        "league_id": 851,
+        "league": "Int. Friendly Games",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15680561,
+        "kickoff": 1774717200,
+        "fixture": "Hungary vs Slovenia",
+        "league_id": 851,
+        "league": "Int. Friendly Games",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Czechia",
+                "channels": [
+                    "Sport 1"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "Sport 1"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 15396516,
+        "kickoff": 1774717200,
+        "fixture": "Scotland vs Japan",
+        "league_id": 851,
+        "league": "Int. Friendly Games",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Bermuda",
+                "channels": [
+                    "Fox Soccer Plus"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "ESPN",
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "Czechia",
+                "channels": [
+                    "Sport 2"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "Sport 2"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Fox Soccer Plus"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 15184402,
+        "kickoff": 1774726200,
+        "fixture": "USA vs Belgium",
+        "league_id": 851,
+        "league": "Int. Friendly Games",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 2 HD"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 2 HD"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "TNT"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 15388440,
         "kickoff": 1774713600,
         "fixture": "Boston Legacy FC vs Utah Royals FC",
@@ -816,8 +940,8 @@
                 "country": "Ireland",
                 "channels": [
                     "BBC One",
-                    "BBC Sport Web",
-                    "BBC iPlayer"
+                    "BBC iPlayer",
+                    "BBC Sport Web"
                 ]
             },
             {
@@ -835,8 +959,8 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "BBC One",
                     "BBC Sport Web",
+                    "BBC One",
                     "BBC iPlayer"
                 ]
             }
