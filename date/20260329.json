@@ -311,7 +311,8 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Sky Sports Football"
+                    "Sky Sports Football",
+                    "Sky Sports Main Event"
                 ]
             },
             {
@@ -323,7 +324,8 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Sky Sports Football"
+                    "Sky Sports Football",
+                    "Sky Sports Main Event"
                 ]
             }
         ]
@@ -735,8 +737,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             },
             {
@@ -746,9 +748,23 @@
                 ]
             },
             {
+                "country": "Ireland",
+                "channels": [
+                    "BBC Sport Web",
+                    "BBC iPlayer"
+                ]
+            },
+            {
                 "country": "Slovakia",
                 "channels": [
                     "Sport 2"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "BBC Sport Web",
+                    "BBC iPlayer"
                 ]
             },
             {
@@ -807,8 +823,8 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "TNT Sports 4",
-                    "Discovery+"
+                    "Discovery+",
+                    "TNT Sports 4"
                 ]
             },
             {
@@ -939,9 +955,9 @@
             {
                 "country": "Ireland",
                 "channels": [
+                    "BBC Sport Web",
                     "BBC One",
-                    "BBC iPlayer",
-                    "BBC Sport Web"
+                    "BBC iPlayer"
                 ]
             },
             {
@@ -1985,6 +2001,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 14489950,
+        "kickoff": 1774710000,
+        "fixture": "Vision FC vs Basake Holy Stars FC",
+        "league_id": 1191,
+        "league": "Premier League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 14489946,
         "kickoff": 1774796400,
         "fixture": "Accra Hearts of Oak vs Swedru All Blacks United FC",
@@ -2021,15 +2046,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 14489949,
-        "kickoff": 1774796400,
-        "fixture": "Medeama SC vs Eleven Wonders",
-        "league_id": 1191,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 14489948,
         "kickoff": 1774796400,
         "fixture": "Nations FC vs Berekum Chelsea",
@@ -2042,15 +2058,6 @@
         "match_id": 14489951,
         "kickoff": 1774796400,
         "fixture": "Samartex vs Bechem United",
-        "league_id": 1191,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14489950,
-        "kickoff": 1774796400,
-        "fixture": "Vision FC vs Basake Holy Stars FC",
         "league_id": 1191,
         "league": "Premier League",
         "venue": "TBA",
@@ -2574,6 +2581,78 @@
         "tv_channels": []
     },
     {
+        "match_id": 15853181,
+        "kickoff": 1774796400,
+        "fixture": "Kawkab Athletic Club Marrakech vs AS FAR Rabat",
+        "league_id": 937,
+        "league": "Botola Pro",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15853494,
+        "kickoff": 1774803600,
+        "fixture": "Union Sportive Yacoub El Mansour vs Olympic Safi",
+        "league_id": 937,
+        "league": "Botola Pro",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15853177,
+        "kickoff": 1774803600,
+        "fixture": "Wydad Casablanca vs Difa\u00e2 Hassani El-Jadidi",
+        "league_id": 937,
+        "league": "Botola Pro",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15853179,
+        "kickoff": 1774810800,
+        "fixture": "RS Berkane vs MAS de F\u00e8s",
+        "league_id": 937,
+        "league": "Botola Pro",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15853527,
+        "kickoff": 1774710000,
+        "fixture": "Dungannon Swifts vs Coleraine FC",
+        "league_id": 200,
+        "league": "Premiership, Championship Round",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15853522,
+        "kickoff": 1774710000,
+        "fixture": "Glentoran FC vs Linfield FC",
+        "league_id": 200,
+        "league": "Premiership, Championship Round",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15853528,
+        "kickoff": 1774710000,
+        "fixture": "Larne FC vs Cliftonville FC",
+        "league_id": 200,
+        "league": "Premiership, Championship Round",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15853542,
+        "kickoff": 1774710000,
+        "fixture": "Carrick Rangers vs Crusaders FC",
+        "league_id": 200,
+        "league": "Premiership, Relegation Round",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15265976,
         "kickoff": 1774699200,
         "fixture": "Aalesunds Fotballklubb vs Stab\u00e6k Fotball",
@@ -2670,21 +2749,28 @@
         "league_id": 17101,
         "league": "Liga 3, Promotion Round",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Canal 11"
+                ]
+            }
+        ]
     },
     {
-        "match_id": 14263526,
-        "kickoff": 1774792800,
-        "fixture": "AD Camacha vs Grupo Desportivo de Bragan\u00e7a",
+        "match_id": 15295376,
+        "kickoff": 1774789200,
+        "fixture": "Brito SC vs CD Ribeira Brava",
         "league_id": 10093,
         "league": "Campeonato de Portugal, Group A",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 15295376,
-        "kickoff": 1774796400,
-        "fixture": "Brito SC vs CD Ribeira Brava",
+        "match_id": 14263526,
+        "kickoff": 1774792800,
+        "fixture": "AD Camacha vs Grupo Desportivo de Bragan\u00e7a",
         "league_id": 10093,
         "league": "Campeonato de Portugal, Group A",
         "venue": "TBA",

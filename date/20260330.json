@@ -675,15 +675,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 14489949,
-        "kickoff": 1774796400,
-        "fixture": "Medeama SC vs Eleven Wonders",
-        "league_id": 1191,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 14489948,
         "kickoff": 1774796400,
         "fixture": "Nations FC vs Berekum Chelsea",
@@ -696,15 +687,6 @@
         "match_id": 14489951,
         "kickoff": 1774796400,
         "fixture": "Samartex vs Bechem United",
-        "league_id": 1191,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14489950,
-        "kickoff": 1774796400,
-        "fixture": "Vision FC vs Basake Holy Stars FC",
         "league_id": 1191,
         "league": "Premier League",
         "venue": "TBA",
@@ -936,6 +918,42 @@
         "tv_channels": []
     },
     {
+        "match_id": 15853181,
+        "kickoff": 1774796400,
+        "fixture": "Kawkab Athletic Club Marrakech vs AS FAR Rabat",
+        "league_id": 937,
+        "league": "Botola Pro",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15853494,
+        "kickoff": 1774803600,
+        "fixture": "Union Sportive Yacoub El Mansour vs Olympic Safi",
+        "league_id": 937,
+        "league": "Botola Pro",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15853177,
+        "kickoff": 1774803600,
+        "fixture": "Wydad Casablanca vs Difa\u00e2 Hassani El-Jadidi",
+        "league_id": 937,
+        "league": "Botola Pro",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15853179,
+        "kickoff": 1774810800,
+        "fixture": "RS Berkane vs MAS de F\u00e8s",
+        "league_id": 937,
+        "league": "Botola Pro",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15703691,
         "kickoff": 1774782000,
         "fixture": "Maharlika Manila FC vs Aguilas-UMak FC",
@@ -960,21 +978,28 @@
         "league_id": 17101,
         "league": "Liga 3, Promotion Round",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Canal 11"
+                ]
+            }
+        ]
     },
     {
-        "match_id": 14263526,
-        "kickoff": 1774792800,
-        "fixture": "AD Camacha vs Grupo Desportivo de Bragan\u00e7a",
+        "match_id": 15295376,
+        "kickoff": 1774789200,
+        "fixture": "Brito SC vs CD Ribeira Brava",
         "league_id": 10093,
         "league": "Campeonato de Portugal, Group A",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 15295376,
-        "kickoff": 1774796400,
-        "fixture": "Brito SC vs CD Ribeira Brava",
+        "match_id": 14263526,
+        "kickoff": 1774792800,
+        "fixture": "AD Camacha vs Grupo Desportivo de Bragan\u00e7a",
         "league_id": 10093,
         "league": "Campeonato de Portugal, Group A",
         "venue": "TBA",
