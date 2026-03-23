@@ -17,6 +17,12 @@
         "venue": "Estadio Nuevo Arc\u00e1ngel",
         "tv_channels": [
             {
+                "country": "Croatia",
+                "channels": [
+                    "Arena Sport 3 HR"
+                ]
+            },
+            {
                 "country": "Czechia",
                 "channels": [
                     "Nova Sport 4"
@@ -423,8 +429,8 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Discovery+",
-                    "TNT Sports 2"
+                    "TNT Sports 2",
+                    "Discovery+"
                 ]
             },
             {
@@ -711,6 +717,7 @@
             {
                 "country": "Norway",
                 "channels": [
+                    "TV2 Play",
                     "Viaplay"
                 ]
             },
@@ -769,6 +776,7 @@
             {
                 "country": "Norway",
                 "channels": [
+                    "TV2 Play",
                     "Viaplay"
                 ]
             },
@@ -813,8 +821,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN 3"
+                    "ESPN 3",
+                    "Disney+"
                 ]
             },
             {
@@ -871,6 +879,12 @@
                 ]
             },
             {
+                "country": "France",
+                "channels": [
+                    "L'\u00c9quipe Live Foot"
+                ]
+            },
+            {
                 "country": "Hungary",
                 "channels": [
                     "Sp\u00edler1"
@@ -879,14 +893,15 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "ITVX",
                     "Virgin Media Two",
+                    "ITVX",
                     "ITV"
                 ]
             },
             {
                 "country": "Norway",
                 "channels": [
+                    "TV2 Play",
                     "Viaplay"
                 ]
             },
@@ -923,8 +938,8 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "ITVX",
                     "STV Player",
+                    "ITVX",
                     "ITV"
                 ]
             },
@@ -932,6 +947,12 @@
                 "country": "United States",
                 "channels": [
                     "Fox Sports 1"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "DIRECTV Sports"
                 ]
             }
         ]
@@ -953,7 +974,7 @@
             {
                 "country": "Netherlands",
                 "channels": [
-                    "NPO 1"
+                    "NPO 3"
                 ]
             },
             {
@@ -993,6 +1014,7 @@
             {
                 "country": "France",
                 "channels": [
+                    "L'\u00c9quipe Live Foot",
                     "RTL"
                 ]
             },
@@ -1082,9 +1104,9 @@
             {
                 "country": "Morocco",
                 "channels": [
-                    "Arryadia",
                     "SNRT Live",
-                    "Al Aoula"
+                    "Al Aoula",
+                    "Arryadia"
                 ]
             },
             {
@@ -1106,8 +1128,9 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "Am\u00e9rica Televisi\u00f3n",
-                    "ATV"
+                    "ATV",
+                    "M+ Deportes",
+                    "Am\u00e9rica Televisi\u00f3n"
                 ]
             }
         ]
@@ -1408,15 +1431,15 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Sky Sports Premier League",
-                    "Sky Sports Mix"
+                    "Sky Sports Mix",
+                    "Sky Sports Premier League"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Sky Sports Premier League",
-                    "Sky Sports Mix"
+                    "Sky Sports Mix",
+                    "Sky Sports Premier League"
                 ]
             }
         ]
@@ -1432,8 +1455,8 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "BBC Sport Web",
                     "BBC One",
+                    "BBC Sport Web",
                     "BBC iPlayer"
                 ]
             },
@@ -1452,8 +1475,8 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "BBC Sport Web",
                     "BBC One",
+                    "BBC Sport Web",
                     "BBC iPlayer"
                 ]
             }
@@ -1580,6 +1603,12 @@
                 "country": "Denmark",
                 "channels": [
                     "Viaplay"
+                ]
+            },
+            {
+                "country": "Finland",
+                "channels": [
+                    "V Sport 2 Suomi"
                 ]
             },
             {
@@ -1829,7 +1858,110 @@
         "league_id": 1024,
         "league": "Copa Argentina",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "El Salvador",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Puerto Rico",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15329655,
@@ -1838,7 +1970,110 @@
         "league_id": 1024,
         "league": "Copa Argentina",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "El Salvador",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Puerto Rico",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15275487,
@@ -2372,7 +2607,14 @@
         "league_id": 26,
         "league": "U21 EURO, Qualification, Group E",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Sweden",
+                "channels": [
+                    "Viaplay"
+                ]
+            }
+        ]
     },
     {
         "match_id": 13500800,
@@ -2684,7 +2926,14 @@
         "league_id": 183,
         "league": "National",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "France",
+                "channels": [
+                    "BFM Lyon"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14217658,
@@ -3733,16 +3982,16 @@
                 "country": "Ireland",
                 "channels": [
                     "BBC Sport Web",
-                    "BBC iPlayer",
-                    "BBC Alba"
+                    "BBC Alba",
+                    "BBC iPlayer"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
                     "BBC Sport Web",
-                    "BBC iPlayer",
-                    "BBC Alba"
+                    "BBC Alba",
+                    "BBC iPlayer"
                 ]
             }
         ]
