@@ -270,9 +270,21 @@
                 ]
             },
             {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Football"
+                ]
+            },
+            {
                 "country": "Slovakia",
                 "channels": [
                     "Nova Sport 3"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Football"
                 ]
             }
         ]
@@ -392,7 +404,21 @@
         "league_id": 1894,
         "league": "A-League, Women",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "TNT Sports 2",
+                    "Discovery+"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Discovery+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14671922,
@@ -646,6 +672,19 @@
         "venue": "Centennial Stadium",
         "tv_channels": [
             {
+                "country": "Ireland",
+                "channels": [
+                    "TNT Sports 4",
+                    "Discovery+"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Discovery+"
+                ]
+            },
+            {
                 "country": "United States",
                 "channels": [
                     "CBS"
@@ -784,7 +823,22 @@
         "league_id": 1044,
         "league": "Women's Super League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Premier League",
+                    "Sky Sports Mix"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Premier League",
+                    "Sky Sports Mix"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14283277,
@@ -793,7 +847,36 @@
         "league_id": 1044,
         "league": "Women's Super League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "BBC One",
+                    "BBC Sport Web",
+                    "BBC iPlayer"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "channels": [
+                    "BBC One"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "BBC One"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "BBC One",
+                    "BBC Sport Web",
+                    "BBC iPlayer"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14283278,
@@ -802,7 +885,22 @@
         "league_id": 1044,
         "league": "Women's Super League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Football",
+                    "Sky Sports Main Event"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Football",
+                    "Sky Sports Main Event"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14283279,
@@ -1017,7 +1115,7 @@
     },
     {
         "match_id": 15275490,
-        "kickoff": 1774657800,
+        "kickoff": 1774660200,
         "fixture": "San Mart\u00edn de San Juan vs Racing de C\u00f3rdoba",
         "league_id": 703,
         "league": "Primera B Nacional",

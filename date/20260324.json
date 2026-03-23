@@ -357,9 +357,9 @@
             {
                 "country": "Malaysia",
                 "channels": [
-                    "sooka",
+                    "beIN Sports Connect Malaysia",
                     "beIN Sports 1 Malaysia",
-                    "beIN Sports Connect Malaysia"
+                    "sooka"
                 ]
             },
             {
@@ -697,8 +697,8 @@
             {
                 "country": "Austria",
                 "channels": [
-                    "Disney+ Premium",
-                    "ORF Sport +"
+                    "ORF Sport +",
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -941,10 +941,10 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Disney+ Premium",
-                    "BBC Two",
                     "BBC Sport Web",
-                    "BBC iPlayer"
+                    "BBC iPlayer",
+                    "BBC Two",
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -1022,9 +1022,9 @@
             {
                 "country": "Malaysia",
                 "channels": [
-                    "sooka",
+                    "beIN Sports Connect Malaysia",
                     "beIN Sports 1 Malaysia",
-                    "beIN Sports Connect Malaysia"
+                    "sooka"
                 ]
             },
             {
@@ -1084,8 +1084,8 @@
             {
                 "country": "Netherlands",
                 "channels": [
-                    "Disney+ Premium",
-                    "BBC Two"
+                    "BBC Two",
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -1212,8 +1212,8 @@
             {
                 "country": "Slovakia",
                 "channels": [
-                    "Disney+ Premium",
-                    "\u010cT Sport"
+                    "\u010cT Sport",
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -1243,8 +1243,8 @@
             {
                 "country": "Switzerland",
                 "channels": [
-                    "Disney+ Premium",
-                    "ORF Sport +"
+                    "ORF Sport +",
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -1280,10 +1280,10 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Disney+ Premium",
                     "BBC Sport Web",
+                    "BBC iPlayer",
                     "BBC Two",
-                    "BBC iPlayer"
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -1428,8 +1428,8 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "Disney+ Premium Chile",
-                    "TyC Sports Internacional"
+                    "TyC Sports Internacional",
+                    "Disney+ Premium Chile"
                 ]
             },
             {
@@ -1594,6 +1594,12 @@
                 "country": "Chile",
                 "channels": [
                     "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Croatia",
+                "channels": [
+                    "Arena Sport 2 HR"
                 ]
             },
             {
@@ -2123,13 +2129,19 @@
         "venue": "Stadionul 1 Mai",
         "tv_channels": [
             {
+                "country": "Croatia",
+                "channels": [
+                    "Arena Sport 3 HR"
+                ]
+            },
+            {
                 "country": "Romania",
                 "channels": [
-                    "Prima Sport 1",
-                    "Digi Online",
+                    "Prima Play",
                     "Digi Sport 1",
-                    "Orange TV Go",
-                    "Prima Play"
+                    "Digi Online",
+                    "Prima Sport 1",
+                    "Orange TV Go"
                 ]
             }
         ]
@@ -2206,9 +2218,9 @@
             {
                 "country": "Germany",
                 "channels": [
-                    "Magenta Sport",
                     "Sport1",
-                    "DAZN"
+                    "DAZN",
+                    "Magenta Sport"
                 ]
             },
             {
@@ -2317,7 +2329,14 @@
         "league_id": 1596,
         "league": "Copa do Nordeste",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "SBT"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15416165,
@@ -2508,12 +2527,19 @@
     },
     {
         "match_id": 15336031,
-        "kickoff": 1774317600,
+        "kickoff": 1774314000,
         "fixture": "Antigua GFC vs CD Marquense",
         "league_id": 11615,
         "league": "Liga Guate Banrural, Clausura",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "Tigo Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15558676,
@@ -2544,15 +2570,17 @@
             {
                 "country": "Italy",
                 "channels": [
+                    "NOW",
                     "Sky Sport Calcio",
-                    "NOW"
+                    "Sky Go"
                 ]
             },
             {
                 "country": "San Marino",
                 "channels": [
+                    "NOW",
                     "Sky Sport Calcio",
-                    "NOW"
+                    "Sky Go"
                 ]
             }
         ]
@@ -2568,13 +2596,15 @@
             {
                 "country": "Italy",
                 "channels": [
-                    "NOW"
+                    "NOW",
+                    "Sky Go"
                 ]
             },
             {
                 "country": "San Marino",
                 "channels": [
-                    "NOW"
+                    "NOW",
+                    "Sky Go"
                 ]
             }
         ]
@@ -2590,13 +2620,15 @@
             {
                 "country": "Italy",
                 "channels": [
-                    "NOW"
+                    "NOW",
+                    "Sky Go"
                 ]
             },
             {
                 "country": "San Marino",
                 "channels": [
-                    "NOW"
+                    "NOW",
+                    "Sky Go"
                 ]
             }
         ]
