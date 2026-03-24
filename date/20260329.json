@@ -10,12 +10,19 @@
     },
     {
         "match_id": 15651590,
-        "kickoff": 1774819800,
+        "kickoff": 1774823400,
         "fixture": "Athletico vs Botafogo",
         "league_id": 325,
         "league": "Brasileir\u00e3o Betano",
         "venue": "Arena da Baixada",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Peru",
+                "channels": [
+                    "Liga 1 Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14083475,
@@ -684,8 +691,8 @@
                 "country": "Peru",
                 "channels": [
                     "ATV",
-                    "M+ Deportes",
-                    "Am\u00e9rica Televisi\u00f3n"
+                    "Am\u00e9rica Televisi\u00f3n",
+                    "M+ Deportes"
                 ]
             }
         ]
@@ -738,8 +745,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             },
             {
@@ -751,8 +758,8 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "BBC Sport Web",
-                    "BBC iPlayer"
+                    "BBC iPlayer",
+                    "BBC Sport Web"
                 ]
             },
             {
@@ -764,8 +771,8 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "BBC Sport Web",
-                    "BBC iPlayer"
+                    "BBC iPlayer",
+                    "BBC Sport Web"
                 ]
             },
             {
@@ -824,8 +831,8 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Discovery+",
-                    "TNT Sports 4"
+                    "TNT Sports 4",
+                    "Discovery+"
                 ]
             },
             {
@@ -932,15 +939,15 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Sky Sports Mix",
-                    "Sky Sports Premier League"
+                    "Sky Sports Premier League",
+                    "Sky Sports Mix"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Sky Sports Mix",
-                    "Sky Sports Premier League"
+                    "Sky Sports Premier League",
+                    "Sky Sports Mix"
                 ]
             }
         ]
@@ -956,9 +963,9 @@
             {
                 "country": "Ireland",
                 "channels": [
+                    "BBC iPlayer",
                     "BBC One",
-                    "BBC Sport Web",
-                    "BBC iPlayer"
+                    "BBC Sport Web"
                 ]
             },
             {
@@ -976,9 +983,9 @@
             {
                 "country": "United Kingdom",
                 "channels": [
+                    "BBC iPlayer",
                     "BBC One",
-                    "BBC Sport Web",
-                    "BBC iPlayer"
+                    "BBC Sport Web"
                 ]
             }
         ]
@@ -1077,7 +1084,14 @@
         "league_id": 1139,
         "league": "Premi\u00e8re Ligue, F\u00e9minine",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "France",
+                "channels": [
+                    "Canal+ Foot"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14194072,
@@ -1704,7 +1718,7 @@
         "fixture": "CRB vs Vit\u00f3ria",
         "league_id": 1596,
         "league": "Copa do Nordeste",
-        "venue": "TBA",
+        "venue": "Est\u00e1dio Rei Pel\u00e9",
         "tv_channels": []
     },
     {
@@ -1713,7 +1727,7 @@
         "fixture": "Maranh\u00e3o AC vs Ferrovi\u00e1rio",
         "league_id": 1596,
         "league": "Copa do Nordeste",
-        "venue": "TBA",
+        "venue": "Est\u00e1dio Governador Jo\u00e3o Castelo",
         "tv_channels": []
     },
     {
@@ -1722,7 +1736,7 @@
         "fixture": "Retr\u00f4 vs Cear\u00e1",
         "league_id": 1596,
         "league": "Copa do Nordeste",
-        "venue": "TBA",
+        "venue": "Arena de Pernambuco",
         "tv_channels": []
     },
     {
@@ -1731,7 +1745,7 @@
         "fixture": "Fortaleza vs Imperatriz",
         "league_id": 1596,
         "league": "Copa do Nordeste",
-        "venue": "TBA",
+        "venue": "Est\u00e1dio Presidente Vargas",
         "tv_channels": []
     },
     {
@@ -1740,7 +1754,7 @@
         "fixture": "Juazeirense vs AO Itabaiana",
         "league_id": 1596,
         "league": "Copa do Nordeste",
-        "venue": "TBA",
+        "venue": "Est\u00e1dio Adauto Moraes",
         "tv_channels": []
     },
     {
@@ -1749,7 +1763,7 @@
         "fixture": "ABC vs Sport Recife",
         "league_id": 1596,
         "league": "Copa do Nordeste",
-        "venue": "TBA",
+        "venue": "Frasqueir\u00e3o",
         "tv_channels": []
     },
     {
@@ -1758,7 +1772,7 @@
         "fixture": "Confian\u00e7a vs Fluminense-PI",
         "league_id": 1596,
         "league": "Copa do Nordeste",
-        "venue": "TBA",
+        "venue": "Est\u00e1dio Lourival Baptista",
         "tv_channels": []
     },
     {
@@ -1767,7 +1781,7 @@
         "fixture": "Piau\u00ed EC vs Sousa EC",
         "league_id": 1596,
         "league": "Copa do Nordeste",
-        "venue": "TBA",
+        "venue": "Governador Alberto Tavares Silva",
         "tv_channels": []
     },
     {
@@ -1776,7 +1790,7 @@
         "fixture": "Botafogo-PB vs ASA",
         "league_id": 1596,
         "league": "Copa do Nordeste",
-        "venue": "TBA",
+        "venue": "Est\u00e1dio Jos\u00e9 Am\u00e9rico de Almeida Filho",
         "tv_channels": []
     },
     {
@@ -1810,15 +1824,6 @@
         "match_id": 15416167,
         "kickoff": 1774796400,
         "fixture": "Club Deportes Antofagasta vs Deportes Iquique",
-        "league_id": 1240,
-        "league": "Liga de Ascenso",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15416171,
-        "kickoff": 1774818000,
-        "fixture": "Deportes Magallanes vs Rangers de Talca",
         "league_id": 1240,
         "league": "Liga de Ascenso",
         "venue": "TBA",
@@ -2423,7 +2428,7 @@
         "kickoff": 1774731600,
         "fixture": "Deportivo Mixco vs Antigua GFC",
         "league_id": 11615,
-        "league": "Liga Guate Banrural, Clausura",
+        "league": "Liga Bantrab, Clausura",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -2442,6 +2447,15 @@
         "fixture": "CSD Xelaj\u00fa MC vs Deportivo Guastatoya",
         "league_id": 11615,
         "league": "Liga Guate Banrural, Clausura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15336042,
+        "kickoff": 1774818000,
+        "fixture": "CD Mictl\u00e1n vs Cob\u00e1n Imperial",
+        "league_id": 11615,
+        "league": "Liga Bantrab, Clausura",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -2891,15 +2905,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 15853181,
-        "kickoff": 1774796400,
-        "fixture": "Kawkab Athletic Club Marrakech vs AS FAR Rabat",
-        "league_id": 937,
-        "league": "Botola Pro",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 15853494,
         "kickoff": 1774803600,
         "fixture": "Union Sportive Yacoub El Mansour vs Olympic Safi",
@@ -2912,15 +2917,6 @@
         "match_id": 15853177,
         "kickoff": 1774803600,
         "fixture": "Wydad Casablanca vs Difa\u00e2 Hassani El-Jadidi",
-        "league_id": 937,
-        "league": "Botola Pro",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15853179,
-        "kickoff": 1774810800,
-        "fixture": "RS Berkane vs MAS de F\u00e8s",
         "league_id": 937,
         "league": "Botola Pro",
         "venue": "TBA",

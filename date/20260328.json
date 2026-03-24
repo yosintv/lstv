@@ -429,8 +429,8 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "TNT Sports 2",
-                    "Discovery+"
+                    "Discovery+",
+                    "TNT Sports 2"
                 ]
             },
             {
@@ -856,8 +856,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             },
             {
@@ -893,8 +893,8 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Virgin Media Two",
                     "ITVX",
+                    "Virgin Media Two",
                     "ITV"
                 ]
             },
@@ -938,9 +938,9 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "STV Player",
                     "ITVX",
-                    "ITV"
+                    "ITV",
+                    "STV Player"
                 ]
             },
             {
@@ -1095,18 +1095,24 @@
                 ]
             },
             {
+                "country": "Costa Rica",
+                "channels": [
+                    "Repretel Canal 6"
+                ]
+            },
+            {
                 "country": "Ecuador",
                 "channels": [
-                    "Canal del Futbol",
-                    "ECDF App"
+                    "ECDF App",
+                    "Canal del Futbol"
                 ]
             },
             {
                 "country": "Morocco",
                 "channels": [
+                    "Arryadia",
                     "SNRT Live",
-                    "Al Aoula",
-                    "Arryadia"
+                    "Al Aoula"
                 ]
             },
             {
@@ -1129,8 +1135,8 @@
                 "country": "Peru",
                 "channels": [
                     "ATV",
-                    "M+ Deportes",
-                    "Am\u00e9rica Televisi\u00f3n"
+                    "Am\u00e9rica Televisi\u00f3n",
+                    "M+ Deportes"
                 ]
             }
         ]
@@ -1183,8 +1189,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             },
             {
@@ -1196,8 +1202,8 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "BBC Sport Web",
-                    "BBC iPlayer"
+                    "BBC iPlayer",
+                    "BBC Sport Web"
                 ]
             },
             {
@@ -1209,8 +1215,8 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "BBC Sport Web",
-                    "BBC iPlayer"
+                    "BBC iPlayer",
+                    "BBC Sport Web"
                 ]
             },
             {
@@ -1278,8 +1284,8 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Discovery+",
-                    "TNT Sports 4"
+                    "TNT Sports 4",
+                    "Discovery+"
                 ]
             },
             {
@@ -1431,15 +1437,15 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Sky Sports Mix",
-                    "Sky Sports Premier League"
+                    "Sky Sports Premier League",
+                    "Sky Sports Mix"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Sky Sports Mix",
-                    "Sky Sports Premier League"
+                    "Sky Sports Premier League",
+                    "Sky Sports Mix"
                 ]
             }
         ]
@@ -1455,9 +1461,9 @@
             {
                 "country": "Ireland",
                 "channels": [
+                    "BBC iPlayer",
                     "BBC One",
-                    "BBC Sport Web",
-                    "BBC iPlayer"
+                    "BBC Sport Web"
                 ]
             },
             {
@@ -1475,9 +1481,9 @@
             {
                 "country": "United Kingdom",
                 "channels": [
+                    "BBC iPlayer",
                     "BBC One",
-                    "BBC Sport Web",
-                    "BBC iPlayer"
+                    "BBC Sport Web"
                 ]
             }
         ]
@@ -1567,7 +1573,14 @@
         "league_id": 1139,
         "league": "Premi\u00e8re Ligue, F\u00e9minine",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "France",
+                "channels": [
+                    "Canal+ Foot"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14194072,
@@ -1859,6 +1872,12 @@
         "league": "Copa Argentina",
         "venue": "TBA",
         "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "TyC Sports"
+                ]
+            },
             {
                 "country": "Bolivia, Plurinational State of",
                 "channels": [
@@ -2234,7 +2253,7 @@
         "fixture": "CRB vs Vit\u00f3ria",
         "league_id": 1596,
         "league": "Copa do Nordeste",
-        "venue": "TBA",
+        "venue": "Est\u00e1dio Rei Pel\u00e9",
         "tv_channels": []
     },
     {
@@ -2243,7 +2262,7 @@
         "fixture": "Maranh\u00e3o AC vs Ferrovi\u00e1rio",
         "league_id": 1596,
         "league": "Copa do Nordeste",
-        "venue": "TBA",
+        "venue": "Est\u00e1dio Governador Jo\u00e3o Castelo",
         "tv_channels": []
     },
     {
@@ -2252,7 +2271,7 @@
         "fixture": "Retr\u00f4 vs Cear\u00e1",
         "league_id": 1596,
         "league": "Copa do Nordeste",
-        "venue": "TBA",
+        "venue": "Arena de Pernambuco",
         "tv_channels": []
     },
     {
@@ -2261,7 +2280,7 @@
         "fixture": "Fortaleza vs Imperatriz",
         "league_id": 1596,
         "league": "Copa do Nordeste",
-        "venue": "TBA",
+        "venue": "Est\u00e1dio Presidente Vargas",
         "tv_channels": []
     },
     {
@@ -2651,8 +2670,8 @@
             {
                 "country": "Germany",
                 "channels": [
-                    "Joyn",
-                    "ProSieben MAXX"
+                    "ProSieben MAXX",
+                    "Joyn"
                 ]
             },
             {
@@ -3235,7 +3254,7 @@
         "kickoff": 1774731600,
         "fixture": "Deportivo Mixco vs Antigua GFC",
         "league_id": 11615,
-        "league": "Liga Guate Banrural, Clausura",
+        "league": "Liga Bantrab, Clausura",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -3981,17 +4000,17 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "BBC Sport Web",
+                    "BBC iPlayer",
                     "BBC Alba",
-                    "BBC iPlayer"
+                    "BBC Sport Web"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "BBC Sport Web",
+                    "BBC iPlayer",
                     "BBC Alba",
-                    "BBC iPlayer"
+                    "BBC Sport Web"
                 ]
             }
         ]

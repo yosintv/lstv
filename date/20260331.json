@@ -1,0 +1,920 @@
+[
+    {
+        "match_id": 13157429,
+        "kickoff": 1774972800,
+        "fixture": "Latvia vs Gibraltar",
+        "league_id": 10783,
+        "league": "UEFA Nations League, Promotion/Relegation Play-offs",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13157430,
+        "kickoff": 1774972800,
+        "fixture": "Luxembourg vs Malta",
+        "league_id": 10783,
+        "league": "UEFA Nations League, Promotion/Relegation Play-offs",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15844931,
+        "kickoff": 1774981800,
+        "fixture": "Aldosivi vs Argentinos Juniors",
+        "league_id": 155,
+        "league": "Liga Profesional de F\u00fatbol, Apertura",
+        "venue": "Estadio Jose Maria Minella",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14083505,
+        "kickoff": 1774976400,
+        "fixture": "Mirand\u00e9s vs Albacete Balompi\u00e9",
+        "league_id": 54,
+        "league": "LaLiga 2",
+        "venue": "Estadio Municipal de Anduva",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14083510,
+        "kickoff": 1774980000,
+        "fixture": "Deportivo La Coru\u00f1a vs C\u00f3rdoba",
+        "league_id": 54,
+        "league": "LaLiga 2",
+        "venue": "Estadio Riazor",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14083507,
+        "kickoff": 1774985400,
+        "fixture": "Real Valladolid vs C\u00e1diz",
+        "league_id": 54,
+        "league": "LaLiga 2",
+        "venue": "Jos\u00e9 Zorrilla",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15526004,
+        "kickoff": 1774992600,
+        "fixture": "Juventude vs Gr\u00eamio Novorizontino",
+        "league_id": 390,
+        "league": "Brasileir\u00e3o S\u00e9rie B",
+        "venue": "Est\u00e1dio Alfredo Jaconi",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15525999,
+        "kickoff": 1774994400,
+        "fixture": "Fortaleza vs Cuiab\u00e1",
+        "league_id": 390,
+        "league": "Brasileir\u00e3o S\u00e9rie B",
+        "venue": "Est\u00e1dio Governador Pl\u00e1cido Castelo",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15367410,
+        "kickoff": 1774912200,
+        "fixture": "Independiente Medell\u00edn vs Am\u00e9rica de Cali",
+        "league_id": 11539,
+        "league": "Liga DIMAYOR, Apertura",
+        "venue": "Estadio Atanasio Girardot",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15367411,
+        "kickoff": 1774920000,
+        "fixture": "Millonarios vs Fortaleza FC",
+        "league_id": 11539,
+        "league": "Liga DIMAYOR, Apertura",
+        "venue": "Estadio Nemesio Camacho El Campin",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15367412,
+        "kickoff": 1775005200,
+        "fixture": "Deportes Tolima vs Rionegro \u00c1guilas Doradas",
+        "league_id": 11539,
+        "league": "Liga DIMAYOR, Apertura",
+        "venue": "Estadio Manuel Murillo Toro",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14435482,
+        "kickoff": 1774886400,
+        "fixture": "Hamburger SV vs Bayer Leverkusen",
+        "league_id": 232,
+        "league": "Frauen-Bundesliga",
+        "venue": "Wolfgang-Meyer-Sportanlage",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15662775,
+        "kickoff": 1774965600,
+        "fixture": "Burundi vs Chad",
+        "league_id": 1848,
+        "league": "Africa Cup of Nations, Qualification, Preliminary",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15662777,
+        "kickoff": 1774965600,
+        "fixture": "Eswatini vs Eritrea",
+        "league_id": 1848,
+        "league": "Africa Cup of Nations, Qualification, Preliminary",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15662778,
+        "kickoff": 1774965600,
+        "fixture": "Ethiopia vs S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "league_id": 1848,
+        "league": "Africa Cup of Nations, Qualification, Preliminary",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15662776,
+        "kickoff": 1774965600,
+        "fixture": "Lesotho vs Seychelles",
+        "league_id": 1848,
+        "league": "Africa Cup of Nations, Qualification, Preliminary",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15662774,
+        "kickoff": 1774965600,
+        "fixture": "South Sudan vs Djibouti",
+        "league_id": 1848,
+        "league": "Africa Cup of Nations, Qualification, Preliminary",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15662779,
+        "kickoff": 1775001600,
+        "fixture": "Mauritius vs Somalia",
+        "league_id": 1848,
+        "league": "Africa Cup of Nations, Qualification, Preliminary",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15856848,
+        "kickoff": 1774875600,
+        "fixture": "JS Kabylie vs ES Ben Aknoun",
+        "league_id": 841,
+        "league": "Ligue 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15856849,
+        "kickoff": 1774875600,
+        "fixture": "Paradou AC vs CR Belouizdad",
+        "league_id": 841,
+        "league": "Ligue 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15856850,
+        "kickoff": 1774897200,
+        "fixture": "MC Alger vs USM Alger",
+        "league_id": 841,
+        "league": "Ligue 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15329651,
+        "kickoff": 1774916100,
+        "fixture": "Club Atl\u00e9tico Uni\u00f3n de Santa Fe vs Agropecuario Argentino",
+        "league_id": 1024,
+        "league": "Copa Argentina",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15275500,
+        "kickoff": 1774897200,
+        "fixture": "Defensores de Belgrano vs Atl\u00e9tico de Rafaela",
+        "league_id": 703,
+        "league": "Primera B Nacional",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13218620,
+        "kickoff": 1774953000,
+        "fixture": "Maldives vs East Timor",
+        "league_id": 28,
+        "league": "AFC Asian Cup, Qualification Group A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13218619,
+        "kickoff": 1774965600,
+        "fixture": "Tajikistan vs Philippines",
+        "league_id": 28,
+        "league": "AFC Asian Cup, Qualification Group A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13218622,
+        "kickoff": 1774960200,
+        "fixture": "Bhutan vs Brunei Darussalam",
+        "league_id": 28,
+        "league": "AFC Asian Cup, Qualification Group B",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13218621,
+        "kickoff": 1774965600,
+        "fixture": "Lebanon vs Yemen",
+        "league_id": 28,
+        "league": "AFC Asian Cup, Qualification Group B",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13218624,
+        "kickoff": 1774958400,
+        "fixture": "Singapore vs Bangladesh",
+        "league_id": 28,
+        "league": "AFC Asian Cup, Qualification Group C",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13218623,
+        "kickoff": 1774963800,
+        "fixture": "India vs Hong Kong",
+        "league_id": 28,
+        "league": "AFC Asian Cup, Qualification Group C",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13218626,
+        "kickoff": 1774953000,
+        "fixture": "Chinese Taipei vs Sri Lanka",
+        "league_id": 28,
+        "league": "AFC Asian Cup, Qualification Group D",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13218625,
+        "kickoff": 1774960200,
+        "fixture": "Thailand vs Turkmenistan",
+        "league_id": 28,
+        "league": "AFC Asian Cup, Qualification Group D",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13987706,
+        "kickoff": 1774947600,
+        "fixture": "Pakistan vs Myanmar",
+        "league_id": 28,
+        "league": "AFC Asian Cup, Qualification Group E",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13218627,
+        "kickoff": 1774971000,
+        "fixture": "Syria vs Afghanistan",
+        "league_id": 28,
+        "league": "AFC Asian Cup, Qualification Group E",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13218630,
+        "kickoff": 1774958400,
+        "fixture": "Nepal vs Laos",
+        "league_id": 28,
+        "league": "AFC Asian Cup, Qualification Group F",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13218629,
+        "kickoff": 1774958400,
+        "fixture": "Vietnam vs Malaysia",
+        "league_id": 28,
+        "league": "AFC Asian Cup, Qualification Group F",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15038432,
+        "kickoff": 1775034000,
+        "fixture": "China U20 vs Vietnam U20",
+        "league_id": 21791,
+        "league": "U20 AFC Asian Cup, Group A, Women",
+        "venue": "Nonthaburi Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15756810,
+        "kickoff": 1774906200,
+        "fixture": "Jacuipense vs Am\u00e9rica-RN",
+        "league_id": 1596,
+        "league": "Copa do Nordeste",
+        "venue": "Est\u00e1dio de Pitua\u00e7u",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15416171,
+        "kickoff": 1774904400,
+        "fixture": "Deportes Magallanes vs Rangers de Talca",
+        "league_id": 1240,
+        "league": "Liga de Ascenso",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15683243,
+        "kickoff": 1774904400,
+        "fixture": "Cobresal vs Universidad Cat\u00f3lica",
+        "league_id": 32734,
+        "league": "Copa de la Liga, Group B",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15683247,
+        "kickoff": 1774913400,
+        "fixture": "Universidad de Concepci\u00f3n vs \u00d1ublense",
+        "league_id": 32734,
+        "league": "Copa de la Liga, Group B",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15683251,
+        "kickoff": 1774913400,
+        "fixture": "Palestino vs O'Higgins",
+        "league_id": 32734,
+        "league": "Copa de la Liga, Group C",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15683249,
+        "kickoff": 1774999800,
+        "fixture": "Everton de Vi\u00f1a del Mar vs Deportes Limache",
+        "league_id": 32734,
+        "league": "Copa de la Liga, Group C",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15683248,
+        "kickoff": 1774990800,
+        "fixture": "Audax Italiano vs Universidad de Chile",
+        "league_id": 32734,
+        "league": "Copa de la Liga, Group D",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15415214,
+        "kickoff": 1774900800,
+        "fixture": "Independiente Yumbo vs Uni\u00f3n Magdalena",
+        "league_id": 1238,
+        "league": "Primera B, Apertura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15415215,
+        "kickoff": 1774915200,
+        "fixture": "Orsomarso SC vs Internacional de Palmira",
+        "league_id": 1238,
+        "league": "Primera B, Apertura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15415217,
+        "kickoff": 1774987200,
+        "fixture": "Real Santander vs Envigado FC",
+        "league_id": 1238,
+        "league": "Primera B, Apertura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15415216,
+        "kickoff": 1774987200,
+        "fixture": "Tigres FC vs Barranquilla FC",
+        "league_id": 1238,
+        "league": "Primera B, Apertura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15415218,
+        "kickoff": 1774997100,
+        "fixture": "Atl\u00e9tico Cali vs Boca Juniors de Cali",
+        "league_id": 1238,
+        "league": "Primera B, Apertura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15415221,
+        "kickoff": 1775001600,
+        "fixture": "Real Cartagena vs Deportes Quind\u00edo",
+        "league_id": 1238,
+        "league": "Primera B, Apertura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15519405,
+        "kickoff": 1774982700,
+        "fixture": "Southend United vs Yeovil Town",
+        "league_id": 173,
+        "league": "National League",
+        "venue": "Roots Hall",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15603233,
+        "kickoff": 1774982700,
+        "fixture": "Wealdstone vs Hartlepool United",
+        "league_id": 173,
+        "league": "National League",
+        "venue": "St Georges Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15579729,
+        "kickoff": 1774982700,
+        "fixture": "Woking vs Altrincham FC",
+        "league_id": 173,
+        "league": "National League",
+        "venue": "Kingfield Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13500811,
+        "kickoff": 1774969200,
+        "fixture": "Finland U21 vs Cyprus U21",
+        "league_id": 26,
+        "league": "U21 EURO, Qualification, Group A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13500810,
+        "kickoff": 1774972800,
+        "fixture": "Romania U21 vs San Marino U21",
+        "league_id": 26,
+        "league": "U21 EURO, Qualification, Group A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13500808,
+        "kickoff": 1774976400,
+        "fixture": "Spain U21 vs Kosovo U21",
+        "league_id": 26,
+        "league": "U21 EURO, Qualification, Group A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13500814,
+        "kickoff": 1774969200,
+        "fixture": "Czechia U21 vs Gibraltar U21",
+        "league_id": 26,
+        "league": "U21 EURO, Qualification, Group B",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13500812,
+        "kickoff": 1774972800,
+        "fixture": "Bulgaria U21 vs Azerbaijan U21",
+        "league_id": 26,
+        "league": "U21 EURO, Qualification, Group B",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13500813,
+        "kickoff": 1774981800,
+        "fixture": "Portugal U21 vs Scotland U21",
+        "league_id": 26,
+        "league": "U21 EURO, Qualification, Group B",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13500807,
+        "kickoff": 1774890000,
+        "fixture": "France U21 vs Iceland U21",
+        "league_id": 26,
+        "league": "U21 EURO, Qualification, Group C",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13500815,
+        "kickoff": 1774980000,
+        "fixture": "Switzerland U21 vs Estonia U21",
+        "league_id": 26,
+        "league": "U21 EURO, Qualification, Group C",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13500817,
+        "kickoff": 1774965600,
+        "fixture": "Kazakhstan U21 vs Ireland U21",
+        "league_id": 26,
+        "league": "U21 EURO, Qualification, Group D",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13500816,
+        "kickoff": 1774980000,
+        "fixture": "England U21 vs Moldova U21",
+        "league_id": 26,
+        "league": "U21 EURO, Qualification, Group D",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13500820,
+        "kickoff": 1774958400,
+        "fixture": "Montenegro U21 vs Poland U21",
+        "league_id": 26,
+        "league": "U21 EURO, Qualification, Group E",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13500818,
+        "kickoff": 1774962000,
+        "fixture": "Armenia U21 vs North Macedonia U21",
+        "league_id": 26,
+        "league": "U21 EURO, Qualification, Group E",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13500819,
+        "kickoff": 1774974600,
+        "fixture": "Sweden U21 vs Italy U21",
+        "league_id": 26,
+        "league": "U21 EURO, Qualification, Group E",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13500824,
+        "kickoff": 1774954800,
+        "fixture": "Latvia U21 vs Northern Ireland U21",
+        "league_id": 26,
+        "league": "U21 EURO, Qualification, Group F",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13500821,
+        "kickoff": 1774965600,
+        "fixture": "Georgia U21 vs Malta U21",
+        "league_id": 26,
+        "league": "U21 EURO, Qualification, Group F",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13500823,
+        "kickoff": 1774972800,
+        "fixture": "Greece U21 vs Germany U21",
+        "league_id": 26,
+        "league": "U21 EURO, Qualification, Group F",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13500826,
+        "kickoff": 1774965600,
+        "fixture": "Slovenia U21 vs Norway U21",
+        "league_id": 26,
+        "league": "U21 EURO, Qualification, Group G",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13500825,
+        "kickoff": 1774969200,
+        "fixture": "Israel U21 vs Bosnia & Herzegovina U21",
+        "league_id": 26,
+        "league": "U21 EURO, Qualification, Group G",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13500828,
+        "kickoff": 1774967400,
+        "fixture": "Hungary U21 vs Ukraine U21",
+        "league_id": 26,
+        "league": "U21 EURO, Qualification, Group H",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13500827,
+        "kickoff": 1774971000,
+        "fixture": "Croatia U21 vs T\u00fcrkiye U21",
+        "league_id": 26,
+        "league": "U21 EURO, Qualification, Group H",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13500830,
+        "kickoff": 1774972800,
+        "fixture": "Austria U21 vs Belarus U21",
+        "league_id": 26,
+        "league": "U21 EURO, Qualification, Group I",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13500829,
+        "kickoff": 1774972800,
+        "fixture": "Denmark U21 vs Wales U21",
+        "league_id": 26,
+        "league": "U21 EURO, Qualification, Group I",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15224864,
+        "kickoff": 1774972800,
+        "fixture": "Austria U19 vs Germany U19",
+        "league_id": 748,
+        "league": "U19 UEFA European Championship, Elite round Gr. 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15224865,
+        "kickoff": 1774972800,
+        "fixture": "Sweden U19 vs Greece U19",
+        "league_id": 748,
+        "league": "U19 UEFA European Championship, Elite round Gr. 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15224866,
+        "kickoff": 1774969200,
+        "fixture": "Portugal U19 vs England U19",
+        "league_id": 748,
+        "league": "U19 UEFA European Championship, Elite round Gr. 2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15224867,
+        "kickoff": 1774969200,
+        "fixture": "Serbia U19 vs Poland U19",
+        "league_id": 748,
+        "league": "U19 UEFA European Championship, Elite round Gr. 2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15224868,
+        "kickoff": 1774951200,
+        "fixture": "France U19 vs Croatia U19",
+        "league_id": 748,
+        "league": "U19 UEFA European Championship, Elite round Gr. 3",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15224869,
+        "kickoff": 1774951200,
+        "fixture": "Switzerland U19 vs Norway U19",
+        "league_id": 748,
+        "league": "U19 UEFA European Championship, Elite round Gr. 3",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15224870,
+        "kickoff": 1774958400,
+        "fixture": "Denmark U19 vs Czechia U19",
+        "league_id": 748,
+        "league": "U19 UEFA European Championship, Elite round Gr. 4",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15224871,
+        "kickoff": 1774958400,
+        "fixture": "Latvia U19 vs Belgium U19",
+        "league_id": 748,
+        "league": "U19 UEFA European Championship, Elite round Gr. 4",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15220691,
+        "kickoff": 1774951200,
+        "fixture": "Ireland U19 vs Kazakhstan U19",
+        "league_id": 748,
+        "league": "U19 UEFA European Championship, Elite round Gr. 5",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15220781,
+        "kickoff": 1774965600,
+        "fixture": "Northern Ireland U19 vs Kazakhstan U19",
+        "league_id": 748,
+        "league": "U19 UEFA European Championship, Elite round Gr. 5",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15224872,
+        "kickoff": 1774965600,
+        "fixture": "Romania U19 vs Ukraine U19",
+        "league_id": 748,
+        "league": "U19 UEFA European Championship, Elite round Gr. 5",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15224874,
+        "kickoff": 1774951200,
+        "fixture": "Hungary U19 vs Slovakia U19",
+        "league_id": 748,
+        "league": "U19 UEFA European Championship, Elite round Gr. 6",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15224873,
+        "kickoff": 1774962000,
+        "fixture": "T\u00fcrkiye U19 vs Italy U19",
+        "league_id": 748,
+        "league": "U19 UEFA European Championship, Elite round Gr. 6",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15224875,
+        "kickoff": 1774972800,
+        "fixture": "Netherlands U19 vs Spain U19",
+        "league_id": 748,
+        "league": "U19 UEFA European Championship, Elite round Gr. 7",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15224876,
+        "kickoff": 1774972800,
+        "fixture": "Slovenia U19 vs Finland U19",
+        "league_id": 748,
+        "league": "U19 UEFA European Championship, Elite round Gr. 7",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15589245,
+        "kickoff": 1774976400,
+        "fixture": "FSV Luckenwalde vs Hallescher FC",
+        "league_id": 1083,
+        "league": "Regionalliga Northeast",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15558673,
+        "kickoff": 1774962000,
+        "fixture": "Gokulam Kerala FC vs Aizawl FC",
+        "league_id": 848,
+        "league": "I-League",
+        "venue": "EMS Stadium Kozhikode",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15558661,
+        "kickoff": 1775039400,
+        "fixture": "Rajasthan United FC vs Chanmari FC",
+        "league_id": 848,
+        "league": "I-League",
+        "venue": "Rajasthan University Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14303200,
+        "kickoff": 1774895400,
+        "fixture": "Arezzo vs Ascoli",
+        "league_id": 11447,
+        "league": "Serie C, Group B",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14303587,
+        "kickoff": 1774895400,
+        "fixture": "Casertana vs Sorrento",
+        "league_id": 11446,
+        "league": "Serie C, Group C",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15345919,
+        "kickoff": 1775037600,
+        "fixture": "Machida Zelvia vs FC Tokyo",
+        "league_id": 196,
+        "league": "J1 League, East",
+        "venue": "Machida Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15342056,
+        "kickoff": 1775037600,
+        "fixture": "Vissel Kobe vs Shimizu S-Pulse",
+        "league_id": 196,
+        "league": "J1 League, West",
+        "venue": "Noevir Stadium Kobe",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15570346,
+        "kickoff": 1774965600,
+        "fixture": "Torreense U23 vs Famalic\u00e3o U23",
+        "league_id": 11341,
+        "league": "U23 Championship, Championship Round",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15275004,
+        "kickoff": 1774951200,
+        "fixture": "Estoril Praia U23 vs UD Leiria U23",
+        "league_id": 11341,
+        "league": "U23 Championship, Relegation Round",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15707238,
+        "kickoff": 1774888200,
+        "fixture": "Torpedo Moscow vs SKA-Khabarovsk",
+        "league_id": 204,
+        "league": "First League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14326826,
+        "kickoff": 1775003400,
+        "fixture": "Dallas Trinity vs Tampa Bay Sun FC",
+        "league_id": 28384,
+        "league": "USL Super League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15713283,
+        "kickoff": 1774904400,
+        "fixture": "Cerro Largo vs Danubio",
+        "league_id": 278,
+        "league": "Liga AUF Uruguaya, Apertura",
+        "venue": "Estadio Arquitecto Antonio Eleuterio Ubilla",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15713275,
+        "kickoff": 1774915200,
+        "fixture": "Central Espa\u00f1ol vs Deportivo Maldonado",
+        "league_id": 278,
+        "league": "Liga AUF Uruguaya, Apertura",
+        "venue": "Parque Palermo",
+        "tv_channels": []
+    }
+]
