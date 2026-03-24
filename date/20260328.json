@@ -412,10 +412,10 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Sky Go UK",
+                    "Sky Sports Football",
                     "Sky Sports Ultra HD",
-                    "Sky Sports Main Event",
-                    "Sky Sports Football"
+                    "Sky Go UK",
+                    "Sky Sports Main Event"
                 ]
             },
             {
@@ -445,10 +445,10 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Sky Go UK",
+                    "Sky Sports Football",
                     "Sky Sports Ultra HD",
-                    "Sky Sports Main Event",
-                    "Sky Sports Football"
+                    "Sky Go UK",
+                    "Sky Sports Main Event"
                 ]
             }
         ]
@@ -585,8 +585,8 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "TNT Sports 2",
-                    "Discovery+"
+                    "Discovery+",
+                    "TNT Sports 2"
                 ]
             },
             {
@@ -874,8 +874,8 @@
                 "country": "Ghana",
                 "channels": [
                     "GTV",
-                    "GTV Sports+",
-                    "TV3 Ghana"
+                    "TV3 Ghana",
+                    "GTV Sports+"
                 ]
             },
             {
@@ -887,8 +887,8 @@
             {
                 "country": "Norway",
                 "channels": [
-                    "Viaplay",
-                    "TV2 Play"
+                    "TV2 Play",
+                    "Viaplay"
                 ]
             },
             {
@@ -952,8 +952,8 @@
             {
                 "country": "Norway",
                 "channels": [
-                    "Viaplay",
-                    "TV2 Play"
+                    "TV2 Play",
+                    "Viaplay"
                 ]
             },
             {
@@ -995,6 +995,12 @@
         "venue": "TBA",
         "tv_channels": [
             {
+                "country": "Afghanistan",
+                "channels": [
+                    "Polsat Sport Extra 2"
+                ]
+            },
+            {
                 "country": "Brazil",
                 "channels": [
                     "ESPN 3",
@@ -1014,6 +1020,12 @@
                 ]
             },
             {
+                "country": "Poland",
+                "channels": [
+                    "Polsat Sport Extra 2"
+                ]
+            },
+            {
                 "country": "Sweden",
                 "channels": [
                     "Viaplay"
@@ -1030,10 +1042,64 @@
         "venue": "TBA",
         "tv_channels": [
             {
+                "country": "Angola",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Botswana",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
                 "country": "Brazil",
                 "channels": [
                     "ESPN",
                     "Disney+"
+                ]
+            },
+            {
+                "country": "Burkina Faso",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Burundi",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Cabo Verde",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Cameroon",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Chad",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Congo",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Congo, The Democratic Republic of the",
+                "channels": [
+                    "DStv Now"
                 ]
             },
             {
@@ -1043,9 +1109,45 @@
                 ]
             },
             {
+                "country": "C\u00f4te d'Ivoire",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
                 "country": "Denmark",
                 "channels": [
                     "TV2 Play Denmark"
+                ]
+            },
+            {
+                "country": "Djibouti",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Equatorial Guinea",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Eritrea",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Eswatini",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Ethiopia",
+                "channels": [
+                    "DStv Now"
                 ]
             },
             {
@@ -1061,6 +1163,42 @@
                 ]
             },
             {
+                "country": "Gabon",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Gambia",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Germany",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Ghana",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Guinea",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Guinea-Bissau",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
                 "country": "Hungary",
                 "channels": [
                     "Sp\u00edler1"
@@ -1069,9 +1207,15 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "ITV",
                     "Virgin Media Two",
+                    "ITV",
                     "ITVX"
+                ]
+            },
+            {
+                "country": "Kenya",
+                "channels": [
+                    "DStv Now"
                 ]
             },
             {
@@ -1081,9 +1225,75 @@
                 ]
             },
             {
+                "country": "Lesotho",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Liberia",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Madagascar",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Malawi",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Mali",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Mauritania",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Mauritius",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
                 "country": "Montenegro",
                 "channels": [
                     "Arena 4 Premium"
+                ]
+            },
+            {
+                "country": "Mozambique",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Namibia",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Niger",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Nigeria",
+                "channels": [
+                    "DStv Now"
                 ]
             },
             {
@@ -1095,8 +1305,14 @@
             {
                 "country": "Norway",
                 "channels": [
-                    "Viaplay",
-                    "TV2 Play"
+                    "TV2 Play",
+                    "Viaplay"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "Polsat Sport 2"
                 ]
             },
             {
@@ -1112,9 +1328,27 @@
                 ]
             },
             {
+                "country": "Senegal",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
                 "country": "Serbia",
                 "channels": [
                     "Arena 4 Premium"
+                ]
+            },
+            {
+                "country": "Seychelles",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Sierra Leone",
+                "channels": [
+                    "DStv Now"
                 ]
             },
             {
@@ -1130,9 +1364,39 @@
                 ]
             },
             {
+                "country": "South Sudan",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Sudan",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
                 "country": "Sweden",
                 "channels": [
                     "Viaplay"
+                ]
+            },
+            {
+                "country": "Tanzania, United Republic of",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Togo",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Uganda",
+                "channels": [
+                    "DStv Now"
                 ]
             },
             {
@@ -1159,6 +1423,12 @@
                 "country": "XK",
                 "channels": [
                     "Arena 4 Premium"
+                ]
+            },
+            {
+                "country": "Zimbabwe",
+                "channels": [
+                    "DStv Now"
                 ]
             }
         ]
@@ -1329,8 +1599,8 @@
             {
                 "country": "XK",
                 "channels": [
-                    "RTL",
-                    "Arena 5 Premium"
+                    "Arena 5 Premium",
+                    "RTL"
                 ]
             }
         ]
@@ -1358,16 +1628,16 @@
             {
                 "country": "Ecuador",
                 "channels": [
-                    "Canal del Futbol",
-                    "ECDF App"
+                    "ECDF App",
+                    "Canal del Futbol"
                 ]
             },
             {
                 "country": "Morocco",
                 "channels": [
                     "Arryadia",
-                    "Al Aoula",
-                    "SNRT Live"
+                    "SNRT Live",
+                    "Al Aoula"
                 ]
             },
             {
@@ -1396,8 +1666,8 @@
                 "country": "Peru",
                 "channels": [
                     "ATV",
-                    "Am\u00e9rica Televisi\u00f3n",
-                    "M+ Deportes"
+                    "M+ Deportes",
+                    "Am\u00e9rica Televisi\u00f3n"
                 ]
             },
             {
@@ -1483,6 +1753,12 @@
                 ]
             },
             {
+                "country": "South Africa",
+                "channels": [
+                    "DStv App"
+                ]
+            },
+            {
                 "country": "Sweden",
                 "channels": [
                     "Viaplay"
@@ -1532,8 +1808,8 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "BBC iPlayer",
                     "BBC Scotland",
+                    "BBC iPlayer",
                     "BBC Sport Web"
                 ]
             },
@@ -1552,8 +1828,8 @@
             {
                 "country": "Norway",
                 "channels": [
-                    "Viaplay",
-                    "TV2 Play"
+                    "TV2 Play",
+                    "Viaplay"
                 ]
             },
             {
@@ -1565,8 +1841,8 @@
             {
                 "country": "Romania",
                 "channels": [
-                    "Digi Sport 2",
-                    "Digi Online"
+                    "Digi Online",
+                    "Digi Sport 2"
                 ]
             },
             {
@@ -1584,8 +1860,8 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "BBC iPlayer",
                     "BBC Scotland",
+                    "BBC iPlayer",
                     "BBC Sport Web"
                 ]
             },
@@ -1700,9 +1976,9 @@
             {
                 "country": "United States",
                 "channels": [
-                    "TNT",
                     "Peacock",
-                    "Telemundo"
+                    "Telemundo",
+                    "TNT"
                 ]
             }
         ]
@@ -1736,8 +2012,8 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "TNT Sports 4",
-                    "Discovery+"
+                    "Discovery+",
+                    "TNT Sports 4"
                 ]
             },
             {
@@ -1916,17 +2192,17 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Sky Go UK",
+                    "Sky Sports Mix",
                     "Sky Sports Premier League",
-                    "Sky Sports Mix"
+                    "Sky Go UK"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Sky Go UK",
+                    "Sky Sports Mix",
                     "Sky Sports Premier League",
-                    "Sky Sports Mix"
+                    "Sky Go UK"
                 ]
             }
         ]
@@ -1954,8 +2230,8 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "BBC iPlayer",
                     "BBC One",
+                    "BBC iPlayer",
                     "BBC Sport Web"
                 ]
             },
@@ -1992,8 +2268,8 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "BBC iPlayer",
                     "BBC One",
+                    "BBC iPlayer",
                     "BBC Sport Web"
                 ]
             },
@@ -2046,10 +2322,10 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Sky Go UK",
+                    "Sky Sports Football",
                     "Sky Sports Ultra HD",
-                    "Sky Sports Main Event",
-                    "Sky Sports Football"
+                    "Sky Go UK",
+                    "Sky Sports Main Event"
                 ]
             },
             {
@@ -2067,10 +2343,10 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Sky Go UK",
+                    "Sky Sports Football",
                     "Sky Sports Ultra HD",
-                    "Sky Sports Main Event",
-                    "Sky Sports Football"
+                    "Sky Go UK",
+                    "Sky Sports Main Event"
                 ]
             }
         ]
@@ -2872,7 +3148,15 @@
         "league_id": 1596,
         "league": "Copa do Nordeste",
         "venue": "Est\u00e1dio Rei Pel\u00e9",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "SBT",
+                    "SportyNet"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15840665,
@@ -2890,7 +3174,14 @@
         "league_id": 1596,
         "league": "Copa do Nordeste",
         "venue": "Arena de Pernambuco",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "SBT"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15840666,
@@ -2899,7 +3190,14 @@
         "league_id": 1596,
         "league": "Copa do Nordeste",
         "venue": "Est\u00e1dio Presidente Vargas",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "SportyNet"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15416172,
@@ -3168,7 +3466,14 @@
         "league_id": 26,
         "league": "U21 EURO, Qualification, Group B",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Azerbaijan",
+                "channels": [
+                    "CBC Sport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 13500791,
@@ -3917,7 +4222,7 @@
         "kickoff": 1774749600,
         "fixture": "CSD Xelaj\u00fa MC vs Deportivo Guastatoya",
         "league_id": 11615,
-        "league": "Liga Guate Banrural, Clausura",
+        "league": "Liga Bantrab, Clausura",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -4661,11 +4966,29 @@
             {
                 "country": "Norway",
                 "channels": [
-                    "TV2 Sport",
-                    "TV2 Play"
+                    "TV2 Play",
+                    "TV2 Sport"
                 ]
             }
         ]
+    },
+    {
+        "match_id": 15400137,
+        "kickoff": 1774647000,
+        "fixture": "Nacional Asunci\u00f3n vs Sportivo Luque\u00f1o",
+        "league_id": 11540,
+        "league": "Divisi\u00f3n de Honor, Apertura",
+        "venue": "Estadio Arsenio Erico",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15400141,
+        "kickoff": 1774654200,
+        "fixture": "Sportivo Ameliano vs Libertad",
+        "league_id": 11540,
+        "league": "Divisi\u00f3n de Honor, Apertura",
+        "venue": "Estadio Jose Tomas Silva",
+        "tv_channels": []
     },
     {
         "match_id": 15703701,
@@ -4829,17 +5152,17 @@
             {
                 "country": "Ireland",
                 "channels": [
+                    "BBC Alba",
                     "BBC iPlayer",
-                    "BBC Sport Web",
-                    "BBC Alba"
+                    "BBC Sport Web"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
                     "BBC Alba",
-                    "BBC Sport Web",
-                    "BBC iPlayer"
+                    "BBC iPlayer",
+                    "BBC Sport Web"
                 ]
             }
         ]

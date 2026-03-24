@@ -391,10 +391,10 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Sky Go UK",
+                    "Sky Sports Football",
                     "Sky Sports Ultra HD",
-                    "Sky Sports Main Event",
-                    "Sky Sports Football"
+                    "Sky Go UK",
+                    "Sky Sports Main Event"
                 ]
             },
             {
@@ -424,10 +424,10 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Sky Go UK",
+                    "Sky Sports Football",
                     "Sky Sports Ultra HD",
-                    "Sky Sports Main Event",
-                    "Sky Sports Football"
+                    "Sky Go UK",
+                    "Sky Sports Main Event"
                 ]
             }
         ]
@@ -805,8 +805,8 @@
                 "country": "Peru",
                 "channels": [
                     "ATV",
-                    "Am\u00e9rica Televisi\u00f3n",
-                    "M+ Deportes"
+                    "M+ Deportes",
+                    "Am\u00e9rica Televisi\u00f3n"
                 ]
             },
             {
@@ -892,6 +892,12 @@
                 ]
             },
             {
+                "country": "South Africa",
+                "channels": [
+                    "DStv App"
+                ]
+            },
+            {
                 "country": "Sweden",
                 "channels": [
                     "Viaplay"
@@ -941,8 +947,8 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "BBC iPlayer",
                     "BBC Scotland",
+                    "BBC iPlayer",
                     "BBC Sport Web"
                 ]
             },
@@ -961,8 +967,8 @@
             {
                 "country": "Norway",
                 "channels": [
-                    "Viaplay",
-                    "TV2 Play"
+                    "TV2 Play",
+                    "Viaplay"
                 ]
             },
             {
@@ -974,8 +980,8 @@
             {
                 "country": "Romania",
                 "channels": [
-                    "Digi Sport 2",
-                    "Digi Online"
+                    "Digi Online",
+                    "Digi Sport 2"
                 ]
             },
             {
@@ -993,8 +999,8 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "BBC iPlayer",
                     "BBC Scotland",
+                    "BBC iPlayer",
                     "BBC Sport Web"
                 ]
             },
@@ -1109,9 +1115,9 @@
             {
                 "country": "United States",
                 "channels": [
-                    "TNT",
                     "Peacock",
-                    "Telemundo"
+                    "Telemundo",
+                    "TNT"
                 ]
             }
         ]
@@ -1136,8 +1142,8 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "TNT Sports 4",
-                    "Discovery+"
+                    "Discovery+",
+                    "TNT Sports 4"
                 ]
             },
             {
@@ -1271,17 +1277,17 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Sky Go UK",
+                    "Sky Sports Mix",
                     "Sky Sports Premier League",
-                    "Sky Sports Mix"
+                    "Sky Go UK"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Sky Go UK",
+                    "Sky Sports Mix",
                     "Sky Sports Premier League",
-                    "Sky Sports Mix"
+                    "Sky Go UK"
                 ]
             }
         ]
@@ -1309,8 +1315,8 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "BBC iPlayer",
                     "BBC One",
+                    "BBC iPlayer",
                     "BBC Sport Web"
                 ]
             },
@@ -1347,8 +1353,8 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "BBC iPlayer",
                     "BBC One",
+                    "BBC iPlayer",
                     "BBC Sport Web"
                 ]
             },
@@ -1401,10 +1407,10 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Sky Go UK",
+                    "Sky Sports Football",
                     "Sky Sports Ultra HD",
-                    "Sky Sports Main Event",
-                    "Sky Sports Football"
+                    "Sky Go UK",
+                    "Sky Sports Main Event"
                 ]
             },
             {
@@ -1422,10 +1428,10 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Sky Go UK",
+                    "Sky Sports Football",
                     "Sky Sports Ultra HD",
-                    "Sky Sports Main Event",
-                    "Sky Sports Football"
+                    "Sky Go UK",
+                    "Sky Sports Main Event"
                 ]
             }
         ]
@@ -2181,7 +2187,15 @@
         "league_id": 1596,
         "league": "Copa do Nordeste",
         "venue": "Est\u00e1dio Rei Pel\u00e9",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "SBT",
+                    "SportyNet"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15840665,
@@ -2199,7 +2213,14 @@
         "league_id": 1596,
         "league": "Copa do Nordeste",
         "venue": "Arena de Pernambuco",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "SBT"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15840666,
@@ -2208,7 +2229,14 @@
         "league_id": 1596,
         "league": "Copa do Nordeste",
         "venue": "Est\u00e1dio Presidente Vargas",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "SportyNet"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15756808,
@@ -2226,7 +2254,14 @@
         "league_id": 1596,
         "league": "Copa do Nordeste",
         "venue": "Frasqueir\u00e3o",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "SportyNet"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15846624,
@@ -2935,7 +2970,7 @@
         "kickoff": 1774749600,
         "fixture": "CSD Xelaj\u00fa MC vs Deportivo Guastatoya",
         "league_id": 11615,
-        "league": "Liga Guate Banrural, Clausura",
+        "league": "Liga Bantrab, Clausura",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -3635,8 +3670,8 @@
             {
                 "country": "Norway",
                 "channels": [
-                    "TV2 Sport",
-                    "TV2 Play"
+                    "TV2 Play",
+                    "TV2 Sport"
                 ]
             }
         ]

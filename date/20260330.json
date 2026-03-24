@@ -754,7 +754,14 @@
         "league_id": 1596,
         "league": "Copa do Nordeste",
         "venue": "Frasqueir\u00e3o",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "SportyNet"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15846624,
@@ -1267,6 +1274,15 @@
         "league_id": 11612,
         "league": "Liga de Expansion MX, Clausura",
         "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15400143,
+        "kickoff": 1774913400,
+        "fixture": "Libertad vs Recoleta FC",
+        "league_id": 11540,
+        "league": "Divisi\u00f3n de Honor, Apertura",
+        "venue": "Estadio Tigo La Huerta",
         "tv_channels": []
     },
     {
