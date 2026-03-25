@@ -147,7 +147,7 @@
         "fixture": "Internacional de Bogot\u00e1 vs Junior Barranquilla",
         "league_id": 11539,
         "league": "Liga DIMAYOR, Apertura",
-        "venue": "TBA",
+        "venue": "Estadio Metropolitano de Techo",
         "tv_channels": []
     },
     {
@@ -443,10 +443,10 @@
             {
                 "country": "Colombia",
                 "channels": [
-                    "Caracol Play",
+                    "RCN Television",
                     "ditu",
-                    "Caracol TV",
-                    "RCN Television"
+                    "Caracol Play",
+                    "Caracol TV"
                 ]
             },
             {
@@ -623,8 +623,8 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Sky Sports Football",
                     "Sky One",
+                    "Sky Sports Football",
                     "Sky Sports Main Event"
                 ]
             },
@@ -655,8 +655,8 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Sky Sports Football",
                     "Sky One",
+                    "Sky Sports Football",
                     "Sky Sports Main Event"
                 ]
             },
@@ -837,8 +837,8 @@
             {
                 "country": "Andorra",
                 "channels": [
-                    "TV3",
-                    "Teledeporte"
+                    "Teledeporte",
+                    "TV3"
                 ]
             },
             {
@@ -850,8 +850,8 @@
             {
                 "country": "Spain",
                 "channels": [
-                    "TV3",
-                    "Teledeporte"
+                    "Teledeporte",
+                    "TV3"
                 ]
             },
             {
@@ -1764,8 +1764,8 @@
             {
                 "country": "Italy",
                 "channels": [
-                    "Sky Sport Uno",
-                    "NOW"
+                    "NOW",
+                    "Sky Sport Uno"
                 ]
             },
             {
@@ -1788,15 +1788,15 @@
             {
                 "country": "Italy",
                 "channels": [
-                    "NOW",
-                    "Sky Sport Arena"
+                    "Sky Sport Arena",
+                    "NOW"
                 ]
             },
             {
                 "country": "San Marino",
                 "channels": [
-                    "NOW",
-                    "Sky Sport Arena"
+                    "Sky Sport Arena",
+                    "NOW"
                 ]
             }
         ]
@@ -1962,15 +1962,15 @@
             {
                 "country": "Italy",
                 "channels": [
-                    "NOW",
-                    "Sky Sport Calcio"
+                    "Sky Sport Calcio",
+                    "NOW"
                 ]
             },
             {
                 "country": "San Marino",
                 "channels": [
-                    "NOW",
-                    "Sky Sport Calcio"
+                    "Sky Sport Calcio",
+                    "NOW"
                 ]
             }
         ]
@@ -1986,15 +1986,15 @@
             {
                 "country": "Italy",
                 "channels": [
-                    "NOW",
-                    "Sky Sport Arena"
+                    "Sky Sport Arena",
+                    "NOW"
                 ]
             },
             {
                 "country": "San Marino",
                 "channels": [
-                    "NOW",
-                    "Sky Sport Arena"
+                    "Sky Sport Arena",
+                    "NOW"
                 ]
             }
         ]
@@ -2141,7 +2141,7 @@
     },
     {
         "match_id": 15655544,
-        "kickoff": 1774803600,
+        "kickoff": 1774794600,
         "fixture": "Uni\u00e3o de Leiria vs Pa\u00e7os de Ferreira",
         "league_id": 239,
         "league": "Liga Portugal 2",

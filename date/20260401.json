@@ -416,8 +416,8 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "STV Player",
                     "STV",
+                    "STV Player",
                     "ITV"
                 ]
             },
@@ -1430,6 +1430,15 @@
         "league_id": 11540,
         "league": "Divisi\u00f3n de Honor, Apertura",
         "venue": "Estadio Gunther Vogel",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15400147,
+        "kickoff": 1775079000,
+        "fixture": "Rubio \u00d1u vs Guaran\u00ed",
+        "league_id": 11540,
+        "league": "Divisi\u00f3n de Honor, Apertura",
+        "venue": "Estadio La Arboleda",
         "tv_channels": []
     },
     {
