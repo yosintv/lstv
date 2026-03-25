@@ -10,7 +10,7 @@
     },
     {
         "match_id": 15651590,
-        "kickoff": 1774827000,
+        "kickoff": 1774823400,
         "fixture": "Athletico vs Botafogo",
         "league_id": 325,
         "league": "Brasileir\u00e3o Betano",
@@ -31,7 +31,26 @@
         "league_id": 54,
         "league": "LaLiga 2",
         "venue": "Estadio Municipal Alfonso Murube",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14083468,
@@ -40,7 +59,50 @@
         "league_id": 54,
         "league": "LaLiga 2",
         "venue": "Estadio Nuevo Los Carmenes",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "DGO"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "DGO"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "DGO"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "DGO"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "DGO"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "DGO"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "DGO"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14083473,
@@ -49,7 +111,26 @@
         "league_id": 54,
         "league": "LaLiga 2",
         "venue": "Jos\u00e9 Zorrilla",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14083485,
@@ -60,15 +141,75 @@
         "venue": "La Rosaleda",
         "tv_channels": [
             {
+                "country": "Andorra",
+                "channels": [
+                    "beIN Sports MAX 6"
+                ]
+            },
+            {
+                "country": "Argentina",
+                "channels": [
+                    "DGO"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "DGO"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "DGO"
+                ]
+            },
+            {
                 "country": "Croatia",
                 "channels": [
                     "Arena Sport 7 HR"
                 ]
             },
             {
+                "country": "Ecuador",
+                "channels": [
+                    "DGO"
+                ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "beIN Sports MAX 6"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "DGO"
+                ]
+            },
+            {
+                "country": "Serbia",
+                "channels": [
+                    "Arena Sport 1x2 SRB"
+                ]
+            },
+            {
                 "country": "Sweden",
                 "channels": [
                     "TV4 Fotball"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "DGO"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "DGO"
                 ]
             }
         ]
@@ -80,7 +221,26 @@
         "league_id": 54,
         "league": "LaLiga 2",
         "venue": "Carlos Belmonte",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14352514,
@@ -91,6 +251,30 @@
         "venue": "El Molin\u00f3n",
         "tv_channels": [
             {
+                "country": "Andorra",
+                "channels": [
+                    "beIN Sports MAX 6"
+                ]
+            },
+            {
+                "country": "Argentina",
+                "channels": [
+                    "DGO"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "DGO"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "DGO"
+                ]
+            },
+            {
                 "country": "Croatia",
                 "channels": [
                     "Arena Sport 5 HR"
@@ -100,6 +284,12 @@
                 "country": "Denmark",
                 "channels": [
                     "TV2 Play Denmark"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "DGO"
                 ]
             },
             {
@@ -115,9 +305,27 @@
                 ]
             },
             {
+                "country": "France",
+                "channels": [
+                    "beIN Sports MAX 6"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "DGO"
+                ]
+            },
+            {
                 "country": "Portugal",
                 "channels": [
                     "DAZN1 Portugal"
+                ]
+            },
+            {
+                "country": "Serbia",
+                "channels": [
+                    "Arena Sport 1x2 SRB"
                 ]
             },
             {
@@ -131,6 +339,18 @@
                 "channels": [
                     "TV4 Fotball"
                 ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "DGO"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "DGO"
+                ]
             }
         ]
     },
@@ -141,7 +361,26 @@
         "league_id": 54,
         "league": "LaLiga 2",
         "venue": "Ipurua Municipal Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14083488,
@@ -150,7 +389,26 @@
         "league_id": 54,
         "league": "LaLiga 2",
         "venue": "Estadio Reino de Le\u00f3n",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14083486,
@@ -168,7 +426,50 @@
         "league_id": 54,
         "league": "LaLiga 2",
         "venue": "UD Almeria Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "DGO"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "DGO"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "DGO"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "DGO"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "DGO"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "DGO"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "DGO"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14056512,
@@ -231,7 +532,122 @@
         "league_id": 11539,
         "league": "Liga DIMAYOR, Apertura",
         "venue": "Estadio Departamental Libertad",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Aruba",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Australia",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Cura\u00e7ao",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "El Salvador",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "New Zealand",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15362226,
@@ -365,6 +781,12 @@
                 ]
             },
             {
+                "country": "Bosnia and Herzegovina",
+                "channels": [
+                    "Arena Sport Premium 2"
+                ]
+            },
+            {
                 "country": "Burundi",
                 "channels": [
                     "Sporty TV"
@@ -416,9 +838,9 @@
                 "country": "Ireland",
                 "channels": [
                     "Sky Sports Ultra HD",
-                    "Sky Sports Main Event",
                     "Sky Go UK",
-                    "Sky Sports Football"
+                    "Sky Sports Football",
+                    "Sky Sports Main Event"
                 ]
             },
             {
@@ -440,6 +862,12 @@
                 ]
             },
             {
+                "country": "North Macedonia",
+                "channels": [
+                    "Arena Sport Premium 2"
+                ]
+            },
+            {
                 "country": "Norway",
                 "channels": [
                     "Viaplay"
@@ -455,6 +883,12 @@
                 "country": "Rwanda",
                 "channels": [
                     "Sporty TV"
+                ]
+            },
+            {
+                "country": "Serbia",
+                "channels": [
+                    "Arena Sport Premium 2"
                 ]
             },
             {
@@ -498,8 +932,8 @@
                 "channels": [
                     "Sky Sports Ultra HD",
                     "Sky Go UK",
-                    "Sky Sports Main Event",
-                    "Sky Sports Football"
+                    "Sky Sports Football",
+                    "Sky Sports Main Event"
                 ]
             }
         ]
@@ -623,7 +1057,14 @@
         "league_id": 1894,
         "league": "A-League, Women",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "TNT Sports 6"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14671921,
@@ -632,7 +1073,14 @@
         "league_id": 1894,
         "league": "A-League, Women",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "TNT Sports 7"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15227357,
@@ -857,7 +1305,66 @@
         "league_id": 13362,
         "league": "USL, League One",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "MSG"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 15869965,
+        "kickoff": 1774706400,
+        "fixture": "San Marino vs Faroe Islands",
+        "league_id": 851,
+        "league": "Int. Friendly Games",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Bermuda",
+                "channels": [
+                    "Fox Soccer Plus"
+                ]
+            },
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "Viaplay"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "Viaplay"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Fox Soccer Plus"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15598098,
@@ -882,9 +1389,9 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "ATV",
                     "Am\u00e9rica Televisi\u00f3n",
-                    "M+ Deportes"
+                    "M+ Deportes",
+                    "ATV"
                 ]
             },
             {
@@ -934,6 +1441,24 @@
         "venue": "TBA",
         "tv_channels": [
             {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Bosnia and Herzegovina",
+                "channels": [
+                    "Arena Sport Premium 3"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
                 "country": "Czechia",
                 "channels": [
                     "Sport 1"
@@ -946,15 +1471,39 @@
                 ]
             },
             {
+                "country": "North Macedonia",
+                "channels": [
+                    "Arena Sport Premium 3"
+                ]
+            },
+            {
                 "country": "Norway",
                 "channels": [
                     "Viaplay"
                 ]
             },
             {
+                "country": "Peru",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
                 "country": "Portugal",
                 "channels": [
                     "Sport TV6"
+                ]
+            },
+            {
+                "country": "Romania",
+                "channels": [
+                    "Prima Sport 3"
+                ]
+            },
+            {
+                "country": "Serbia",
+                "channels": [
+                    "Arena Sport Premium 3"
                 ]
             },
             {
@@ -1004,10 +1553,22 @@
                 ]
             },
             {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Disney+ Premium Chile"
                 ]
             },
             {
@@ -1029,11 +1590,24 @@
                 ]
             },
             {
+                "country": "Indonesia",
+                "channels": [
+                    "RCTI"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
-                    "BBC iPlayer",
                     "BBC Sport Web",
+                    "BBC iPlayer",
                     "BBC Scotland"
+                ]
+            },
+            {
+                "country": "Italy",
+                "channels": [
+                    "NOW",
+                    "Sky Sport Arena"
                 ]
             },
             {
@@ -1049,10 +1623,28 @@
                 ]
             },
             {
+                "country": "Montenegro",
+                "channels": [
+                    "Arena 5 Premium"
+                ]
+            },
+            {
+                "country": "North Macedonia",
+                "channels": [
+                    "Arena 5 Premium"
+                ]
+            },
+            {
                 "country": "Norway",
                 "channels": [
-                    "Viaplay",
-                    "TV2 Play"
+                    "TV2 Play",
+                    "Viaplay"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "Disney+ Premium Chile"
                 ]
             },
             {
@@ -1064,8 +1656,22 @@
             {
                 "country": "Romania",
                 "channels": [
-                    "Digi Sport 2",
-                    "Digi Online"
+                    "Digi Online",
+                    "Prima Sport 4",
+                    "Digi Sport 2"
+                ]
+            },
+            {
+                "country": "San Marino",
+                "channels": [
+                    "NOW",
+                    "Sky Sport Arena"
+                ]
+            },
+            {
+                "country": "Serbia",
+                "channels": [
+                    "Arena 5 Premium"
                 ]
             },
             {
@@ -1083,8 +1689,8 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "BBC iPlayer",
                     "BBC Sport Web",
+                    "BBC iPlayer",
                     "BBC Scotland"
                 ]
             },
@@ -1092,6 +1698,12 @@
                 "country": "United States",
                 "channels": [
                     "Fox Soccer Plus"
+                ]
+            },
+            {
+                "country": "XK",
+                "channels": [
+                    "Arena 5 Premium"
                 ]
             }
         ]
@@ -1105,6 +1717,12 @@
         "venue": "TBA",
         "tv_channels": [
             {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
                 "country": "Brazil",
                 "channels": [
                     "Xsports"
@@ -1114,6 +1732,12 @@
                 "country": "Burundi",
                 "channels": [
                     "Sporty TV"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Disney+ Premium Chile"
                 ]
             },
             {
@@ -1143,8 +1767,8 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Premier Sports Player",
-                    "Premier Sports 2 HD"
+                    "Premier Sports 2 HD",
+                    "Premier Sports Player"
                 ]
             },
             {
@@ -1163,6 +1787,12 @@
                 "country": "Nigeria",
                 "channels": [
                     "Sporty TV"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "Disney+ Premium Chile"
                 ]
             },
             {
@@ -1198,16 +1828,329 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Premier Sports Player",
-                    "Premier Sports 2 HD"
+                    "Premier Sports 2 HD",
+                    "Premier Sports Player"
                 ]
             },
             {
                 "country": "United States",
                 "channels": [
-                    "TNT",
                     "Telemundo",
+                    "TNT",
                     "Peacock"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 15680562,
+        "kickoff": 1774742400,
+        "fixture": "Haiti vs Tunisia",
+        "league_id": 851,
+        "league": "Int. Friendly Games",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15437863,
+        "kickoff": 1774746000,
+        "fixture": "Mexico vs Portugal",
+        "league_id": 851,
+        "league": "Int. Friendly Games",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "ViX"
+                ]
+            },
+            {
+                "country": "Belize",
+                "channels": [
+                    "Fox Sports App"
+                ]
+            },
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "ViX"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "ViX"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "Caracol TV",
+                    "ViX"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "Fox Sports App",
+                    "TUDN",
+                    "ViX"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "Fox Sports App",
+                    "TUDN",
+                    "ViX"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "ViX"
+                ]
+            },
+            {
+                "country": "El Salvador",
+                "channels": [
+                    "Fox Sports App",
+                    "TUDN",
+                    "ViX"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "Fox Sports App",
+                    "TUDN",
+                    "ViX"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "Fox Sports App",
+                    "TUDN",
+                    "TUDN En Vivo",
+                    "ViX"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "Fox Sports App",
+                    "TUDN",
+                    "ViX",
+                    "Canal 5 Televisa",
+                    "Azteca 7",
+                    "Azteca Deportes",
+                    "Canal 5",
+                    "TUDN En Vivo"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "Fox Sports App",
+                    "TUDN",
+                    "ViX"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "Fox Sports App",
+                    "TUDN",
+                    "ViX"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "ViX"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "ViX"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Sport TV1",
+                    "RTP 1"
+                ]
+            },
+            {
+                "country": "Puerto Rico",
+                "channels": [
+                    "TUDN.com",
+                    "ViX"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Fox Sports App",
+                    "Foxsports.com",
+                    "TUDN",
+                    "FOX One",
+                    "TUDN USA",
+                    "ViX",
+                    "fuboTV",
+                    "Fox Deportes",
+                    "TUDN.com",
+                    "TUDN App",
+                    "Univision Now",
+                    "Univision"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "ViX"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "Fox Sports App",
+                    "ViX"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 15691368,
+        "kickoff": 1774789200,
+        "fixture": "Lithuania vs Georgia",
+        "league_id": 851,
+        "league": "Int. Friendly Games",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Bermuda",
+                "channels": [
+                    "Fox Soccer Plus"
+                ]
+            },
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "L'\u00c9quipe Live Foot"
+                ]
+            },
+            {
+                "country": "Italy",
+                "channels": [
+                    "NOW"
+                ]
+            },
+            {
+                "country": "Lithuania",
+                "channels": [
+                    "LRT Plius"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "Viaplay"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "Polsat Sport 2"
+                ]
+            },
+            {
+                "country": "Romania",
+                "channels": [
+                    "Prima Sport 1"
+                ]
+            },
+            {
+                "country": "San Marino",
+                "channels": [
+                    "NOW"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Fox Soccer Plus"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 15655701,
+        "kickoff": 1774810800,
+        "fixture": "Colombia vs France",
+        "league_id": 851,
+        "league": "Int. Friendly Games",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Xsports"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "Caracol Play",
+                    "ditu",
+                    "Caracol TV",
+                    "RCN Television"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "Canal del Futbol"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Sport TV1"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Telemundo"
                 ]
             }
         ]
@@ -1227,7 +2170,7 @@
         "fixture": "Denver Summit FC vs Washington Spirit",
         "league_id": 1690,
         "league": "NWSL",
-        "venue": "Centennial Stadium",
+        "venue": "Empower Field at Mile High",
         "tv_channels": [
             {
                 "country": "Ireland",
@@ -1279,7 +2222,7 @@
         "fixture": "Seattle Reign FC vs Racing Louisville",
         "league_id": 1690,
         "league": "NWSL",
-        "venue": "Lumen Field",
+        "venue": "One Spokane Stadium",
         "tv_channels": [
             {
                 "country": "Canada",
@@ -1327,7 +2270,14 @@
         "league_id": 1690,
         "league": "NWSL",
         "venue": "Sports Illustrated Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Victory+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15403814,
@@ -1365,11 +2315,29 @@
         "venue": "TBA",
         "tv_channels": [
             {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "Sky Sports Mix",
                     "Sky Go UK",
                     "Sky Sports Premier League"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "Disney+ Premium Chile"
                 ]
             },
             {
@@ -1411,8 +2379,8 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "BBC iPlayer",
                     "BBC One",
+                    "BBC iPlayer",
                     "BBC Sport Web"
                 ]
             },
@@ -1449,9 +2417,9 @@
             {
                 "country": "United Kingdom",
                 "channels": [
+                    "BBC Sport Web",
                     "BBC iPlayer",
-                    "BBC One",
-                    "BBC Sport Web"
+                    "BBC One"
                 ]
             },
             {
@@ -1483,6 +2451,18 @@
         "venue": "TBA",
         "tv_channels": [
             {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
                 "country": "Denmark",
                 "channels": [
                     "SVT Play"
@@ -1505,14 +2485,20 @@
                 "channels": [
                     "Sky Sports Ultra HD",
                     "Sky Go UK",
-                    "Sky Sports Main Event",
-                    "Sky Sports Football"
+                    "Sky Sports Football",
+                    "Sky Sports Main Event"
                 ]
             },
             {
                 "country": "Norway",
                 "channels": [
                     "SVT Play"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "Disney+ Premium Chile"
                 ]
             },
             {
@@ -1526,8 +2512,8 @@
                 "channels": [
                     "Sky Sports Ultra HD",
                     "Sky Go UK",
-                    "Sky Sports Main Event",
-                    "Sky Sports Football"
+                    "Sky Sports Football",
+                    "Sky Sports Main Event"
                 ]
             }
         ]
@@ -1539,7 +2525,90 @@
         "league_id": 1044,
         "league": "Women's Super League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Canada",
+                "channels": [
+                    "SNWD"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Guam",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Football",
+                    "Sky One",
+                    "Sky Sports Main Event"
+                ]
+            },
+            {
+                "country": "Northern Mariana Islands",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Puerto Rico",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "TV4 Sportkanalen"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Football",
+                    "Sky One",
+                    "Sky Sports Main Event"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "United States Minor Outlying Islands",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "Virgin Islands, U.S.",
+                "channels": [
+                    "ESPN Deportes"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14283276,
@@ -1548,7 +2617,20 @@
         "league_id": 1044,
         "league": "Women's Super League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Premier League"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Premier League"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14283281,
@@ -1557,7 +2639,14 @@
         "league_id": 1044,
         "league": "Women's Super League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Sweden",
+                "channels": [
+                    "TV4 Sportkanalen"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14194068,
@@ -1669,6 +2758,7 @@
             {
                 "country": "Norway",
                 "channels": [
+                    "TV2 Play",
                     "Viaplay"
                 ]
             },
@@ -1710,7 +2800,14 @@
         "league_id": 232,
         "league": "Frauen-Bundesliga",
         "venue": "Weserstadion Platz 11",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "channels": [
+                    "Magenta Sport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14433223,
@@ -1719,7 +2816,38 @@
         "league_id": 232,
         "league": "Frauen-Bundesliga",
         "venue": "AOK Stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Denmark",
+                "channels": [
+                    "Viaplay"
+                ]
+            },
+            {
+                "country": "Finland",
+                "channels": [
+                    "V Sport 2 Suomi"
+                ]
+            },
+            {
+                "country": "Greenland",
+                "channels": [
+                    "Viaplay"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "Viaplay"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "Viaplay"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14435410,
@@ -1780,7 +2908,14 @@
         "league_id": 1127,
         "league": "Liga F Moeve",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Spain",
+                "channels": [
+                    "ETB 1"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14605947,
@@ -1807,7 +2942,34 @@
         "league_id": 1127,
         "league": "Liga F Moeve",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Andorra",
+                "channels": [
+                    "TV3",
+                    "Teledeporte"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "TVP Sport HD"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "TV3",
+                    "Teledeporte"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "Teledeporte"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15329655,
@@ -1817,6 +2979,12 @@
         "league": "Copa Argentina",
         "venue": "TBA",
         "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "TyC Sports"
+                ]
+            },
             {
                 "country": "Bolivia, Plurinational State of",
                 "channels": [
@@ -1930,6 +3098,12 @@
         "venue": "TBA",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "TyC Sports"
+                ]
+            },
+            {
                 "country": "Bolivia, Plurinational State of",
                 "channels": [
                     "TyC Sports Internacional"
@@ -2041,6 +3215,12 @@
         "league": "Copa Argentina",
         "venue": "TBA",
         "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "TyC Sports"
+                ]
+            },
             {
                 "country": "Bolivia, Plurinational State of",
                 "channels": [
@@ -2300,8 +3480,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "SBT",
-                    "SportyNet"
+                    "SportyNet",
+                    "SBT"
                 ]
             }
         ]
@@ -2460,7 +3640,14 @@
         "league_id": 32734,
         "league": "Copa de la Liga, Group A ",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Chile",
+                "channels": [
+                    "TNT SPORTS Premium"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15683252,
@@ -2520,7 +3707,7 @@
         "fixture": "Braintree Town vs Carlisle United",
         "league_id": 173,
         "league": "National League",
-        "venue": "Cressing Road",
+        "venue": "Cressing Road Stadium",
         "tv_channels": []
     },
     {
@@ -2592,7 +3779,7 @@
         "fixture": "Truro City vs Boreham Wood",
         "league_id": 173,
         "league": "National League",
-        "venue": "Treyew Road",
+        "venue": "Truro Sports Hub",
         "tv_channels": []
     },
     {
@@ -3090,7 +4277,14 @@
         "league_id": 11615,
         "league": "Liga Bantrab, Clausura",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "Tigo Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15336042,
@@ -3311,7 +4505,22 @@
         "league_id": 11445,
         "league": "Serie C, Group A",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Italy",
+                "channels": [
+                    "Sky Sport Uno",
+                    "NOW"
+                ]
+            },
+            {
+                "country": "San Marino",
+                "channels": [
+                    "NOW",
+                    "Sky Sport Uno"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14302820,
@@ -3320,7 +4529,22 @@
         "league_id": 11445,
         "league": "Serie C, Group A",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Italy",
+                "channels": [
+                    "NOW",
+                    "Sky Sport Arena"
+                ]
+            },
+            {
+                "country": "San Marino",
+                "channels": [
+                    "NOW",
+                    "Sky Sport Arena"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14303208,
@@ -3360,7 +4584,20 @@
         "league_id": 11447,
         "league": "Serie C, Group B",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Italy",
+                "channels": [
+                    "NOW"
+                ]
+            },
+            {
+                "country": "San Marino",
+                "channels": [
+                    "NOW"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14303201,
@@ -3369,7 +4606,20 @@
         "league_id": 11447,
         "league": "Serie C, Group B",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Italy",
+                "channels": [
+                    "NOW"
+                ]
+            },
+            {
+                "country": "San Marino",
+                "channels": [
+                    "NOW"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14303202,
@@ -3378,7 +4628,20 @@
         "league_id": 11447,
         "league": "Serie C, Group B",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Italy",
+                "channels": [
+                    "NOW"
+                ]
+            },
+            {
+                "country": "San Marino",
+                "channels": [
+                    "NOW"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14303209,
@@ -3387,7 +4650,20 @@
         "league_id": 11447,
         "league": "Serie C, Group B",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Italy",
+                "channels": [
+                    "NOW"
+                ]
+            },
+            {
+                "country": "San Marino",
+                "channels": [
+                    "NOW"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14303203,
@@ -3396,7 +4672,20 @@
         "league_id": 11447,
         "league": "Serie C, Group B",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Italy",
+                "channels": [
+                    "NOW"
+                ]
+            },
+            {
+                "country": "San Marino",
+                "channels": [
+                    "NOW"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14303205,
@@ -3405,7 +4694,20 @@
         "league_id": 11447,
         "league": "Serie C, Group B",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Italy",
+                "channels": [
+                    "NOW"
+                ]
+            },
+            {
+                "country": "San Marino",
+                "channels": [
+                    "NOW"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14303584,
@@ -3480,7 +4782,22 @@
         "league_id": 11446,
         "league": "Serie C, Group C",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Italy",
+                "channels": [
+                    "NOW",
+                    "Sky Sport Calcio"
+                ]
+            },
+            {
+                "country": "San Marino",
+                "channels": [
+                    "NOW",
+                    "Sky Sport Calcio"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14303588,
@@ -3489,7 +4806,22 @@
         "league_id": 11446,
         "league": "Serie C, Group C",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Italy",
+                "channels": [
+                    "NOW",
+                    "Sky Sport Arena"
+                ]
+            },
+            {
+                "country": "San Marino",
+                "channels": [
+                    "NOW",
+                    "Sky Sport Arena"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14303589,
@@ -3498,7 +4830,20 @@
         "league_id": 11446,
         "league": "Serie C, Group C",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Italy",
+                "channels": [
+                    "NOW"
+                ]
+            },
+            {
+                "country": "San Marino",
+                "channels": [
+                    "NOW"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14303583,
@@ -3507,7 +4852,20 @@
         "league_id": 11446,
         "league": "Serie C, Group C",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Italy",
+                "channels": [
+                    "NOW"
+                ]
+            },
+            {
+                "country": "San Marino",
+                "channels": [
+                    "NOW"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14303586,
@@ -3516,7 +4874,20 @@
         "league_id": 11446,
         "league": "Serie C, Group C",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Italy",
+                "channels": [
+                    "NOW"
+                ]
+            },
+            {
+                "country": "San Marino",
+                "channels": [
+                    "NOW"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14303591,
@@ -3525,7 +4896,20 @@
         "league_id": 11446,
         "league": "Serie C, Group C",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Italy",
+                "channels": [
+                    "NOW"
+                ]
+            },
+            {
+                "country": "San Marino",
+                "channels": [
+                    "NOW"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15342257,
@@ -3570,7 +4954,14 @@
         "league_id": 402,
         "league": "J2/J3 League, East B",
         "venue": "J Village Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Japan",
+                "channels": [
+                    "DAZN"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15346100,
@@ -3678,7 +5069,26 @@
         "league_id": 11612,
         "league": "Liga de Expansion MX, Clausura",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15336416,
@@ -3772,7 +5182,8 @@
             {
                 "country": "Norway",
                 "channels": [
-                    "TV2 Play"
+                    "TV2 Play",
+                    "Viaplay"
                 ]
             }
         ]
@@ -3788,8 +5199,8 @@
             {
                 "country": "Norway",
                 "channels": [
-                    "TV2 Sport",
-                    "TV2 Play"
+                    "TV2 Play",
+                    "TV2 Sport"
                 ]
             }
         ]
@@ -3800,8 +5211,15 @@
         "fixture": "Olimpia vs CS 2 de Mayo",
         "league_id": 11540,
         "league": "Divisi\u00f3n de Honor, Apertura",
-        "venue": "Osvaldo Dom\u00ednguez Dibb",
-        "tv_channels": []
+        "venue": "Estadio Defensores del Chaco",
+        "tv_channels": [
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "Tigo Sport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15400136,
@@ -3809,8 +5227,15 @@
         "fixture": "Guaran\u00ed vs Sportivo Trinidense",
         "league_id": 11540,
         "league": "Divisi\u00f3n de Honor, Apertura",
-        "venue": "Estadio Rogelio Silvino Livieres",
-        "tv_channels": []
+        "venue": "Estadio Erico Galeano",
+        "tv_channels": [
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "Tigo Sport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15703701,
@@ -3986,7 +5411,14 @@
         "league_id": 11341,
         "league": "U23 Championship, Relegation Round",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Canal 11"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15707242,
@@ -4218,7 +5650,44 @@
         "league_id": 214,
         "league": "Damallsvenskan",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Denmark",
+                "channels": [
+                    "SVT Play",
+                    "SVT 2"
+                ]
+            },
+            {
+                "country": "Faroe Islands",
+                "channels": [
+                    "SVT 2",
+                    "SVT Play"
+                ]
+            },
+            {
+                "country": "Greenland",
+                "channels": [
+                    "SVT Play",
+                    "SVT 2"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "SVT Play",
+                    "SVT 2"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "SVT Play",
+                    "SVT 2",
+                    "Viaplay"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15253991,
@@ -4227,7 +5696,32 @@
         "league_id": 214,
         "league": "Damallsvenskan",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Denmark",
+                "channels": [
+                    "Viaplay"
+                ]
+            },
+            {
+                "country": "Greenland",
+                "channels": [
+                    "Viaplay"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "Viaplay"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "Viaplay"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15253995,
@@ -4236,7 +5730,32 @@
         "league_id": 214,
         "league": "Damallsvenskan",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Denmark",
+                "channels": [
+                    "Viaplay"
+                ]
+            },
+            {
+                "country": "Greenland",
+                "channels": [
+                    "Viaplay"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "Viaplay"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "Viaplay"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15253993,
@@ -4245,7 +5764,32 @@
         "league_id": 214,
         "league": "Damallsvenskan",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Denmark",
+                "channels": [
+                    "Viaplay"
+                ]
+            },
+            {
+                "country": "Greenland",
+                "channels": [
+                    "Viaplay"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "Viaplay"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "Viaplay"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14326821,
@@ -4337,7 +5881,26 @@
         "league_id": 278,
         "league": "Liga AUF Uruguaya, Apertura",
         "venue": "Parque Abraham Paladino",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15713276,
@@ -4346,7 +5909,26 @@
         "league_id": 278,
         "league": "Liga AUF Uruguaya, Apertura",
         "venue": "Estadio Parque Artigas",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15713279,
@@ -4355,7 +5937,26 @@
         "league_id": 278,
         "league": "Liga AUF Uruguaya, Apertura",
         "venue": "Estadio Luis Franzini",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15713277,
@@ -4364,7 +5965,26 @@
         "league_id": 278,
         "league": "Liga AUF Uruguaya, Apertura",
         "venue": "Estadio Campe\u00f3n del Siglo",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15394552,
@@ -4408,6 +6028,42 @@
         "fixture": "Flint Town United vs Llanelli AFC",
         "league_id": 254,
         "league": "Cymru Premier, Relegation Round",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15859100,
+        "kickoff": 1774710000,
+        "fixture": "Liverpool FC Legends vs Borussia Dortmund Legends",
+        "league_id": 853,
+        "league": "Club Friendly Games",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15846987,
+        "kickoff": 1774782000,
+        "fixture": "GAIS vs Halmstads BK",
+        "league_id": 853,
+        "league": "Club Friendly Games",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15855265,
+        "kickoff": 1774782000,
+        "fixture": "Hammarby IF vs Kongsvinger",
+        "league_id": 853,
+        "league": "Club Friendly Games",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15853746,
+        "kickoff": 1774785600,
+        "fixture": "Str\u00f8mmen IF vs Grorud",
+        "league_id": 853,
+        "league": "Club Friendly Games",
         "venue": "TBA",
         "tv_channels": []
     }
