@@ -528,7 +528,14 @@
         "league_id": 32734,
         "league": "Copa de la Liga, Group D",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Chile",
+                "channels": [
+                    "TNT SPORTS Premium"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15415217,
@@ -1221,6 +1228,42 @@
         "league_id": 201,
         "league": "Toppserien, Women",
         "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15400149,
+        "kickoff": 1774992600,
+        "fixture": "CS 2 de Mayo vs Nacional Asunci\u00f3n",
+        "league_id": 11540,
+        "league": "Divisi\u00f3n de Honor, Apertura",
+        "venue": "Estadio Monumental Rio Parapiti",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15400148,
+        "kickoff": 1774999800,
+        "fixture": "Sportivo Luque\u00f1o vs Cerro Porte\u00f1o",
+        "league_id": 11540,
+        "league": "Divisi\u00f3n de Honor, Apertura",
+        "venue": "Estadio Feliciano Caceres",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15400146,
+        "kickoff": 1774999800,
+        "fixture": "Sportivo San Lorenzo vs Sportivo Ameliano",
+        "league_id": 11540,
+        "league": "Divisi\u00f3n de Honor, Apertura",
+        "venue": "Estadio Gunther Vogel",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15400144,
+        "kickoff": 1775086200,
+        "fixture": "Sportivo Trinidense vs Olimpia",
+        "league_id": 11540,
+        "league": "Divisi\u00f3n de Honor, Apertura",
+        "venue": "Estadio Martin Torres",
         "tv_channels": []
     },
     {
