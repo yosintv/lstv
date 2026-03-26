@@ -443,16 +443,23 @@
             {
                 "country": "Colombia",
                 "channels": [
-                    "RCN Television",
+                    "Caracol TV",
                     "ditu",
                     "Caracol Play",
-                    "Caracol TV"
+                    "RCN Television"
                 ]
             },
             {
                 "country": "Ecuador",
                 "channels": [
+                    "ECDF App",
                     "Canal del Futbol"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "VG+"
                 ]
             },
             {
@@ -482,7 +489,20 @@
         "league_id": 851,
         "league": "Int. Friendly Games",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Cyprus",
+                "channels": [
+                    "RIK 2"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "Viaplay"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15362813,
@@ -508,6 +528,12 @@
                 "country": "Bulgaria",
                 "channels": [
                     "Das Erste"
+                ]
+            },
+            {
+                "country": "Cyprus",
+                "channels": [
+                    "Cytavision Sports 3HD"
                 ]
             },
             {
@@ -544,6 +570,12 @@
                 "country": "Netherlands",
                 "channels": [
                     "Das Erste"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "Viaplay"
                 ]
             },
             {
@@ -623,9 +655,9 @@
             {
                 "country": "Ireland",
                 "channels": [
+                    "Sky Sports Main Event",
                     "Sky One",
-                    "Sky Sports Football",
-                    "Sky Sports Main Event"
+                    "Sky Sports Football"
                 ]
             },
             {
@@ -655,9 +687,9 @@
             {
                 "country": "United Kingdom",
                 "channels": [
+                    "Sky Sports Main Event",
                     "Sky One",
-                    "Sky Sports Football",
-                    "Sky Sports Main Event"
+                    "Sky Sports Football"
                 ]
             },
             {
@@ -1239,7 +1271,7 @@
     },
     {
         "match_id": 15275491,
-        "kickoff": 1774809000,
+        "kickoff": 1774807200,
         "fixture": "Los Andes vs Temperley",
         "league_id": 703,
         "league": "Primera B Nacional",
@@ -1788,15 +1820,15 @@
             {
                 "country": "Italy",
                 "channels": [
-                    "Sky Sport Arena",
-                    "NOW"
+                    "NOW",
+                    "Sky Sport Arena"
                 ]
             },
             {
                 "country": "San Marino",
                 "channels": [
-                    "Sky Sport Arena",
-                    "NOW"
+                    "NOW",
+                    "Sky Sport Arena"
                 ]
             }
         ]
@@ -1962,15 +1994,15 @@
             {
                 "country": "Italy",
                 "channels": [
-                    "Sky Sport Calcio",
-                    "NOW"
+                    "NOW",
+                    "Sky Sport Calcio"
                 ]
             },
             {
                 "country": "San Marino",
                 "channels": [
-                    "Sky Sport Calcio",
-                    "NOW"
+                    "NOW",
+                    "Sky Sport Calcio"
                 ]
             }
         ]
@@ -1986,15 +2018,15 @@
             {
                 "country": "Italy",
                 "channels": [
-                    "Sky Sport Arena",
-                    "NOW"
+                    "NOW",
+                    "Sky Sport Arena"
                 ]
             },
             {
                 "country": "San Marino",
                 "channels": [
-                    "Sky Sport Arena",
-                    "NOW"
+                    "NOW",
+                    "Sky Sport Arena"
                 ]
             }
         ]
@@ -2344,37 +2376,37 @@
             {
                 "country": "Denmark",
                 "channels": [
+                    "SVT 2",
+                    "SVT Play"
+                ]
+            },
+            {
+                "country": "Faroe Islands",
+                "channels": [
                     "SVT Play",
                     "SVT 2"
                 ]
             },
             {
-                "country": "Faroe Islands",
+                "country": "Greenland",
                 "channels": [
                     "SVT 2",
                     "SVT Play"
                 ]
             },
             {
-                "country": "Greenland",
-                "channels": [
-                    "SVT Play",
-                    "SVT 2"
-                ]
-            },
-            {
                 "country": "Norway",
                 "channels": [
-                    "SVT Play",
-                    "SVT 2"
+                    "SVT 2",
+                    "SVT Play"
                 ]
             },
             {
                 "country": "Sweden",
                 "channels": [
-                    "SVT Play",
+                    "Viaplay",
                     "SVT 2",
-                    "Viaplay"
+                    "SVT Play"
                 ]
             }
         ]

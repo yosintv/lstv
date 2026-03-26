@@ -51,7 +51,14 @@
         "league_id": 54,
         "league": "LaLiga 2",
         "venue": "Jos\u00e9 Zorrilla",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Cyprus",
+                "channels": [
+                    "Cytavision Sports 8HD"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15526004,
@@ -105,7 +112,20 @@
         "league_id": 851,
         "league": "Int. Friendly Games",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Cyprus",
+                "channels": [
+                    "RIK 2"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "Viaplay"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15362813,
@@ -131,6 +151,12 @@
                 "country": "Bulgaria",
                 "channels": [
                     "Das Erste"
+                ]
+            },
+            {
+                "country": "Cyprus",
+                "channels": [
+                    "Cytavision Sports 3HD"
                 ]
             },
             {
@@ -167,6 +193,12 @@
                 "country": "Netherlands",
                 "channels": [
                     "Das Erste"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "Viaplay"
                 ]
             },
             {
@@ -238,7 +270,14 @@
         "league_id": 851,
         "league": "Int. Friendly Games",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Cyprus",
+                "channels": [
+                    "Cytavision Sports 8HD"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15533871,
@@ -248,6 +287,13 @@
         "league": "Int. Friendly Games",
         "venue": "TBA",
         "tv_channels": [
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "ECDF App",
+                    "Canal del Futbol"
+                ]
+            },
             {
                 "country": "Paraguay",
                 "channels": [
@@ -265,11 +311,18 @@
         "venue": "TBA",
         "tv_channels": [
             {
+                "country": "Ecuador",
+                "channels": [
+                    "ECDF App",
+                    "Canal del Futbol"
+                ]
+            },
+            {
                 "country": "Peru",
                 "channels": [
-                    "Am\u00e9rica Televisi\u00f3n",
+                    "ATV",
                     "M+ Deportes",
-                    "ATV"
+                    "Am\u00e9rica Televisi\u00f3n"
                 ]
             }
         ]
@@ -307,6 +360,12 @@
                 ]
             },
             {
+                "country": "Norway",
+                "channels": [
+                    "Viaplay"
+                ]
+            },
+            {
                 "country": "Sint Maarten (Dutch part)",
                 "channels": [
                     "STV Player"
@@ -316,8 +375,8 @@
                 "country": "United Kingdom",
                 "channels": [
                     "STV",
-                    "STV Player",
-                    "ITV"
+                    "ITV",
+                    "STV Player"
                 ]
             },
             {
@@ -341,6 +400,12 @@
                 "channels": [
                     "ECDF App",
                     "Canal del Futbol"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "Viaplay"
                 ]
             }
         ]
