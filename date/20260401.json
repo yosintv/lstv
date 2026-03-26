@@ -380,8 +380,8 @@
             {
                 "country": "Ecuador",
                 "channels": [
-                    "ECDF App",
-                    "Canal del Futbol"
+                    "Canal del Futbol",
+                    "ECDF App"
                 ]
             },
             {
@@ -403,16 +403,16 @@
             {
                 "country": "Ecuador",
                 "channels": [
-                    "ECDF App",
-                    "Canal del Futbol"
+                    "Canal del Futbol",
+                    "ECDF App"
                 ]
             },
             {
                 "country": "Peru",
                 "channels": [
-                    "ATV",
+                    "Am\u00e9rica Televisi\u00f3n",
                     "M+ Deportes",
-                    "Am\u00e9rica Televisi\u00f3n"
+                    "ATV"
                 ]
             }
         ]
@@ -464,9 +464,9 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "STV",
+                    "STV Player",
                     "ITV",
-                    "STV Player"
+                    "STV"
                 ]
             },
             {
@@ -488,8 +488,8 @@
             {
                 "country": "Ecuador",
                 "channels": [
-                    "ECDF App",
-                    "Canal del Futbol"
+                    "Canal del Futbol",
+                    "ECDF App"
                 ]
             },
             {
@@ -527,8 +527,17 @@
     },
     {
         "match_id": 15662775,
-        "kickoff": 1774965600,
+        "kickoff": 1774962000,
         "fixture": "Burundi vs Chad",
+        "league_id": 1848,
+        "league": "Africa Cup of Nations, Qualification, Preliminary",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15662778,
+        "kickoff": 1774962000,
+        "fixture": "Ethiopia vs S\u00e3o Tom\u00e9 and Pr\u00edncipe",
         "league_id": 1848,
         "league": "Africa Cup of Nations, Qualification, Preliminary",
         "venue": "TBA",
@@ -538,15 +547,6 @@
         "match_id": 15662777,
         "kickoff": 1774965600,
         "fixture": "Eswatini vs Eritrea",
-        "league_id": 1848,
-        "league": "Africa Cup of Nations, Qualification, Preliminary",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15662778,
-        "kickoff": 1774965600,
-        "fixture": "Ethiopia vs S\u00e3o Tom\u00e9 and Pr\u00edncipe",
         "league_id": 1848,
         "league": "Africa Cup of Nations, Qualification, Preliminary",
         "venue": "TBA",
@@ -572,7 +572,7 @@
     },
     {
         "match_id": 15662779,
-        "kickoff": 1775001600,
+        "kickoff": 1774969200,
         "fixture": "Mauritius vs Somalia",
         "league_id": 1848,
         "league": "Africa Cup of Nations, Qualification, Preliminary",
@@ -739,7 +739,14 @@
         "league_id": 32734,
         "league": "Copa de la Liga, Group A ",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Chile",
+                "channels": [
+                    "TNT SPORTS Premium"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15683249,
@@ -1325,15 +1332,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 15336038,
-        "kickoff": 1775073600,
-        "fixture": "Aurora FC vs Deportivo Achuapa",
-        "league_id": 11615,
-        "league": "Liga Bantrab, Clausura",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 15558673,
         "kickoff": 1774962000,
         "fixture": "Gokulam Kerala FC vs Aizawl FC",
@@ -1537,6 +1535,150 @@
         "fixture": "Neftekhimik Nizhnekamsk vs Fakel Voronezh",
         "league_id": 204,
         "league": "First League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15880721,
+        "kickoff": 1774998000,
+        "fixture": "Asheville City SC vs One Knoxville SC",
+        "league_id": 495,
+        "league": "US Open Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15880735,
+        "kickoff": 1774998000,
+        "fixture": "FC Naples vs FC America CFL Spurs",
+        "league_id": 495,
+        "league": "US Open Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15880734,
+        "kickoff": 1774998000,
+        "fixture": "Indy Eleven vs Union Omaha SC",
+        "league_id": 495,
+        "league": "US Open Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15880728,
+        "kickoff": 1774998000,
+        "fixture": "Pittsburgh Riverhounds vs Virginia Dream FC",
+        "league_id": 495,
+        "league": "US Open Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15880726,
+        "kickoff": 1774999800,
+        "fixture": "Charlotte Independence vs Charleston Battery",
+        "league_id": 495,
+        "league": "US Open Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15880736,
+        "kickoff": 1775008800,
+        "fixture": "Valley 559 FC vs Sacramento Republic FC",
+        "league_id": 495,
+        "league": "US Open Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15880731,
+        "kickoff": 1775080800,
+        "fixture": "Chattanooga FC vs Tennessee Tempo FC",
+        "league_id": 495,
+        "league": "US Open Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15880722,
+        "kickoff": 1775082600,
+        "fixture": "Richmond Kickers vs Loudoun United FC",
+        "league_id": 495,
+        "league": "US Open Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15880724,
+        "kickoff": 1775084400,
+        "fixture": "Lexington SC vs Louisville City FC",
+        "league_id": 495,
+        "league": "US Open Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15880725,
+        "kickoff": 1775084400,
+        "fixture": "Rhode Island FC vs Hartford Athletic",
+        "league_id": 495,
+        "league": "US Open Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15880737,
+        "kickoff": 1775084400,
+        "fixture": "Vermont Green FC vs Westchester SC",
+        "league_id": 495,
+        "league": "US Open Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15880727,
+        "kickoff": 1775086200,
+        "fixture": "Flint City Bucks vs Detroit City FC",
+        "league_id": 495,
+        "league": "US Open Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15880730,
+        "kickoff": 1775088000,
+        "fixture": "Colorado Springs Switchbacks FC vs Spokane Velocity FC",
+        "league_id": 495,
+        "league": "US Open Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15880732,
+        "kickoff": 1775089800,
+        "fixture": "San Antonio FC vs FC Tulsa",
+        "league_id": 495,
+        "league": "US Open Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15880733,
+        "kickoff": 1775093400,
+        "fixture": "New Mexico United vs El Paso Locomotive FC",
+        "league_id": 495,
+        "league": "US Open Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15880723,
+        "kickoff": 1775095200,
+        "fixture": "Orange County SC vs Phoenix Rising FC",
+        "league_id": 495,
+        "league": "US Open Cup",
         "venue": "TBA",
         "tv_channels": []
     },
