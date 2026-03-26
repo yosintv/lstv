@@ -85,7 +85,122 @@
         "league_id": 11539,
         "league": "Liga DIMAYOR, Apertura",
         "venue": "Estadio Atanasio Girardot",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Aruba",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Australia",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Cura\u00e7ao",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "El Salvador",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "New Zealand",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15367411,
@@ -114,6 +229,18 @@
         "venue": "TBA",
         "tv_channels": [
             {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
                 "country": "Cyprus",
                 "channels": [
                     "RIK 2"
@@ -121,6 +248,37 @@
             },
             {
                 "country": "Norway",
+                "channels": [
+                    "Viaplay"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "Polsat Sport 2"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Sport TV2"
+                ]
+            },
+            {
+                "country": "Romania",
+                "channels": [
+                    "Prima Sport 1",
+                    "Digi Sport 3"
+                ]
+            },
+            {
+                "country": "Sweden",
                 "channels": [
                     "Viaplay"
                 ]
@@ -136,9 +294,16 @@
         "venue": "TBA",
         "tv_channels": [
             {
+                "country": "Andorra",
+                "channels": [
+                    "L'\u00c9quipe"
+                ]
+            },
+            {
                 "country": "Austria",
                 "channels": [
-                    "Das Erste"
+                    "Das Erste",
+                    "DAZN Austria"
                 ]
             },
             {
@@ -148,9 +313,33 @@
                 ]
             },
             {
+                "country": "Belize",
+                "channels": [
+                    "ESPN 2 Norte"
+                ]
+            },
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
                 "country": "Bulgaria",
                 "channels": [
                     "Das Erste"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "ESPN 2 Norte"
                 ]
             },
             {
@@ -166,9 +355,45 @@
                 ]
             },
             {
+                "country": "Dominican Republic",
+                "channels": [
+                    "ESPN 2 Norte"
+                ]
+            },
+            {
+                "country": "El Salvador",
+                "channels": [
+                    "ESPN 2 Norte"
+                ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "L'\u00c9quipe"
+                ]
+            },
+            {
                 "country": "Germany",
                 "channels": [
                     "Das Erste"
+                ]
+            },
+            {
+                "country": "Ghana",
+                "channels": [
+                    "GTV Sports+"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "ESPN 2 Norte"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "ESPN 2 Norte"
                 ]
             },
             {
@@ -190,15 +415,65 @@
                 ]
             },
             {
+                "country": "Mexico",
+                "channels": [
+                    "ESPN 2 Norte"
+                ]
+            },
+            {
+                "country": "Monaco",
+                "channels": [
+                    "L'\u00c9quipe"
+                ]
+            },
+            {
                 "country": "Netherlands",
                 "channels": [
                     "Das Erste"
                 ]
             },
             {
+                "country": "Nicaragua",
+                "channels": [
+                    "ESPN 2 Norte"
+                ]
+            },
+            {
                 "country": "Norway",
                 "channels": [
                     "Viaplay"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "ESPN 2 Norte"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "TVP Sport HD",
+                    "Polsat Sport 1"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Sport TV1"
+                ]
+            },
+            {
+                "country": "Romania",
+                "channels": [
+                    "Digi Sport 1",
+                    "Prima Sport 1"
                 ]
             },
             {
@@ -210,7 +485,8 @@
             {
                 "country": "Sweden",
                 "channels": [
-                    "Das Erste"
+                    "Das Erste",
+                    "Viaplay"
                 ]
             },
             {
@@ -290,8 +566,8 @@
             {
                 "country": "Ecuador",
                 "channels": [
-                    "Canal del Futbol",
-                    "ECDF App"
+                    "ECDF App",
+                    "Canal del Futbol"
                 ]
             },
             {
@@ -313,16 +589,16 @@
             {
                 "country": "Ecuador",
                 "channels": [
-                    "Canal del Futbol",
-                    "ECDF App"
+                    "ECDF App",
+                    "Canal del Futbol"
                 ]
             },
             {
                 "country": "Peru",
                 "channels": [
-                    "Am\u00e9rica Televisi\u00f3n",
                     "M+ Deportes",
-                    "ATV"
+                    "ATV",
+                    "Am\u00e9rica Televisi\u00f3n"
                 ]
             }
         ]
@@ -374,8 +650,8 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "STV Player",
                     "ITV",
+                    "STV Player",
                     "STV"
                 ]
             },
@@ -398,8 +674,8 @@
             {
                 "country": "Ecuador",
                 "channels": [
-                    "Canal del Futbol",
-                    "ECDF App"
+                    "ECDF App",
+                    "Canal del Futbol"
                 ]
             },
             {
@@ -442,7 +718,27 @@
         "league_id": 232,
         "league": "Frauen-Bundesliga",
         "venue": "Wolfgang-Meyer-Sportanlage",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Austria",
+                "channels": [
+                    "Sport1"
+                ]
+            },
+            {
+                "country": "Germany",
+                "channels": [
+                    "Magenta Sport",
+                    "Sport1"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "Sport1"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15662775,
@@ -499,18 +795,18 @@
         "tv_channels": []
     },
     {
-        "match_id": 15856848,
+        "match_id": 15856849,
         "kickoff": 1774875600,
-        "fixture": "JS Kabylie vs ES Ben Aknoun",
+        "fixture": "Paradou AC vs CR Belouizdad",
         "league_id": 841,
         "league": "Ligue 1",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 15856849,
-        "kickoff": 1774875600,
-        "fixture": "Paradou AC vs CR Belouizdad",
+        "match_id": 15856848,
+        "kickoff": 1774885500,
+        "fixture": "JS Kabylie vs ES Ben Aknoun",
         "league_id": 841,
         "league": "Ligue 1",
         "venue": "TBA",
@@ -788,7 +1084,14 @@
         "league_id": 32734,
         "league": "Copa de la Liga, Group B",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Chile",
+                "channels": [
+                    "TNT SPORTS Premium"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15683247,
@@ -1288,7 +1591,20 @@
         "league_id": 11447,
         "league": "Serie C, Group B",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Italy",
+                "channels": [
+                    "NOW"
+                ]
+            },
+            {
+                "country": "San Marino",
+                "channels": [
+                    "NOW"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14303587,
@@ -1324,7 +1640,14 @@
         "league_id": 11540,
         "league": "Divisi\u00f3n de Honor, Apertura",
         "venue": "Estadio Tigo La Huerta",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "Tigo Sport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15400149,
@@ -1450,7 +1773,26 @@
         "league_id": 278,
         "league": "Liga AUF Uruguaya, Apertura",
         "venue": "Estadio Arquitecto Antonio Eleuterio Ubilla",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15713275,

@@ -337,8 +337,8 @@
             {
                 "country": "Spain",
                 "channels": [
-                    "GOL",
-                    "TVG2"
+                    "TVG2",
+                    "GOL"
                 ]
             },
             {
@@ -844,10 +844,10 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Sky Sports Main Event",
                     "Sky Sports Ultra HD",
+                    "Sky Sports Football",
                     "Sky Go UK",
-                    "Sky Sports Football"
+                    "Sky Sports Main Event"
                 ]
             },
             {
@@ -938,8 +938,8 @@
                 "country": "United Kingdom",
                 "channels": [
                     "Sky Sports Ultra HD",
-                    "Sky Sports Football",
                     "Sky Go UK",
+                    "Sky Sports Football",
                     "Sky Sports Main Event"
                 ]
             }
@@ -1396,16 +1396,16 @@
             {
                 "country": "Ecuador",
                 "channels": [
-                    "Canal del Futbol",
-                    "ECDF App"
+                    "ECDF App",
+                    "Canal del Futbol"
                 ]
             },
             {
                 "country": "Peru",
                 "channels": [
-                    "Am\u00e9rica Televisi\u00f3n",
                     "M+ Deportes",
-                    "ATV"
+                    "ATV",
+                    "Am\u00e9rica Televisi\u00f3n"
                 ]
             },
             {
@@ -1439,10 +1439,10 @@
             {
                 "country": "Canada",
                 "channels": [
-                    "TSN1",
                     "TSN4",
-                    "OneSoccer",
-                    "RDS"
+                    "TSN1",
+                    "RDS",
+                    "OneSoccer"
                 ]
             }
         ]
@@ -1626,20 +1626,21 @@
                 "country": "Ireland",
                 "channels": [
                     "BBC Scotland",
-                    "BBC Sport Web",
-                    "BBC iPlayer"
+                    "BBC iPlayer",
+                    "BBC Sport Web"
                 ]
             },
             {
                 "country": "Italy",
                 "channels": [
-                    "NOW",
-                    "Sky Sport Arena"
+                    "Sky Sport Arena",
+                    "NOW"
                 ]
             },
             {
                 "country": "Japan",
                 "channels": [
+                    "NHK G TV",
                     "U-NEXT"
                 ]
             },
@@ -1664,8 +1665,8 @@
             {
                 "country": "Norway",
                 "channels": [
-                    "TV2 Play",
-                    "Viaplay"
+                    "Viaplay",
+                    "TV2 Play"
                 ]
             },
             {
@@ -1683,16 +1684,17 @@
             {
                 "country": "Romania",
                 "channels": [
-                    "Digi Online",
+                    "Prima Play",
+                    "Digi Sport 2",
                     "Prima Sport 4",
-                    "Digi Sport 2"
+                    "Digi Online"
                 ]
             },
             {
                 "country": "San Marino",
                 "channels": [
-                    "NOW",
-                    "Sky Sport Arena"
+                    "Sky Sport Arena",
+                    "NOW"
                 ]
             },
             {
@@ -1717,8 +1719,8 @@
                 "country": "United Kingdom",
                 "channels": [
                     "BBC Scotland",
-                    "BBC Sport Web",
-                    "BBC iPlayer"
+                    "BBC iPlayer",
+                    "BBC Sport Web"
                 ]
             },
             {
@@ -1806,8 +1808,8 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Premier Sports 2 HD",
-                    "Premier Sports Player"
+                    "Premier Sports Player",
+                    "Premier Sports 2 HD"
                 ]
             },
             {
@@ -1873,15 +1875,15 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Premier Sports 2 HD",
-                    "Premier Sports Player"
+                    "Premier Sports Player",
+                    "Premier Sports 2 HD"
                 ]
             },
             {
                 "country": "United States",
                 "channels": [
-                    "TNT",
                     "Peacock",
+                    "TNT",
                     "Telemundo"
                 ]
             }
@@ -1894,7 +1896,14 @@
         "league_id": 851,
         "league": "Int. Friendly Games",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Tunisia",
+                "channels": [
+                    "El Watania 1"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15437863,
@@ -1938,8 +1947,8 @@
             {
                 "country": "Costa Rica",
                 "channels": [
-                    "ViX",
                     "Fox Sports App",
+                    "ViX",
                     "TUDN"
                 ]
             },
@@ -1960,54 +1969,54 @@
             {
                 "country": "El Salvador",
                 "channels": [
-                    "ViX",
                     "Fox Sports App",
+                    "ViX",
                     "TUDN"
                 ]
             },
             {
                 "country": "Guatemala",
                 "channels": [
-                    "ViX",
                     "Fox Sports App",
+                    "ViX",
                     "TUDN"
                 ]
             },
             {
                 "country": "Honduras",
                 "channels": [
-                    "ViX",
                     "Fox Sports App",
-                    "TUDN",
-                    "TUDN En Vivo"
+                    "ViX",
+                    "TUDN En Vivo",
+                    "TUDN"
                 ]
             },
             {
                 "country": "Mexico",
                 "channels": [
+                    "Canal 5 Televisa",
+                    "Azteca Deportes",
+                    "TUDN",
+                    "Azteca 7",
                     "ViX",
                     "Fox Sports App",
-                    "TUDN",
                     "TUDN En Vivo",
-                    "Azteca 7",
-                    "Canal 5",
-                    "Canal 5 Televisa",
-                    "Azteca Deportes"
+                    "Canal 5"
                 ]
             },
             {
                 "country": "Nicaragua",
                 "channels": [
-                    "ViX",
                     "Fox Sports App",
+                    "ViX",
                     "TUDN"
                 ]
             },
             {
                 "country": "Panama",
                 "channels": [
-                    "ViX",
                     "Fox Sports App",
+                    "ViX",
                     "TUDN"
                 ]
             },
@@ -2026,8 +2035,8 @@
             {
                 "country": "Portugal",
                 "channels": [
-                    "RTP 1",
-                    "Sport TV1"
+                    "Sport TV1",
+                    "RTP 1"
                 ]
             },
             {
@@ -2040,18 +2049,18 @@
             {
                 "country": "United States",
                 "channels": [
-                    "ViX",
-                    "Fox Sports App",
-                    "TUDN",
-                    "TUDN.com",
-                    "TUDN App",
-                    "Foxsports.com",
+                    "Univision",
                     "fuboTV",
-                    "FOX One",
-                    "Univision Now",
                     "TUDN USA",
+                    "TUDN",
+                    "FOX One",
+                    "ViX",
+                    "Univision Now",
+                    "Foxsports.com",
                     "Fox Deportes",
-                    "Univision"
+                    "Fox Sports App",
+                    "TUDN App",
+                    "TUDN.com"
                 ]
             },
             {
@@ -2063,8 +2072,8 @@
             {
                 "country": "Venezuela, Bolivarian Republic of",
                 "channels": [
-                    "ViX",
-                    "Fox Sports App"
+                    "Fox Sports App",
+                    "ViX"
                 ]
             }
         ]
@@ -2186,17 +2195,17 @@
             {
                 "country": "Colombia",
                 "channels": [
-                    "RCN Television",
                     "ditu",
-                    "Caracol TV",
-                    "Caracol Play"
+                    "Caracol Play",
+                    "RCN Television",
+                    "Caracol TV"
                 ]
             },
             {
                 "country": "Ecuador",
                 "channels": [
-                    "Canal del Futbol",
-                    "ECDF App"
+                    "ECDF App",
+                    "Canal del Futbol"
                 ]
             },
             {
@@ -2245,15 +2254,15 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Discovery+",
-                    "TNT Sports 4"
+                    "TNT Sports 4",
+                    "Discovery+"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Discovery+",
-                    "TNT Sports 4"
+                    "TNT Sports 4",
+                    "Discovery+"
                 ]
             },
             {
@@ -2455,9 +2464,9 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "BBC One",
+                    "BBC Sport Web",
                     "BBC iPlayer",
-                    "BBC Sport Web"
+                    "BBC One"
                 ]
             },
             {
@@ -2493,9 +2502,9 @@
             {
                 "country": "United Kingdom",
                 "channels": [
+                    "BBC iPlayer",
                     "BBC One",
-                    "BBC Sport Web",
-                    "BBC iPlayer"
+                    "BBC Sport Web"
                 ]
             },
             {
@@ -2559,10 +2568,10 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Sky Sports Main Event",
                     "Sky Sports Ultra HD",
                     "Sky Go UK",
-                    "Sky Sports Football"
+                    "Sky Sports Football",
+                    "Sky Sports Main Event"
                 ]
             },
             {
@@ -2588,8 +2597,8 @@
                 "country": "United Kingdom",
                 "channels": [
                     "Sky Sports Ultra HD",
-                    "Sky Sports Football",
                     "Sky Go UK",
+                    "Sky Sports Football",
                     "Sky Sports Main Event"
                 ]
             }
@@ -2630,9 +2639,9 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Sky Sports Main Event",
                     "Sky One",
-                    "Sky Sports Football"
+                    "Sky Sports Football",
+                    "Sky Sports Main Event"
                 ]
             },
             {
@@ -2822,8 +2831,8 @@
             {
                 "country": "Germany",
                 "channels": [
-                    "DAZN",
-                    "Magenta Sport"
+                    "Magenta Sport",
+                    "DAZN"
                 ]
             },
             {
@@ -2835,8 +2844,8 @@
             {
                 "country": "Norway",
                 "channels": [
-                    "TV2 Play",
-                    "Viaplay"
+                    "Viaplay",
+                    "TV2 Play"
                 ]
             },
             {
@@ -2862,10 +2871,77 @@
         "venue": "Franz-Kremer-Stadion",
         "tv_channels": [
             {
+                "country": "Austria",
+                "channels": [
+                    "Das Erste"
+                ]
+            },
+            {
+                "country": "Belgium",
+                "channels": [
+                    "Das Erste"
+                ]
+            },
+            {
+                "country": "Bulgaria",
+                "channels": [
+                    "Das Erste"
+                ]
+            },
+            {
+                "country": "Denmark",
+                "channels": [
+                    "Das Erste"
+                ]
+            },
+            {
                 "country": "Germany",
                 "channels": [
-                    "DAZN",
-                    "Magenta Sport"
+                    "Magenta Sport",
+                    "Das Erste",
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Hungary",
+                "channels": [
+                    "Das Erste"
+                ]
+            },
+            {
+                "country": "Iceland",
+                "channels": [
+                    "Das Erste"
+                ]
+            },
+            {
+                "country": "Luxembourg",
+                "channels": [
+                    "Das Erste"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "channels": [
+                    "Das Erste"
+                ]
+            },
+            {
+                "country": "Slovenia",
+                "channels": [
+                    "Das Erste"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "Das Erste"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "Das Erste"
                 ]
             }
         ]
@@ -3023,21 +3099,23 @@
             {
                 "country": "Andorra",
                 "channels": [
-                    "TV3",
-                    "Teledeporte"
+                    "Teledeporte",
+                    "TV3"
                 ]
             },
             {
                 "country": "Poland",
                 "channels": [
-                    "TVP Sport HD"
+                    "TVP Sport HD",
+                    "TVP Sport App",
+                    "sport.tvp.pl"
                 ]
             },
             {
                 "country": "Spain",
                 "channels": [
-                    "TV3",
-                    "Teledeporte"
+                    "Teledeporte",
+                    "TV3"
                 ]
             },
             {
@@ -3548,8 +3626,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "SBT",
-                    "SportyNet"
+                    "SportyNet",
+                    "SBT"
                 ]
             }
         ]
@@ -3958,7 +4036,7 @@
     },
     {
         "match_id": 15220780,
-        "kickoff": 1774692000,
+        "kickoff": 1774708200,
         "fixture": "Romania U19 vs Northern Ireland U19",
         "league_id": 748,
         "league": "U19 UEFA European Championship, Elite round Gr. 5",
@@ -4586,8 +4664,8 @@
             {
                 "country": "Italy",
                 "channels": [
-                    "Sky Sport Uno",
-                    "NOW"
+                    "NOW",
+                    "Sky Sport Uno"
                 ]
             },
             {
@@ -4610,15 +4688,15 @@
             {
                 "country": "Italy",
                 "channels": [
-                    "NOW",
-                    "Sky Sport Arena"
+                    "Sky Sport Arena",
+                    "NOW"
                 ]
             },
             {
                 "country": "San Marino",
                 "channels": [
-                    "NOW",
-                    "Sky Sport Arena"
+                    "Sky Sport Arena",
+                    "NOW"
                 ]
             }
         ]
@@ -4887,15 +4965,15 @@
             {
                 "country": "Italy",
                 "channels": [
-                    "NOW",
-                    "Sky Sport Arena"
+                    "Sky Sport Arena",
+                    "NOW"
                 ]
             },
             {
                 "country": "San Marino",
                 "channels": [
-                    "NOW",
-                    "Sky Sport Arena"
+                    "Sky Sport Arena",
+                    "NOW"
                 ]
             }
         ]
@@ -5266,8 +5344,8 @@
             {
                 "country": "Norway",
                 "channels": [
-                    "TV2 Play",
-                    "Viaplay"
+                    "Viaplay",
+                    "TV2 Play"
                 ]
             }
         ]
@@ -5304,6 +5382,15 @@
                 ]
             }
         ]
+    },
+    {
+        "match_id": 15400140,
+        "kickoff": 1774740600,
+        "fixture": "Cerro Porte\u00f1o vs Sportivo San Lorenzo",
+        "league_id": 11540,
+        "league": "Divisi\u00f3n de Honor, Apertura",
+        "venue": "General Pablo Rojas",
+        "tv_channels": []
     },
     {
         "match_id": 15400136,
@@ -5767,8 +5854,8 @@
                 "country": "Sweden",
                 "channels": [
                     "SVT 2",
-                    "SVT Play",
-                    "Viaplay"
+                    "Viaplay",
+                    "SVT Play"
                 ]
             }
         ]
@@ -5905,7 +5992,7 @@
     {
         "match_id": 15713274,
         "kickoff": 1774724400,
-        "fixture": "Montevideo Wanderers vs Cerro",
+        "fixture": "Montevideo Wanderers vs CA Cerro",
         "league_id": 278,
         "league": "Liga AUF Uruguaya, Apertura",
         "venue": "Estadio Alfredo Victor Viera",
