@@ -421,7 +421,14 @@
         "league_id": 11539,
         "league": "Liga DIMAYOR, Apertura",
         "venue": "Estadio Nemesio Camacho El Campin",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Colombia",
+                "channels": [
+                    "Win Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15285678,
@@ -458,6 +465,24 @@
         "league": "USL, League One",
         "venue": "TBA",
         "tv_channels": [
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
             {
                 "country": "United States",
                 "channels": [
@@ -601,6 +626,12 @@
         "venue": "Northwest Stadium",
         "tv_channels": [
             {
+                "country": "Andorra",
+                "channels": [
+                    "TF1+"
+                ]
+            },
+            {
                 "country": "Belgium",
                 "channels": [
                     "TF1"
@@ -629,17 +660,17 @@
             {
                 "country": "Colombia",
                 "channels": [
-                    "Caracol Play",
                     "ditu",
+                    "RCN Television",
                     "Caracol TV",
-                    "RCN Television"
+                    "Caracol Play"
                 ]
             },
             {
                 "country": "Congo",
                 "channels": [
-                    "Sporty TV App",
                     "Sporty TV",
+                    "Sporty TV App",
                     "StarTimes App"
                 ]
             },
@@ -657,26 +688,32 @@
                 ]
             },
             {
+                "country": "France",
+                "channels": [
+                    "TF1+"
+                ]
+            },
+            {
                 "country": "Ghana",
                 "channels": [
-                    "Sporty TV App",
                     "Sporty TV",
+                    "Sporty TV App",
                     "StarTimes App"
                 ]
             },
             {
                 "country": "Guinea",
                 "channels": [
-                    "Sporty TV App",
                     "Sporty TV",
+                    "Sporty TV App",
                     "StarTimes App"
                 ]
             },
             {
                 "country": "Kenya",
                 "channels": [
-                    "Sporty TV App",
                     "Sporty TV",
+                    "Sporty TV App",
                     "StarTimes App"
                 ]
             },
@@ -713,8 +750,8 @@
             {
                 "country": "Mozambique",
                 "channels": [
-                    "Sporty TV App",
                     "Sporty TV",
+                    "Sporty TV App",
                     "StarTimes App"
                 ]
             },
@@ -741,8 +778,8 @@
             {
                 "country": "Rwanda",
                 "channels": [
-                    "Sporty TV App",
                     "Sporty TV",
+                    "Sporty TV App",
                     "StarTimes App"
                 ]
             },
@@ -871,8 +908,8 @@
             {
                 "country": "Romania",
                 "channels": [
-                    "Prima Sport 1",
-                    "Digi Sport 3"
+                    "Digi Sport 3",
+                    "Prima Sport 1"
                 ]
             },
             {
@@ -898,6 +935,12 @@
         "venue": "TBA",
         "tv_channels": [
             {
+                "country": "Algeria",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
                 "country": "Andorra",
                 "channels": [
                     "L'\u00c9quipe"
@@ -906,8 +949,14 @@
             {
                 "country": "Austria",
                 "channels": [
-                    "Das Erste",
-                    "DAZN Austria"
+                    "DAZN Austria",
+                    "Das Erste"
+                ]
+            },
+            {
+                "country": "Bahrain",
+                "channels": [
+                    "beIN SPORTS 1"
                 ]
             },
             {
@@ -932,6 +981,12 @@
                 "country": "Bulgaria",
                 "channels": [
                     "Das Erste"
+                ]
+            },
+            {
+                "country": "Chad",
+                "channels": [
+                    "beIN SPORTS 1"
                 ]
             },
             {
@@ -961,9 +1016,21 @@
                 ]
             },
             {
+                "country": "Djibouti",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
                 "country": "Dominican Republic",
                 "channels": [
                     "ESPN 2 Norte"
+                ]
+            },
+            {
+                "country": "Egypt",
+                "channels": [
+                    "beIN SPORTS 1"
                 ]
             },
             {
@@ -994,8 +1061,8 @@
             {
                 "country": "Ghana",
                 "channels": [
-                    "GTV Sports+",
-                    "MaxTV Ghana"
+                    "MaxTV Ghana",
+                    "GTV Sports+"
                 ]
             },
             {
@@ -1029,6 +1096,18 @@
                 ]
             },
             {
+                "country": "Iran, Islamic Republic of",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
+                "country": "Iraq",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "Virgin Media Two"
@@ -1041,9 +1120,39 @@
                 ]
             },
             {
+                "country": "Jordan",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
+                "country": "Kuwait",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
+                "country": "Lebanon",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
+                "country": "Libya",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
                 "country": "Luxembourg",
                 "channels": [
                     "Das Erste"
+                ]
+            },
+            {
+                "country": "Mauritania",
+                "channels": [
+                    "beIN SPORTS 1"
                 ]
             },
             {
@@ -1056,6 +1165,12 @@
                 "country": "Monaco",
                 "channels": [
                     "L'\u00c9quipe"
+                ]
+            },
+            {
+                "country": "Morocco",
+                "channels": [
+                    "beIN SPORTS 1"
                 ]
             },
             {
@@ -1077,6 +1192,18 @@
                 ]
             },
             {
+                "country": "Oman",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
+                "country": "Palestine, State of",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
                 "country": "Panama",
                 "channels": [
                     "ESPN 2 Norte"
@@ -1091,9 +1218,9 @@
             {
                 "country": "Poland",
                 "channels": [
-                    "sport.tvp.pl",
+                    "Polsat Sport 1",
                     "TVP Sport HD",
-                    "Polsat Sport 1"
+                    "sport.tvp.pl"
                 ]
             },
             {
@@ -1103,10 +1230,16 @@
                 ]
             },
             {
+                "country": "Qatar",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
                 "country": "Romania",
                 "channels": [
-                    "Prima Sport 1",
-                    "Digi Sport 1"
+                    "Digi Sport 1",
+                    "Prima Sport 1"
                 ]
             },
             {
@@ -1116,9 +1249,33 @@
                 ]
             },
             {
+                "country": "Saudi Arabia",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
                 "country": "Slovenia",
                 "channels": [
                     "Das Erste"
+                ]
+            },
+            {
+                "country": "Somalia",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
+                "country": "South Sudan",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
+                "country": "Sudan",
+                "channels": [
+                    "beIN SPORTS 1"
                 ]
             },
             {
@@ -1135,9 +1292,33 @@
                 ]
             },
             {
+                "country": "Syrian Arab Republic",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
+                "country": "Tunisia",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
+                "country": "United Arab Emirates",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
                 "country": "United States",
                 "channels": [
                     "Fox Sports 1"
+                ]
+            },
+            {
+                "country": "Yemen",
+                "channels": [
+                    "beIN SPORTS 1"
                 ]
             }
         ]
@@ -1331,9 +1512,9 @@
             {
                 "country": "Ireland",
                 "channels": [
+                    "Sky Sports Football",
                     "Sky One",
-                    "Sky Sports Main Event",
-                    "Sky Sports Football"
+                    "Sky Sports Main Event"
                 ]
             },
             {
@@ -1519,8 +1700,8 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Sky One",
                     "Sky Sports Football",
+                    "Sky One",
                     "Sky Sports Main Event"
                 ]
             },
@@ -1643,9 +1824,21 @@
                 ]
             },
             {
+                "country": "Spain",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
                 "country": "Sweden",
                 "channels": [
                     "Viaplay"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "DAZN UK"
                 ]
             }
         ]
@@ -1678,6 +1871,12 @@
                 "channels": [
                     "Magenta Sport",
                     "Sport1"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "DAZN"
                 ]
             },
             {
@@ -1733,24 +1932,24 @@
             {
                 "country": "Andorra",
                 "channels": [
-                    "Teledeporte",
-                    "TV3"
+                    "TV3",
+                    "Teledeporte"
                 ]
             },
             {
                 "country": "Poland",
                 "channels": [
-                    "sport.tvp.pl",
+                    "TVP Sport App",
                     "TVP Sport HD",
-                    "TVP Sport App"
+                    "sport.tvp.pl"
                 ]
             },
             {
                 "country": "Spain",
                 "channels": [
+                    "TV3",
                     "Teledeporte",
-                    "DAZN",
-                    "TV3"
+                    "DAZN"
                 ]
             },
             {
@@ -1760,6 +1959,24 @@
                 ]
             }
         ]
+    },
+    {
+        "match_id": 15662774,
+        "kickoff": 1774789200,
+        "fixture": "South Sudan vs Djibouti",
+        "league_id": 1848,
+        "league": "Africa Cup of Nations, Qualification, Preliminary",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15662776,
+        "kickoff": 1774796400,
+        "fixture": "Lesotho vs Seychelles",
+        "league_id": 1848,
+        "league": "Africa Cup of Nations, Qualification, Preliminary",
+        "venue": "TBA",
+        "tv_channels": []
     },
     {
         "match_id": 15856849,
@@ -2354,7 +2571,7 @@
     },
     {
         "match_id": 15416168,
-        "kickoff": 1774821600,
+        "kickoff": 1774818000,
         "fixture": "Cobreloa vs Uni\u00f3n San Felipe",
         "league_id": 1240,
         "league": "Liga de Ascenso",
@@ -2787,7 +3004,7 @@
     },
     {
         "match_id": 15426694,
-        "kickoff": 1774789200,
+        "kickoff": 1774792800,
         "fixture": "V\u00edkingur Reykjav\u00edk vs IF Vestri",
         "league_id": 786,
         "league": "Super Cup",
@@ -2814,15 +3031,15 @@
             {
                 "country": "Italy",
                 "channels": [
-                    "Sky Sport Uno",
-                    "NOW"
+                    "NOW",
+                    "Sky Sport Uno"
                 ]
             },
             {
                 "country": "San Marino",
                 "channels": [
-                    "Sky Sport Uno",
-                    "NOW"
+                    "NOW",
+                    "Sky Sport Uno"
                 ]
             }
         ]
@@ -2838,15 +3055,15 @@
             {
                 "country": "Italy",
                 "channels": [
-                    "Sky Sport Arena",
-                    "NOW"
+                    "NOW",
+                    "Sky Sport Arena"
                 ]
             },
             {
                 "country": "San Marino",
                 "channels": [
-                    "Sky Sport Arena",
-                    "NOW"
+                    "NOW",
+                    "Sky Sport Arena"
                 ]
             }
         ]
@@ -3049,15 +3266,15 @@
             {
                 "country": "Italy",
                 "channels": [
-                    "Sky Sport Arena",
-                    "NOW"
+                    "NOW",
+                    "Sky Sport Arena"
                 ]
             },
             {
                 "country": "San Marino",
                 "channels": [
-                    "Sky Sport Arena",
-                    "NOW"
+                    "NOW",
+                    "Sky Sport Arena"
                 ]
             }
         ]
@@ -3891,8 +4108,8 @@
             {
                 "country": "Sierra Leone",
                 "channels": [
-                    "FIFA+",
-                    "DAZN International"
+                    "DAZN International",
+                    "FIFA+"
                 ]
             },
             {
@@ -3976,8 +4193,8 @@
             {
                 "country": "Chile",
                 "channels": [
-                    "ChileVisi\u00f3n Web",
-                    "Chilevision"
+                    "Chilevision",
+                    "ChileVisi\u00f3n Web"
                 ]
             }
         ]
