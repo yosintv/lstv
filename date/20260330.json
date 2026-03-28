@@ -19,8 +19,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Premiere",
-                    "Sportv"
+                    "Sportv",
+                    "Premiere"
                 ]
             },
             {
@@ -288,7 +288,123 @@
         "league_id": 11539,
         "league": "Liga DIMAYOR, Apertura",
         "venue": "Estadio Bello Horizonte \u201cRey Pel\u00e9\u201d",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Aruba",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Australia",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "RCN Nuestra Tele",
+                    "Win Sports"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Cura\u00e7ao",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "El Salvador",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "New Zealand",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15367410,
@@ -423,9 +539,118 @@
         "venue": "Estadio Nemesio Camacho El Campin",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Aruba",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Australia",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
                 "country": "Colombia",
                 "channels": [
+                    "RCN Nuestra Tele",
                     "Win Sports"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Cura\u00e7ao",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "El Salvador",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "New Zealand",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "RCN Nuestra Tele"
                 ]
             }
         ]
@@ -524,6 +749,13 @@
                 ]
             },
             {
+                "country": "Bulgaria",
+                "channels": [
+                    "Play Diema Xtra",
+                    "Diema Sport 3 HD"
+                ]
+            },
+            {
                 "country": "Chile",
                 "channels": [
                     "Disney+ Premium Chile"
@@ -532,15 +764,15 @@
             {
                 "country": "Denmark",
                 "channels": [
-                    "TV2 Play Denmark",
-                    "TV2 Sport X"
+                    "TV2 Sport X",
+                    "TV2 Play Denmark"
                 ]
             },
             {
                 "country": "Faroe Islands",
                 "channels": [
-                    "TV2 Play Denmark",
-                    "TV2 Sport X"
+                    "TV2 Sport X",
+                    "TV2 Play Denmark"
                 ]
             },
             {
@@ -626,9 +858,21 @@
         "venue": "Northwest Stadium",
         "tv_channels": [
             {
+                "country": "Algeria",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
                 "country": "Andorra",
                 "channels": [
                     "TF1+"
+                ]
+            },
+            {
+                "country": "Bahrain",
+                "channels": [
+                    "beIN SPORTS 1"
                 ]
             },
             {
@@ -640,8 +884,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Xsports",
-                    "Sportv"
+                    "Sportv",
+                    "Xsports"
                 ]
             },
             {
@@ -658,11 +902,17 @@
                 ]
             },
             {
+                "country": "Chad",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
                 "country": "Colombia",
                 "channels": [
-                    "ditu",
-                    "Caracol TV",
                     "Caracol Play",
+                    "Caracol TV",
+                    "ditu",
                     "RCN Television"
                 ]
             },
@@ -670,8 +920,8 @@
                 "country": "Congo",
                 "channels": [
                     "Sporty TV App",
-                    "Sporty TV",
-                    "StarTimes App"
+                    "StarTimes App",
+                    "Sporty TV"
                 ]
             },
             {
@@ -681,10 +931,22 @@
                 ]
             },
             {
+                "country": "Djibouti",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
                 "country": "Ecuador",
                 "channels": [
                     "Canal del Futbol",
                     "ECDF App"
+                ]
+            },
+            {
+                "country": "Egypt",
+                "channels": [
+                    "beIN SPORTS 1"
                 ]
             },
             {
@@ -696,31 +958,67 @@
             {
                 "country": "Ghana",
                 "channels": [
-                    "Sporty TV App",
                     "StarTimes App",
-                    "Sporty TV"
+                    "Sporty TV",
+                    "Sporty TV App"
                 ]
             },
             {
                 "country": "Guinea",
                 "channels": [
-                    "Sporty TV App",
                     "StarTimes App",
-                    "Sporty TV"
+                    "Sporty TV",
+                    "Sporty TV App"
+                ]
+            },
+            {
+                "country": "Iran, Islamic Republic of",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
+                "country": "Iraq",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
+                "country": "Jordan",
+                "channels": [
+                    "beIN SPORTS 1"
                 ]
             },
             {
                 "country": "Kenya",
                 "channels": [
-                    "Sporty TV App",
+                    "StarTimes App",
                     "Sporty TV",
-                    "StarTimes App"
+                    "Sporty TV App"
+                ]
+            },
+            {
+                "country": "Kuwait",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
+                "country": "Lebanon",
+                "channels": [
+                    "beIN SPORTS 1"
                 ]
             },
             {
                 "country": "Lesotho",
                 "channels": [
                     "StarTimes App"
+                ]
+            },
+            {
+                "country": "Libya",
+                "channels": [
+                    "beIN SPORTS 1"
                 ]
             },
             {
@@ -742,9 +1040,21 @@
                 ]
             },
             {
+                "country": "Mauritania",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
                 "country": "Monaco",
                 "channels": [
                     "TF1"
+                ]
+            },
+            {
+                "country": "Morocco",
+                "channels": [
+                    "beIN SPORTS 1"
                 ]
             },
             {
@@ -758,9 +1068,9 @@
             {
                 "country": "Nigeria",
                 "channels": [
-                    "Sporty TV App",
                     "StarTimes App",
-                    "Sporty TV"
+                    "Sporty TV",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -770,25 +1080,55 @@
                 ]
             },
             {
+                "country": "Oman",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
+                "country": "Palestine, State of",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
                 "country": "Portugal",
                 "channels": [
                     "Sport TV1"
                 ]
             },
             {
+                "country": "Qatar",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
                 "country": "Rwanda",
                 "channels": [
-                    "Sporty TV App",
+                    "StarTimes App",
                     "Sporty TV",
-                    "StarTimes App"
+                    "Sporty TV App"
+                ]
+            },
+            {
+                "country": "Saudi Arabia",
+                "channels": [
+                    "beIN SPORTS 1"
                 ]
             },
             {
                 "country": "Sierra Leone",
                 "channels": [
                     "Sporty TV App",
-                    "Sporty TV",
-                    "StarTimes App"
+                    "StarTimes App",
+                    "Sporty TV"
+                ]
+            },
+            {
+                "country": "Somalia",
+                "channels": [
+                    "beIN SPORTS 1"
                 ]
             },
             {
@@ -800,15 +1140,33 @@
                 ]
             },
             {
+                "country": "South Sudan",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
                 "country": "Spain",
                 "channels": [
                     "DAZN"
                 ]
             },
             {
+                "country": "Sudan",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
                 "country": "Switzerland",
                 "channels": [
                     "TF1"
+                ]
+            },
+            {
+                "country": "Syrian Arab Republic",
+                "channels": [
+                    "beIN SPORTS 1"
                 ]
             },
             {
@@ -820,6 +1178,12 @@
                 ]
             },
             {
+                "country": "Tunisia",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
                 "country": "Uganda",
                 "channels": [
                     "Sporty TV App",
@@ -828,9 +1192,21 @@
                 ]
             },
             {
+                "country": "United Arab Emirates",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
                 "country": "United States",
                 "channels": [
                     "Telemundo"
+                ]
+            },
+            {
+                "country": "Yemen",
+                "channels": [
+                    "beIN SPORTS 1"
                 ]
             },
             {
@@ -879,15 +1255,15 @@
             {
                 "country": "Denmark",
                 "channels": [
-                    "TV2 Play Denmark",
-                    "TV2 Sport X"
+                    "TV2 Sport X",
+                    "TV2 Play Denmark"
                 ]
             },
             {
                 "country": "Faroe Islands",
                 "channels": [
-                    "TV2 Play Denmark",
-                    "TV2 Sport X"
+                    "TV2 Sport X",
+                    "TV2 Play Denmark"
                 ]
             },
             {
@@ -917,8 +1293,8 @@
             {
                 "country": "Romania",
                 "channels": [
-                    "Prima Sport 1",
-                    "Digi Sport 3"
+                    "Digi Sport 3",
+                    "Prima Sport 1"
                 ]
             },
             {
@@ -958,8 +1334,8 @@
             {
                 "country": "Austria",
                 "channels": [
-                    "DAZN Austria",
-                    "Das Erste"
+                    "Das Erste",
+                    "DAZN Austria"
                 ]
             },
             {
@@ -1019,9 +1395,9 @@
             {
                 "country": "Denmark",
                 "channels": [
-                    "TV2 Play Denmark",
                     "TV2 Sport X",
-                    "Das Erste"
+                    "Das Erste",
+                    "TV2 Play Denmark"
                 ]
             },
             {
@@ -1051,8 +1427,8 @@
             {
                 "country": "Faroe Islands",
                 "channels": [
-                    "TV2 Play Denmark",
-                    "TV2 Sport X"
+                    "TV2 Sport X",
+                    "TV2 Play Denmark"
                 ]
             },
             {
@@ -1070,8 +1446,8 @@
             {
                 "country": "Ghana",
                 "channels": [
-                    "GTV Sports+",
-                    "MaxTV Ghana"
+                    "MaxTV Ghana",
+                    "GTV Sports+"
                 ]
             },
             {
@@ -1227,9 +1603,9 @@
             {
                 "country": "Poland",
                 "channels": [
+                    "sport.tvp.pl",
                     "TVP Sport HD",
-                    "Polsat Sport 1",
-                    "sport.tvp.pl"
+                    "Polsat Sport 1"
                 ]
             },
             {
@@ -1247,8 +1623,8 @@
             {
                 "country": "Romania",
                 "channels": [
-                    "Prima Sport 1",
-                    "Digi Sport 1"
+                    "Digi Sport 1",
+                    "Prima Sport 1"
                 ]
             },
             {
@@ -1290,8 +1666,8 @@
             {
                 "country": "Sweden",
                 "channels": [
-                    "Viaplay",
-                    "Das Erste"
+                    "Das Erste",
+                    "Viaplay"
                 ]
             },
             {
@@ -1521,9 +1897,9 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Sky Sports Main Event",
                     "Sky Sports Football",
-                    "Sky One"
+                    "Sky One",
+                    "Sky Sports Main Event"
                 ]
             },
             {
@@ -1709,8 +2085,8 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Sky Sports Main Event",
                     "Sky Sports Football",
+                    "Sky Sports Main Event",
                     "Sky One"
                 ]
             },
@@ -1948,9 +2324,9 @@
             {
                 "country": "Poland",
                 "channels": [
-                    "TVP Sport App",
                     "TVP Sport HD",
-                    "sport.tvp.pl"
+                    "sport.tvp.pl",
+                    "TVP Sport App"
                 ]
             },
             {
@@ -2510,7 +2886,7 @@
     },
     {
         "match_id": 15756808,
-        "kickoff": 1774810800,
+        "kickoff": 1774809000,
         "fixture": "Juazeirense vs AO Itabaiana",
         "league_id": 1596,
         "league": "Copa do Nordeste",
@@ -2528,6 +2904,7 @@
             {
                 "country": "Brazil",
                 "channels": [
+                    "YouTube - SportyNet",
                     "SportyNet"
                 ]
             }
@@ -2576,7 +2953,14 @@
         "league_id": 1240,
         "league": "Liga de Ascenso",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Chile",
+                "channels": [
+                    "TNT Sports Chile"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15416168,
@@ -2585,7 +2969,14 @@
         "league_id": 1240,
         "league": "Liga de Ascenso",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Chile",
+                "channels": [
+                    "TNT SPORTS Premium"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15416173,
@@ -2594,7 +2985,14 @@
         "league_id": 1240,
         "league": "Liga de Ascenso",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Chile",
+                "channels": [
+                    "TNT SPORTS Premium"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15416171,
@@ -2644,7 +3042,14 @@
         "league_id": 32734,
         "league": "Copa de la Liga, Group B",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Chile",
+                "channels": [
+                    "TNT SPORTS Premium"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15683251,
@@ -2669,7 +3074,14 @@
         "league_id": 1238,
         "league": "Primera B, Apertura",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Colombia",
+                "channels": [
+                    "Win Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15415215,
@@ -3047,8 +3459,8 @@
             {
                 "country": "San Marino",
                 "channels": [
-                    "NOW",
-                    "Sky Sport Uno"
+                    "Sky Sport Uno",
+                    "NOW"
                 ]
             }
         ]
@@ -3633,8 +4045,8 @@
             {
                 "country": "Denmark",
                 "channels": [
-                    "SVT Play",
-                    "SVT 2"
+                    "SVT 2",
+                    "SVT Play"
                 ]
             },
             {
@@ -3647,23 +4059,23 @@
             {
                 "country": "Greenland",
                 "channels": [
-                    "SVT Play",
-                    "SVT 2"
+                    "SVT 2",
+                    "SVT Play"
                 ]
             },
             {
                 "country": "Norway",
                 "channels": [
-                    "SVT Play",
-                    "SVT 2"
+                    "SVT 2",
+                    "SVT Play"
                 ]
             },
             {
                 "country": "Sweden",
                 "channels": [
-                    "SVT Play",
+                    "Viaplay",
                     "SVT 2",
-                    "Viaplay"
+                    "SVT Play"
                 ]
             }
         ]
@@ -3795,6 +4207,12 @@
                 "channels": [
                     "Disney+ Premium Chile"
                 ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "Antel TV"
+                ]
             }
         ]
     },
@@ -3822,6 +4240,12 @@
                 "country": "Peru",
                 "channels": [
                     "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "Antel TV"
                 ]
             }
         ]
@@ -3851,6 +4275,12 @@
                 "channels": [
                     "Disney+ Premium Chile"
                 ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "Antel TV"
+                ]
             }
         ]
     },
@@ -3878,6 +4308,12 @@
                 "country": "Peru",
                 "channels": [
                     "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "Antel TV"
                 ]
             }
         ]
@@ -3907,6 +4343,12 @@
                 "channels": [
                     "Disney+ Premium Chile"
                 ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "Antel TV"
+                ]
             }
         ]
     },
@@ -3934,6 +4376,12 @@
                 "country": "Peru",
                 "channels": [
                     "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "Antel TV"
                 ]
             }
         ]
@@ -3987,15 +4435,6 @@
         "match_id": 15841073,
         "kickoff": 1774882800,
         "fixture": "Czechia U20 vs Portugal U20",
-        "league_id": 855,
-        "league": "U20 Friendly Games",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15841074,
-        "kickoff": 1774953000,
-        "fixture": "Switzerland U20 vs Romania U20",
         "league_id": 855,
         "league": "U20 Friendly Games",
         "venue": "TBA",
@@ -4144,8 +4583,8 @@
             {
                 "country": "Sierra Leone",
                 "channels": [
-                    "FIFA+",
-                    "DAZN International"
+                    "DAZN International",
+                    "FIFA+"
                 ]
             },
             {
