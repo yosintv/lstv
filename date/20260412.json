@@ -912,9 +912,9 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "YouTube - Caz\u00e9TV",
                     "Record",
-                    "R7"
+                    "R7",
+                    "YouTube - Caz\u00e9TV"
                 ]
             }
         ]
@@ -6002,6 +6002,60 @@
         "tv_channels": []
     },
     {
+        "match_id": 14068733,
+        "kickoff": 1775905200,
+        "fixture": "Roma U20 vs Napoli U20",
+        "league_id": 2292,
+        "league": "Primavera 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14068738,
+        "kickoff": 1775912400,
+        "fixture": "Monza U20 vs Bologna U20",
+        "league_id": 2292,
+        "league": "Primavera 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14068735,
+        "kickoff": 1775984400,
+        "fixture": "Parma U20 vs Juventus U20",
+        "league_id": 2292,
+        "league": "Primavera 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14068737,
+        "kickoff": 1775991600,
+        "fixture": "Fiorentina U20 vs Sassuolo U20",
+        "league_id": 2292,
+        "league": "Primavera 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14068734,
+        "kickoff": 1775991600,
+        "fixture": "Frosinone U20 vs Cagliari U20",
+        "league_id": 2292,
+        "league": "Primavera 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14068747,
+        "kickoff": 1776078000,
+        "fixture": "Hellas Verona U20 vs Lazio U20",
+        "league_id": 2292,
+        "league": "Primavera 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15345921,
         "kickoff": 1775970000,
         "fixture": "Urawa Red Diamonds vs Tokyo Verdy",
@@ -6556,7 +6610,7 @@
         "fixture": "Str\u00f8mmen IF vs Egersund",
         "league_id": 22,
         "league": "1st Division",
-        "venue": "Strommen Stadion",
+        "venue": "KFUM Arena",
         "tv_channels": []
     },
     {
@@ -7880,15 +7934,6 @@
         "league_id": 218,
         "league": "Premier League",
         "venue": "Tsentralnyi Stadion",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14090610,
-        "kickoff": 1775912400,
-        "fixture": "LNZ Cherkasy vs Shakhtar Donetsk",
-        "league_id": 218,
-        "league": "Premier League",
-        "venue": "Tsentralnyi Stadium",
         "tv_channels": []
     },
     {
