@@ -33,7 +33,20 @@
         "league_id": 17,
         "league": "Premier League",
         "venue": "Anfield",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Premier League"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Premier League"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14023999,
@@ -1282,6 +1295,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 15269945,
+        "kickoff": 1775954700,
+        "fixture": "Estudiantes de R\u00edo Cuarto vs Barracas Central",
+        "league_id": 155,
+        "league": "Liga Profesional de F\u00fatbol, Apertura",
+        "venue": "Antonio Candini",
+        "tv_channels": []
+    },
+    {
         "match_id": 15270064,
         "kickoff": 1776016800,
         "fixture": "Newell's Old Boys vs San Lorenzo",
@@ -1315,15 +1337,6 @@
         "league_id": 155,
         "league": "Liga Profesional de F\u00fatbol, Apertura",
         "venue": "Estadio Tomas Adolfo Duco",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15269945,
-        "kickoff": 1776031200,
-        "fixture": "Estudiantes de R\u00edo Cuarto vs Barracas Central",
-        "league_id": 155,
-        "league": "Liga Profesional de F\u00fatbol, Apertura",
-        "venue": "Antonio Candini",
         "tv_channels": []
     },
     {
