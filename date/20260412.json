@@ -8,6 +8,12 @@
         "venue": "Emirates Stadium",
         "tv_channels": [
             {
+                "country": "Ireland",
+                "channels": [
+                    "TNT Sports 1"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "channels": [
                     "TNT Sports 1"
@@ -194,7 +200,56 @@
         "league_id": 8,
         "league": "LaLiga",
         "venue": "Spotify Camp Nou",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "Sky HD"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "Sky HD"
+                ]
+            },
+            {
+                "country": "El Salvador",
+                "channels": [
+                    "Sky HD"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "Sky HD"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "Sky HD"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "Sky HD"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "Sky HD"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "Sky HD"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14083161,
@@ -410,153 +465,374 @@
         "venue": "Stade de l'Abb\u00e9-Deschamps",
         "tv_channels": [
             {
+                "country": "Angola",
+                "channels": [
+                    "SuperSport GOtv Football",
+                    "DStv Now"
+                ]
+            },
+            {
                 "country": "Benin",
                 "channels": [
+                    "SuperSport GOtv Football",
                     "Canal+ Sport 2"
+                ]
+            },
+            {
+                "country": "Botswana",
+                "channels": [
+                    "SuperSport GOtv Football",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "Burkina Faso",
                 "channels": [
-                    "Canal+ Sport 2"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "Burundi",
                 "channels": [
-                    "Canal+ Sport 2"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "Cabo Verde",
                 "channels": [
-                    "Canal+ Sport 2"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "Cameroon",
                 "channels": [
-                    "Canal+ Sport 2"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "Central African Republic",
                 "channels": [
+                    "SuperSport GOtv Football",
                     "Canal+ Sport 2"
                 ]
             },
             {
                 "country": "Chad",
                 "channels": [
-                    "Canal+ Sport 2"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Comoros",
+                "channels": [
+                    "SuperSport GOtv Football"
                 ]
             },
             {
                 "country": "Congo",
                 "channels": [
-                    "Canal+ Sport 2"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "Congo, The Democratic Republic of the",
                 "channels": [
-                    "Canal+ Sport 2"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "C\u00f4te d'Ivoire",
                 "channels": [
-                    "Canal+ Sport 2"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "Djibouti",
                 "channels": [
-                    "Canal+ Sport 2"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "Equatorial Guinea",
                 "channels": [
-                    "Canal+ Sport 2"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Eritrea",
+                "channels": [
+                    "SuperSport GOtv Football",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Eswatini",
+                "channels": [
+                    "SuperSport GOtv Football",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Ethiopia",
+                "channels": [
+                    "SuperSport GOtv Football",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "Gabon",
                 "channels": [
-                    "Canal+ Sport 2"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "Gambia",
                 "channels": [
-                    "Canal+ Sport 2"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "Ghana",
                 "channels": [
-                    "Canal+ Sport 2"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "Guinea",
                 "channels": [
-                    "Canal+ Sport 2"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "Guinea-Bissau",
                 "channels": [
-                    "Canal+ Sport 2"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Kenya",
+                "channels": [
+                    "SuperSport GOtv Football",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Lesotho",
+                "channels": [
+                    "SuperSport GOtv Football",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Liberia",
+                "channels": [
+                    "SuperSport GOtv Football",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Madagascar",
+                "channels": [
+                    "SuperSport GOtv Football",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Malawi",
+                "channels": [
+                    "SuperSport GOtv Football",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "Mali",
                 "channels": [
-                    "Canal+ Sport 2"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "Mauritania",
                 "channels": [
-                    "Canal+ Sport 2"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Mauritius",
+                "channels": [
+                    "SuperSport GOtv Football",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Mayotte",
+                "channels": [
+                    "SuperSport GOtv Football"
+                ]
+            },
+            {
+                "country": "Mozambique",
+                "channels": [
+                    "SuperSport GOtv Football",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Namibia",
+                "channels": [
+                    "SuperSport GOtv Football",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "Niger",
                 "channels": [
-                    "Canal+ Sport 2"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "Nigeria",
                 "channels": [
-                    "Canal+ Sport 2"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "Rwanda",
                 "channels": [
+                    "SuperSport GOtv Football",
                     "Canal+ Sport 2"
+                ]
+            },
+            {
+                "country": "R\u00e9union",
+                "channels": [
+                    "SuperSport GOtv Football"
+                ]
+            },
+            {
+                "country": "Sao Tome and Principe",
+                "channels": [
+                    "SuperSport GOtv Football"
                 ]
             },
             {
                 "country": "Senegal",
                 "channels": [
-                    "Canal+ Sport 2"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Seychelles",
+                "channels": [
+                    "SuperSport GOtv Football",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "Sierra Leone",
                 "channels": [
-                    "Canal+ Sport 2"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Somalia",
+                "channels": [
+                    "SuperSport GOtv Football"
+                ]
+            },
+            {
+                "country": "South Africa",
+                "channels": [
+                    "SuperSport GOtv Football"
+                ]
+            },
+            {
+                "country": "South Sudan",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Sudan",
+                "channels": [
+                    "SuperSport GOtv Football",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Tanzania, United Republic of",
+                "channels": [
+                    "SuperSport GOtv Football",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "Togo",
                 "channels": [
-                    "Canal+ Sport 2"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Uganda",
+                "channels": [
+                    "SuperSport GOtv Football",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Zambia",
+                "channels": [
+                    "SuperSport GOtv Football"
+                ]
+            },
+            {
+                "country": "Zimbabwe",
+                "channels": [
+                    "SuperSport GOtv Football",
+                    "DStv Now"
                 ]
             }
         ]
@@ -912,9 +1188,9 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Record",
+                    "YouTube - Caz\u00e9TV",
                     "R7",
-                    "YouTube - Caz\u00e9TV"
+                    "Record"
                 ]
             }
         ]
@@ -1016,9 +1292,261 @@
         "venue": "Het Kasteel",
         "tv_channels": [
             {
+                "country": "Angola",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Benin",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Botswana",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Burkina Faso",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Burundi",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Cameroon",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Central African Republic",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Congo",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "C\u00f4te d'Ivoire",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Equatorial Guinea",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Eritrea",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Eswatini",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Ethiopia",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Gabon",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Gambia",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Ghana",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Guinea",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Guinea-Bissau",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Kenya",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Lesotho",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Liberia",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Madagascar",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Malawi",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Mali",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Mauritius",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Mayotte",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Mozambique",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Namibia",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
                 "country": "Netherlands",
                 "channels": [
                     "ESPN 2"
+                ]
+            },
+            {
+                "country": "Niger",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Nigeria",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Rwanda",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "R\u00e9union",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Sao Tome and Principe",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Senegal",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Seychelles",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Sierra Leone",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "South Africa",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Tanzania, United Republic of",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Togo",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Uganda",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Zambia",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Zimbabwe",
+                "channels": [
+                    "ESPN 2 Africa"
                 ]
             }
         ]
@@ -1048,9 +1576,261 @@
         "venue": "Asito Stadium",
         "tv_channels": [
             {
+                "country": "Angola",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Benin",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Botswana",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Burkina Faso",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Burundi",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Cameroon",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Central African Republic",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Congo",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "C\u00f4te d'Ivoire",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Equatorial Guinea",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Eritrea",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Eswatini",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Ethiopia",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Gabon",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Gambia",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Ghana",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Guinea",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Guinea-Bissau",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Kenya",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Lesotho",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Liberia",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Madagascar",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Malawi",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Mali",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Mauritius",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Mayotte",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Mozambique",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Namibia",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
                 "country": "Netherlands",
                 "channels": [
                     "ESPN 2"
+                ]
+            },
+            {
+                "country": "Niger",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Nigeria",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Rwanda",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "R\u00e9union",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Sao Tome and Principe",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Senegal",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Seychelles",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Sierra Leone",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "South Africa",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Tanzania, United Republic of",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Togo",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Uganda",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Zambia",
+                "channels": [
+                    "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Zimbabwe",
+                "channels": [
+                    "ESPN 2 Africa"
                 ]
             }
         ]
@@ -1161,7 +1941,14 @@
         "league_id": 38,
         "league": "Pro League, Championship Round",
         "venue": "Stayen",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Sierra Leone",
+                "channels": [
+                    "DAZN International"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15858610,
@@ -3163,6 +3950,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 14773781,
+        "kickoff": 1775923200,
+        "fixture": "Al-Najma SC vs Neom SC",
+        "league_id": 955,
+        "league": "Saudi Pro League",
+        "venue": "Al-Najma Club Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14773784,
+        "kickoff": 1775923200,
+        "fixture": "Al-Taawoun vs Al-Kholood",
+        "league_id": 955,
+        "league": "Saudi Pro League",
+        "venue": "Alinma Stadium",
+        "tv_channels": []
+    },
+    {
         "match_id": 14773780,
         "kickoff": 1775923500,
         "fixture": "Al-Hazem vs Al-Fayha",
@@ -3187,7 +3992,336 @@
         "league_id": 955,
         "league": "Saudi Pro League",
         "venue": "Prince Hathloul Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Angola",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Benin",
+                "channels": [
+                    "ESPN Africa"
+                ]
+            },
+            {
+                "country": "Botswana",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Burkina Faso",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Burundi",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Cabo Verde",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Cameroon",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Central African Republic",
+                "channels": [
+                    "ESPN Africa"
+                ]
+            },
+            {
+                "country": "Chad",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Congo",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Congo, The Democratic Republic of the",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "C\u00f4te d'Ivoire",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Djibouti",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Equatorial Guinea",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Eritrea",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Eswatini",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Ethiopia",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Gabon",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Gambia",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Ghana",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Guinea",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Guinea-Bissau",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Kenya",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Lesotho",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Liberia",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Madagascar",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Malawi",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Mali",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Mauritania",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Mauritius",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Mayotte",
+                "channels": [
+                    "ESPN Africa"
+                ]
+            },
+            {
+                "country": "Mozambique",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Namibia",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Niger",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Nigeria",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Rwanda",
+                "channels": [
+                    "ESPN Africa"
+                ]
+            },
+            {
+                "country": "R\u00e9union",
+                "channels": [
+                    "ESPN Africa"
+                ]
+            },
+            {
+                "country": "Sao Tome and Principe",
+                "channels": [
+                    "ESPN Africa"
+                ]
+            },
+            {
+                "country": "Senegal",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Seychelles",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Sierra Leone",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "South Africa",
+                "channels": [
+                    "ESPN Africa"
+                ]
+            },
+            {
+                "country": "South Sudan",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Sudan",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Tanzania, United Republic of",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Togo",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Uganda",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Zambia",
+                "channels": [
+                    "ESPN Africa"
+                ]
+            },
+            {
+                "country": "Zimbabwe",
+                "channels": [
+                    "ESPN Africa",
+                    "DStv Now"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15698596,
