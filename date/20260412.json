@@ -8,6 +8,12 @@
         "venue": "Emirates Stadium",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "Disney+ Premium Argentina"
+                ]
+            },
+            {
                 "country": "Armenia",
                 "channels": [
                     "Setanta Sports 1"
@@ -16,8 +22,8 @@
             {
                 "country": "Austria",
                 "channels": [
-                    "Sky Sports Premier League",
-                    "Sky Go"
+                    "Sky Go",
+                    "Sky Sports Premier League"
                 ]
             },
             {
@@ -35,20 +41,28 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             },
             {
                 "country": "Brunei Darussalam",
                 "channels": [
-                    "Astro Go"
+                    "Astro Grandstand",
+                    "Astro Go",
+                    "Astro Premier League"
                 ]
             },
             {
                 "country": "Chile",
                 "channels": [
                     "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
                 ]
             },
             {
@@ -94,9 +108,16 @@
                 ]
             },
             {
+                "country": "India",
+                "channels": [
+                    "JioHotstar"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
-                    "TNT Sports 1"
+                    "TNT Sports 1",
+                    "Discovery+"
                 ]
             },
             {
@@ -132,7 +153,10 @@
             {
                 "country": "Malaysia",
                 "channels": [
-                    "Astro Go"
+                    "Astro Go",
+                    "sooka",
+                    "Astro Grandstand",
+                    "Astro Premier League"
                 ]
             },
             {
@@ -151,6 +175,12 @@
                 "country": "Norway",
                 "channels": [
                     "Viaplay"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
                 ]
             },
             {
@@ -186,7 +216,14 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "TNT Sports 1"
+                    "TNT Sports 1",
+                    "Discovery+"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
                 ]
             },
             {
@@ -218,6 +255,12 @@
                 ]
             },
             {
+                "country": "Argentina",
+                "channels": [
+                    "Disney+ Premium Argentina"
+                ]
+            },
+            {
                 "country": "Bolivia, Plurinational State of",
                 "channels": [
                     "Disney+ Premium Chile"
@@ -226,20 +269,27 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             },
             {
                 "country": "Brunei Darussalam",
                 "channels": [
-                    "Astro Go"
+                    "Astro Go",
+                    "Astro Premier League 2"
                 ]
             },
             {
                 "country": "Chile",
                 "channels": [
                     "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
                 ]
             },
             {
@@ -263,8 +313,8 @@
             {
                 "country": "France",
                 "channels": [
-                    "Canal+ Live 2",
-                    "Canal+ Foot"
+                    "Canal+ Foot",
+                    "Canal+ Live 2"
                 ]
             },
             {
@@ -274,15 +324,29 @@
                 ]
             },
             {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports ROI 1"
+                ]
+            },
+            {
                 "country": "Malaysia",
                 "channels": [
-                    "Astro Go"
+                    "Astro Go",
+                    "sooka",
+                    "Astro Premier League 2"
                 ]
             },
             {
                 "country": "Norway",
                 "channels": [
                     "Viaplay"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
                 ]
             },
             {
@@ -302,6 +366,12 @@
                 "channels": [
                     "Viaplay"
                 ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
+                ]
             }
         ]
     },
@@ -317,6 +387,12 @@
                 "country": "Andorra",
                 "channels": [
                     "Canal+ Live 3"
+                ]
+            },
+            {
+                "country": "Argentina",
+                "channels": [
+                    "Disney+ Premium Argentina"
                 ]
             },
             {
@@ -350,6 +426,12 @@
                 ]
             },
             {
+                "country": "China",
+                "channels": [
+                    "Migu"
+                ]
+            },
+            {
                 "country": "Croatia",
                 "channels": [
                     "Arena Sport 5 HR"
@@ -365,8 +447,8 @@
             {
                 "country": "Finland",
                 "channels": [
-                    "V Sport+ Suomi",
-                    "V Sport Football"
+                    "V Sport Football",
+                    "V Sport+ Suomi"
                 ]
             },
             {
@@ -404,8 +486,14 @@
             {
                 "country": "Norway",
                 "channels": [
-                    "V Sport Premier League",
-                    "Viaplay"
+                    "Viaplay",
+                    "V Sport Premier League"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
                 ]
             },
             {
@@ -432,6 +520,12 @@
                 "channels": [
                     "Peacock"
                 ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
+                ]
             }
         ]
     },
@@ -444,10 +538,16 @@
         "venue": "Anfield",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "Disney+ Premium Argentina"
+                ]
+            },
+            {
                 "country": "Austria",
                 "channels": [
-                    "Sky Sports Premier League",
-                    "Sky Go"
+                    "Sky Go",
+                    "Sky Sports Premier League"
                 ]
             },
             {
@@ -465,13 +565,21 @@
             {
                 "country": "Brunei Darussalam",
                 "channels": [
-                    "Astro Go"
+                    "Astro Grandstand",
+                    "Astro Go",
+                    "Astro Premier League"
                 ]
             },
             {
                 "country": "Chile",
                 "channels": [
                     "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
                 ]
             },
             {
@@ -514,8 +622,10 @@
                 "country": "Ireland",
                 "channels": [
                     "Sky Sports Main Event",
+                    "Sky Sports Ultra HD",
                     "Sky Sports Premier League",
-                    "Sky Go UK"
+                    "Sky Go UK",
+                    "NOW TV UK"
                 ]
             },
             {
@@ -527,13 +637,22 @@
             {
                 "country": "Malaysia",
                 "channels": [
-                    "Astro Go"
+                    "Astro Go",
+                    "sooka",
+                    "Astro Grandstand",
+                    "Astro Premier League"
                 ]
             },
             {
                 "country": "Norway",
                 "channels": [
                     "Viaplay"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
                 ]
             },
             {
@@ -564,15 +683,23 @@
                 "country": "United Kingdom",
                 "channels": [
                     "Sky Sports Main Event",
+                    "Sky Sports Ultra HD",
                     "Sky Sports Premier League",
-                    "Sky Go UK"
+                    "Sky Go UK",
+                    "NOW TV UK"
                 ]
             },
             {
                 "country": "United States",
                 "channels": [
-                    "Peacock",
-                    "NBC"
+                    "NBC",
+                    "Peacock"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
                 ]
             }
         ]
@@ -590,6 +717,12 @@
                 "channels": [
                     "Disney+"
                 ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
+                ]
             }
         ]
     },
@@ -604,8 +737,14 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "Xsports"
+                    "Xsports",
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
                 ]
             }
         ]
@@ -621,8 +760,14 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
                 ]
             }
         ]
@@ -638,8 +783,14 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
                 ]
             },
             {
@@ -667,6 +818,12 @@
         "venue": "Unipol Domus",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "Disney+ Premium Argentina"
+                ]
+            },
+            {
                 "country": "Bolivia, Plurinational State of",
                 "channels": [
                     "Disney+ Premium Chile"
@@ -679,9 +836,21 @@
                 ]
             },
             {
+                "country": "Brunei Darussalam",
+                "channels": [
+                    "Astro Go"
+                ]
+            },
+            {
                 "country": "Chile",
                 "channels": [
                     "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
                 ]
             },
             {
@@ -709,6 +878,20 @@
                 ]
             },
             {
+                "country": "Malaysia",
+                "channels": [
+                    "Astro Go",
+                    "Astro Arena 2",
+                    "sooka"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
+                ]
+            },
+            {
                 "country": "Peru",
                 "channels": [
                     "Disney+ Premium Chile"
@@ -718,6 +901,12 @@
                 "country": "San Marino",
                 "channels": [
                     "DAZN"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
                 ]
             }
         ]
@@ -731,6 +920,12 @@
         "venue": "Stadio Olimpico Grande Torino",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "Disney+ Premium Argentina"
+                ]
+            },
+            {
                 "country": "Bolivia, Plurinational State of",
                 "channels": [
                     "Disney+ Premium Chile"
@@ -743,9 +938,21 @@
                 ]
             },
             {
+                "country": "Brunei Darussalam",
+                "channels": [
+                    "Astro Go"
+                ]
+            },
+            {
                 "country": "Chile",
                 "channels": [
                     "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
                 ]
             },
             {
@@ -764,6 +971,20 @@
                 "country": "Faroe Islands",
                 "channels": [
                     "TV2 Play Denmark"
+                ]
+            },
+            {
+                "country": "Malaysia",
+                "channels": [
+                    "Astro Go",
+                    "sooka",
+                    "Astro Arena Bola 2"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
                 ]
             },
             {
@@ -795,6 +1016,12 @@
                 "channels": [
                     "Fox Deportes"
                 ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
+                ]
             }
         ]
     },
@@ -806,6 +1033,12 @@
         "league": "Serie A",
         "venue": "San Siro/Giuseppe Meazza",
         "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "Disney+ Premium Argentina"
+                ]
+            },
             {
                 "country": "Austria",
                 "channels": [
@@ -821,14 +1054,20 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 2",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 2"
                 ]
             },
             {
                 "country": "Chile",
                 "channels": [
                     "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
                 ]
             },
             {
@@ -859,6 +1098,12 @@
                 "country": "Italy",
                 "channels": [
                     "DAZN"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
                 ]
             },
             {
@@ -896,6 +1141,12 @@
                 "channels": [
                     "Fox Deportes"
                 ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
+                ]
             }
         ]
     },
@@ -908,10 +1159,16 @@
         "venue": "New Balance Arena",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "Disney+ Premium Argentina"
+                ]
+            },
+            {
                 "country": "Austria",
                 "channels": [
-                    "Prime Video",
-                    "DAZN Austria"
+                    "DAZN Austria",
+                    "Prime Video"
                 ]
             },
             {
@@ -929,8 +1186,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "YouTube - Caz\u00e9TV",
                     "Disney+",
+                    "YouTube - Caz\u00e9TV",
                     "Prime Video"
                 ]
             },
@@ -938,6 +1195,12 @@
                 "country": "Chile",
                 "channels": [
                     "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
                 ]
             },
             {
@@ -967,10 +1230,16 @@
             {
                 "country": "Italy",
                 "channels": [
-                    "Sky Sport Calcio",
-                    "DAZN",
                     "Sky Sport Uno",
-                    "NOW"
+                    "NOW",
+                    "Sky Sport Calcio",
+                    "DAZN"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
                 ]
             },
             {
@@ -994,10 +1263,10 @@
             {
                 "country": "San Marino",
                 "channels": [
-                    "Sky Sport Calcio",
-                    "DAZN",
                     "Sky Sport Uno",
-                    "NOW"
+                    "NOW",
+                    "Sky Sport Calcio",
+                    "DAZN"
                 ]
             },
             {
@@ -1017,6 +1286,12 @@
                 "channels": [
                     "Prime Video"
                 ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
+                ]
             }
         ]
     },
@@ -1032,6 +1307,12 @@
                 "country": "Brazil",
                 "channels": [
                     "Disney+"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
                 ]
             }
         ]
@@ -1050,6 +1331,12 @@
                     "Disney+",
                     "ESPN 4"
                 ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
+                ]
             }
         ]
     },
@@ -1065,6 +1352,12 @@
                 "country": "Brazil",
                 "channels": [
                     "Disney+"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
                 ]
             },
             {
@@ -1092,8 +1385,14 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
                 ]
             }
         ]
@@ -1131,6 +1430,12 @@
                 ]
             },
             {
+                "country": "Brunei Darussalam",
+                "channels": [
+                    "beIN Sports Connect Malaysia"
+                ]
+            },
+            {
                 "country": "Canada",
                 "channels": [
                     "TSN+"
@@ -1140,6 +1445,13 @@
                 "country": "Chile",
                 "channels": [
                     "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "iQiyi",
+                    "Migu"
                 ]
             },
             {
@@ -1179,6 +1491,18 @@
                 ]
             },
             {
+                "country": "Macao",
+                "channels": [
+                    "iQiyi"
+                ]
+            },
+            {
+                "country": "Malaysia",
+                "channels": [
+                    "beIN Sports Connect Malaysia"
+                ]
+            },
+            {
                 "country": "Northern Mariana Islands",
                 "channels": [
                     "ESPN Deportes"
@@ -1187,8 +1511,8 @@
             {
                 "country": "Norway",
                 "channels": [
-                    "TV2 Sport Premium",
-                    "Viaplay"
+                    "Viaplay",
+                    "TV2 Sport Premium"
                 ]
             },
             {
@@ -1252,7 +1576,8 @@
             {
                 "country": "Argentina",
                 "channels": [
-                    "DGO"
+                    "DGO",
+                    "DIRECTV Sports"
                 ]
             },
             {
@@ -1260,6 +1585,12 @@
                 "channels": [
                     "Disney+",
                     "ESPN 4"
+                ]
+            },
+            {
+                "country": "Brunei Darussalam",
+                "channels": [
+                    "beIN Sports Connect Malaysia"
                 ]
             },
             {
@@ -1272,6 +1603,13 @@
                 "country": "Chile",
                 "channels": [
                     "DGO"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "iQiyi",
+                    "Migu"
                 ]
             },
             {
@@ -1317,6 +1655,18 @@
                 ]
             },
             {
+                "country": "Macao",
+                "channels": [
+                    "iQiyi"
+                ]
+            },
+            {
+                "country": "Malaysia",
+                "channels": [
+                    "beIN Sports Connect Malaysia"
+                ]
+            },
+            {
                 "country": "Northern Mariana Islands",
                 "channels": [
                     "ESPN Deportes"
@@ -1325,15 +1675,15 @@
             {
                 "country": "Norway",
                 "channels": [
-                    "TV2 Sport Premium",
-                    "Viaplay"
+                    "Viaplay",
+                    "TV2 Sport Premium"
                 ]
             },
             {
                 "country": "Peru",
                 "channels": [
-                    "DIRECTV Sports",
-                    "DGO"
+                    "DGO",
+                    "DIRECTV Sports"
                 ]
             },
             {
@@ -1457,6 +1807,13 @@
                 ]
             },
             {
+                "country": "China",
+                "channels": [
+                    "iQiyi",
+                    "Migu"
+                ]
+            },
+            {
                 "country": "Colombia",
                 "channels": [
                     "DGO"
@@ -1547,6 +1904,19 @@
                 ]
             },
             {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 2 HD",
+                    "Premier Sports Player"
+                ]
+            },
+            {
+                "country": "Macao",
+                "channels": [
+                    "iQiyi"
+                ]
+            },
+            {
                 "country": "Mexico",
                 "channels": [
                     "Sky HD"
@@ -1573,8 +1943,8 @@
             {
                 "country": "Norway",
                 "channels": [
-                    "TV2 Sport Premium",
-                    "Viaplay"
+                    "Viaplay",
+                    "TV2 Sport Premium"
                 ]
             },
             {
@@ -1592,8 +1962,8 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "DIRECTV Sports",
-                    "DGO"
+                    "DGO",
+                    "DIRECTV Sports"
                 ]
             },
             {
@@ -1617,8 +1987,8 @@
             {
                 "country": "Spain",
                 "channels": [
-                    "DAZN",
-                    "DAZN LaLiga"
+                    "DAZN LaLiga",
+                    "DAZN"
                 ]
             },
             {
@@ -1637,6 +2007,13 @@
                 "country": "T\u00fcrkiye",
                 "channels": [
                     "\u0130dman Az\u0259rbaycan"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 2 HD",
+                    "Premier Sports Player"
                 ]
             },
             {
@@ -1692,6 +2069,13 @@
                 ]
             },
             {
+                "country": "Argentina",
+                "channels": [
+                    "ESPN Argentina",
+                    "Disney+ Premium Argentina"
+                ]
+            },
+            {
                 "country": "Bolivia, Plurinational State of",
                 "channels": [
                     "Disney+ Premium Chile"
@@ -1700,8 +2084,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "Xsports"
+                    "Xsports",
+                    "Disney+"
                 ]
             },
             {
@@ -1714,6 +2098,13 @@
                 "country": "Chile",
                 "channels": [
                     "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "iQiyi",
+                    "Migu"
                 ]
             },
             {
@@ -1759,6 +2150,12 @@
                 ]
             },
             {
+                "country": "Macao",
+                "channels": [
+                    "iQiyi"
+                ]
+            },
+            {
                 "country": "Monaco",
                 "channels": [
                     "beIN SPORTS 2"
@@ -1773,8 +2170,14 @@
             {
                 "country": "Norway",
                 "channels": [
-                    "TV2 Sport",
-                    "Viaplay"
+                    "Viaplay",
+                    "TV2 Sport"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
                 ]
             },
             {
@@ -1820,6 +2223,12 @@
                 ]
             },
             {
+                "country": "Uruguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
+                ]
+            },
+            {
                 "country": "Virgin Islands, U.S.",
                 "channels": [
                     "ESPN Deportes"
@@ -1840,6 +2249,31 @@
                 "channels": [
                     "Disney+"
                 ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "iQiyi",
+                    "Migu"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 2 HD"
+                ]
+            },
+            {
+                "country": "Macao",
+                "channels": [
+                    "iQiyi"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 2 HD"
+                ]
             }
         ]
     },
@@ -1856,6 +2290,31 @@
                 "channels": [
                     "Disney+"
                 ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "iQiyi",
+                    "Migu"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 2 HD"
+                ]
+            },
+            {
+                "country": "Macao",
+                "channels": [
+                    "iQiyi"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 2 HD"
+                ]
             }
         ]
     },
@@ -1871,6 +2330,31 @@
                 "country": "Brazil",
                 "channels": [
                     "Disney+"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "iQiyi",
+                    "Migu"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 1 HD"
+                ]
+            },
+            {
+                "country": "Macao",
+                "channels": [
+                    "iQiyi"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 1 HD"
                 ]
             }
         ]
@@ -1892,8 +2376,27 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 2",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 2"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "iQiyi",
+                    "Migu"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 1 HD"
+                ]
+            },
+            {
+                "country": "Macao",
+                "channels": [
+                    "iQiyi"
                 ]
             },
             {
@@ -1906,6 +2409,12 @@
                 "country": "Switzerland",
                 "channels": [
                     "Teledeporte"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 1 HD"
                 ]
             }
         ]
@@ -2081,8 +2590,14 @@
             {
                 "country": "Angola",
                 "channels": [
-                    "DStv Now",
-                    "SuperSport GOtv Football"
+                    "SuperSport GOtv Football",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Argentina",
+                "channels": [
+                    "Disney+ Premium Argentina"
                 ]
             },
             {
@@ -2100,8 +2615,8 @@
             {
                 "country": "Benin",
                 "channels": [
-                    "Canal+ Sport 2",
-                    "SuperSport GOtv Football"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2"
                 ]
             },
             {
@@ -2113,8 +2628,8 @@
             {
                 "country": "Botswana",
                 "channels": [
-                    "DStv Now",
-                    "SuperSport GOtv Football"
+                    "SuperSport GOtv Football",
+                    "DStv Now"
                 ]
             },
             {
@@ -2127,47 +2642,47 @@
             {
                 "country": "Burkina Faso",
                 "channels": [
-                    "Canal+ Sport 2",
                     "SuperSport GOtv Football",
+                    "Canal+ Sport 2",
                     "DStv Now"
                 ]
             },
             {
                 "country": "Burundi",
                 "channels": [
-                    "Canal+ Sport 2",
+                    "SuperSport GOtv Football",
                     "DStv Now",
-                    "SuperSport GOtv Football"
+                    "Canal+ Sport 2"
                 ]
             },
             {
                 "country": "Cabo Verde",
                 "channels": [
-                    "Canal+ Sport 2",
+                    "SuperSport GOtv Football",
                     "DStv Now",
-                    "SuperSport GOtv Football"
+                    "Canal+ Sport 2"
                 ]
             },
             {
                 "country": "Cameroon",
                 "channels": [
-                    "Canal+ Sport 2",
                     "SuperSport GOtv Football",
-                    "DStv Now"
+                    "DStv Now",
+                    "Canal+ Sport 2"
                 ]
             },
             {
                 "country": "Central African Republic",
                 "channels": [
-                    "Canal+ Sport 2",
-                    "SuperSport GOtv Football"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2"
                 ]
             },
             {
                 "country": "Chad",
                 "channels": [
-                    "Canal+ Sport 2",
                     "SuperSport GOtv Football",
+                    "Canal+ Sport 2",
                     "DStv Now"
                 ]
             },
@@ -2175,6 +2690,12 @@
                 "country": "Chile",
                 "channels": [
                     "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
                 ]
             },
             {
@@ -2186,17 +2707,17 @@
             {
                 "country": "Congo",
                 "channels": [
-                    "Canal+ Sport 2",
                     "SuperSport GOtv Football",
+                    "Canal+ Sport 2",
                     "DStv Now"
                 ]
             },
             {
                 "country": "Congo, The Democratic Republic of the",
                 "channels": [
-                    "Canal+ Sport 2",
+                    "SuperSport GOtv Football",
                     "DStv Now",
-                    "SuperSport GOtv Football"
+                    "Canal+ Sport 2"
                 ]
             },
             {
@@ -2208,9 +2729,9 @@
             {
                 "country": "C\u00f4te d'Ivoire",
                 "channels": [
+                    "SuperSport GOtv Football",
                     "Canal+ Sport 2",
-                    "DStv Now",
-                    "SuperSport GOtv Football"
+                    "DStv Now"
                 ]
             },
             {
@@ -2222,31 +2743,31 @@
             {
                 "country": "Djibouti",
                 "channels": [
-                    "Canal+ Sport 2",
+                    "SuperSport GOtv Football",
                     "DStv Now",
-                    "SuperSport GOtv Football"
+                    "Canal+ Sport 2"
                 ]
             },
             {
                 "country": "Equatorial Guinea",
                 "channels": [
-                    "Canal+ Sport 2",
                     "SuperSport GOtv Football",
+                    "Canal+ Sport 2",
                     "DStv Now"
                 ]
             },
             {
                 "country": "Eritrea",
                 "channels": [
-                    "DStv Now",
-                    "SuperSport GOtv Football"
+                    "SuperSport GOtv Football",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "Eswatini",
                 "channels": [
-                    "DStv Now",
-                    "SuperSport GOtv Football"
+                    "SuperSport GOtv Football",
+                    "DStv Now"
                 ]
             },
             {
@@ -2265,25 +2786,25 @@
             {
                 "country": "Gabon",
                 "channels": [
+                    "SuperSport GOtv Football",
                     "Canal+ Sport 2",
-                    "DStv Now",
-                    "SuperSport GOtv Football"
+                    "DStv Now"
                 ]
             },
             {
                 "country": "Gambia",
                 "channels": [
-                    "Canal+ Sport 2",
+                    "SuperSport GOtv Football",
                     "DStv Now",
-                    "SuperSport GOtv Football"
+                    "Canal+ Sport 2"
                 ]
             },
             {
                 "country": "Ghana",
                 "channels": [
+                    "SuperSport GOtv Football",
                     "Canal+ Sport 2",
-                    "DStv Now",
-                    "SuperSport GOtv Football"
+                    "DStv Now"
                 ]
             },
             {
@@ -2295,31 +2816,31 @@
             {
                 "country": "Guinea",
                 "channels": [
-                    "Canal+ Sport 2",
+                    "SuperSport GOtv Football",
                     "DStv Now",
-                    "SuperSport GOtv Football"
+                    "Canal+ Sport 2"
                 ]
             },
             {
                 "country": "Guinea-Bissau",
                 "channels": [
-                    "Canal+ Sport 2",
+                    "SuperSport GOtv Football",
                     "DStv Now",
-                    "SuperSport GOtv Football"
+                    "Canal+ Sport 2"
                 ]
             },
             {
                 "country": "Kenya",
                 "channels": [
-                    "DStv Now",
-                    "SuperSport GOtv Football"
+                    "SuperSport GOtv Football",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "Lesotho",
                 "channels": [
-                    "DStv Now",
-                    "SuperSport GOtv Football"
+                    "SuperSport GOtv Football",
+                    "DStv Now"
                 ]
             },
             {
@@ -2339,23 +2860,23 @@
             {
                 "country": "Malawi",
                 "channels": [
-                    "DStv Now",
-                    "SuperSport GOtv Football"
+                    "SuperSport GOtv Football",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "Mali",
                 "channels": [
-                    "Canal+ Sport 2",
                     "SuperSport GOtv Football",
+                    "Canal+ Sport 2",
                     "DStv Now"
                 ]
             },
             {
                 "country": "Mauritania",
                 "channels": [
-                    "Canal+ Sport 2",
                     "SuperSport GOtv Football",
+                    "Canal+ Sport 2",
                     "DStv Now"
                 ]
             },
@@ -2382,31 +2903,37 @@
             {
                 "country": "Namibia",
                 "channels": [
-                    "DStv Now",
-                    "SuperSport GOtv Football"
+                    "SuperSport GOtv Football",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "Niger",
                 "channels": [
-                    "Canal+ Sport 2",
+                    "SuperSport GOtv Football",
                     "DStv Now",
-                    "SuperSport GOtv Football"
+                    "Canal+ Sport 2"
                 ]
             },
             {
                 "country": "Nigeria",
                 "channels": [
-                    "Canal+ Sport 2",
                     "SuperSport GOtv Football",
+                    "Canal+ Sport 2",
                     "DStv Now"
                 ]
             },
             {
                 "country": "Norway",
                 "channels": [
-                    "Viaplay",
-                    "V Sport 1"
+                    "V Sport 1",
+                    "Viaplay"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
                 ]
             },
             {
@@ -2418,8 +2945,8 @@
             {
                 "country": "Rwanda",
                 "channels": [
-                    "Canal+ Sport 2",
-                    "SuperSport GOtv Football"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2"
                 ]
             },
             {
@@ -2437,23 +2964,23 @@
             {
                 "country": "Senegal",
                 "channels": [
-                    "Canal+ Sport 2",
                     "SuperSport GOtv Football",
+                    "Canal+ Sport 2",
                     "DStv Now"
                 ]
             },
             {
                 "country": "Seychelles",
                 "channels": [
-                    "DStv Now",
-                    "SuperSport GOtv Football"
+                    "SuperSport GOtv Football",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "Sierra Leone",
                 "channels": [
-                    "Canal+ Sport 2",
                     "SuperSport GOtv Football",
+                    "Canal+ Sport 2",
                     "DStv Now"
                 ]
             },
@@ -2498,29 +3025,35 @@
             {
                 "country": "Tanzania, United Republic of",
                 "channels": [
-                    "DStv Now",
-                    "SuperSport GOtv Football"
+                    "SuperSport GOtv Football",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "Togo",
                 "channels": [
-                    "Canal+ Sport 2",
+                    "SuperSport GOtv Football",
                     "DStv Now",
-                    "SuperSport GOtv Football"
+                    "Canal+ Sport 2"
                 ]
             },
             {
                 "country": "Uganda",
                 "channels": [
-                    "DStv Now",
-                    "SuperSport GOtv Football"
+                    "SuperSport GOtv Football",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "United States",
                 "channels": [
                     "Prime Video"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
                 ]
             },
             {
@@ -2532,8 +3065,8 @@
             {
                 "country": "Zimbabwe",
                 "channels": [
-                    "DStv Now",
-                    "SuperSport GOtv Football"
+                    "SuperSport GOtv Football",
+                    "DStv Now"
                 ]
             }
         ]
@@ -2555,14 +3088,20 @@
             {
                 "country": "Algeria",
                 "channels": [
-                    "beIN Sports Xtra",
-                    "TV5Monde Europe"
+                    "TV5Monde Europe",
+                    "beIN Sports Xtra"
                 ]
             },
             {
                 "country": "Andorra",
                 "channels": [
                     "TV5Monde Europe"
+                ]
+            },
+            {
+                "country": "Argentina",
+                "channels": [
+                    "Disney+ Premium Argentina"
                 ]
             },
             {
@@ -2574,8 +3113,8 @@
             {
                 "country": "Austria",
                 "channels": [
-                    "Prime Video",
-                    "TV5Monde Europe"
+                    "TV5Monde Europe",
+                    "Prime Video"
                 ]
             },
             {
@@ -2599,8 +3138,8 @@
             {
                 "country": "Belgium",
                 "channels": [
-                    "Prime Video",
-                    "TV5Monde Europe"
+                    "TV5Monde Europe",
+                    "Prime Video"
                 ]
             },
             {
@@ -2687,6 +3226,12 @@
                 "country": "Chile",
                 "channels": [
                     "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
                 ]
             },
             {
@@ -2989,6 +3534,12 @@
                 ]
             },
             {
+                "country": "Paraguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
+                ]
+            },
+            {
                 "country": "Peru",
                 "channels": [
                     "Disney+ Premium Chile"
@@ -2997,8 +3548,8 @@
             {
                 "country": "Poland",
                 "channels": [
-                    "TV5Monde Europe",
-                    "Eleven Sports 2 HD"
+                    "Eleven Sports 2 HD",
+                    "TV5Monde Europe"
                 ]
             },
             {
@@ -3070,8 +3621,8 @@
             {
                 "country": "Spain",
                 "channels": [
-                    "Prime Video",
-                    "TV5Monde Europe"
+                    "TV5Monde Europe",
+                    "Prime Video"
                 ]
             },
             {
@@ -3143,6 +3694,12 @@
                 ]
             },
             {
+                "country": "Uruguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
+                ]
+            },
+            {
                 "country": "Yemen",
                 "channels": [
                     "beIN Sports Xtra"
@@ -3175,6 +3732,12 @@
                 "channels": [
                     "YouTube - Caz\u00e9TV",
                     "Prime Video"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
                 ]
             },
             {
@@ -3228,6 +3791,12 @@
                 ]
             },
             {
+                "country": "China",
+                "channels": [
+                    "Migu"
+                ]
+            },
+            {
                 "country": "Spain",
                 "channels": [
                     "Prime Video"
@@ -3269,6 +3838,12 @@
                 ]
             },
             {
+                "country": "China",
+                "channels": [
+                    "Migu"
+                ]
+            },
+            {
                 "country": "Spain",
                 "channels": [
                     "Prime Video"
@@ -3290,6 +3865,12 @@
         "league": "Bundesliga",
         "venue": "Voith-Arena",
         "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "Disney+ Premium Argentina"
+                ]
+            },
             {
                 "country": "Austria",
                 "channels": [
@@ -3315,6 +3896,12 @@
                 ]
             },
             {
+                "country": "China",
+                "channels": [
+                    "Migu"
+                ]
+            },
+            {
                 "country": "Denmark",
                 "channels": [
                     "Viaplay"
@@ -3323,8 +3910,8 @@
             {
                 "country": "Germany",
                 "channels": [
-                    "Sky Bundesliga HD 4",
-                    "Sky Go"
+                    "Sky Go",
+                    "Sky Bundesliga HD 4"
                 ]
             },
             {
@@ -3340,9 +3927,21 @@
                 ]
             },
             {
+                "country": "Malaysia",
+                "channels": [
+                    "beIN SPORTS MAX Malaysia"
+                ]
+            },
+            {
                 "country": "Norway",
                 "channels": [
                     "Viaplay"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
                 ]
             },
             {
@@ -3362,6 +3961,12 @@
                 "channels": [
                     "Sky Bundesliga HD 4"
                 ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
+                ]
             }
         ]
     },
@@ -3377,6 +3982,12 @@
                 "country": "Andorra",
                 "channels": [
                     "beIN SPORTS 2"
+                ]
+            },
+            {
+                "country": "Argentina",
+                "channels": [
+                    "Disney+ Premium Argentina"
                 ]
             },
             {
@@ -3401,9 +4012,9 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Canal Goat",
+                    "Xsports",
                     "OneFootball",
-                    "Xsports"
+                    "Canal Goat"
                 ]
             },
             {
@@ -3416,6 +4027,12 @@
                 "country": "Chile",
                 "channels": [
                     "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
                 ]
             },
             {
@@ -3480,6 +4097,13 @@
                 ]
             },
             {
+                "country": "Malaysia",
+                "channels": [
+                    "sooka",
+                    "beIN Sports 3 Malaysia"
+                ]
+            },
+            {
                 "country": "Monaco",
                 "channels": [
                     "beIN SPORTS 2"
@@ -3505,6 +4129,12 @@
                 ]
             },
             {
+                "country": "Paraguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
+                ]
+            },
+            {
                 "country": "Peru",
                 "channels": [
                     "Disney+ Premium Chile"
@@ -3514,6 +4144,12 @@
                 "country": "Poland",
                 "channels": [
                     "Eleven Sports 1 HD"
+                ]
+            },
+            {
+                "country": "Singapore",
+                "channels": [
+                    "beIN Sports 3 Malaysia"
                 ]
             },
             {
@@ -3528,6 +4164,12 @@
                 "channels": [
                     "Sky Bundesliga HD 1"
                 ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
+                ]
             }
         ]
     },
@@ -3539,6 +4181,12 @@
         "league": "Bundesliga",
         "venue": "Red Bull Arena",
         "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "Disney+ Premium Argentina"
+                ]
+            },
             {
                 "country": "Bolivia, Plurinational State of",
                 "channels": [
@@ -3559,6 +4207,24 @@
                 ]
             },
             {
+                "country": "China",
+                "channels": [
+                    "Migu"
+                ]
+            },
+            {
+                "country": "Malaysia",
+                "channels": [
+                    "beIN SPORTS MAX Malaysia"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
+                ]
+            },
+            {
                 "country": "Peru",
                 "channels": [
                     "Disney+ Premium Chile"
@@ -3568,6 +4234,12 @@
                 "country": "Poland",
                 "channels": [
                     "Eleven Sports 2 HD"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
                 ]
             }
         ]
@@ -3584,6 +4256,12 @@
                 "country": "Andorra",
                 "channels": [
                     "beIN Sports MAX 6"
+                ]
+            },
+            {
+                "country": "Argentina",
+                "channels": [
+                    "Disney+ Premium Argentina"
                 ]
             },
             {
@@ -3612,6 +4290,12 @@
                 ]
             },
             {
+                "country": "China",
+                "channels": [
+                    "Migu"
+                ]
+            },
+            {
                 "country": "Denmark",
                 "channels": [
                     "Viaplay"
@@ -3626,8 +4310,8 @@
             {
                 "country": "Germany",
                 "channels": [
-                    "Sky Bundesliga HD 3",
-                    "Sky Go"
+                    "Sky Go",
+                    "Sky Bundesliga HD 3"
                 ]
             },
             {
@@ -3643,9 +4327,21 @@
                 ]
             },
             {
+                "country": "Malaysia",
+                "channels": [
+                    "beIN SPORTS MAX Malaysia"
+                ]
+            },
+            {
                 "country": "Norway",
                 "channels": [
                     "Viaplay"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
                 ]
             },
             {
@@ -3665,6 +4361,12 @@
                 "channels": [
                     "Sky Bundesliga HD 3"
                 ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
+                ]
             }
         ]
     },
@@ -3677,11 +4379,17 @@
         "venue": "Millerntor-Stadion",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "Disney+ Premium Argentina"
+                ]
+            },
+            {
                 "country": "Austria",
                 "channels": [
-                    "Prime Video",
                     "Sky Go",
-                    "Sky Sport Bundesliga"
+                    "Sky Sport Bundesliga",
+                    "Prime Video"
                 ]
             },
             {
@@ -3713,9 +4421,9 @@
                 "channels": [
                     "Xsports",
                     "YouTube - Caz\u00e9TV",
-                    "OneFootball",
+                    "SportyNet",
                     "Prime Video",
-                    "SportyNet"
+                    "OneFootball"
                 ]
             },
             {
@@ -3728,6 +4436,12 @@
                 "country": "Chile",
                 "channels": [
                     "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
                 ]
             },
             {
@@ -3745,8 +4459,8 @@
             {
                 "country": "Germany",
                 "channels": [
-                    "Sky Sport Top Event",
                     "Sky Go",
+                    "Sky Sport Top Event",
                     "Sky Bundesliga HD 1"
                 ]
             },
@@ -3759,7 +4473,9 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Sky Sports Football"
+                    "Sky Sports Football",
+                    "Sky Go UK",
+                    "NOW TV UK"
                 ]
             },
             {
@@ -3784,6 +4500,12 @@
                 "country": "Pakistan",
                 "channels": [
                     "tapmad"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
                 ]
             },
             {
@@ -3826,6 +4548,8 @@
             {
                 "country": "United Kingdom",
                 "channels": [
+                    "NOW TV UK",
+                    "Sky Go UK",
                     "Sky Sports Football"
                 ]
             },
@@ -3833,6 +4557,12 @@
                 "country": "United States",
                 "channels": [
                     "Prime Video"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
                 ]
             }
         ]
@@ -3860,9 +4590,15 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "YouTube - Caz\u00e9TV",
                     "OneFootball",
+                    "YouTube - Caz\u00e9TV",
                     "Prime Video"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
                 ]
             },
             {
@@ -3890,9 +4626,15 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Canal Goat",
                     "OneFootball",
-                    "RedeTV!"
+                    "RedeTV!",
+                    "Canal Goat"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
                 ]
             }
         ]
@@ -3909,6 +4651,12 @@
                 "country": "Brazil",
                 "channels": [
                     "OneFootball"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
                 ]
             }
         ]
@@ -3942,6 +4690,7 @@
             {
                 "country": "Ireland",
                 "channels": [
+                    "Premier Sports Player",
                     "Premier Sports 1 HD"
                 ]
             },
@@ -3954,6 +4703,7 @@
             {
                 "country": "United Kingdom",
                 "channels": [
+                    "Premier Sports Player",
                     "Premier Sports 1 HD"
                 ]
             }
@@ -4119,8 +4869,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "Xsports"
+                    "Xsports",
+                    "Disney+"
                 ]
             },
             {
@@ -4191,6 +4941,12 @@
                 "country": "Angola",
                 "channels": [
                     "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Argentina",
+                "channels": [
+                    "Disney+ Premium Argentina"
                 ]
             },
             {
@@ -4398,6 +5154,12 @@
                 ]
             },
             {
+                "country": "Paraguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
+                ]
+            },
+            {
                 "country": "Peru",
                 "channels": [
                     "Disney+ Premium Chile"
@@ -4461,6 +5223,12 @@
                 "country": "Uganda",
                 "channels": [
                     "ESPN 2 Africa"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "Disney+ Premium Argentina"
                 ]
             },
             {
@@ -4534,8 +5302,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 2",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 2"
                 ]
             },
             {
@@ -5118,6 +5886,12 @@
         "venue": "Alberto Jose Armando",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "TNT Sports Argentina"
+                ]
+            },
+            {
                 "country": "Bolivia, Plurinational State of",
                 "channels": [
                     "Disney+ Premium Chile"
@@ -5584,8 +6358,8 @@
             {
                 "country": "United States",
                 "channels": [
-                    "Fox",
-                    "Fox Deportes"
+                    "Fox Deportes",
+                    "Fox"
                 ]
             }
         ]
@@ -5624,8 +6398,8 @@
             {
                 "country": "United States",
                 "channels": [
-                    "Fox",
-                    "Fox Deportes"
+                    "Fox Deportes",
+                    "Fox"
                 ]
             }
         ]
@@ -6419,6 +7193,9 @@
                 "country": "Ireland",
                 "channels": [
                     "Sky Sports Main Event",
+                    "Sky Sports Ultra HD",
+                    "Sky Go UK",
+                    "NOW TV UK",
                     "Sky Sports Football"
                 ]
             },
@@ -6444,6 +7221,9 @@
                 "country": "United Kingdom",
                 "channels": [
                     "Sky Sports Main Event",
+                    "Sky Sports Ultra HD",
+                    "Sky Go UK",
+                    "NOW TV UK",
                     "Sky Sports Football"
                 ]
             },
@@ -6689,8 +7469,8 @@
             {
                 "country": "Sweden",
                 "channels": [
-                    "V Sport Extra",
-                    "Viaplay"
+                    "Viaplay",
+                    "V Sport Extra"
                 ]
             }
         ]
@@ -6740,8 +7520,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             },
             {
@@ -6853,8 +7633,8 @@
             {
                 "country": "Spain",
                 "channels": [
-                    "Arag\u00f3n TV",
-                    "TVG"
+                    "TVG",
+                    "Arag\u00f3n TV"
                 ]
             }
         ]
@@ -6933,8 +7713,8 @@
             {
                 "country": "Germany",
                 "channels": [
-                    "Sky Bundesliga HD 3",
-                    "Sky Go"
+                    "Sky Go",
+                    "Sky Bundesliga HD 3"
                 ]
             },
             {
@@ -7040,8 +7820,8 @@
             {
                 "country": "Germany",
                 "channels": [
-                    "Sky Bundesliga HD 4",
-                    "Sky Go"
+                    "Sky Go",
+                    "Sky Bundesliga HD 4"
                 ]
             },
             {
@@ -7254,10 +8034,10 @@
             {
                 "country": "Germany",
                 "channels": [
-                    "Sky Sport Top Event",
                     "Sky Go",
                     "Sky Sport Bundesliga UHD",
-                    "Sky Bundesliga HD 2"
+                    "Sky Bundesliga HD 2",
+                    "Sky Sport Top Event"
                 ]
             },
             {
@@ -7375,8 +8155,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             }
         ]
@@ -7408,8 +8188,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             }
         ]
@@ -7434,8 +8214,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             }
         ]
@@ -8001,7 +8781,14 @@
         "league_id": 649,
         "league": "Chinese Super League",
         "venue": "Tongliang Long Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15552484,
@@ -8010,7 +8797,14 @@
         "league_id": 649,
         "league": "Chinese Super League",
         "venue": "Guzhenkou University Sports Center",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15552486,
@@ -8019,7 +8813,15 @@
         "league_id": 649,
         "league": "Chinese Super League",
         "venue": "Zhengzhou Hanghai Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "China",
+                "channels": [
+                    "Migu",
+                    "Shandong TV Sports Channel"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15552487,
@@ -8028,7 +8830,15 @@
         "league_id": 649,
         "league": "Chinese Super League",
         "venue": "Shanghai Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "China",
+                "channels": [
+                    "Migu",
+                    "Shanghai TV Great Sports Channel"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15552488,
@@ -8037,7 +8847,14 @@
         "league_id": 649,
         "league": "Chinese Super League",
         "venue": "TEDA Football Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15552489,
@@ -8046,7 +8863,14 @@
         "league_id": 649,
         "league": "Chinese Super League",
         "venue": "Beijing Workers' Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15552490,
@@ -8055,7 +8879,14 @@
         "league_id": 649,
         "league": "Chinese Super League",
         "venue": "Longquanyi Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15353008,
@@ -8502,8 +9333,8 @@
             {
                 "country": "Poland",
                 "channels": [
-                    "Canal+ Sport 3 HD",
-                    "Canal+ 4K Ultra HD"
+                    "Canal+ 4K Ultra HD",
+                    "Canal+ Sport 3 HD"
                 ]
             }
         ]
@@ -8578,7 +9409,20 @@
         "league_id": 24,
         "league": "League One",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports+"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14061233,
@@ -8587,7 +9431,20 @@
         "league_id": 24,
         "league": "League One",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports+"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14061221,
@@ -8677,7 +9534,20 @@
         "league_id": 25,
         "league": "League Two",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports+"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14060750,
@@ -8686,7 +9556,20 @@
         "league_id": 25,
         "league": "League Two",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports+"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14060808,
@@ -11007,7 +11890,14 @@
         "league_id": 782,
         "league": "Chinese League 1",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15657786,
@@ -11016,7 +11906,14 @@
         "league_id": 782,
         "league": "Chinese League 1",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15657784,
@@ -11025,7 +11922,14 @@
         "league_id": 782,
         "league": "Chinese League 1",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15657787,
@@ -11034,7 +11938,14 @@
         "league_id": 782,
         "league": "Chinese League 1",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15657788,
@@ -11043,7 +11954,14 @@
         "league_id": 782,
         "league": "Chinese League 1",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15657789,
@@ -11052,7 +11970,14 @@
         "league_id": 782,
         "league": "Chinese League 1",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15415220,
@@ -13068,6 +13993,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 15972704,
+        "kickoff": 1776020400,
+        "fixture": "MAS de F\u00e8s vs Wydad Casablanca",
+        "league_id": 937,
+        "league": "Botola Pro",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15793975,
         "kickoff": 1775914200,
         "fixture": "FK Sileks Kratovo vs Bashkimi 1947",
@@ -13096,15 +14030,15 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "BBC Sport Web",
-                    "BBC iPlayer"
+                    "BBC iPlayer",
+                    "BBC Sport Web"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "BBC Sport Web",
-                    "BBC iPlayer"
+                    "BBC iPlayer",
+                    "BBC Sport Web"
                 ]
             }
         ]
@@ -13408,7 +14342,7 @@
     },
     {
         "match_id": 15703699,
-        "kickoff": 1775991600,
+        "kickoff": 1775997000,
         "fixture": "Aguilas-UMak FC vs Kaya-Iloilo",
         "league_id": 1654,
         "league": "Philippines Football League",
@@ -14095,16 +15029,16 @@
                 "country": "Ireland",
                 "channels": [
                     "BBC Sport Web",
-                    "BBC Alba",
-                    "BBC iPlayer"
+                    "BBC iPlayer",
+                    "BBC Alba"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "BBC Alba",
+                    "BBC iPlayer",
                     "BBC Sport Web",
-                    "BBC iPlayer"
+                    "BBC Alba"
                 ]
             }
         ]
@@ -14859,8 +15793,8 @@
             {
                 "country": "United States",
                 "channels": [
-                    "TNT",
-                    "Peacock"
+                    "Peacock",
+                    "TNT"
                 ]
             }
         ]
