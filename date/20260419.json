@@ -13,6 +13,12 @@
                     "Xsports",
                     "Disney+"
                 ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "TNT Sports 1"
+                ]
             }
         ]
     },
@@ -110,8 +116,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "OneFootball",
-                    "Disney+"
+                    "Disney+",
+                    "OneFootball"
                 ]
             }
         ]
@@ -127,8 +133,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "OneFootball",
-                    "Disney+"
+                    "Disney+",
+                    "OneFootball"
                 ]
             }
         ]
@@ -144,9 +150,9 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "OneFootball",
                     "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "OneFootball"
                 ]
             }
         ]
@@ -212,8 +218,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "OneFootball",
-                    "Disney+"
+                    "Disney+",
+                    "OneFootball"
                 ]
             }
         ]
@@ -229,9 +235,9 @@
             {
                 "country": "Brazil",
                 "channels": [
+                    "Disney+",
                     "ESPN 4",
-                    "OneFootball",
-                    "Disney+"
+                    "OneFootball"
                 ]
             }
         ]
@@ -247,8 +253,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "OneFootball",
-                    "Disney+"
+                    "Disney+",
+                    "OneFootball"
                 ]
             }
         ]
@@ -264,9 +270,9 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "OneFootball",
                     "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "OneFootball"
                 ]
             }
         ]
@@ -294,8 +300,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Prime Video",
-                    "YouTube - Caz\u00e9TV"
+                    "YouTube - Caz\u00e9TV",
+                    "Prime Video"
                 ]
             },
             {
@@ -335,8 +341,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Prime Video",
-                    "YouTube - Caz\u00e9TV"
+                    "YouTube - Caz\u00e9TV",
+                    "Prime Video"
                 ]
             },
             {
@@ -376,8 +382,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Prime Video",
-                    "YouTube - Caz\u00e9TV"
+                    "YouTube - Caz\u00e9TV",
+                    "Prime Video"
                 ]
             },
             {
@@ -453,8 +459,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Prime Video",
-                    "YouTube - Caz\u00e9TV"
+                    "YouTube - Caz\u00e9TV",
+                    "Prime Video"
                 ]
             },
             {
@@ -542,10 +548,10 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Prime Video",
-                    "OneFootball",
                     "Xsports",
-                    "YouTube - Caz\u00e9TV"
+                    "YouTube - Caz\u00e9TV",
+                    "Prime Video",
+                    "OneFootball"
                 ]
             },
             {
@@ -574,6 +580,18 @@
                 "country": "Brazil",
                 "channels": [
                     "OneFootball"
+                ]
+            },
+            {
+                "country": "Germany",
+                "channels": [
+                    "Sky Bundesliga HD 1"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "Sky Bundesliga HD 1"
                 ]
             }
         ]
@@ -637,9 +655,15 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 4",
                     "Xsports",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 4"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "ETB 1"
                 ]
             }
         ]
@@ -812,8 +836,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 4",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 4"
                 ]
             }
         ]
@@ -872,8 +896,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 4",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 4"
                 ]
             }
         ]
@@ -1060,8 +1084,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 4",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 4"
                 ]
             }
         ]
@@ -1095,8 +1119,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 4",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 4"
                 ]
             }
         ]
@@ -1228,9 +1252,9 @@
         "tv_channels": []
     },
     {
-        "match_id": 15986044,
-        "kickoff": 1776524400,
-        "fixture": "FK IMT Beograd vs FK Mladost Lu\u010dani",
+        "match_id": 15986023,
+        "kickoff": 1776607200,
+        "fixture": "FK TSC Ba\u010dka Topola vs FK Napredak Kru\u0161evac",
         "league_id": 210,
         "league": "Mozzart Bet Superliga, Relegation Round",
         "venue": "TBA",
@@ -1238,7 +1262,7 @@
     },
     {
         "match_id": 15986045,
-        "kickoff": 1776524400,
+        "kickoff": 1776612600,
         "fixture": "FK Javor Ivanjica vs FK Spartak Subotica",
         "league_id": 210,
         "league": "Mozzart Bet Superliga, Relegation Round",
@@ -1247,7 +1271,7 @@
     },
     {
         "match_id": 15986027,
-        "kickoff": 1776524400,
+        "kickoff": 1776614400,
         "fixture": "FK Radni\u010dki 1923 vs FK Radni\u010dki Ni\u0161",
         "league_id": 210,
         "league": "Mozzart Bet Superliga, Relegation Round",
@@ -1255,9 +1279,9 @@
         "tv_channels": []
     },
     {
-        "match_id": 15986023,
-        "kickoff": 1776524400,
-        "fixture": "FK TSC Ba\u010dka Topola vs FK Napredak Kru\u0161evac",
+        "match_id": 15986044,
+        "kickoff": 1776621600,
+        "fixture": "FK IMT Beograd vs FK Mladost Lu\u010dani",
         "league_id": 210,
         "league": "Mozzart Bet Superliga, Relegation Round",
         "venue": "TBA",
@@ -1750,8 +1774,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Xsports",
                     "Disney+",
+                    "Xsports",
                     "ESPN"
                 ]
             }
@@ -1777,8 +1801,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 4",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 4"
                 ]
             }
         ]
@@ -2771,7 +2795,20 @@
         "league_id": 192,
         "league": "Premier Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOI TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "LOI TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15260757,
@@ -4634,7 +4671,14 @@
         "league_id": 47,
         "league": "Betinia Liga, Relegation Round",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Denmark",
+                "channels": [
+                    "Viaplay Sport News"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15991230,
@@ -4889,8 +4933,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 4",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 4"
                 ]
             }
         ]
@@ -5457,15 +5501,6 @@
         "match_id": 14103898,
         "kickoff": 1776600000,
         "fixture": "FC Eilenburg vs Berliner FC Dynamo",
-        "league_id": 1083,
-        "league": "Regionalliga Northeast",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14103892,
-        "kickoff": 1776600000,
-        "fixture": "Hertha Zehlendorf vs Chemnitzer FC",
         "league_id": 1083,
         "league": "Regionalliga Northeast",
         "venue": "TBA",
