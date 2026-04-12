@@ -83,12 +83,12 @@
         ]
     },
     {
-        "match_id": 13980103,
-        "kickoff": 1776443400,
-        "fixture": "Sassuolo vs Como",
-        "league_id": 23,
-        "league": "Serie A",
-        "venue": "Mapei Stadium",
+        "match_id": 14025030,
+        "kickoff": 1776603600,
+        "fixture": "Aston Villa vs Sunderland",
+        "league_id": 17,
+        "league": "Premier League",
+        "venue": "Villa Park",
         "tv_channels": [
             {
                 "country": "Brazil",
@@ -100,43 +100,53 @@
         ]
     },
     {
-        "match_id": 13981744,
-        "kickoff": 1776451500,
-        "fixture": "Inter vs Cagliari",
-        "league_id": 23,
-        "league": "Serie A",
-        "venue": "San Siro/Giuseppe Meazza",
+        "match_id": 14025035,
+        "kickoff": 1776603600,
+        "fixture": "Everton vs Liverpool",
+        "league_id": 17,
+        "league": "Premier League",
+        "venue": "Hill Dickinson Stadium",
         "tv_channels": [
-            {
-                "country": "Austria",
-                "channels": [
-                    "Prime Video"
-                ]
-            },
-            {
-                "country": "Belgium",
-                "channels": [
-                    "Prime Video"
-                ]
-            },
             {
                 "country": "Brazil",
                 "channels": [
-                    "Prime Video",
-                    "YouTube - Caz\u00e9TV",
+                    "OneFootball",
                     "Disney+"
                 ]
-            },
+            }
+        ]
+    },
+    {
+        "match_id": 14025041,
+        "kickoff": 1776603600,
+        "fixture": "Nottingham Forest vs Burnley",
+        "league_id": 17,
+        "league": "Premier League",
+        "venue": "City Ground",
+        "tv_channels": [
             {
-                "country": "Spain",
+                "country": "Brazil",
                 "channels": [
-                    "Prime Video"
+                    "OneFootball",
+                    "Disney+"
                 ]
-            },
+            }
+        ]
+    },
+    {
+        "match_id": 14025039,
+        "kickoff": 1776612600,
+        "fixture": "Manchester City vs Arsenal",
+        "league_id": 17,
+        "league": "Premier League",
+        "venue": "Etihad Stadium",
+        "tv_channels": [
             {
-                "country": "United States",
+                "country": "Brazil",
                 "channels": [
-                    "Prime Video"
+                    "OneFootball",
+                    "Disney+",
+                    "ESPN"
                 ]
             }
         ]
@@ -209,460 +219,54 @@
         ]
     },
     {
-        "match_id": 14167969,
-        "kickoff": 1776451500,
-        "fixture": "RC Lens vs Toulouse",
-        "league_id": 34,
-        "league": "Ligue 1",
-        "venue": "Stade Bollaert-Delelis",
+        "match_id": 13980115,
+        "kickoff": 1776603600,
+        "fixture": "Hellas Verona vs Milan",
+        "league_id": 23,
+        "league": "Serie A",
+        "venue": "Stadio Marcantonio Bentegodi",
         "tv_channels": [
-            {
-                "country": "Angola",
-                "channels": [
-                    "SuperSport GOtv Football",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Austria",
-                "channels": [
-                    "Prime Video"
-                ]
-            },
-            {
-                "country": "Belgium",
-                "channels": [
-                    "Prime Video"
-                ]
-            },
-            {
-                "country": "Benin",
-                "channels": [
-                    "SuperSport Maximo 3",
-                    "SuperSport GOtv Football",
-                    "Canal+ Sport 2"
-                ]
-            },
-            {
-                "country": "Botswana",
-                "channels": [
-                    "SuperSport Maximo 3",
-                    "SuperSport GOtv Football",
-                    "DStv Now"
-                ]
-            },
             {
                 "country": "Brazil",
                 "channels": [
-                    "Prime Video",
-                    "YouTube - Caz\u00e9TV"
+                    "ESPN 4",
+                    "OneFootball",
+                    "Disney+"
                 ]
-            },
+            }
+        ]
+    },
+    {
+        "match_id": 13980100,
+        "kickoff": 1776614400,
+        "fixture": "Pisa vs Genoa",
+        "league_id": 23,
+        "league": "Serie A",
+        "venue": "Arena Garibaldi-Romeo Anconetani",
+        "tv_channels": [
             {
-                "country": "Burkina Faso",
+                "country": "Brazil",
                 "channels": [
-                    "DStv Now",
-                    "SuperSport Maximo 3",
-                    "Canal+ Sport 2",
-                    "SuperSport GOtv Football"
+                    "OneFootball",
+                    "Disney+"
                 ]
-            },
+            }
+        ]
+    },
+    {
+        "match_id": 13980098,
+        "kickoff": 1776624300,
+        "fixture": "Juventus vs Bologna",
+        "league_id": 23,
+        "league": "Serie A",
+        "venue": "Allianz Stadium",
+        "tv_channels": [
             {
-                "country": "Burundi",
+                "country": "Brazil",
                 "channels": [
-                    "SuperSport GOtv Football",
-                    "SuperSport Maximo 3",
-                    "Canal+ Sport 2",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Cabo Verde",
-                "channels": [
-                    "Canal+ Sport 2",
-                    "SuperSport Maximo 3",
-                    "SuperSport GOtv Football",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Cameroon",
-                "channels": [
-                    "SuperSport Maximo 3",
-                    "Canal+ Sport 2",
-                    "SuperSport GOtv Football",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Central African Republic",
-                "channels": [
-                    "SuperSport Maximo 3",
-                    "SuperSport GOtv Football",
-                    "Canal+ Sport 2"
-                ]
-            },
-            {
-                "country": "Chad",
-                "channels": [
-                    "DStv Now",
-                    "SuperSport Maximo 3",
-                    "Canal+ Sport 2",
-                    "SuperSport GOtv Football"
-                ]
-            },
-            {
-                "country": "Comoros",
-                "channels": [
-                    "SuperSport Maximo 3",
-                    "SuperSport GOtv Football"
-                ]
-            },
-            {
-                "country": "Congo",
-                "channels": [
-                    "DStv Now",
-                    "SuperSport Maximo 3",
-                    "SuperSport GOtv Football",
-                    "Canal+ Sport 2"
-                ]
-            },
-            {
-                "country": "Congo, The Democratic Republic of the",
-                "channels": [
-                    "Canal+ Sport 2",
-                    "SuperSport Maximo 3",
-                    "SuperSport GOtv Football",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "C\u00f4te d'Ivoire",
-                "channels": [
-                    "SuperSport GOtv Football",
-                    "SuperSport Maximo 3",
-                    "Canal+ Sport 2",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Djibouti",
-                "channels": [
-                    "SuperSport Maximo 3",
-                    "Canal+ Sport 2",
-                    "SuperSport GOtv Football",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Equatorial Guinea",
-                "channels": [
-                    "DStv Now",
-                    "SuperSport Maximo 3",
-                    "SuperSport GOtv Football",
-                    "Canal+ Sport 2"
-                ]
-            },
-            {
-                "country": "Eritrea",
-                "channels": [
-                    "SuperSport Maximo 3",
-                    "SuperSport GOtv Football",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Eswatini",
-                "channels": [
-                    "SuperSport Maximo 3",
-                    "SuperSport GOtv Football",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Ethiopia",
-                "channels": [
-                    "SuperSport Maximo 3",
-                    "SuperSport GOtv Football",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Gabon",
-                "channels": [
-                    "SuperSport GOtv Football",
-                    "SuperSport Maximo 3",
-                    "Canal+ Sport 2",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Gambia",
-                "channels": [
-                    "SuperSport GOtv Football",
-                    "SuperSport Maximo 3",
-                    "Canal+ Sport 2",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Ghana",
-                "channels": [
-                    "SuperSport GOtv Football",
-                    "SuperSport Maximo 3",
-                    "Canal+ Sport 2",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Guinea",
-                "channels": [
-                    "SuperSport GOtv Football",
-                    "SuperSport Maximo 3",
-                    "Canal+ Sport 2",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Guinea-Bissau",
-                "channels": [
-                    "SuperSport GOtv Football",
-                    "SuperSport Maximo 3",
-                    "Canal+ Sport 2",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Kenya",
-                "channels": [
-                    "SuperSport Maximo 3",
-                    "SuperSport GOtv Football",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Lesotho",
-                "channels": [
-                    "SuperSport Maximo 3",
-                    "SuperSport GOtv Football",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Liberia",
-                "channels": [
-                    "SuperSport Maximo 3",
-                    "SuperSport GOtv Football",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Madagascar",
-                "channels": [
-                    "SuperSport Maximo 3",
-                    "SuperSport GOtv Football",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Malawi",
-                "channels": [
-                    "SuperSport Maximo 3",
-                    "SuperSport GOtv Football",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Mali",
-                "channels": [
-                    "DStv Now",
-                    "SuperSport Maximo 3",
-                    "Canal+ Sport 2",
-                    "SuperSport GOtv Football"
-                ]
-            },
-            {
-                "country": "Mauritania",
-                "channels": [
-                    "DStv Now",
-                    "SuperSport Maximo 3",
-                    "SuperSport GOtv Football",
-                    "Canal+ Sport 2"
-                ]
-            },
-            {
-                "country": "Mauritius",
-                "channels": [
-                    "SuperSport Maximo 3",
-                    "SuperSport GOtv Football",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Mayotte",
-                "channels": [
-                    "SuperSport Maximo 3",
-                    "SuperSport GOtv Football"
-                ]
-            },
-            {
-                "country": "Mozambique",
-                "channels": [
-                    "SuperSport Maximo 3",
-                    "SuperSport GOtv Football",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Namibia",
-                "channels": [
-                    "SuperSport Maximo 3",
-                    "SuperSport GOtv Football",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Niger",
-                "channels": [
-                    "Canal+ Sport 2",
-                    "SuperSport Maximo 3",
-                    "SuperSport GOtv Football",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Nigeria",
-                "channels": [
-                    "DStv Now",
-                    "SuperSport Maximo 3",
-                    "Canal+ Sport 2",
-                    "SuperSport GOtv Football"
-                ]
-            },
-            {
-                "country": "Rwanda",
-                "channels": [
-                    "SuperSport Maximo 3",
-                    "SuperSport GOtv Football",
-                    "Canal+ Sport 2"
-                ]
-            },
-            {
-                "country": "R\u00e9union",
-                "channels": [
-                    "SuperSport Maximo 3",
-                    "SuperSport GOtv Football"
-                ]
-            },
-            {
-                "country": "Sao Tome and Principe",
-                "channels": [
-                    "SuperSport GOtv Football"
-                ]
-            },
-            {
-                "country": "Senegal",
-                "channels": [
-                    "DStv Now",
-                    "SuperSport Maximo 3",
-                    "SuperSport GOtv Football",
-                    "Canal+ Sport 2"
-                ]
-            },
-            {
-                "country": "Seychelles",
-                "channels": [
-                    "SuperSport Maximo 3",
-                    "SuperSport GOtv Football",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Sierra Leone",
-                "channels": [
-                    "DStv Now",
-                    "SuperSport Maximo 3",
-                    "SuperSport GOtv Football",
-                    "Canal+ Sport 2"
-                ]
-            },
-            {
-                "country": "Somalia",
-                "channels": [
-                    "SuperSport Maximo 3",
-                    "SuperSport GOtv Football"
-                ]
-            },
-            {
-                "country": "South Africa",
-                "channels": [
-                    "SuperSport Maximo 3",
-                    "SuperSport GOtv Football"
-                ]
-            },
-            {
-                "country": "South Sudan",
-                "channels": [
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Spain",
-                "channels": [
-                    "Prime Video"
-                ]
-            },
-            {
-                "country": "Sudan",
-                "channels": [
-                    "SuperSport Maximo 3",
-                    "SuperSport GOtv Football",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Tanzania, United Republic of",
-                "channels": [
-                    "SuperSport Maximo 3",
-                    "SuperSport GOtv Football",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Togo",
-                "channels": [
-                    "SuperSport GOtv Football",
-                    "SuperSport Maximo 3",
-                    "Canal+ Sport 2",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Uganda",
-                "channels": [
-                    "SuperSport Maximo 3",
-                    "SuperSport GOtv Football",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "United States",
-                "channels": [
-                    "Prime Video"
-                ]
-            },
-            {
-                "country": "Zambia",
-                "channels": [
-                    "SuperSport Maximo 3",
-                    "SuperSport GOtv Football"
-                ]
-            },
-            {
-                "country": "Zimbabwe",
-                "channels": [
-                    "SuperSport GOtv Football",
-                    "DStv Now"
+                    "OneFootball",
+                    "Disney+",
+                    "ESPN"
                 ]
             }
         ]
@@ -791,242 +395,78 @@
         ]
     },
     {
-        "match_id": 14065229,
-        "kickoff": 1776450600,
-        "fixture": "FC St. Pauli vs 1. FC K\u00f6ln",
-        "league_id": 35,
-        "league": "Bundesliga",
-        "venue": "Millerntor-Stadion",
+        "match_id": 14167971,
+        "kickoff": 1776603600,
+        "fixture": "AS Monaco vs Auxerre",
+        "league_id": 34,
+        "league": "Ligue 1",
+        "venue": "Stade Louis II",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14167968,
+        "kickoff": 1776611700,
+        "fixture": "Metz vs Paris FC",
+        "league_id": 34,
+        "league": "Ligue 1",
+        "venue": "Stade Saint Symphorien",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14167972,
+        "kickoff": 1776611700,
+        "fixture": "Nantes vs Stade Brestois",
+        "league_id": 34,
+        "league": "Ligue 1",
+        "venue": "Stade de la Beaujoire",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14167967,
+        "kickoff": 1776611700,
+        "fixture": "RC Strasbourg vs Stade Rennais",
+        "league_id": 34,
+        "league": "Ligue 1",
+        "venue": "Stade de la Meinau",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14167974,
+        "kickoff": 1776624300,
+        "fixture": "Paris Saint-Germain vs Olympique Lyonnais",
+        "league_id": 34,
+        "league": "Ligue 1",
+        "venue": "Parc des Princes",
         "tv_channels": [
             {
-                "country": "Benin",
+                "country": "Austria",
                 "channels": [
-                    "Canal+ Sport 1"
+                    "Prime Video"
+                ]
+            },
+            {
+                "country": "Belgium",
+                "channels": [
+                    "Prime Video"
                 ]
             },
             {
                 "country": "Brazil",
                 "channels": [
-                    "OneFootball"
+                    "Prime Video",
+                    "YouTube - Caz\u00e9TV"
                 ]
             },
             {
-                "country": "Burkina Faso",
+                "country": "Spain",
                 "channels": [
-                    "Canal+ Sport 1"
+                    "Prime Video"
                 ]
             },
             {
-                "country": "Burundi",
+                "country": "United States",
                 "channels": [
-                    "Startimes World Football",
-                    "Canal+ Sport 1"
-                ]
-            },
-            {
-                "country": "Cabo Verde",
-                "channels": [
-                    "Canal+ Sport 1"
-                ]
-            },
-            {
-                "country": "Cameroon",
-                "channels": [
-                    "StarTimes App",
-                    "Canal+ Sport 1"
-                ]
-            },
-            {
-                "country": "Central African Republic",
-                "channels": [
-                    "Canal+ Sport 1"
-                ]
-            },
-            {
-                "country": "Chad",
-                "channels": [
-                    "Canal+ Sport 1"
-                ]
-            },
-            {
-                "country": "Congo",
-                "channels": [
-                    "Startimes World Football",
-                    "StarTimes App",
-                    "Canal+ Sport 1"
-                ]
-            },
-            {
-                "country": "Congo, The Democratic Republic of the",
-                "channels": [
-                    "StarTimes App",
-                    "Canal+ Sport 1"
-                ]
-            },
-            {
-                "country": "C\u00f4te d'Ivoire",
-                "channels": [
-                    "Canal+ Sport 1"
-                ]
-            },
-            {
-                "country": "Djibouti",
-                "channels": [
-                    "Canal+ Sport 1"
-                ]
-            },
-            {
-                "country": "Equatorial Guinea",
-                "channels": [
-                    "Canal+ Sport 1"
-                ]
-            },
-            {
-                "country": "Gabon",
-                "channels": [
-                    "Canal+ Sport 1"
-                ]
-            },
-            {
-                "country": "Gambia",
-                "channels": [
-                    "Canal+ Sport 1"
-                ]
-            },
-            {
-                "country": "Ghana",
-                "channels": [
-                    "Startimes World Football",
-                    "StarTimes App",
-                    "Canal+ Sport 1"
-                ]
-            },
-            {
-                "country": "Guinea",
-                "channels": [
-                    "Startimes World Football",
-                    "StarTimes App",
-                    "Canal+ Sport 1"
-                ]
-            },
-            {
-                "country": "Guinea-Bissau",
-                "channels": [
-                    "Canal+ Sport 1"
-                ]
-            },
-            {
-                "country": "Kenya",
-                "channels": [
-                    "Startimes World Football",
-                    "StarTimes App"
-                ]
-            },
-            {
-                "country": "Lesotho",
-                "channels": [
-                    "Startimes World Football",
-                    "StarTimes App"
-                ]
-            },
-            {
-                "country": "Madagascar",
-                "channels": [
-                    "StarTimes App"
-                ]
-            },
-            {
-                "country": "Malawi",
-                "channels": [
-                    "StarTimes App"
-                ]
-            },
-            {
-                "country": "Mali",
-                "channels": [
-                    "Canal+ Sport 1"
-                ]
-            },
-            {
-                "country": "Mauritania",
-                "channels": [
-                    "Canal+ Sport 1"
-                ]
-            },
-            {
-                "country": "Mozambique",
-                "channels": [
-                    "Startimes World Football",
-                    "StarTimes App"
-                ]
-            },
-            {
-                "country": "Niger",
-                "channels": [
-                    "Canal+ Sport 1"
-                ]
-            },
-            {
-                "country": "Nigeria",
-                "channels": [
-                    "Startimes World Football",
-                    "StarTimes App",
-                    "Canal+ Sport 1"
-                ]
-            },
-            {
-                "country": "Rwanda",
-                "channels": [
-                    "Startimes World Football",
-                    "StarTimes App",
-                    "Canal+ Sport 1"
-                ]
-            },
-            {
-                "country": "Senegal",
-                "channels": [
-                    "Canal+ Sport 1"
-                ]
-            },
-            {
-                "country": "Sierra Leone",
-                "channels": [
-                    "Startimes World Football",
-                    "StarTimes App",
-                    "Canal+ Sport 1"
-                ]
-            },
-            {
-                "country": "South Africa",
-                "channels": [
-                    "Startimes World Football",
-                    "StarTimes App"
-                ]
-            },
-            {
-                "country": "Tanzania, United Republic of",
-                "channels": [
-                    "Startimes World Football",
-                    "StarTimes App"
-                ]
-            },
-            {
-                "country": "Togo",
-                "channels": [
-                    "Canal+ Sport 1"
-                ]
-            },
-            {
-                "country": "Uganda",
-                "channels": [
-                    "Startimes World Football",
-                    "StarTimes App"
-                ]
-            },
-            {
-                "country": "Zambia",
-                "channels": [
-                    "StarTimes App"
+                    "Prime Video"
                 ]
             }
         ]
@@ -1139,6 +579,54 @@
         ]
     },
     {
+        "match_id": 14065226,
+        "kickoff": 1776605400,
+        "fixture": "SC Freiburg vs 1. FC Heidenheim",
+        "league_id": 35,
+        "league": "Bundesliga",
+        "venue": "Europa-Park-Stadion",
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 14065222,
+        "kickoff": 1776612600,
+        "fixture": "FC Bayern M\u00fcnchen vs VfB Stuttgart",
+        "league_id": 35,
+        "league": "Bundesliga",
+        "venue": "Allianz Arena",
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 14065227,
+        "kickoff": 1776619800,
+        "fixture": "Borussia M'gladbach vs 1. FSV Mainz 05",
+        "league_id": 35,
+        "league": "Bundesliga",
+        "venue": "Borussia-Park",
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 15664537,
         "kickoff": 1776538800,
         "fixture": "Atl\u00e9tico Madrid vs Real Sociedad",
@@ -1224,20 +712,58 @@
         "tv_channels": []
     },
     {
-        "match_id": 14288860,
-        "kickoff": 1776455100,
-        "fixture": "Rio Ave vs AVS - Futebol SAD",
-        "league_id": 238,
-        "league": "Liga Portugal Betclic",
-        "venue": "Est\u00e1dio do Rio Ave FC",
-        "tv_channels": [
-            {
-                "country": "Brazil",
-                "channels": [
-                    "Xsports"
-                ]
-            }
-        ]
+        "match_id": 15235523,
+        "kickoff": 1776607200,
+        "fixture": "Internacional vs Mirassol",
+        "league_id": 325,
+        "league": "Brasileir\u00e3o Betano",
+        "venue": "Est\u00e1dio Beira-Rio",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15235524,
+        "kickoff": 1776625200,
+        "fixture": "Coritiba vs Atl\u00e9tico Mineiro",
+        "league_id": 325,
+        "league": "Brasileir\u00e3o Betano",
+        "venue": "Est\u00e1dio Major Ant\u00f4nio Couto Pereira",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15235522,
+        "kickoff": 1776625200,
+        "fixture": "Santos vs Fluminense",
+        "league_id": 325,
+        "league": "Brasileir\u00e3o Betano",
+        "venue": "Est\u00e1dio Urbano Caldeira",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15235550,
+        "kickoff": 1776634200,
+        "fixture": "Palmeiras vs Athletico",
+        "league_id": 325,
+        "league": "Brasileir\u00e3o Betano",
+        "venue": "Allianz Parque",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15235521,
+        "kickoff": 1776634200,
+        "fixture": "Red Bull Bragantino vs Remo",
+        "league_id": 325,
+        "league": "Brasileir\u00e3o Betano",
+        "venue": "Est\u00e1dio C\u00edcero de Souza Marques",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15235519,
+        "kickoff": 1776637800,
+        "fixture": "Flamengo vs Bahia",
+        "league_id": 325,
+        "league": "Brasileir\u00e3o Betano",
+        "venue": "Est\u00e1dio do Maracan\u00e3",
+        "tv_channels": []
     },
     {
         "match_id": 14288862,
@@ -1267,30 +793,55 @@
         "tv_channels": []
     },
     {
-        "match_id": 14109881,
-        "kickoff": 1776445200,
-        "fixture": "Antalyaspor vs Konyaspor",
-        "league_id": 52,
-        "league": "Trendyol S\u00fcper Lig",
-        "venue": "Antalya Stadium",
+        "match_id": 14288867,
+        "kickoff": 1776609000,
+        "fixture": "FC Arouca vs CF Estrela Amadora",
+        "league_id": 238,
+        "league": "Liga Portugal Betclic",
+        "venue": "Est\u00e1dio Municipal de Arouca",
         "tv_channels": []
     },
     {
-        "match_id": 14109888,
-        "kickoff": 1776445200,
-        "fixture": "Fenerbah\u00e7e vs \u00c7aykur Rizespor",
-        "league_id": 52,
-        "league": "Trendyol S\u00fcper Lig",
-        "venue": "Chobani Stadium",
+        "match_id": 14288865,
+        "kickoff": 1776618000,
+        "fixture": "Sporting CP vs Benfica",
+        "league_id": 238,
+        "league": "Liga Portugal Betclic",
+        "venue": "Est\u00e1dio Jos\u00e9 Alvalade",
         "tv_channels": [
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN 3"
+                    "ESPN 4",
+                    "Disney+"
                 ]
             }
         ]
+    },
+    {
+        "match_id": 14288868,
+        "kickoff": 1776627000,
+        "fixture": "FC Porto vs Tondela",
+        "league_id": 238,
+        "league": "Liga Portugal Betclic",
+        "venue": "Est\u00e1dio do Drag\u00e3o",
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 14288869,
+        "kickoff": 1776627000,
+        "fixture": "Sporting Braga vs Famalic\u00e3o",
+        "league_id": 238,
+        "league": "Liga Portugal Betclic",
+        "venue": "Est\u00e1dio Municipal de Braga",
+        "tv_channels": []
     },
     {
         "match_id": 14109880,
@@ -1337,6 +888,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 14109882,
+        "kickoff": 1776607200,
+        "fixture": "Samsunspor vs Be\u015fikta\u015f JK",
+        "league_id": 52,
+        "league": "Trendyol S\u00fcper Lig",
+        "venue": "Samsun Yeni 19 May\u0131s Stadyumu",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14109884,
+        "kickoff": 1776618000,
+        "fixture": "Trabzonspor vs Ba\u015fak\u015fehir FK",
+        "league_id": 52,
+        "league": "Trendyol S\u00fcper Lig",
+        "venue": "Akyaz\u0131 Stadium",
+        "tv_channels": []
+    },
+    {
         "match_id": 15858568,
         "kickoff": 1776537900,
         "fixture": "KV Mechelen vs RSC Anderlecht",
@@ -1352,6 +921,15 @@
         "league_id": 38,
         "league": "Pro League, Championship Round",
         "venue": "Planet Group Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15858580,
+        "kickoff": 1776616200,
+        "fixture": "Royale Union Saint-Gilloise vs Club Brugge KV",
+        "league_id": 38,
+        "league": "Pro League, Championship Round",
+        "venue": "Stade Joseph Marien",
         "tv_channels": []
     },
     {
@@ -1382,6 +960,42 @@
         "tv_channels": []
     },
     {
+        "match_id": 15858622,
+        "kickoff": 1776607200,
+        "fixture": "FCV Dender vs Cercle Brugge",
+        "league_id": 38,
+        "league": "Pro League, Relegation Round",
+        "venue": "Dender Football Complex",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15858626,
+        "kickoff": 1776618900,
+        "fixture": "RAAL La Louvi\u00e8re vs SV Zulte Waregem",
+        "league_id": 38,
+        "league": "Pro League, Relegation Round",
+        "venue": "Stade Communal du Tivoli",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15866462,
+        "kickoff": 1776610800,
+        "fixture": "AEK Athens vs PAOK",
+        "league_id": 185,
+        "league": "Stoiximan Super League, Championship Round",
+        "venue": "Alwyn Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15866467,
+        "kickoff": 1776621600,
+        "fixture": "Panathinaikos FC vs Olympiacos FC",
+        "league_id": 185,
+        "league": "Stoiximan Super League, Championship Round",
+        "venue": "Apostolos Nikolaidis Stadium",
+        "tv_channels": []
+    },
+    {
         "match_id": 15866555,
         "kickoff": 1776517200,
         "fixture": "AE Kifisia vs Asteras Aktor",
@@ -1409,30 +1023,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 15821670,
-        "kickoff": 1776427200,
-        "fixture": "Benfica U19 vs Club Brugge U19",
-        "league_id": 2132,
-        "league": "UEFA Youth League, Knockout stage",
+        "match_id": 15668280,
+        "kickoff": 1776614400,
+        "fixture": "AZ Alkmaar vs NEC Nijmegen",
+        "league_id": 330,
+        "league": "KNVB beker",
         "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15821666,
-        "kickoff": 1776444300,
-        "fixture": "Real Madrid U19 vs Paris Saint-Germain U19",
-        "league_id": 2132,
-        "league": "UEFA Youth League, Knockout stage",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15269959,
-        "kickoff": 1776468600,
-        "fixture": "Club Atl\u00e9tico Uni\u00f3n de Santa Fe vs Newell's Old Boys",
-        "league_id": 155,
-        "league": "Liga Profesional de F\u00fatbol, Apertura",
-        "venue": "Estadio 15 de Abril",
         "tv_channels": []
     },
     {
@@ -1480,30 +1076,47 @@
         "tv_channels": []
     },
     {
-        "match_id": 15239022,
-        "kickoff": 1776474000,
-        "fixture": "Atl\u00e9tico San Luis vs Pumas UNAM",
-        "league_id": 11620,
-        "league": "Liga MX, Clausura",
-        "venue": "Alfonso Lastras Ramirez",
+        "match_id": 15269967,
+        "kickoff": 1776616200,
+        "fixture": "Aldosivi vs Racing Club",
+        "league_id": 155,
+        "league": "Liga Profesional de F\u00fatbol, Apertura",
+        "venue": "Estadio Jose Maria Minella",
         "tv_channels": []
     },
     {
-        "match_id": 15239023,
-        "kickoff": 1776474000,
-        "fixture": "Mazatl\u00e1n FC vs Quer\u00e9taro FC",
-        "league_id": 11620,
-        "league": "Liga MX, Clausura",
-        "venue": "Estadio de Mazatlan",
+        "match_id": 15269951,
+        "kickoff": 1776628800,
+        "fixture": "River Plate vs Boca Juniors",
+        "league_id": 155,
+        "league": "Liga Profesional de F\u00fatbol, Apertura",
+        "venue": "Estadio M\u00e2s Monumental",
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "ESPN 4",
+                    "Disney+"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 15269955,
+        "kickoff": 1776641400,
+        "fixture": "CA Talleres vs Deportivo Riestra",
+        "league_id": 155,
+        "league": "Liga Profesional de F\u00fatbol, Apertura",
+        "venue": "Mario Alberto Kempes",
         "tv_channels": []
     },
     {
-        "match_id": 15239024,
-        "kickoff": 1776481200,
-        "fixture": "Club Necaxa vs Tigres UANL",
-        "league_id": 11620,
-        "league": "Liga MX, Clausura",
-        "venue": "Estadio Victoria",
+        "match_id": 15269973,
+        "kickoff": 1776641400,
+        "fixture": "Rosario Central vs Sarmiento",
+        "league_id": 155,
+        "league": "Liga Profesional de F\u00fatbol, Apertura",
+        "venue": "Gigante de Arroyito",
         "tv_channels": []
     },
     {
@@ -1552,30 +1165,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 14023443,
-        "kickoff": 1776432600,
-        "fixture": "HNK Gorica vs NK Lokomotiva Zagreb",
-        "league_id": 170,
-        "league": "HNL",
-        "venue": "Gradski stadion Velika Gorica",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14023437,
-        "kickoff": 1776440700,
-        "fixture": "NK Slaven Belupo vs HNK Hajduk Split",
-        "league_id": 170,
-        "league": "HNL",
-        "venue": "Gradski stadion Ivan Ku\u0161ek Apa\u0161",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14023438,
-        "kickoff": 1776449700,
-        "fixture": "NK Osijek vs NK Vara\u017edin",
-        "league_id": 170,
-        "league": "HNL",
-        "venue": "Opus Arena",
+        "match_id": 15239030,
+        "kickoff": 1776639600,
+        "fixture": "Santos Laguna vs Atlas FC",
+        "league_id": 11620,
+        "league": "Liga MX, Clausura",
+        "venue": "Estadio TSM Corona",
         "tv_channels": []
     },
     {
@@ -1684,15 +1279,6 @@
         "league_id": 1054,
         "league": "CAF Champions League, Knockout stage",
         "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15171469,
-        "kickoff": 1776479400,
-        "fixture": "Vancouver Whitecaps vs Sporting Kansas City",
-        "league_id": 242,
-        "league": "MLS",
-        "venue": "BC Place",
         "tv_channels": []
     },
     {
@@ -1813,431 +1399,13 @@
         "tv_channels": []
     },
     {
-        "match_id": 14059962,
-        "kickoff": 1776452400,
-        "fixture": "Blackburn Rovers vs Coventry City",
-        "league_id": 18,
-        "league": "Championship",
-        "venue": "Ewood Park",
-        "tv_channels": [
-            {
-                "country": "Angola",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Benin",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo"
-                ]
-            },
-            {
-                "country": "Botswana",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Brazil",
-                "channels": [
-                    "Disney+",
-                    "ESPN"
-                ]
-            },
-            {
-                "country": "Burkina Faso",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Burundi",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Cabo Verde",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Cameroon",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Central African Republic",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo"
-                ]
-            },
-            {
-                "country": "Chad",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Comoros",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo"
-                ]
-            },
-            {
-                "country": "Congo",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Congo, The Democratic Republic of the",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "C\u00f4te d'Ivoire",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Djibouti",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Equatorial Guinea",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Eritrea",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Eswatini",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Ethiopia",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Gabon",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Gambia",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Ghana",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Guinea",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Guinea-Bissau",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "channels": [
-                    "Sky Sports Main Event",
-                    "Sky Sports Football"
-                ]
-            },
-            {
-                "country": "Kenya",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Lesotho",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Liberia",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Madagascar",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Malawi",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Mali",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Mauritania",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Mauritius",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Mayotte",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo"
-                ]
-            },
-            {
-                "country": "Mozambique",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Namibia",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Niger",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Nigeria",
-                "channels": [
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Rwanda",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo"
-                ]
-            },
-            {
-                "country": "R\u00e9union",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo"
-                ]
-            },
-            {
-                "country": "Sao Tome and Principe",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo"
-                ]
-            },
-            {
-                "country": "Senegal",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Seychelles",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Sierra Leone",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Somalia",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo"
-                ]
-            },
-            {
-                "country": "South Africa",
-                "channels": [
-                    "SuperSport Maximo"
-                ]
-            },
-            {
-                "country": "South Sudan",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Sudan",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Tanzania, United Republic of",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Togo",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "Uganda",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "channels": [
-                    "Sky Sports Main Event",
-                    "Sky Sports Football"
-                ]
-            },
-            {
-                "country": "Zambia",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo"
-                ]
-            },
-            {
-                "country": "Zimbabwe",
-                "channels": [
-                    "SuperSport Premier League",
-                    "SuperSport Maximo",
-                    "DStv Now"
-                ]
-            }
-        ]
+        "match_id": 15171483,
+        "kickoff": 1776639600,
+        "fixture": "Los Angeles FC vs San Jose Earthquakes",
+        "league_id": 242,
+        "league": "MLS",
+        "venue": "BMO Stadium",
+        "tv_channels": []
     },
     {
         "match_id": 14059972,
@@ -2347,24 +1515,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 14081731,
-        "kickoff": 1776450600,
-        "fixture": "Real Sociedad B U21 vs Real Racing Club",
-        "league_id": 54,
-        "league": "LaLiga 2",
-        "venue": "Reale Arena",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14081747,
-        "kickoff": 1776452400,
-        "fixture": "Las Palmas vs Legan\u00e9s",
-        "league_id": 54,
-        "league": "LaLiga 2",
-        "venue": "Gran Canaria",
-        "tv_channels": []
-    },
-    {
         "match_id": 14081728,
         "kickoff": 1776521700,
         "fixture": "Real Zaragoza vs AD Ceuta",
@@ -2392,36 +1542,49 @@
         "tv_channels": []
     },
     {
-        "match_id": 14065511,
-        "kickoff": 1776443400,
-        "fixture": "Holstein Kiel vs 1. FC Kaiserslautern",
-        "league_id": 44,
-        "league": "2. Bundesliga",
-        "venue": "Holstein-Stadion",
-        "tv_channels": [
-            {
-                "country": "Brazil",
-                "channels": [
-                    "OneFootball"
-                ]
-            }
-        ]
+        "match_id": 14081725,
+        "kickoff": 1776600000,
+        "fixture": "FC Andorra vs Real Valladolid",
+        "league_id": 54,
+        "league": "LaLiga 2",
+        "venue": "Estadi de la FAF",
+        "tv_channels": []
     },
     {
-        "match_id": 14065512,
-        "kickoff": 1776443400,
-        "fixture": "SV 07 Elversberg vs Karlsruher SC",
-        "league_id": 44,
-        "league": "2. Bundesliga",
-        "venue": "Ursapharm-Arena an der Kaiserlinde",
-        "tv_channels": [
-            {
-                "country": "Brazil",
-                "channels": [
-                    "OneFootball"
-                ]
-            }
-        ]
+        "match_id": 14081722,
+        "kickoff": 1776608100,
+        "fixture": "Sporting Gij\u00f3n vs C\u00e1diz",
+        "league_id": 54,
+        "league": "LaLiga 2",
+        "venue": "El Molin\u00f3n",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14083559,
+        "kickoff": 1776616200,
+        "fixture": "Albacete Balompi\u00e9 vs Granada",
+        "league_id": 54,
+        "league": "LaLiga 2",
+        "venue": "Carlos Belmonte",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14083563,
+        "kickoff": 1776616200,
+        "fixture": "Eibar vs Huesca",
+        "league_id": 54,
+        "league": "LaLiga 2",
+        "venue": "Ipurua Municipal Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14081736,
+        "kickoff": 1776625200,
+        "fixture": "Almer\u00eda vs M\u00e1laga CF",
+        "league_id": 54,
+        "league": "LaLiga 2",
+        "venue": "UD Almeria Stadium",
+        "tv_channels": []
     },
     {
         "match_id": 14065510,
@@ -2568,13 +1731,57 @@
         ]
     },
     {
-        "match_id": 14317581,
-        "kickoff": 1776450600,
-        "fixture": "Sampdoria vs Monza",
-        "league_id": 53,
-        "league": "Serie B",
-        "venue": "Luigi Ferraris",
+        "match_id": 15526028,
+        "kickoff": 1776625200,
+        "fixture": "Londrina vs Cear\u00e1",
+        "league_id": 390,
+        "league": "Brasileir\u00e3o S\u00e9rie B",
+        "venue": "Est\u00e1dio Jacy Scaff",
         "tv_channels": []
+    },
+    {
+        "match_id": 15526030,
+        "kickoff": 1776632400,
+        "fixture": "Goi\u00e1s vs Cuiab\u00e1",
+        "league_id": 390,
+        "league": "Brasileir\u00e3o S\u00e9rie B",
+        "venue": "Est\u00e1dio da Serrinha",
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Xsports",
+                    "Disney+",
+                    "ESPN"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 15526029,
+        "kickoff": 1776639600,
+        "fixture": "Fortaleza vs Crici\u00fama",
+        "league_id": 390,
+        "league": "Brasileir\u00e3o S\u00e9rie B",
+        "venue": "Est\u00e1dio Governador Pl\u00e1cido Castelo",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15526026,
+        "kickoff": 1776639600,
+        "fixture": "Gr\u00eamio Novorizontino vs Athletic Club",
+        "league_id": 390,
+        "league": "Brasileir\u00e3o S\u00e9rie B",
+        "venue": "Est\u00e1dio Dr. Jorge Ismael de Biasi",
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "ESPN 4",
+                    "Disney+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14317569,
@@ -2631,48 +1838,30 @@
         "tv_channels": []
     },
     {
-        "match_id": 14064762,
-        "kickoff": 1776448800,
-        "fixture": "Le Mans vs Clermont Foot",
-        "league_id": 182,
-        "league": "Ligue 2",
-        "venue": "Stade Marie-Marvingt",
+        "match_id": 14317588,
+        "kickoff": 1776603600,
+        "fixture": "Carrarese vs Pescara",
+        "league_id": 53,
+        "league": "Serie B",
+        "venue": "Stadio dei Marmi",
         "tv_channels": []
     },
     {
-        "match_id": 14064771,
-        "kickoff": 1776448800,
-        "fixture": "Montpellier vs Grenoble Foot 38",
-        "league_id": 182,
-        "league": "Ligue 2",
-        "venue": "Stade de la Mosson",
+        "match_id": 14317582,
+        "kickoff": 1776611700,
+        "fixture": "Padova vs Reggiana",
+        "league_id": 53,
+        "league": "Serie B",
+        "venue": "Stadio Comunale Euganeo",
         "tv_channels": []
     },
     {
-        "match_id": 14064761,
-        "kickoff": 1776448800,
-        "fixture": "Nancy vs Annecy FC",
-        "league_id": 182,
-        "league": "Ligue 2",
-        "venue": "Stade Marcel Picot",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14064760,
-        "kickoff": 1776448800,
-        "fixture": "Pau FC vs Guingamp",
-        "league_id": 182,
-        "league": "Ligue 2",
-        "venue": "Nouste Camp",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14064766,
-        "kickoff": 1776448800,
-        "fixture": "Rodez AF vs Amiens SC",
-        "league_id": 182,
-        "league": "Ligue 2",
-        "venue": "Stade Paul Lignon",
+        "match_id": 14317574,
+        "kickoff": 1776619800,
+        "fixture": "Empoli vs Virtus Entella",
+        "league_id": 53,
+        "league": "Serie B",
+        "venue": "Carlo Castellani",
         "tv_channels": []
     },
     {
@@ -2703,120 +1892,93 @@
         "tv_channels": []
     },
     {
-        "match_id": 14056607,
-        "kickoff": 1776448800,
-        "fixture": "ADO Den Haag vs RKC Waalwijk",
-        "league_id": 131,
-        "league": "Eerste Divisie",
-        "venue": "TBA",
+        "match_id": 14138623,
+        "kickoff": 1776603600,
+        "fixture": "Band\u0131rmaspor vs Amed Sportif Faaliyetler",
+        "league_id": 98,
+        "league": "1. Lig",
+        "venue": "17 Eyl\u00fcl Stadyumu",
         "tv_channels": []
     },
     {
-        "match_id": 14056610,
-        "kickoff": 1776448800,
-        "fixture": "Almere City FC vs FC Dordrecht",
-        "league_id": 131,
-        "league": "Eerste Divisie",
-        "venue": "TBA",
+        "match_id": 14138622,
+        "kickoff": 1776603600,
+        "fixture": "Bodrum FK vs Erzurumspor FK",
+        "league_id": 98,
+        "league": "1. Lig",
+        "venue": "Bodrum Ilce Stadi",
         "tv_channels": []
     },
     {
-        "match_id": 14056623,
-        "kickoff": 1776448800,
-        "fixture": "De Graafschap vs SC Cambuur",
-        "league_id": 131,
-        "league": "Eerste Divisie",
-        "venue": "TBA",
+        "match_id": 14138621,
+        "kickoff": 1776603600,
+        "fixture": "Boluspor vs Adana Demirspor",
+        "league_id": 98,
+        "league": "1. Lig",
+        "venue": "Bolu Atat\u00fcrk Stadium",
         "tv_channels": []
     },
     {
-        "match_id": 14056613,
-        "kickoff": 1776448800,
-        "fixture": "Helmond Sport vs VVV-Venlo",
-        "league_id": 131,
-        "league": "Eerste Divisie",
-        "venue": "TBA",
+        "match_id": 14143645,
+        "kickoff": 1776603600,
+        "fixture": "Esenler Erokspor vs Ke\u00e7i\u00f6reng\u00fcc\u00fc",
+        "league_id": 98,
+        "league": "1. Lig",
+        "venue": "Esenler Stadium",
         "tv_channels": []
     },
     {
-        "match_id": 14056629,
-        "kickoff": 1776448800,
-        "fixture": "Jong FC Utrecht vs FC Eindhoven",
-        "league_id": 131,
-        "league": "Eerste Divisie",
-        "venue": "TBA",
+        "match_id": 14138620,
+        "kickoff": 1776603600,
+        "fixture": "Hatayspor vs Sakaryaspor",
+        "league_id": 98,
+        "league": "1. Lig",
+        "venue": "Mersin Stadyumu",
         "tv_channels": []
     },
     {
-        "match_id": 14056616,
-        "kickoff": 1776448800,
-        "fixture": "Jong PSV Eindhoven vs Jong Ajax",
-        "league_id": 131,
-        "league": "Eerste Divisie",
-        "venue": "TBA",
+        "match_id": 14138626,
+        "kickoff": 1776603600,
+        "fixture": "I\u011fd\u0131r FK vs Pendikspor",
+        "league_id": 98,
+        "league": "1. Lig",
+        "venue": "Igdir Kisla Semt Sahasi",
         "tv_channels": []
     },
     {
-        "match_id": 14056632,
-        "kickoff": 1776448800,
-        "fixture": "Roda JC Kerkrade vs FC Emmen",
-        "league_id": 131,
-        "league": "Eerste Divisie",
-        "venue": "TBA",
+        "match_id": 14138630,
+        "kickoff": 1776603600,
+        "fixture": "Manisa FK vs Serikspor A.\u015e.",
+        "league_id": 98,
+        "league": "1. Lig",
+        "venue": "Mumin Ozkasap Spor Tesisleri",
         "tv_channels": []
     },
     {
-        "match_id": 14056626,
-        "kickoff": 1776448800,
-        "fixture": "TOP Oss vs FC Den Bosch",
-        "league_id": 131,
-        "league": "Eerste Divisie",
-        "venue": "TBA",
+        "match_id": 14138625,
+        "kickoff": 1776603600,
+        "fixture": "\u00c7orum FK vs Sivasspor",
+        "league_id": 98,
+        "league": "1. Lig",
+        "venue": "Corum City Stadium",
         "tv_channels": []
     },
     {
-        "match_id": 14056635,
-        "kickoff": 1776448800,
-        "fixture": "Vitesse vs MVV Maastricht",
-        "league_id": 131,
-        "league": "Eerste Divisie",
-        "venue": "TBA",
+        "match_id": 14138629,
+        "kickoff": 1776603600,
+        "fixture": "\u00dcmraniyespor vs Vanspor FK",
+        "league_id": 98,
+        "league": "1. Lig",
+        "venue": "\u00dcmraniye Belediyesi Sehir Stadi",
         "tv_channels": []
     },
     {
-        "match_id": 14056620,
-        "kickoff": 1776448800,
-        "fixture": "Willem II Tilburg vs Jong AZ Alkmaar",
-        "league_id": 131,
-        "league": "Eerste Divisie",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14671779,
-        "kickoff": 1776488400,
-        "fixture": "Wellington Phoenix vs Western Sydney Wanderers",
-        "league_id": 136,
-        "league": "A-League Men",
-        "venue": "Apollo Projects Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14671783,
-        "kickoff": 1776495600,
-        "fixture": "Brisbane Roar vs Melbourne City",
-        "league_id": 136,
-        "league": "A-League Men",
-        "venue": "Suncorp Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14671781,
-        "kickoff": 1776504900,
-        "fixture": "Sydney FC vs Perth Glory",
-        "league_id": 136,
-        "league": "A-League Men",
-        "venue": "Allianz Stadium",
+        "match_id": 14138627,
+        "kickoff": 1776603600,
+        "fixture": "\u0130stanbulspor vs Sar\u0131yer",
+        "league_id": 98,
+        "league": "1. Lig",
+        "venue": "Esenyurt Necmi Kadioglu Stadi",
         "tv_channels": []
     },
     {
@@ -2838,12 +2000,30 @@
         "tv_channels": []
     },
     {
-        "match_id": 15690644,
-        "kickoff": 1776447000,
-        "fixture": "Grazer AK 1902 vs SV Ried",
+        "match_id": 15690636,
+        "kickoff": 1776601800,
+        "fixture": "FK Austria Wien vs Red Bull Salzburg",
         "league_id": 45,
-        "league": "Austrian Bundesliga, Relegation Round",
-        "venue": "Merkur Arena",
+        "league": "Austrian Bundesliga, Championship Round",
+        "venue": "Generali Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15690625,
+        "kickoff": 1776601800,
+        "fixture": "TSV Hartberg vs SK Rapid Wien",
+        "league_id": 45,
+        "league": "Austrian Bundesliga, Championship Round",
+        "venue": "Profertil Arena Hartberg",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15690634,
+        "kickoff": 1776610800,
+        "fixture": "LASK vs SK Sturm Graz",
+        "league_id": 45,
+        "league": "Austrian Bundesliga, Championship Round",
+        "venue": "Raiffeisen Arena",
         "tv_channels": []
     },
     {
@@ -2865,60 +2045,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 15552491,
-        "kickoff": 1776423600,
-        "fixture": "Qingdao Hainiu vs Qingdao West Coast",
-        "league_id": 649,
-        "league": "Chinese Super League",
-        "venue": "Qingdao Tiantai Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15552494,
-        "kickoff": 1776425700,
-        "fixture": "Chongqing Tonglianglong FC vs Shenzhen Peng City",
-        "league_id": 649,
-        "league": "Chinese Super League",
-        "venue": "Tongliang Long Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15552492,
-        "kickoff": 1776425700,
-        "fixture": "Shandong Taishan vs Shanghai Port",
-        "league_id": 649,
-        "league": "Chinese Super League",
-        "venue": "Jinan Olympic Sports Center",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15552495,
-        "kickoff": 1776427200,
-        "fixture": "Wuhan Three Towns vs Chengdu Rongcheng",
-        "league_id": 649,
-        "league": "Chinese Super League",
-        "venue": "Wuhan Sports Center Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15552497,
-        "kickoff": 1776427200,
-        "fixture": "Yunnan Yukun vs Tianjin Jinmen Tiger",
-        "league_id": 649,
-        "league": "Chinese Super League",
-        "venue": "Yuxi Plateau Sports Center",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15552493,
-        "kickoff": 1776427200,
-        "fixture": "Zhejiang vs Beijing Guoan",
-        "league_id": 649,
-        "league": "Chinese Super League",
-        "venue": "Huzhou Olympic Sports Centre",
-        "tv_channels": []
-    },
-    {
         "match_id": 15552496,
         "kickoff": 1776510000,
         "fixture": "Dalian Yingbo FC vs Henan FC Jiuzu Dukang",
@@ -2937,15 +2063,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 15353027,
-        "kickoff": 1776470400,
-        "fixture": "Deportes Limache vs Universidad de Concepci\u00f3n",
-        "league_id": 11653,
-        "league": "Liga de Primera",
-        "venue": "Estadio Gustavo Ocaranza",
-        "tv_channels": []
-    },
-    {
         "match_id": 15353020,
         "kickoff": 1776547800,
         "fixture": "Everton de Vi\u00f1a del Mar vs Universidad de Chile",
@@ -2961,6 +2078,42 @@
         "league_id": 11653,
         "league": "Liga de Primera",
         "venue": "Municipal de Collao",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15353026,
+        "kickoff": 1776616200,
+        "fixture": "Coquimbo Unido vs \u00d1ublense",
+        "league_id": 11653,
+        "league": "Liga de Primera",
+        "venue": "Francisco S\u00e1nchez Rumoroso",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15353025,
+        "kickoff": 1776627000,
+        "fixture": "Cobresal vs O'Higgins",
+        "league_id": 11653,
+        "league": "Liga de Primera",
+        "venue": "El Cobre, El Salvador",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15353024,
+        "kickoff": 1776637800,
+        "fixture": "Colo-Colo vs Palestino",
+        "league_id": 11653,
+        "league": "Liga de Primera",
+        "venue": "Monumental David Arellano",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15353023,
+        "kickoff": 1776645900,
+        "fixture": "Huachipato vs Audax Italiano",
+        "league_id": 11653,
+        "league": "Liga de Primera",
+        "venue": "Estadio Huachipato",
         "tv_channels": []
     },
     {
@@ -3027,24 +2180,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 15367430,
-        "kickoff": 1776468000,
-        "fixture": "Jaguares de C\u00f3rdoba vs Deportivo Pasto",
-        "league_id": 11539,
-        "league": "Liga DIMAYOR, Apertura",
-        "venue": "Estadio Jaraguay",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15367431,
-        "kickoff": 1776475800,
-        "fixture": "Boyac\u00e1 Chic\u00f3 FC vs Deportivo Cali",
-        "league_id": 11539,
-        "league": "Liga DIMAYOR, Apertura",
-        "venue": "Estadio La Independencia",
-        "tv_channels": []
-    },
-    {
         "match_id": 15367432,
         "kickoff": 1776553800,
         "fixture": "Deportes Tolima vs Deportivo Pereira",
@@ -3060,6 +2195,42 @@
         "league_id": 11539,
         "league": "Liga DIMAYOR, Apertura",
         "venue": "Estadio Metropolitano de Techo",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15367433,
+        "kickoff": 1776625200,
+        "fixture": "Independiente Santa Fe vs C\u00facuta Deportivo",
+        "league_id": 11539,
+        "league": "Liga DIMAYOR, Apertura",
+        "venue": "Estadio Nemesio Camacho El Campin",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15367436,
+        "kickoff": 1776633000,
+        "fixture": "Alianza Valledupar FC vs Independiente Medell\u00edn",
+        "league_id": 11539,
+        "league": "Liga DIMAYOR, Apertura",
+        "venue": "Estadio Armando Maestre Pavajeau",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15367435,
+        "kickoff": 1776640800,
+        "fixture": "Junior Barranquilla vs Llaneros FC",
+        "league_id": 11539,
+        "league": "Liga DIMAYOR, Apertura",
+        "venue": "Estadio Metropolitano Roberto Melendez",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15367434,
+        "kickoff": 1776648600,
+        "fixture": "Am\u00e9rica de Cali vs Millonarios",
+        "league_id": 11539,
+        "league": "Liga DIMAYOR, Apertura",
+        "venue": "Olimpico Pascual Guerrero",
         "tv_channels": []
     },
     {
@@ -3117,21 +2288,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 13982004,
-        "kickoff": 1776441600,
-        "fixture": "GKS Katowice vs Motor Lublin",
-        "league_id": 202,
-        "league": "Ekstraklasa",
-        "venue": "Arena Katowice",
+        "match_id": 14029226,
+        "kickoff": 1776605400,
+        "fixture": "FC Hradec Kr\u00e1lov\u00e9 vs SK Slavia Praha",
+        "league_id": 172,
+        "league": "Czech First League",
+        "venue": "Malsovicka arena",
         "tv_channels": []
     },
     {
-        "match_id": 13981997,
-        "kickoff": 1776450600,
-        "fixture": "Legia Warszawa vs Zag\u0142\u0119bie Lubin",
-        "league_id": 202,
-        "league": "Ekstraklasa",
-        "venue": "Stadion Wojska Polskiego w Warszawie",
+        "match_id": 14029229,
+        "kickoff": 1776616200,
+        "fixture": "FC Viktoria Plze\u0148 vs FK Pardubice",
+        "league_id": 172,
+        "league": "Czech First League",
+        "venue": "Stadion Mesta Plzne",
         "tv_channels": []
     },
     {
@@ -3171,12 +2342,57 @@
         "tv_channels": []
     },
     {
-        "match_id": 15676231,
-        "kickoff": 1776445200,
-        "fixture": "Br\u00f8ndby IF vs S\u00f8nderjyske Fodbold",
+        "match_id": 13982006,
+        "kickoff": 1776602700,
+        "fixture": "Rak\u00f3w Cz\u0119stochowa vs Cracovia",
+        "league_id": 202,
+        "league": "Ekstraklasa",
+        "venue": "Miejski Stadion Pi\u0142karski Rak\u00f3w w Cz\u0119stochowie",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13981994,
+        "kickoff": 1776612600,
+        "fixture": "MZKS Arka Gdynia vs Jagiellonia Bia\u0142ystok",
+        "league_id": 202,
+        "league": "Ekstraklasa",
+        "venue": "Stadion GOSiR",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15676242,
+        "kickoff": 1776607200,
+        "fixture": "FC Nordsj\u00e6lland vs Viborg FF",
         "league_id": 39,
         "league": "Danish Superliga, Championship round",
-        "venue": "Br\u00f8ndby Stadium",
+        "venue": "Right to Dream Park",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15676263,
+        "kickoff": 1776600000,
+        "fixture": "Odense Boldklub vs Randers FC",
+        "league_id": 39,
+        "league": "Danish Superliga, Relegation round",
+        "venue": "Nature Energy Park",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15676264,
+        "kickoff": 1776600000,
+        "fixture": "Silkeborg IF vs FC Fredericia",
+        "league_id": 39,
+        "league": "Danish Superliga, Relegation round",
+        "venue": "JYSK Park",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15676265,
+        "kickoff": 1776614400,
+        "fixture": "Vejle vs FC K\u00f8benhavn",
+        "league_id": 39,
+        "league": "Danish Superliga, Relegation round",
+        "venue": "Vejle Stadium",
         "tv_channels": []
     },
     {
@@ -3264,6 +2480,24 @@
         "match_id": 14061324,
         "kickoff": 1776520800,
         "fixture": "Wycombe Wanderers vs Blackpool",
+        "league_id": 24,
+        "league": "League One",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14061342,
+        "kickoff": 1776600000,
+        "fixture": "Peterborough United vs Burton Albion",
+        "league_id": 24,
+        "league": "League One",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14061336,
+        "kickoff": 1776607200,
+        "fixture": "Port Vale vs Wigan Athletic",
         "league_id": 24,
         "league": "League One",
         "venue": "TBA",
@@ -3396,6 +2630,51 @@
         "tv_channels": []
     },
     {
+        "match_id": 15502518,
+        "kickoff": 1776639600,
+        "fixture": "Manta FC vs Deportivo Cuenca",
+        "league_id": 240,
+        "league": "LigaPro Serie A, Primera Etapa",
+        "venue": "Estadio Jocay",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15502513,
+        "kickoff": 1776648600,
+        "fixture": "Independiente del Valle vs LDU",
+        "league_id": 240,
+        "league": "LigaPro Serie A, Primera Etapa",
+        "venue": "Estadio Banco De Guayaquil",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15502512,
+        "kickoff": 1776654000,
+        "fixture": "Emelec vs Guayaquil City",
+        "league_id": 240,
+        "league": "LigaPro Serie A, Primera Etapa",
+        "venue": "Estadio George Capwell",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15502514,
+        "kickoff": 1776654000,
+        "fixture": "Leones del Norte vs Aucas",
+        "league_id": 240,
+        "league": "LigaPro Serie A, Primera Etapa",
+        "venue": "Jaime Teran Olympic Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15502511,
+        "kickoff": 1776658200,
+        "fixture": "Macar\u00e1 vs Barcelona SC Guayaquil",
+        "league_id": 240,
+        "league": "LigaPro Serie A, Primera Etapa",
+        "venue": "Estadio Bellavista",
+        "tv_channels": []
+    },
+    {
         "match_id": 15728213,
         "kickoff": 1776524400,
         "fixture": "Petrojet vs Pharco FC",
@@ -3423,21 +2702,39 @@
         "tv_channels": []
     },
     {
-        "match_id": 15508365,
-        "kickoff": 1776425400,
-        "fixture": "Chennaiyin FC vs Sporting Delhi",
-        "league_id": 1900,
-        "league": "Super League",
-        "venue": "Jawaharlal Nehru Stadium",
+        "match_id": 15728218,
+        "kickoff": 1776610800,
+        "fixture": "El Gouna FC vs Ismaily",
+        "league_id": 808,
+        "league": "Egyptian Premier League, Relegation Round",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 15508357,
-        "kickoff": 1776434400,
-        "fixture": "Odisha FC vs Mohammedan SC",
-        "league_id": 1900,
-        "league": "Super League",
-        "venue": "Kalinga Stadium",
+        "match_id": 15728217,
+        "kickoff": 1776610800,
+        "fixture": "Haras El Hodoud vs Al-Ittihad Alexandria",
+        "league_id": 808,
+        "league": "Egyptian Premier League, Relegation Round",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15728219,
+        "kickoff": 1776621600,
+        "fixture": "Ismailia Electricity Club vs Ghazl El Mahalla FC",
+        "league_id": 808,
+        "league": "Egyptian Premier League, Relegation Round",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15728220,
+        "kickoff": 1776621600,
+        "fixture": "Modern Sport FC vs ZED FC",
+        "league_id": 808,
+        "league": "Egyptian Premier League, Relegation Round",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -3459,93 +2756,13 @@
         "tv_channels": []
     },
     {
-        "match_id": 15238062,
-        "kickoff": 1776451500,
-        "fixture": "Drogheda United vs St. Patrick's Athletic",
-        "league_id": 192,
-        "league": "Premier Division",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LOI TV"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "channels": [
-                    "LOI TV"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 15238063,
-        "kickoff": 1776451500,
-        "fixture": "Dundalk FC vs Galway United",
-        "league_id": 192,
-        "league": "Premier Division",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LOI TV"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "channels": [
-                    "LOI TV"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 15238064,
-        "kickoff": 1776451500,
-        "fixture": "Shelbourne vs Derry City",
-        "league_id": 192,
-        "league": "Premier Division",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LOI TV"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "channels": [
-                    "LOI TV"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 15238065,
-        "kickoff": 1776452400,
-        "fixture": "Shamrock Rovers vs Bohemian FC",
-        "league_id": 192,
-        "league": "Premier Division",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LOI TV",
-                    "Virgin Media Two"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "channels": [
-                    "LOI TV"
-                ]
-            }
-        ]
+        "match_id": 15508423,
+        "kickoff": 1776607200,
+        "fixture": "NorthEast United FC vs Mohun Bagan Super Giant",
+        "league_id": 1900,
+        "league": "Super League",
+        "venue": "Indira Gandhi Athletic Stadium",
+        "tv_channels": []
     },
     {
         "match_id": 15238066,
@@ -3584,12 +2801,48 @@
         "tv_channels": []
     },
     {
-        "match_id": 15885653,
-        "kickoff": 1776456000,
-        "fixture": "Los Chankas CYC vs Club Atl\u00e9tico Grau",
-        "league_id": 406,
-        "league": "Liga 1, Apertura",
-        "venue": "Estadio Los Chankas",
+        "match_id": 15260777,
+        "kickoff": 1776601800,
+        "fixture": "V\u00e5lerenga IF vs Lillestr\u00f8m SK",
+        "league_id": 20,
+        "league": "Eliteserien",
+        "venue": "Intility Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15260774,
+        "kickoff": 1776610800,
+        "fixture": "HamKam vs KFUM Oslo",
+        "league_id": 20,
+        "league": "Eliteserien",
+        "venue": "Briskeby",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15260769,
+        "kickoff": 1776610800,
+        "fixture": "Kristiansund BK vs Fredrikstad FK",
+        "league_id": 20,
+        "league": "Eliteserien",
+        "venue": "Kristiansund Stadion",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15260783,
+        "kickoff": 1776610800,
+        "fixture": "Sarpsborg 08 vs Troms\u00f8 IL",
+        "league_id": 20,
+        "league": "Eliteserien",
+        "venue": "Sarpsborg Stadion",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15260776,
+        "kickoff": 1776618900,
+        "fixture": "IK Start vs Molde FK",
+        "league_id": 20,
+        "league": "Eliteserien",
+        "venue": "Sparebanken S\u00f8r Arena",
         "tv_channels": []
     },
     {
@@ -3629,12 +2882,39 @@
         "tv_channels": []
     },
     {
-        "match_id": 15698592,
-        "kickoff": 1776447000,
-        "fixture": "FC Arge\u0219 Pite\u0219ti vs CFR 1907 Cluj",
-        "league_id": 152,
-        "league": "SuperLiga, Championship round",
-        "venue": "Stadionul Orasenesc",
+        "match_id": 15885659,
+        "kickoff": 1776614400,
+        "fixture": "Club Sporting Cristal vs Universidad T\u00e9cnica de Cajamarca",
+        "league_id": 406,
+        "league": "Liga 1, Apertura",
+        "venue": "Estadio Alberto Gallardo",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15885660,
+        "kickoff": 1776628800,
+        "fixture": "Alianza Atl\u00e9tico de Sullana vs Sport Boys",
+        "league_id": 406,
+        "league": "Liga 1, Apertura",
+        "venue": "Estadio Campeones del 36",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15885656,
+        "kickoff": 1776636900,
+        "fixture": "Melgar vs Universitario de Deportes",
+        "league_id": 406,
+        "league": "Liga 1, Apertura",
+        "venue": "Estadio de la UNSA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15885918,
+        "kickoff": 1776645000,
+        "fixture": "Cienciano vs CD Moquegua",
+        "league_id": 406,
+        "league": "Liga 1, Apertura",
+        "venue": "Estadio Inca Garcilaso de la Vega",
         "tv_channels": []
     },
     {
@@ -3647,12 +2927,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 15689817,
-        "kickoff": 1776436200,
-        "fixture": "SC O\u021belul Gala\u021bi vs UTA Arad",
+        "match_id": 15698584,
+        "kickoff": 1776621600,
+        "fixture": "Universitatea Craiova vs FC Rapid Bucure\u0219ti",
         "league_id": 152,
-        "league": "SuperLiga, Relegation round",
-        "venue": "Stadionul O\u021belul",
+        "league": "SuperLiga, Championship round",
+        "venue": "Stadionul Ion Oblemenco",
         "tv_channels": []
     },
     {
@@ -3665,21 +2945,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 15272377,
-        "kickoff": 1776445200,
-        "fixture": "Degerfors IF vs IF Elfsborg",
-        "league_id": 40,
-        "league": "Allsvenskan",
-        "venue": "Stora Valla",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15272386,
-        "kickoff": 1776445200,
-        "fixture": "Djurg\u00e5rdens IF vs Malm\u00f6 FF",
-        "league_id": 40,
-        "league": "Allsvenskan",
-        "venue": "3Arena",
+        "match_id": 15689855,
+        "kickoff": 1776609000,
+        "fixture": "FC Petrolul Ploie\u0219ti vs FC Hermannstadt",
+        "league_id": 152,
+        "league": "SuperLiga, Relegation round",
+        "venue": "Stadionul Ilie Oan\u0103",
         "tv_channels": []
     },
     {
@@ -3719,12 +2990,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 14372290,
-        "kickoff": 1776447000,
-        "fixture": "Stellenbosch vs Sekhukhune United",
-        "league_id": 358,
-        "league": "Premiership",
-        "venue": "Athlone Stadium",
+        "match_id": 15272374,
+        "kickoff": 1776600000,
+        "fixture": "AIK vs Kalmar FF",
+        "league_id": 40,
+        "league": "Allsvenskan",
+        "venue": "Strawberry Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15272378,
+        "kickoff": 1776609000,
+        "fixture": "BK H\u00e4cken vs GAIS",
+        "league_id": 40,
+        "league": "Allsvenskan",
+        "venue": "Nordic Wellness Arena",
         "tv_channels": []
     },
     {
@@ -3764,6 +3044,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 14372300,
+        "kickoff": 1776603600,
+        "fixture": "TS Galaxy vs Richards Bay FC",
+        "league_id": 358,
+        "league": "Premiership",
+        "venue": "Kameelrivier Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14372298,
+        "kickoff": 1776612600,
+        "fixture": "Magesi FC vs Durban City FC",
+        "league_id": 358,
+        "league": "Premiership",
+        "venue": "Old Peter Mokaba Stadium",
+        "tv_channels": []
+    },
+    {
         "match_id": 15502797,
         "kickoff": 1776531600,
         "fixture": "HFX Wanderers FC vs Pacific FC",
@@ -3776,6 +3074,24 @@
         "match_id": 15502798,
         "kickoff": 1776542400,
         "fixture": "Forge FC vs Cavalry FC",
+        "league_id": 13470,
+        "league": "Canadian Premier League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15502799,
+        "kickoff": 1776621600,
+        "fixture": "FC Supra Du Quebec vs Atl\u00e9tico Ottawa",
+        "league_id": 13470,
+        "league": "Canadian Premier League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15502800,
+        "kickoff": 1776632400,
+        "fixture": "Inter Toronto vs Vancouver FC",
         "league_id": 13470,
         "league": "Canadian Premier League",
         "venue": "TBA",
@@ -3863,30 +3179,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 15420905,
-        "kickoff": 1776466800,
-        "fixture": "New York City FC II vs Connecticut United",
-        "league_id": 18641,
-        "league": "MLS Next Pro",
-        "venue": "Belson Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15420902,
-        "kickoff": 1776466800,
-        "fixture": "Toronto FC II vs Philadelphia Union II",
-        "league_id": 18641,
-        "league": "MLS Next Pro",
-        "venue": "York Lions Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15420906,
-        "kickoff": 1776477600,
-        "fixture": "Tacoma Defiance vs Saint Louis City SC 2",
-        "league_id": 18641,
-        "league": "MLS Next Pro",
-        "venue": "Starfire Sports Stadium",
+        "match_id": 15283247,
+        "kickoff": 1776632400,
+        "fixture": "Birmingham Legion FC vs Indy Eleven",
+        "league_id": 13363,
+        "league": "USL Championship",
+        "venue": "BBVA Field",
         "tv_channels": []
     },
     {
@@ -3935,6 +3233,69 @@
         "tv_channels": []
     },
     {
+        "match_id": 15420916,
+        "kickoff": 1776628800,
+        "fixture": "Los Angeles FC 2 vs The Town FC",
+        "league_id": 18641,
+        "league": "MLS Next Pro",
+        "venue": "Titan Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15420911,
+        "kickoff": 1776628800,
+        "fixture": "Portland Timbers II vs North Texas SC",
+        "league_id": 18641,
+        "league": "MLS Next Pro",
+        "venue": "Providence Park",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15420912,
+        "kickoff": 1776632400,
+        "fixture": "New York Red Bulls II vs FC Cincinnati 2",
+        "league_id": 18641,
+        "league": "MLS Next Pro",
+        "venue": "MSU Soccer Park at Pittser Field",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15420915,
+        "kickoff": 1776634200,
+        "fixture": "Real Monarchs SLC vs Houston Dynamo 2",
+        "league_id": 18641,
+        "league": "MLS Next Pro",
+        "venue": "Zions Bank Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15420913,
+        "kickoff": 1776639600,
+        "fixture": "Orlando City B vs Carolina Core FC",
+        "league_id": 18641,
+        "league": "MLS Next Pro",
+        "venue": "Osceola County Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15420920,
+        "kickoff": 1776643200,
+        "fixture": "Colorado Rapids 2 vs Minnesota United FC 2",
+        "league_id": 18641,
+        "league": "MLS Next Pro",
+        "venue": "Dick's Sporting Goods Park",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15420919,
+        "kickoff": 1776643200,
+        "fixture": "Sporting Kansas City II vs Vancouver Whitecaps FC II",
+        "league_id": 18641,
+        "league": "MLS Next Pro",
+        "venue": "Rock Chalk Park",
+        "tv_channels": []
+    },
+    {
         "match_id": 15285403,
         "kickoff": 1776549600,
         "fixture": "Richmond Kickers vs Union Omaha SC",
@@ -3980,21 +3341,30 @@
         "tv_channels": []
     },
     {
-        "match_id": 14036745,
-        "kickoff": 1776443400,
-        "fixture": "FC Rostov vs FC Sochi",
-        "league_id": 203,
-        "league": "Premier League",
-        "venue": "Rostov Arena",
+        "match_id": 15285408,
+        "kickoff": 1776621600,
+        "fixture": "Greenville Triumph SC vs Spokane Velocity FC",
+        "league_id": 13362,
+        "league": "USL, League One",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 14167198,
-        "kickoff": 1776502800,
-        "fixture": "Orenburg vs Lokomotiv Moscow",
-        "league_id": 203,
-        "league": "Premier League",
-        "venue": "Gazovik Stadium",
+        "match_id": 15285405,
+        "kickoff": 1776621600,
+        "fixture": "New York Cosmos vs Forward Madison FC",
+        "league_id": 13362,
+        "league": "USL, League One",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15285412,
+        "kickoff": 1776625200,
+        "fixture": "Portland Hearts of Pine vs FC Naples",
+        "league_id": 13362,
+        "league": "USL, League One",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -4034,39 +3404,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 15372954,
-        "kickoff": 1776488400,
-        "fixture": "FC Seoul vs Daejeon Hana Citizen",
-        "league_id": 410,
-        "league": "K League 1",
-        "venue": "Seoul World Cup Stadium",
+        "match_id": 14036764,
+        "kickoff": 1776607200,
+        "fixture": "FC Spartak Moscow vs Akhmat Grozny",
+        "league_id": 203,
+        "league": "Premier League",
+        "venue": "Lukoil Arena",
         "tv_channels": []
     },
     {
-        "match_id": 15372952,
-        "kickoff": 1776488400,
-        "fixture": "Gangwon FC vs Jeonbuk Hyundai Motors",
-        "league_id": 410,
-        "league": "K League 1",
-        "venue": "Chuncheon Songam Sports Town",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15372955,
-        "kickoff": 1776497400,
-        "fixture": "Bucheon FC 1995 vs Incheon United",
-        "league_id": 410,
-        "league": "K League 1",
-        "venue": "Bucheon Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15372953,
-        "kickoff": 1776497400,
-        "fixture": "Jeju SK vs Gimcheon Sangmu FC",
-        "league_id": 410,
-        "league": "K League 1",
-        "venue": "Jeju World Cup Stadium ",
+        "match_id": 14036725,
+        "kickoff": 1776616200,
+        "fixture": "FC Krasnodar vs Baltika Kaliningrad",
+        "league_id": 203,
+        "league": "Premier League",
+        "venue": "Ozon Arena",
         "tv_channels": []
     },
     {
@@ -4085,42 +3437,6 @@
         "league_id": 410,
         "league": "K League 1",
         "venue": "Pohang Steel Yard",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15403837,
-        "kickoff": 1776488400,
-        "fixture": "Busan I Park vs Suwon FC",
-        "league_id": 777,
-        "league": "K-League 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15403841,
-        "kickoff": 1776488400,
-        "fixture": "Gyeongnam FC vs Suwon Samsung Bluewings",
-        "league_id": 777,
-        "league": "K-League 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15403839,
-        "kickoff": 1776497400,
-        "fixture": "Cheongju FC vs Gimhae City FC",
-        "league_id": 777,
-        "league": "K-League 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15403840,
-        "kickoff": 1776497400,
-        "fixture": "Daegu FC vs Cheonan City FC",
-        "league_id": 777,
-        "league": "K-League 2",
-        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -4196,83 +3512,11 @@
         "tv_channels": []
     },
     {
-        "match_id": 14117908,
-        "kickoff": 1776448800,
-        "fixture": "Jong KRC Genk U23 vs KAA Gent Reserve U23",
-        "league_id": 9,
-        "league": "Challenger Pro League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14117907,
-        "kickoff": 1776448800,
-        "fixture": "K. Beerschot V.A. vs Lommel SK",
-        "league_id": 9,
-        "league": "Challenger Pro League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14117910,
-        "kickoff": 1776448800,
-        "fixture": "KV Kortrijk vs RWDM Brussels",
-        "league_id": 9,
-        "league": "Challenger Pro League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14117909,
-        "kickoff": 1776448800,
-        "fixture": "Koninklijke Lierse Sportkring vs KSC Lokeren",
-        "league_id": 9,
-        "league": "Challenger Pro League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14117911,
-        "kickoff": 1776448800,
-        "fixture": "Patro Eisden Maasmechelen vs Royal Francs Borains",
-        "league_id": 9,
-        "league": "Challenger Pro League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14117913,
-        "kickoff": 1776448800,
-        "fixture": "RFC Li\u00e8ge vs KAS Eupen",
-        "league_id": 9,
-        "league": "Challenger Pro League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14117914,
-        "kickoff": 1776448800,
-        "fixture": "RFC Seraing vs SK Beveren",
-        "league_id": 9,
-        "league": "Challenger Pro League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14117906,
-        "kickoff": 1776448800,
-        "fixture": "RSCA Futures U23 vs OC Charleroi",
-        "league_id": 9,
-        "league": "Challenger Pro League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14019275,
-        "kickoff": 1776448800,
-        "fixture": "\u00dajpest vs Nyiregyh\u00e1za Spartacus",
-        "league_id": 187,
-        "league": "NB I",
+        "match_id": 15456372,
+        "kickoff": 1776600000,
+        "fixture": "Port FC vs BG Pathum United",
+        "league_id": 1032,
+        "league": "Thai League 1",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -4304,65 +3548,29 @@
         "tv_channels": []
     },
     {
-        "match_id": 15874184,
-        "kickoff": 1776441600,
+        "match_id": 14019258,
+        "kickoff": 1776600900,
+        "fixture": "Paksi FC vs Pusk\u00e1s Akad\u00e9mia",
+        "league_id": 187,
+        "league": "NB I",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14019256,
+        "kickoff": 1776619800,
+        "fixture": "ETO FC Gy\u0151r vs Ferencv\u00e1ros TC",
+        "league_id": 187,
+        "league": "NB I",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15924965,
+        "kickoff": 1776625200,
         "fixture": "Olympic Safi vs USM Alger",
         "league_id": 1115,
         "league": "CAF Confederations Cup, Knockout stage",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15870609,
-        "kickoff": 1776441600,
-        "fixture": "Zamalek SC vs CR Belouizdad",
-        "league_id": 1115,
-        "league": "CAF Confederations Cup, Knockout stage",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15983180,
-        "kickoff": 1776438000,
-        "fixture": "MB Rouissat vs JS Kabylie",
-        "league_id": 841,
-        "league": "Ligue 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15982754,
-        "kickoff": 1776444300,
-        "fixture": "ASO Chlef vs Olympique Akbou",
-        "league_id": 841,
-        "league": "Ligue 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15982756,
-        "kickoff": 1776444300,
-        "fixture": "ES S\u00e9tif vs MC Oran",
-        "league_id": 841,
-        "league": "Ligue 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15982758,
-        "kickoff": 1776444300,
-        "fixture": "JS Saoura vs USM Khenchela",
-        "league_id": 841,
-        "league": "Ligue 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15982755,
-        "kickoff": 1776444300,
-        "fixture": "MC El Bayadh vs Paradou AC",
-        "league_id": 841,
-        "league": "Ligue 1",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -4421,6 +3629,123 @@
         "tv_channels": []
     },
     {
+        "match_id": 15275549,
+        "kickoff": 1776621600,
+        "fixture": "Colegiales vs Temperley",
+        "league_id": 703,
+        "league": "Primera B Nacional",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15275551,
+        "kickoff": 1776621600,
+        "fixture": "Ferrocarril Midland vs San Mart\u00edn de San Juan",
+        "league_id": 703,
+        "league": "Primera B Nacional",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15275540,
+        "kickoff": 1776623400,
+        "fixture": "Almirante Brown vs Central Norte de Salta",
+        "league_id": 703,
+        "league": "Primera B Nacional",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15275542,
+        "kickoff": 1776623400,
+        "fixture": "Estudiantes de Buenos Aires vs Chaco For Ever",
+        "league_id": 703,
+        "league": "Primera B Nacional",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15275547,
+        "kickoff": 1776625200,
+        "fixture": "Gimnasia Jujuy vs Almagro",
+        "league_id": 703,
+        "league": "Primera B Nacional",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15275548,
+        "kickoff": 1776625200,
+        "fixture": "Patronato vs Deportivo Maip\u00fa",
+        "league_id": 703,
+        "league": "Primera B Nacional",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15275550,
+        "kickoff": 1776625200,
+        "fixture": "Quilmes Atl\u00e9tico Club vs Nueva Chicago",
+        "league_id": 703,
+        "league": "Primera B Nacional",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15275541,
+        "kickoff": 1776628800,
+        "fixture": "CA Mitre vs Club Ferro Carril Oeste",
+        "league_id": 703,
+        "league": "Primera B Nacional",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15275553,
+        "kickoff": 1776628800,
+        "fixture": "Gimnasia y Tiro de Salta vs G\u00fcemes",
+        "league_id": 703,
+        "league": "Primera B Nacional",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15275538,
+        "kickoff": 1776632400,
+        "fixture": "Racing de C\u00f3rdoba vs Defensores de Belgrano",
+        "league_id": 703,
+        "league": "Primera B Nacional",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15275554,
+        "kickoff": 1776632400,
+        "fixture": "San Mart\u00edn de Tucum\u00e1n vs Trist\u00e1n Su\u00e1rez",
+        "league_id": 703,
+        "league": "Primera B Nacional",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15795260,
+        "kickoff": 1776607200,
+        "fixture": "Al Wasl vs Al-Nassr",
+        "league_id": 668,
+        "league": "AFC Champions League Two, Knockout stage",
+        "venue": "Zabeel Stadion",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15795268,
+        "kickoff": 1776625200,
+        "fixture": "Al-Ahli Doha vs Al-Hussein Irbid",
+        "league_id": 668,
+        "league": "AFC Champions League Two, Knockout stage",
+        "venue": "Zabeel Stadion",
+        "tv_channels": []
+    },
+    {
         "match_id": 15833198,
         "kickoff": 1776589200,
         "fixture": "Al Shabab SC Oman vs Al Kuwait SC",
@@ -4430,57 +3755,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 15388058,
-        "kickoff": 1776421800,
-        "fixture": "Holland Park Hawks vs Capalaba Bulldogs",
-        "league_id": 21996,
-        "league": "Queensland Premier League 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15388128,
-        "kickoff": 1776495600,
-        "fixture": "Caboolture FC vs St. George Willawong FC",
-        "league_id": 21996,
-        "league": "Queensland Premier League 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15388059,
-        "kickoff": 1776498300,
-        "fixture": "North Star FC vs Ipswich FC",
-        "league_id": 21996,
-        "league": "Queensland Premier League 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15388061,
-        "kickoff": 1776499200,
-        "fixture": "Broadbeach United vs Brisbane Strikers",
-        "league_id": 21996,
-        "league": "Queensland Premier League 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15388062,
-        "kickoff": 1776499200,
-        "fixture": "Redlands United vs Robina City",
-        "league_id": 21996,
-        "league": "Queensland Premier League 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15388060,
-        "kickoff": 1776499200,
-        "fixture": "St. George Willawong FC vs Caboolture FC",
-        "league_id": 21996,
-        "league": "Queensland Premier League 1",
-        "venue": "TBA",
+        "match_id": 15833199,
+        "kickoff": 1776607200,
+        "fixture": "Al-Ansar FC vs Muras United",
+        "league_id": 22795,
+        "league": "AFC Challenge League, Knockout Stage",
+        "venue": "Grand Hamad Stadium",
         "tv_channels": []
     },
     {
@@ -4490,51 +3770,6 @@
         "league_id": 21996,
         "league": "Queensland Premier League 1",
         "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14326340,
-        "kickoff": 1776441600,
-        "fixture": "Floridsdorfer AC vs SKU Amstetten",
-        "league_id": 135,
-        "league": "2. Liga",
-        "venue": "FAC-Platz",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14326350,
-        "kickoff": 1776441600,
-        "fixture": "Kapfenberger SV vs Schwarz-Wei\u00df Bregenz",
-        "league_id": 135,
-        "league": "2. Liga",
-        "venue": "Franz-Fekete-Stadion",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14326337,
-        "kickoff": 1776441600,
-        "fixture": "SC Austria Lustenau vs Rapid Wien II",
-        "league_id": 135,
-        "league": "2. Liga",
-        "venue": "Planet Pure Stadion",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14326342,
-        "kickoff": 1776450600,
-        "fixture": "Admira Wacker vs First Vienna FC",
-        "league_id": 135,
-        "league": "2. Liga",
-        "venue": "Motion Invest Arena ",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14326348,
-        "kickoff": 1776450600,
-        "fixture": "Young Violets Austria Wien vs Austria Salzburg",
-        "league_id": 135,
-        "league": "2. Liga",
-        "venue": "Generali Arena",
         "tv_channels": []
     },
     {
@@ -4553,24 +3788,6 @@
         "league_id": 135,
         "league": "2. Liga",
         "venue": "NV Arena",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14530120,
-        "kickoff": 1776430800,
-        "fixture": "Araz Nax\u00e7\u0131van vs Turan Tovuz",
-        "league_id": 709,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14530118,
-        "kickoff": 1776439800,
-        "fixture": "Zir\u0259 FK vs Neft\u00e7i PFK",
-        "league_id": 709,
-        "league": "Premier League",
-        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -4601,19 +3818,10 @@
         "tv_channels": []
     },
     {
-        "match_id": 15827106,
-        "kickoff": 1776435900,
-        "fixture": "Al Bahrain vs Al Ahli",
-        "league_id": 846,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15827109,
-        "kickoff": 1776443700,
-        "fixture": "Riffa vs A'ali",
-        "league_id": 846,
+        "match_id": 14530123,
+        "kickoff": 1776607200,
+        "fixture": "Sumqay\u0131t FK vs Q\u0259b\u0259l\u0259 FK",
+        "league_id": 709,
         "league": "Premier League",
         "venue": "TBA",
         "tv_channels": []
@@ -4736,6 +3944,51 @@
         "tv_channels": []
     },
     {
+        "match_id": 15617584,
+        "kickoff": 1776627000,
+        "fixture": "Guarani vs AO Itabaiana",
+        "league_id": 1281,
+        "league": "Brasileir\u00e3o S\u00e9rie C",
+        "venue": "Est\u00e1dio Brinco de Ouro da Princesa",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15617590,
+        "kickoff": 1776634200,
+        "fixture": "Figueirense vs Botafogo-PB",
+        "league_id": 1281,
+        "league": "Brasileir\u00e3o S\u00e9rie C",
+        "venue": "Orlando Scarpelli",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15911020,
+        "kickoff": 1776628800,
+        "fixture": "Nacional-AM vs GAS",
+        "league_id": 10326,
+        "league": "Brasileir\u00e3o S\u00e9rie D, Group A1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15911045,
+        "kickoff": 1776632400,
+        "fixture": "Manaus vs Manauara EC",
+        "league_id": 10326,
+        "league": "Brasileir\u00e3o S\u00e9rie D, Group A1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15911041,
+        "kickoff": 1776632400,
+        "fixture": "S\u00e3o Raimundo-RR vs Monte Roraima",
+        "league_id": 10326,
+        "league": "Brasileir\u00e3o S\u00e9rie D, Group A1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15910962,
         "kickoff": 1776555000,
         "fixture": "Guapor\u00e9 FC vs Humait\u00e1",
@@ -4748,6 +4001,15 @@
         "match_id": 15910956,
         "kickoff": 1776556800,
         "fixture": "Galvez EC vs Independ\u00eancia",
+        "league_id": 10326,
+        "league": "Brasileir\u00e3o S\u00e9rie D, Group A2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15911024,
+        "kickoff": 1776628800,
+        "fixture": "Gazin Porto Velho vs Aragua\u00edna",
         "league_id": 10326,
         "league": "Brasileir\u00e3o S\u00e9rie D, Group A2",
         "venue": "TBA",
@@ -4772,6 +4034,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 15911029,
+        "kickoff": 1776628800,
+        "fixture": "Primavera AC vs Gama",
+        "league_id": 10326,
+        "league": "Brasileir\u00e3o S\u00e9rie D, Group A3",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15911052,
         "kickoff": 1776538800,
         "fixture": "Ceil\u00e2ndia vs Uni\u00e3o Rondon\u00f3polis",
@@ -4790,9 +4061,36 @@
         "tv_channels": []
     },
     {
+        "match_id": 15910975,
+        "kickoff": 1776625200,
+        "fixture": "Capital CF vs Goiatuba EC",
+        "league_id": 10326,
+        "league": "Brasileir\u00e3o S\u00e9rie D, Group A4",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15911056,
         "kickoff": 1776538800,
         "fixture": "Tocantin\u00f3polis vs Trem",
+        "league_id": 10326,
+        "league": "Brasileir\u00e3o S\u00e9rie D, Group A5",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15910983,
+        "kickoff": 1776625200,
+        "fixture": "Tuna Luso vs Orat\u00f3rio RC",
+        "league_id": 10326,
+        "league": "Brasileir\u00e3o S\u00e9rie D, Group A5",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15910979,
+        "kickoff": 1776625200,
+        "fixture": "\u00c1guia de Marab\u00e1 FC vs Imperatriz",
         "league_id": 10326,
         "league": "Brasileir\u00e3o S\u00e9rie D, Group A5",
         "venue": "TBA",
@@ -4844,11 +4142,38 @@
         "tv_channels": []
     },
     {
-        "match_id": 15416187,
-        "kickoff": 1776470400,
-        "fixture": "Rangers de Talca vs Uni\u00f3n Espa\u00f1ola",
-        "league_id": 1240,
-        "league": "Liga de Ascenso",
+        "match_id": 15910987,
+        "kickoff": 1776625200,
+        "fixture": "Fluminense-PI vs Piau\u00ed EC",
+        "league_id": 10326,
+        "league": "Brasileir\u00e3o S\u00e9rie D, Group A7",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15911000,
+        "kickoff": 1776625200,
+        "fixture": "Am\u00e9rica-RN vs ABC",
+        "league_id": 10326,
+        "league": "Brasileir\u00e3o S\u00e9rie D, Group A8",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15910996,
+        "kickoff": 1776625200,
+        "fixture": "Central SC vs Sousa EC",
+        "league_id": 10326,
+        "league": "Brasileir\u00e3o S\u00e9rie D, Group A8",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15910991,
+        "kickoff": 1776625200,
+        "fixture": "Maguary vs Club Laguna",
+        "league_id": 10326,
+        "league": "Brasileir\u00e3o S\u00e9rie D, Group A8",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -4889,20 +4214,20 @@
         "tv_channels": []
     },
     {
-        "match_id": 15657790,
-        "kickoff": 1776495600,
-        "fixture": "Yanbian Longding vs Ningbo FC",
-        "league_id": 782,
-        "league": "Chinese League 1",
+        "match_id": 15416183,
+        "kickoff": 1776627000,
+        "fixture": "Club Deportes Antofagasta vs Deportes Copiap\u00f3",
+        "league_id": 1240,
+        "league": "Liga de Ascenso",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 15657791,
-        "kickoff": 1776497400,
-        "fixture": "Foshan Nanshi vs Changchun Yatai",
-        "league_id": 782,
-        "league": "Chinese League 1",
+        "match_id": 15416189,
+        "kickoff": 1776636000,
+        "fixture": "San Luis de Quillota vs Deportes Iquique",
+        "league_id": 1240,
+        "league": "Liga de Ascenso",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -4957,42 +4282,6 @@
         "fixture": "Shijiazhuang Gongfu vs Jiangxi Dingnan United",
         "league_id": 782,
         "league": "Chinese League 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15755705,
-        "kickoff": 1776493800,
-        "fixture": "Shanghai Zetian vs Changchun Xidu",
-        "league_id": 882,
-        "league": "FA Cup",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15755708,
-        "kickoff": 1776495600,
-        "fixture": "Beijing Pengrui vs Guizhou Zhucheng Athletic",
-        "league_id": 882,
-        "league": "FA Cup",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15755722,
-        "kickoff": 1776495600,
-        "fixture": "Wuhan Lianzhen FC vs Xiamen Feilu",
-        "league_id": 882,
-        "league": "FA Cup",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15755712,
-        "kickoff": 1776495600,
-        "fixture": "Yulin Mobei Miners FC vs Ganzhou Ruishi FC",
-        "league_id": 882,
-        "league": "FA Cup",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -5090,6 +4379,15 @@
         "match_id": 15755725,
         "kickoff": 1776598500,
         "fixture": "Yunnan Cuanhe vs Guangzhou Dandelion Alpha FC",
+        "league_id": 882,
+        "league": "FA Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15755707,
+        "kickoff": 1776668400,
+        "fixture": "Xiamen Chengyi vs Shenzhen 2028 FC",
         "league_id": 882,
         "league": "FA Cup",
         "venue": "TBA",
@@ -5195,6 +4493,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 15188460,
+        "kickoff": 1776628800,
+        "fixture": "Municipal Liberia vs CS Cartagin\u00e9s",
+        "league_id": 11542,
+        "league": "Primera Divisi\u00f3n, Clausura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15188465,
+        "kickoff": 1776639600,
+        "fixture": "LD Alajuelense vs Deportivo Saprissa",
+        "league_id": 11542,
+        "league": "Primera Divisi\u00f3n, Clausura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15866838,
         "kickoff": 1776520800,
         "fixture": "Omonia Nicosia vs APOEL Nicosia",
@@ -5222,21 +4538,30 @@
         "tv_channels": []
     },
     {
-        "match_id": 15866837,
-        "kickoff": 1776441600,
-        "fixture": "AEL Limassol vs Enosis Neon Paralimniou",
+        "match_id": 15866835,
+        "kickoff": 1776603600,
+        "fixture": "Olympiakos Nicosia vs Akritas Chlorakas",
         "league_id": 171,
         "league": "Cyprus League by Stoiximan, Relegation group",
-        "venue": "Alphamega Stadium",
+        "venue": "GSP Stadium",
         "tv_channels": []
     },
     {
-        "match_id": 14028830,
-        "kickoff": 1776500100,
-        "fixture": "MFK Chrudim vs FC Sellier & Bellot Vla\u0161im",
-        "league_id": 205,
-        "league": "FNL",
-        "venue": "TBA",
+        "match_id": 15866939,
+        "kickoff": 1776607200,
+        "fixture": "Anorthosis Famagusta vs Omonia Aradippou",
+        "league_id": 171,
+        "league": "Cyprus League by Stoiximan, Relegation group",
+        "venue": "Antonis Papadopoulos",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15866937,
+        "kickoff": 1776614400,
+        "fixture": "Enosis Neon Ypsona FC vs Ethnikos Achnas",
+        "league_id": 171,
+        "league": "Cyprus League by Stoiximan, Relegation group",
+        "venue": "Stelios Chari Stadium",
         "tv_channels": []
     },
     {
@@ -5267,38 +4592,29 @@
         "tv_channels": []
     },
     {
-        "match_id": 15885939,
-        "kickoff": 1776436200,
-        "fixture": "Esbjerg FB vs Hiller\u00f8d Fodbold",
-        "league_id": 47,
-        "league": "Betinia Liga, Promotion Group",
+        "match_id": 14028856,
+        "kickoff": 1776607200,
+        "fixture": "SK Dynamo \u010cesk\u00e9 Bud\u011bjovice vs SK Han\u00e1ck\u00e1 Slavia Krom\u011b\u0159\u00ed\u017e",
+        "league_id": 205,
+        "league": "FNL",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 15885926,
-        "kickoff": 1776438000,
-        "fixture": "Kolding IF vs AC Horsens",
-        "league_id": 47,
-        "league": "Betinia Liga, Promotion Group",
+        "match_id": 14028852,
+        "kickoff": 1776607200,
+        "fixture": "Slezsk\u00fd FC Opava vs SK Slavia Praha B",
+        "league_id": 205,
+        "league": "FNL",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 15885924,
-        "kickoff": 1776502800,
-        "fixture": "Lyngby vs Hvidovre",
-        "league_id": 47,
-        "league": "Betinia Liga, Promotion Group",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15886364,
-        "kickoff": 1776438000,
-        "fixture": "Boldklubben af 1893 vs HB K\u00f8ge",
-        "league_id": 47,
-        "league": "Betinia Liga, Relegation Round",
+        "match_id": 14028854,
+        "kickoff": 1776614400,
+        "fixture": "Vyso\u010dina Jihlava vs FC Zbrojovka Brno",
+        "league_id": 205,
+        "league": "FNL",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -5321,18 +4637,18 @@
         "tv_channels": []
     },
     {
-        "match_id": 15991235,
-        "kickoff": 1776445200,
-        "fixture": "N\u00e6stved Boldklub vs FC Roskilde",
+        "match_id": 15991230,
+        "kickoff": 1776510000,
+        "fixture": "AB vs Vendsyssel FF",
         "league_id": 65,
         "league": "CampoBet 2 Division, Promotion Group",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 15991230,
-        "kickoff": 1776510000,
-        "fixture": "AB vs Vendsyssel FF",
+        "match_id": 15991232,
+        "kickoff": 1776600000,
+        "fixture": "Thisted vs HIK",
         "league_id": 65,
         "league": "CampoBet 2 Division, Promotion Group",
         "venue": "TBA",
@@ -5504,6 +4820,15 @@
         "match_id": 15432302,
         "kickoff": 1776598200,
         "fixture": "FCI Levadia Tallinn vs Flora Tallinn",
+        "league_id": 178,
+        "league": "Premium Liiga",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15432303,
+        "kickoff": 1776607200,
+        "fixture": "Paide Linnameeskond vs N\u00f5mme Kalju",
         "league_id": 178,
         "league": "Premium Liiga",
         "venue": "TBA",
@@ -5814,137 +5139,29 @@
         "tv_channels": []
     },
     {
-        "match_id": 14217705,
-        "kickoff": 1776447000,
-        "fixture": "Ajaccio vs Stade Briochin",
-        "league_id": 183,
-        "league": "National",
+        "match_id": 15341310,
+        "kickoff": 1776603600,
+        "fixture": "EIF vs HJK Klubi 04",
+        "league_id": 55,
+        "league": "Ykkosliiga",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 14217702,
-        "kickoff": 1776447000,
-        "fixture": "Aubagne FC vs US Orl\u00e9ans",
-        "league_id": 183,
-        "league": "National",
+        "match_id": 15341301,
+        "kickoff": 1776603600,
+        "fixture": "MP vs K\u00e4Pa",
+        "league_id": 55,
+        "league": "Ykkosliiga",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 14217712,
-        "kickoff": 1776447000,
-        "fixture": "Bourg-en-Bresse vs Caen",
-        "league_id": 183,
-        "league": "National",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14217709,
-        "kickoff": 1776447000,
-        "fixture": "Dijon vs Sochaux",
-        "league_id": 183,
-        "league": "National",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14217714,
-        "kickoff": 1776447000,
-        "fixture": "FC Fleury vs Valenciennes",
-        "league_id": 183,
-        "league": "National",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14217719,
-        "kickoff": 1776447000,
-        "fixture": "FC Versailles 78 vs Ch\u00e2teauroux",
-        "league_id": 183,
-        "league": "National",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14217721,
-        "kickoff": 1776447000,
-        "fixture": "FC Villefranche Beaujolais vs Paris 13 Atletico",
-        "league_id": 183,
-        "league": "National",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14217716,
-        "kickoff": 1776447000,
-        "fixture": "Quevilly - Rouen M\u00e9tropole vs Le Puy-en-Velay",
-        "league_id": 183,
-        "league": "National",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14217707,
-        "kickoff": 1776447000,
-        "fixture": "US Concarneau vs FC Rouen",
-        "league_id": 183,
-        "league": "National",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15388621,
-        "kickoff": 1776427200,
-        "fixture": "Meshakhte Tkibuli vs FC Rustavi",
-        "league_id": 704,
-        "league": "Erovnuli Liga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15859922,
-        "kickoff": 1776438000,
-        "fixture": "Dinamo Tbilisi vs Meshakhte Tkibuli",
-        "league_id": 704,
-        "league": "Erovnuli Liga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15388613,
-        "kickoff": 1776438000,
-        "fixture": "FC Iberia 1999 vs FC Spaeri",
-        "league_id": 704,
-        "league": "Erovnuli Liga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15859927,
-        "kickoff": 1776438000,
-        "fixture": "FC Samgurali Tskhaltubo vs FC Dila Gori",
-        "league_id": 704,
-        "league": "Erovnuli Liga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15388616,
-        "kickoff": 1776445200,
-        "fixture": "FC Dila Gori vs Dinamo Batumi",
-        "league_id": 704,
-        "league": "Erovnuli Liga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15859928,
-        "kickoff": 1776445200,
-        "fixture": "FC Gagra vs FC Torpedo Kutaisi",
-        "league_id": 704,
-        "league": "Erovnuli Liga",
+        "match_id": 15341307,
+        "kickoff": 1776610800,
+        "fixture": "SJK Akatemia vs PK-35",
+        "league_id": 55,
+        "league": "Ykkosliiga",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -5983,22 +5200,6 @@
         "league": "Erovnuli Liga",
         "venue": "TBA",
         "tv_channels": []
-    },
-    {
-        "match_id": 14108316,
-        "kickoff": 1776445200,
-        "fixture": "SSV Jahn Regensburg vs Alemannia Aachen",
-        "league_id": 491,
-        "league": "3. Liga",
-        "venue": "Jahnstadion Regensburg",
-        "tv_channels": [
-            {
-                "country": "Brazil",
-                "channels": [
-                    "OneFootball"
-                ]
-            }
-        ]
     },
     {
         "match_id": 14108310,
@@ -6113,6 +5314,38 @@
         ]
     },
     {
+        "match_id": 14108313,
+        "kickoff": 1776609000,
+        "fixture": "VfB Stuttgart II U21 vs Erzgebirge Aue",
+        "league_id": 491,
+        "league": "3. Liga",
+        "venue": "Gazi-Stadion a. d. Waldau",
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 14108314,
+        "kickoff": 1776619800,
+        "fixture": "SV Wehen Wiesbaden vs SV Waldhof Mannheim",
+        "league_id": 491,
+        "league": "3. Liga",
+        "venue": "Brita Arena",
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 14264134,
         "kickoff": 1776510000,
         "fixture": "Hannover 96 II U23 vs SV Drochtersen/Assel",
@@ -6149,29 +5382,47 @@
         "tv_channels": []
     },
     {
-        "match_id": 14103890,
-        "kickoff": 1776445200,
-        "fixture": "FC Carl Zeiss Jena vs Greifswalder FC",
-        "league_id": 1083,
-        "league": "Regionalliga Northeast",
+        "match_id": 14264132,
+        "kickoff": 1776600000,
+        "fixture": "Eintracht Norderstedt vs FSV Schoningen 2011",
+        "league_id": 42,
+        "league": "Regionalliga North",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 14103888,
-        "kickoff": 1776445200,
-        "fixture": "FSV Zwickau vs BFC Preussen Berlin",
-        "league_id": 1083,
-        "league": "Regionalliga Northeast",
+        "match_id": 14831232,
+        "kickoff": 1776600000,
+        "fixture": "SV Werder Bremen II U23 vs Bremer SV",
+        "league_id": 42,
+        "league": "Regionalliga North",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 14103893,
-        "kickoff": 1776445200,
-        "fixture": "SV Babelsberg 03 vs FSV Luckenwalde",
-        "league_id": 1083,
-        "league": "Regionalliga Northeast",
+        "match_id": 14264138,
+        "kickoff": 1776600000,
+        "fixture": "VfB L\u00fcbeck vs 1.FC Ph\u00f6nix L\u00fcbeck",
+        "league_id": 42,
+        "league": "Regionalliga North",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14264131,
+        "kickoff": 1776603600,
+        "fixture": "VfB Oldenburg vs FC St Pauli II U23",
+        "league_id": 42,
+        "league": "Regionalliga North",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14264126,
+        "kickoff": 1776607200,
+        "fixture": "Hamburger SV II U23 vs Kickers Emden",
+        "league_id": 42,
+        "league": "Regionalliga North",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -6203,11 +5454,29 @@
         "tv_channels": []
     },
     {
-        "match_id": 14275202,
-        "kickoff": 1776447000,
-        "fixture": "1. FC K\u00f6ln II U23 vs SC Fortuna K\u00f6ln",
-        "league_id": 493,
-        "league": "Regionalliga West",
+        "match_id": 14103898,
+        "kickoff": 1776600000,
+        "fixture": "FC Eilenburg vs Berliner FC Dynamo",
+        "league_id": 1083,
+        "league": "Regionalliga Northeast",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14103892,
+        "kickoff": 1776600000,
+        "fixture": "Hertha Zehlendorf vs Chemnitzer FC",
+        "league_id": 1083,
+        "league": "Regionalliga Northeast",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14103894,
+        "kickoff": 1776600000,
+        "fixture": "ZFC Meuselwitz vs FC Rot-Wei\u00df Erfurt",
+        "league_id": 1083,
+        "league": "Regionalliga Northeast",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -6275,11 +5544,11 @@
         "tv_channels": []
     },
     {
-        "match_id": 14331487,
-        "kickoff": 1776445200,
-        "fixture": "FSV Frankfurt vs FC 08 Homburg",
-        "league_id": 1079,
-        "league": "Regionalliga Southwest",
+        "match_id": 14275199,
+        "kickoff": 1776607200,
+        "fixture": "Wuppertaler SV vs Borussia M\u00f6nchengladbach II U23",
+        "league_id": 493,
+        "league": "Regionalliga West",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -6347,47 +5616,11 @@
         "tv_channels": []
     },
     {
-        "match_id": 14274955,
-        "kickoff": 1776441600,
-        "fixture": "SpVgg Hankofen-Hailing vs FC Augsburg II",
-        "league_id": 1085,
-        "league": "Regionalliga Bavaria",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14274948,
-        "kickoff": 1776445200,
-        "fixture": "Bayern M\u00fcnchen II vs SpVgg Ansbach",
-        "league_id": 1085,
-        "league": "Regionalliga Bavaria",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14274950,
-        "kickoff": 1776445200,
-        "fixture": "SV Viktoria Aschaffenburg vs TSV Aubstadt",
-        "league_id": 1085,
-        "league": "Regionalliga Bavaria",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14274947,
-        "kickoff": 1776445200,
-        "fixture": "SpVgg Bayreuth vs DJK Vilzing",
-        "league_id": 1085,
-        "league": "Regionalliga Bavaria",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14274949,
-        "kickoff": 1776445200,
-        "fixture": "TSV Buchbach vs FV Illertissen",
-        "league_id": 1085,
-        "league": "Regionalliga Bavaria",
+        "match_id": 14331492,
+        "kickoff": 1776600000,
+        "fixture": "TSV Schott Mainz vs Kickers Offenbach",
+        "league_id": 1079,
+        "league": "Regionalliga Southwest",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -6473,6 +5706,33 @@
         "tv_channels": []
     },
     {
+        "match_id": 15471643,
+        "kickoff": 1776603600,
+        "fixture": "APO Ellas Syrou vs Athens Kallithea FC",
+        "league_id": 186,
+        "league": "Super League 2, Relegation Round, Group B",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15468875,
+        "kickoff": 1776603600,
+        "fixture": "APO Panargiakos vs AO Egaleo",
+        "league_id": 186,
+        "league": "Super League 2, Relegation Round, Group B",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15468866,
+        "kickoff": 1776603600,
+        "fixture": "PAE Chania vs GS Ilioupolis",
+        "league_id": 186,
+        "league": "Super League 2, Relegation Round, Group B",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15336078,
         "kickoff": 1776556800,
         "fixture": "Comunicaciones FC vs Deportivo Guastatoya",
@@ -6482,66 +5742,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 15426800,
-        "kickoff": 1776447000,
-        "fixture": "KA Akureyri vs V\u00edkingur Reykjav\u00edk",
-        "league_id": 188,
-        "league": "Efsta deild",
+        "match_id": 15336080,
+        "kickoff": 1776625200,
+        "fixture": "Deportivo Mixco vs Aurora FC",
+        "league_id": 11615,
+        "league": "Liga Bantrab, Clausura",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 15426795,
-        "kickoff": 1776447000,
-        "fixture": "KR Reykjav\u00edk vs \u00de\u00f3r Akureyri",
-        "league_id": 188,
-        "league": "Efsta deild",
+        "match_id": 15336076,
+        "kickoff": 1776646800,
+        "fixture": "Antigua GFC vs Deportivo Malacateco",
+        "league_id": 11615,
+        "league": "Liga Bantrab, Clausura",
         "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15426796,
-        "kickoff": 1776448800,
-        "fixture": "Breidablik K\u00f3pavogur vs \u00cdA Akranes",
-        "league_id": 188,
-        "league": "Efsta deild",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15426801,
-        "kickoff": 1776448800,
-        "fixture": "Fram Reykjav\u00edk vs Keflav\u00edk IF",
-        "league_id": 188,
-        "league": "Efsta deild",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15426806,
-        "kickoff": 1776448800,
-        "fixture": "Valur Reykjav\u00edk vs \u00cdBV Vestmannaeyjar",
-        "league_id": 188,
-        "league": "Efsta deild",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15426803,
-        "kickoff": 1776456000,
-        "fixture": "Stjarnan Gar\u00f0ab\u00e6r vs FH Hafnarfj\u00f6r\u00f0ur",
-        "league_id": 188,
-        "league": "Efsta deild",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15558694,
-        "kickoff": 1776430800,
-        "fixture": "Namdhari FC vs Chanmari FC",
-        "league_id": 848,
-        "league": "I-League",
-        "venue": "Namdhari Stadium",
         "tv_channels": []
     },
     {
@@ -6572,21 +5787,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 14215032,
-        "kickoff": 1776427200,
-        "fixture": "Persebaya Surabaya vs Madura United FC",
-        "league_id": 1015,
-        "league": "Indonesia Super League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14215034,
-        "kickoff": 1776501000,
-        "fixture": "Arema FC vs Persis Solo",
-        "league_id": 1015,
-        "league": "Indonesia Super League",
-        "venue": "TBA",
+        "match_id": 15558698,
+        "kickoff": 1776603600,
+        "fixture": "Real Kashmir vs Sreenidi Deccan FC",
+        "league_id": 848,
+        "league": "I-League",
+        "venue": "TRC Turf Ground",
         "tv_channels": []
     },
     {
@@ -6617,114 +5823,112 @@
         "tv_channels": []
     },
     {
-        "match_id": 15238757,
-        "kickoff": 1776451500,
-        "fixture": "Athlone Town AFC vs Bray Wanderers",
-        "league_id": 193,
-        "league": "First Division",
+        "match_id": 14215040,
+        "kickoff": 1776600000,
+        "fixture": "Bali United FC vs Malut United FC",
+        "league_id": 1015,
+        "league": "Indonesia Super League",
         "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LOI TV"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "channels": [
-                    "LOI TV"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
-        "match_id": 15238758,
-        "kickoff": 1776451500,
-        "fixture": "Cobh Ramblers FC vs Longford Town",
-        "league_id": 193,
-        "league": "First Division",
+        "match_id": 14215041,
+        "kickoff": 1776673800,
+        "fixture": "Semen Padang FC vs Persijap Jepara",
+        "league_id": 1015,
+        "league": "Indonesia Super League",
         "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LOI TV"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "channels": [
-                    "LOI TV"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
-        "match_id": 15238759,
-        "kickoff": 1776451500,
-        "fixture": "Cork City vs Wexford FC",
-        "league_id": 193,
-        "league": "First Division",
+        "match_id": 14302849,
+        "kickoff": 1776601800,
+        "fixture": "AlbinoLeffe vs Triestina",
+        "league_id": 11445,
+        "league": "Serie C, Group A",
         "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LOI TV"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "channels": [
-                    "LOI TV"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
-        "match_id": 15238760,
-        "kickoff": 1776451500,
-        "fixture": "Kerry FC vs Treaty United FC",
-        "league_id": 193,
-        "league": "First Division",
+        "match_id": 14302855,
+        "kickoff": 1776601800,
+        "fixture": "Aurora Pro Patria vs Arzignano Valchiampo",
+        "league_id": 11445,
+        "league": "Serie C, Group A",
         "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LOI TV"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "channels": [
-                    "LOI TV"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
-        "match_id": 15238761,
-        "kickoff": 1776451500,
-        "fixture": "University College Dublin vs Finn Harps",
-        "league_id": 193,
-        "league": "First Division",
+        "match_id": 14302851,
+        "kickoff": 1776601800,
+        "fixture": "Giana Erminio vs Inter U23",
+        "league_id": 11445,
+        "league": "Serie C, Group A",
         "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LOI TV"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "channels": [
-                    "LOI TV"
-                ]
-            }
-        ]
+        "tv_channels": []
+    },
+    {
+        "match_id": 14302852,
+        "kickoff": 1776601800,
+        "fixture": "L.R. Vicenza vs Pergolettese",
+        "league_id": 11445,
+        "league": "Serie C, Group A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14302853,
+        "kickoff": 1776601800,
+        "fixture": "Lecco vs Lumezzane",
+        "league_id": 11445,
+        "league": "Serie C, Group A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14302854,
+        "kickoff": 1776601800,
+        "fixture": "Novara vs Cittadella",
+        "league_id": 11445,
+        "league": "Serie C, Group A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14302856,
+        "kickoff": 1776601800,
+        "fixture": "Pro Vercelli vs Ospitaletto Franciacorta",
+        "league_id": 11445,
+        "league": "Serie C, Group A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14302857,
+        "kickoff": 1776601800,
+        "fixture": "Trento vs Renate",
+        "league_id": 11445,
+        "league": "Serie C, Group A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14310343,
+        "kickoff": 1776601800,
+        "fixture": "Union Brescia vs Dolomiti Bellunesi",
+        "league_id": 11445,
+        "league": "Serie C, Group A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14302858,
+        "kickoff": 1776601800,
+        "fixture": "Virtus Verona vs Alcione Milano",
+        "league_id": 11445,
+        "league": "Serie C, Group A",
+        "venue": "TBA",
+        "tv_channels": []
     },
     {
         "match_id": 14303230,
@@ -6808,111 +6012,93 @@
         "tv_channels": []
     },
     {
-        "match_id": 14068752,
-        "kickoff": 1776502800,
-        "fixture": "Atalanta U20 vs Parma U20",
-        "league_id": 2292,
-        "league": "Primavera 1",
+        "match_id": 14303613,
+        "kickoff": 1776623400,
+        "fixture": "Audace Cerignola vs Team Altamura",
+        "league_id": 11446,
+        "league": "Serie C, Group C",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 14068751,
-        "kickoff": 1776502800,
-        "fixture": "Cagliari U20 vs Cesena U20",
-        "league_id": 2292,
-        "league": "Primavera 1",
+        "match_id": 14303614,
+        "kickoff": 1776623400,
+        "fixture": "Casarano vs Crotone",
+        "league_id": 11446,
+        "league": "Serie C, Group C",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 14068749,
-        "kickoff": 1776502800,
-        "fixture": "Cremonese U20 vs Hellas Verona U20",
-        "league_id": 2292,
-        "league": "Primavera 1",
+        "match_id": 14303615,
+        "kickoff": 1776623400,
+        "fixture": "Catania vs Potenza Calcio",
+        "league_id": 11446,
+        "league": "Serie C, Group C",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 14068748,
-        "kickoff": 1776502800,
-        "fixture": "Inter U20 vs Lecce U20",
-        "league_id": 2292,
-        "league": "Primavera 1",
+        "match_id": 14303616,
+        "kickoff": 1776623400,
+        "fixture": "Cosenza vs Trapani",
+        "league_id": 11446,
+        "league": "Serie C, Group C",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 14068739,
-        "kickoff": 1776502800,
-        "fixture": "Juventus U20 vs Fiorentina U20",
-        "league_id": 2292,
-        "league": "Primavera 1",
+        "match_id": 14303617,
+        "kickoff": 1776623400,
+        "fixture": "Giugliano vs Benevento",
+        "league_id": 11446,
+        "league": "Serie C, Group C",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 14068746,
-        "kickoff": 1776502800,
-        "fixture": "Lazio U20 vs Roma U20",
-        "league_id": 2292,
-        "league": "Primavera 1",
+        "match_id": 14303618,
+        "kickoff": 1776623400,
+        "fixture": "Latina vs Casertana",
+        "league_id": 11446,
+        "league": "Serie C, Group C",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 14068744,
-        "kickoff": 1776502800,
-        "fixture": "Monza U20 vs Frosinone U20",
-        "league_id": 2292,
-        "league": "Primavera 1",
+        "match_id": 14303619,
+        "kickoff": 1776623400,
+        "fixture": "Monopoli vs Foggia",
+        "league_id": 11446,
+        "league": "Serie C, Group C",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 14068743,
-        "kickoff": 1776502800,
-        "fixture": "Napoli U20 vs Bologna U20",
-        "league_id": 2292,
-        "league": "Primavera 1",
+        "match_id": 14303620,
+        "kickoff": 1776623400,
+        "fixture": "Salernitana vs AZ Picerno",
+        "league_id": 11446,
+        "league": "Serie C, Group C",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 14068742,
-        "kickoff": 1776502800,
-        "fixture": "Sassuolo U20 vs Milan U20",
-        "league_id": 2292,
-        "league": "Primavera 1",
+        "match_id": 14303621,
+        "kickoff": 1776623400,
+        "fixture": "Siracusa Calcio vs Cavese",
+        "league_id": 11446,
+        "league": "Serie C, Group C",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 15345924,
-        "kickoff": 1776484800,
-        "fixture": "Yokohama F. Marinos vs Kawasaki Frontale",
-        "league_id": 196,
-        "league": "J1 League, East",
-        "venue": "Nissan Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15345923,
-        "kickoff": 1776488400,
-        "fixture": "Kashima Antlers vs Urawa Red Diamonds",
-        "league_id": 196,
-        "league": "J1 League, East",
-        "venue": "Kashima Soccer Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15345929,
-        "kickoff": 1776492000,
-        "fixture": "Tokyo Verdy vs JEF United Chiba",
-        "league_id": 196,
-        "league": "J1 League, East",
-        "venue": "Ajinomoto Stadium",
+        "match_id": 14303622,
+        "kickoff": 1776623400,
+        "fixture": "Sorrento vs Atalanta U23",
+        "league_id": 11446,
+        "league": "Serie C, Group C",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -6922,24 +6108,6 @@
         "league_id": 196,
         "league": "J1 League, East",
         "venue": "K's Denki Stadium Mito",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15342052,
-        "kickoff": 1776488400,
-        "fixture": "Sanfrecce Hiroshima vs V-Varen Nagasaki",
-        "league_id": 196,
-        "league": "J1 League, West",
-        "venue": "Edion Peace Wing Hiroshima",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15342049,
-        "kickoff": 1776495600,
-        "fixture": "Cerezo Osaka vs Kyoto Sanga FC",
-        "league_id": 196,
-        "league": "J1 League, West",
-        "venue": "Yodokou Sakura Stadium ",
         "tv_channels": []
     },
     {
@@ -6958,24 +6126,6 @@
         "league_id": 196,
         "league": "J1 League, West",
         "venue": "Toyota Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15342270,
-        "kickoff": 1776488400,
-        "fixture": "Shonan Bellmare vs Thespa Gunma",
-        "league_id": 402,
-        "league": "J2/J3 League, East A",
-        "venue": "Lemon Gas Stadium Hiratsuka",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15342268,
-        "kickoff": 1776488400,
-        "fixture": "Vegalta Sendai vs Tochigi City FC",
-        "league_id": 402,
-        "league": "J2/J3 League, East A",
-        "venue": "Yurtec Stadium",
         "tv_channels": []
     },
     {
@@ -7006,33 +6156,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 15346030,
-        "kickoff": 1776484800,
-        "fixture": "Hokkaido Consadole Sapporo vs Matsumoto Yamaga FC",
-        "league_id": 402,
-        "league": "J2/J3 League, East B",
-        "venue": "Sapporo Dome",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15346035,
-        "kickoff": 1776488400,
-        "fixture": "RB Omiya Ardija vs Jubilo Iwata",
-        "league_id": 402,
-        "league": "J2/J3 League, East B",
-        "venue": "NACK5 Stadium Omiya",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15346031,
-        "kickoff": 1776488400,
-        "fixture": "Ventforet Kofu vs Fujieda MYFC",
-        "league_id": 402,
-        "league": "J2/J3 League, East B",
-        "venue": "JIT Recycle Ink Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 15346033,
         "kickoff": 1776574800,
         "fixture": "Fukushima United FC vs FC Gifu",
@@ -7051,66 +6174,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 15346111,
-        "kickoff": 1776420000,
-        "fixture": "FC Osaka vs Ehime FC",
-        "league_id": 402,
-        "league": "J2/J3 League, West A",
-        "venue": "Higashiosaka Hanazono Rugby Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15346112,
-        "kickoff": 1776488400,
-        "fixture": "Albirex Niigata vs FC Imabari",
-        "league_id": 402,
-        "league": "J2/J3 League, West A",
-        "venue": "Denka Big Swan Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15346113,
-        "kickoff": 1776488400,
-        "fixture": "Nara Club vs Kamatamare Sanuki",
-        "league_id": 402,
-        "league": "J2/J3 League, West A",
-        "venue": "Rohto Field Nara",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15346114,
-        "kickoff": 1776488400,
-        "fixture": "Tokushima Vortis vs Zweigen Kanazawa",
-        "league_id": 402,
-        "league": "J2/J3 League, West A",
-        "venue": "Pocari Sweat Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 15346115,
         "kickoff": 1776574800,
         "fixture": "Kataller Toyama vs Kochi United SC",
         "league_id": 402,
         "league": "J2/J3 League, West A",
         "venue": "Toyama Athletic Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15346186,
-        "kickoff": 1776487200,
-        "fixture": "Renofa Yamaguchi FC vs Kagoshima United",
-        "league_id": 402,
-        "league": "J2/J3 League, West B",
-        "venue": "Ishin Me-Life Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15346191,
-        "kickoff": 1776495600,
-        "fixture": "FC Ryukyu vs Giravanz Kitakyushu",
-        "league_id": 402,
-        "league": "J2/J3 League, West B",
-        "venue": "Tapic Kenso Hiyagon Stadium",
         "tv_channels": []
     },
     {
@@ -7141,24 +6210,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 15472431,
-        "kickoff": 1776436200,
-        "fixture": "FK Tukums 2000 vs FK Liepaja",
-        "league_id": 197,
-        "league": "Virsliga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15472433,
-        "kickoff": 1776441600,
-        "fixture": "Ogre United vs FK Auda",
-        "league_id": 197,
-        "league": "Virsliga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 15472435,
         "kickoff": 1776510000,
         "fixture": "FK Grobi\u0146a vs Riga FC",
@@ -7173,24 +6224,6 @@
         "fixture": "RFS vs SK Super Nova",
         "league_id": 197,
         "league": "Virsliga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15546877,
-        "kickoff": 1776441600,
-        "fixture": "FC Hegelmann vs FK Riteriai",
-        "league_id": 198,
-        "league": "TOPLYGA",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15546873,
-        "kickoff": 1776445200,
-        "fixture": "FK \u017dalgiris vs FK Banga Garg\u017edai",
-        "league_id": 198,
-        "league": "TOPLYGA",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -7231,6 +6264,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 15768224,
+        "kickoff": 1776603600,
+        "fixture": "Marsaxlokk FC vs G\u017cira United FC",
+        "league_id": 629,
+        "league": "Premier League, Closing Top 6",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15768225,
+        "kickoff": 1776612600,
+        "fixture": "\u0126amrun Spartans FC vs Naxxar Lions FC",
+        "league_id": 629,
+        "league": "Premier League, Closing Top 6",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15768241,
         "kickoff": 1776513600,
         "fixture": "Hibernians vs Birkirkara FC",
@@ -7240,29 +6291,20 @@
         "tv_channels": []
     },
     {
-        "match_id": 15336433,
-        "kickoff": 1776466800,
-        "fixture": "Atlante FC vs Club Atletico La Paz",
-        "league_id": 11612,
-        "league": "Liga de Expansion MX, Clausura",
+        "match_id": 15768247,
+        "kickoff": 1776600000,
+        "fixture": "Tarxien Rainbows FC vs Zabbar Saint Patrick FC",
+        "league_id": 629,
+        "league": "Premier League, Closing Bottom 6",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 15263847,
-        "kickoff": 1776474000,
-        "fixture": "Correcaminos UAT vs Alebrijes de Oaxaca",
-        "league_id": 11612,
-        "league": "Liga de Expansion MX, Clausura",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15336430,
-        "kickoff": 1776481200,
-        "fixture": "Dorados de Sinaloa vs CD Tapat\u00edo",
-        "league_id": 11612,
-        "league": "Liga de Expansion MX, Clausura",
+        "match_id": 15768237,
+        "kickoff": 1776610800,
+        "fixture": "Mosta FC vs Sliema Wanderers",
+        "league_id": 629,
+        "league": "Premier League, Closing Bottom 6",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -7279,6 +6321,24 @@
         "match_id": 15336434,
         "kickoff": 1776560400,
         "fixture": "C.D. Irapuato vs Mineros de Zacatecas",
+        "league_id": 11612,
+        "league": "Liga de Expansion MX, Clausura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15336435,
+        "kickoff": 1776621600,
+        "fixture": "Leones Negros vs Canc\u00fan FC",
+        "league_id": 11612,
+        "league": "Liga de Expansion MX, Clausura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15336436,
+        "kickoff": 1776639600,
+        "fixture": "CDS Tampico Madero vs Club Atl\u00e9tico Morelia",
         "league_id": 11612,
         "league": "Liga de Expansion MX, Clausura",
         "venue": "TBA",
@@ -7312,24 +6372,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 15793964,
-        "kickoff": 1776432600,
-        "fixture": "FK Sileks Kratovo vs AP Brera Strumica",
-        "league_id": 199,
-        "league": "1. MFL",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15793981,
-        "kickoff": 1776432600,
-        "fixture": "Tikve\u0161 Kavadarci vs KF Shk\u00ebndija",
-        "league_id": 199,
-        "league": "1. MFL",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 15793972,
         "kickoff": 1776519000,
         "fixture": "FK Pelister Bitola vs Makedonija Gjorce Petrov",
@@ -7339,11 +6381,20 @@
         "tv_channels": []
     },
     {
-        "match_id": 15853544,
-        "kickoff": 1776451500,
-        "fixture": "Glentoran FC vs Larne FC",
-        "league_id": 200,
-        "league": "Premiership, Championship Round",
+        "match_id": 15794174,
+        "kickoff": 1776605400,
+        "fixture": "Bashkimi 1947 vs FC Struga Trim & Lum",
+        "league_id": 199,
+        "league": "1. MFL",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15793976,
+        "kickoff": 1776605400,
+        "fixture": "FK Rabotni\u010dki Skopje vs FK Arsimi 1973",
+        "league_id": 199,
+        "league": "1. MFL",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -7393,15 +6444,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 15265737,
-        "kickoff": 1776445200,
-        "fixture": "Ranheim IL vs Raufoss",
-        "league_id": 22,
-        "league": "1st Division",
-        "venue": "EXTRA Arena",
-        "tv_channels": []
-    },
-    {
         "match_id": 15265740,
         "kickoff": 1776513600,
         "fixture": "H\u00f8dd IL vs Haugesund",
@@ -7426,6 +6468,33 @@
         "league_id": 22,
         "league": "1st Division",
         "venue": "Marienlyst Stadion",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15265742,
+        "kickoff": 1776610800,
+        "fixture": "Egersund vs Bryne FK",
+        "league_id": 22,
+        "league": "1st Division",
+        "venue": "Egersund Idrettsparken",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15265743,
+        "kickoff": 1776610800,
+        "fixture": "Odds BK vs Stab\u00e6k Fotball",
+        "league_id": 22,
+        "league": "1st Division",
+        "venue": "Skagerak Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15265744,
+        "kickoff": 1776610800,
+        "fixture": "\u00c5sane vs Str\u00f8mmen IF",
+        "league_id": 22,
+        "league": "1st Division",
+        "venue": "Asane Arena",
         "tv_channels": []
     },
     {
@@ -7528,12 +6597,30 @@
         "tv_channels": []
     },
     {
-        "match_id": 15400172,
-        "kickoff": 1776468600,
-        "fixture": "Sportivo Trinidense vs Sportivo San Lorenzo",
-        "league_id": 11540,
-        "league": "Divisi\u00f3n de Honor, Apertura",
-        "venue": "Estadio Martin Torres",
+        "match_id": 15388762,
+        "kickoff": 1776600000,
+        "fixture": "Junkeren IK vs SK Trygg/Lade",
+        "league_id": 11090,
+        "league": "2nd Division, Group 2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15388760,
+        "kickoff": 1776601800,
+        "fixture": "Eidsvold Turn vs Stj\u00f8rdals/Blink",
+        "league_id": 11090,
+        "league": "2nd Division, Group 2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15388773,
+        "kickoff": 1776610800,
+        "fixture": "Kjels\u00e5s vs Tromsdalen UIL",
+        "league_id": 11090,
+        "league": "2nd Division, Group 2",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -7555,12 +6642,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 15703714,
-        "kickoff": 1776499200,
-        "fixture": "Don Bosco Garelli United vs Tuloy FC",
-        "league_id": 1654,
-        "league": "Philippines Football League",
-        "venue": "TBA",
+        "match_id": 15400165,
+        "kickoff": 1776630600,
+        "fixture": "Olimpia vs Cerro Porte\u00f1o",
+        "league_id": 11540,
+        "league": "Divisi\u00f3n de Honor, Apertura",
+        "venue": "Osvaldo Dom\u00ednguez Dibb",
         "tv_channels": []
     },
     {
@@ -7596,24 +6683,6 @@
         "fixture": "Maharlika Manila FC vs Manila Digger FC",
         "league_id": 1654,
         "league": "Philippines Football League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14039367,
-        "kickoff": 1776441600,
-        "fixture": "Chrobry G\u0142og\u00f3w vs Stal Mielec",
-        "league_id": 229,
-        "league": "I liga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14039369,
-        "kickoff": 1776450600,
-        "fixture": "Stal Rzesz\u00f3w vs Polonia Warszawa",
-        "league_id": 229,
-        "league": "I liga",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -7654,12 +6723,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 14336432,
-        "kickoff": 1776447900,
-        "fixture": "Acad\u00e9mico Viseu FC vs Feirense",
-        "league_id": 239,
-        "league": "Liga Portugal 2",
-        "venue": "Est\u00e1dio Municipal do Fontelo",
+        "match_id": 14039368,
+        "kickoff": 1776601800,
+        "fixture": "Ruch Chorz\u00f3w vs Wis\u0142a Krak\u00f3w",
+        "league_id": 229,
+        "league": "I liga",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14039355,
+        "kickoff": 1776610800,
+        "fixture": "Pogo\u0144 Grodzisk Mazowiecki vs Pogo\u0144 Siedlce",
+        "league_id": 229,
+        "league": "I liga",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -7699,6 +6777,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 14336430,
+        "kickoff": 1776603600,
+        "fixture": "Vizela vs SC Farense",
+        "league_id": 239,
+        "league": "Liga Portugal 2",
+        "venue": "Est\u00e1dio do FC Vizela",
+        "tv_channels": []
+    },
+    {
         "match_id": 15444333,
         "kickoff": 1776535200,
         "fixture": "CD Trofense vs Varzim SC",
@@ -7711,6 +6798,24 @@
         "match_id": 15444332,
         "kickoff": 1776592800,
         "fixture": "Vit\u00f3ria SC B vs UD Santar\u00e9m",
+        "league_id": 17101,
+        "league": "Liga 3, Promotion Round",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15444331,
+        "kickoff": 1776607200,
+        "fixture": "CD Mafra vs Amarante FC",
+        "league_id": 17101,
+        "league": "Liga 3, Promotion Round",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15444330,
+        "kickoff": 1776621600,
+        "fixture": "Acad\u00e9mica Coimbra vs C.F. Os Belenenses",
         "league_id": 17101,
         "league": "Liga 3, Promotion Round",
         "venue": "TBA",
@@ -7735,6 +6840,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 15444612,
+        "kickoff": 1776607200,
+        "fixture": "1\u00ba Dezembro vs Amora FC",
+        "league_id": 17101,
+        "league": "Liga 3, Relegation Round, Group 2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15444581,
         "kickoff": 1776520800,
         "fixture": "AD Marco 09 vs AD Fafe",
@@ -7747,6 +6861,15 @@
         "match_id": 15444588,
         "kickoff": 1776520800,
         "fixture": "USC Paredes vs SC S\u00e3o Jo\u00e3o Ver",
+        "league_id": 17101,
+        "league": "Liga 3, Relegation Round, Group 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15444578,
+        "kickoff": 1776607200,
+        "fixture": "SC Braga B vs AD Sanjoanense",
         "league_id": 17101,
         "league": "Liga 3, Relegation Round, Group 1",
         "venue": "TBA",
@@ -8005,56 +7128,11 @@
         "tv_channels": []
     },
     {
-        "match_id": 15737567,
-        "kickoff": 1776499200,
-        "fixture": "Chindia T\u00e2rgovi\u0219te vs Sepsi OSK",
-        "league_id": 562,
-        "league": "Liga 2, Promotion Round",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15737571,
-        "kickoff": 1776499200,
-        "fixture": "FC Bihor Oradea vs FC Corvinul Hunedoara",
-        "league_id": 562,
-        "league": "Liga 2, Promotion Round",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 15737562,
         "kickoff": 1776585600,
         "fixture": "FC Voluntari vs Steaua Bucure\u0219ti",
         "league_id": 562,
         "league": "Liga 2, Promotion Round",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15967906,
-        "kickoff": 1776427200,
-        "fixture": "Enisey Krasnoyarsk vs Chelyabinsk",
-        "league_id": 204,
-        "league": "First League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15967915,
-        "kickoff": 1776438000,
-        "fixture": "Torpedo Moscow vs KAMAZ Naberezhnye Chelny",
-        "league_id": 204,
-        "league": "First League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15967909,
-        "kickoff": 1776495600,
-        "fixture": "SKA-Khabarovsk vs Rotor Volgograd",
-        "league_id": 204,
-        "league": "First League",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -8257,30 +7335,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 14195551,
-        "kickoff": 1776425400,
-        "fixture": "Albirex Niigata Singapore vs Hougang United",
-        "league_id": 634,
-        "league": "Premier League",
-        "venue": "Jurong East Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14195552,
-        "kickoff": 1776425400,
-        "fixture": "Tampines Rovers vs Balestier Khalsa",
-        "league_id": 634,
-        "league": "Premier League",
-        "venue": "Our Tampines Hub",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14324106,
-        "kickoff": 1776425400,
-        "fixture": "Tampines Rovers vs Balestier Khalsa",
-        "league_id": 634,
-        "league": "Premier League",
-        "venue": "Our Tampines Hub",
+        "match_id": 15692822,
+        "kickoff": 1776603600,
+        "fixture": "Celtic vs St. Mirren",
+        "league_id": 347,
+        "league": "Scottish Cup",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -8308,6 +7368,15 @@
         "league_id": 634,
         "league": "Premier League",
         "venue": "Jalan Besar Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14320674,
+        "kickoff": 1776684600,
+        "fixture": "Lion City Sailors vs Young Lions",
+        "league_id": 634,
+        "league": "Premier League",
+        "venue": "Bishan Stadium",
         "tv_channels": []
     },
     {
@@ -8347,6 +7416,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 15642549,
+        "kickoff": 1776605400,
+        "fixture": "MFK Skalica vs AS Tren\u010d\u00edn",
+        "league_id": 211,
+        "league": "Nik\u00e9 Liga, Relegation Round",
+        "venue": "Mestsky Stadion Skalica",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15642546,
+        "kickoff": 1776614400,
+        "fixture": "1. FC Tatran Pre\u0161ov vs FC Ko\u0161ice",
+        "league_id": 211,
+        "league": "Nik\u00e9 Liga, Relegation Round",
+        "venue": "FUTBAL TATRAN AR\u00c9NA",
+        "tv_channels": []
+    },
+    {
         "match_id": 14074268,
         "kickoff": 1776524400,
         "fixture": "NK Olimpija Ljubljana vs NK Dom\u017eale",
@@ -8371,6 +7458,24 @@
         "league_id": 212,
         "league": "PrvaLiga",
         "venue": "Ljudski vrt",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14074266,
+        "kickoff": 1776603600,
+        "fixture": "N\u0160 Mura vs NK Celje",
+        "league_id": 212,
+        "league": "PrvaLiga",
+        "venue": "Mesti Stadion Fazanerija",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14074264,
+        "kickoff": 1776612600,
+        "fixture": "NK Aluminij Kidri\u010devo vs NK Bravo",
+        "league_id": 212,
+        "league": "PrvaLiga",
+        "venue": "Sportni park Aluminij",
         "tv_channels": []
     },
     {
@@ -8446,6 +7551,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 15272241,
+        "kickoff": 1776603600,
+        "fixture": "Helsingborgs IF vs \u00d6stersunds FK",
+        "league_id": 46,
+        "league": "Superettan",
+        "venue": "Olympia",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15272238,
+        "kickoff": 1776603600,
+        "fixture": "IK Oddevold vs \u00d6sters IF",
+        "league_id": 46,
+        "league": "Superettan",
+        "venue": "Rimnersvallen",
+        "tv_channels": []
+    },
+    {
         "match_id": 15458236,
         "kickoff": 1776510000,
         "fixture": "Enk\u00f6pings SK vs FBK Karlstad",
@@ -8491,11 +7614,20 @@
         "tv_channels": []
     },
     {
-        "match_id": 15458235,
-        "kickoff": 1776445200,
-        "fixture": "H\u00e4ssleholms IF vs BK Olympic",
+        "match_id": 15458247,
+        "kickoff": 1776603600,
+        "fixture": "Vasalunds IF vs Ume\u00e5",
         "league_id": 11617,
-        "league": "Ettan, Sodra",
+        "league": "Ettan, Norra",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15458248,
+        "kickoff": 1776607200,
+        "fixture": "Assyriska FF vs Karlbergs BK",
+        "league_id": 11617,
+        "league": "Ettan, Norra",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -8554,11 +7686,11 @@
         "tv_channels": []
     },
     {
-        "match_id": 15204363,
-        "kickoff": 1776449700,
-        "fixture": "\u00c9toile Carouge FC vs FC Wil 1900",
-        "league_id": 216,
-        "league": "Challenge League",
+        "match_id": 15458249,
+        "kickoff": 1776607200,
+        "fixture": "\u00c5tvidabergs FF vs Kristianstad FC",
+        "league_id": 11617,
+        "league": "Ettan, Sodra",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -8566,6 +7698,15 @@
         "match_id": 15204370,
         "kickoff": 1776528000,
         "fixture": "AC Bellinzona vs Stade Nyonnais",
+        "league_id": 216,
+        "league": "Challenge League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15204371,
+        "kickoff": 1776600000,
+        "fixture": "FC Vaduz vs FC Rapperswil-Jona",
         "league_id": 216,
         "league": "Challenge League",
         "venue": "TBA",
@@ -8581,6 +7722,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 15494485,
+        "kickoff": 1776603600,
+        "fixture": "Yverdon-Sport FC vs FC St. Gallen 1879",
+        "league_id": 399,
+        "league": "Schweizer Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 14326837,
         "kickoff": 1776546000,
         "fixture": "Lexington SC vs Tampa Bay Sun FC",
@@ -8590,21 +7740,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 14090621,
-        "kickoff": 1776429000,
-        "fixture": "Dynamo Kyiv vs Zoria Luhansk",
-        "league_id": 218,
-        "league": "Premier League",
-        "venue": "Valeriy Lobanovskyi",
+        "match_id": 14326839,
+        "kickoff": 1776632400,
+        "fixture": "Dallas Trinity vs Carolina Ascent",
+        "league_id": 28384,
+        "league": "USL Super League",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 14090615,
-        "kickoff": 1776438000,
-        "fixture": "Obolon Kyiv vs SC Poltava",
-        "league_id": 218,
-        "league": "Premier League",
-        "venue": "Obolon Arena",
+        "match_id": 14326840,
+        "kickoff": 1776639600,
+        "fixture": "Spokane Zephyr FC vs Sporting Jacksonville",
+        "league_id": 28384,
+        "league": "USL Super League",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -8653,12 +7803,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 15967900,
-        "kickoff": 1776466800,
-        "fixture": "Albion FC vs Central Espa\u00f1ol",
-        "league_id": 278,
-        "league": "Liga AUF Uruguaya, Apertura",
-        "venue": "Estadio Luis Franzini",
+        "match_id": 14090617,
+        "kickoff": 1776601800,
+        "fixture": "FC Epicentr Dunaivtsi vs Karpaty Lviv",
+        "league_id": 218,
+        "league": "Premier League",
+        "venue": "Roman Shukhevych Ternopil city stadium",
         "tv_channels": []
     },
     {
@@ -8680,12 +7830,30 @@
         "tv_channels": []
     },
     {
-        "match_id": 15485538,
-        "kickoff": 1776428100,
-        "fixture": "H\u00e0 N\u1ed9i vs Becamex Ho Chi Minh City FC",
-        "league_id": 626,
-        "league": "V-League 1",
-        "venue": "TBA",
+        "match_id": 15967911,
+        "kickoff": 1776603600,
+        "fixture": "CA Cerro vs Montevideo City Torque",
+        "league_id": 278,
+        "league": "Liga AUF Uruguaya, Apertura",
+        "venue": "Estadio Luis Troccoli",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15967897,
+        "kickoff": 1776625200,
+        "fixture": "Danubio vs Deportivo Maldonado",
+        "league_id": 278,
+        "league": "Liga AUF Uruguaya, Apertura",
+        "venue": "Jardines Del Hip\u00f3dromo",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15967902,
+        "kickoff": 1776637800,
+        "fixture": "Liverpool UY vs Nacional",
+        "league_id": 278,
+        "league": "Liga AUF Uruguaya, Apertura",
+        "venue": "Estadio Alfredo Victor Viera",
         "tv_channels": []
     },
     {
@@ -8728,6 +7896,15 @@
         "match_id": 15485542,
         "kickoff": 1776596400,
         "fixture": "\u0110\u00f4ng \u00c1 Thanh H\u00f3a vs S\u00f4ng Lam Ngh\u1ec7 An",
+        "league_id": 626,
+        "league": "V-League 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15485579,
+        "kickoff": 1776600900,
+        "fixture": "Th\u1ec3 C\u00f4ng - Viettel vs Ho\u00e0ng Anh Gia Lai",
         "league_id": 626,
         "league": "V-League 1",
         "venue": "TBA",
@@ -8786,22 +7963,6 @@
         "league": "Cymru Premier, Relegation Round",
         "venue": "TBA",
         "tv_channels": []
-    },
-    {
-        "match_id": 15525113,
-        "kickoff": 1776474000,
-        "fixture": "USA vs Japan",
-        "league_id": 852,
-        "league": "International Friendly Games, Women",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "United States",
-                "channels": [
-                    "TNT"
-                ]
-            }
-        ]
     },
     {
         "match_id": 15617784,
