@@ -10,12 +10,18 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "Xsports"
+                    "Xsports",
+                    "Disney+"
                 ]
             },
             {
                 "country": "Ireland",
+                "channels": [
+                    "TNT Sports 1"
+                ]
+            },
+            {
+                "country": "United Kingdom",
                 "channels": [
                     "TNT Sports 1"
                 ]
@@ -49,8 +55,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             }
         ]
@@ -66,8 +72,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             }
         ]
@@ -85,6 +91,12 @@
                 "channels": [
                     "Disney+"
                 ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "TNT Sports 1"
+                ]
             }
         ]
     },
@@ -99,8 +111,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "Xsports"
+                    "Xsports",
+                    "Disney+"
                 ]
             }
         ]
@@ -151,8 +163,8 @@
                 "country": "Brazil",
                 "channels": [
                     "Disney+",
-                    "OneFootball",
-                    "ESPN"
+                    "ESPN",
+                    "OneFootball"
                 ]
             }
         ]
@@ -184,8 +196,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "Xsports"
+                    "Xsports",
+                    "Disney+"
                 ]
             }
         ]
@@ -201,8 +213,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             }
         ]
@@ -271,8 +283,8 @@
                 "country": "Brazil",
                 "channels": [
                     "Disney+",
-                    "OneFootball",
-                    "ESPN"
+                    "ESPN",
+                    "OneFootball"
                 ]
             }
         ]
@@ -548,9 +560,9 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "OneFootball",
                     "Prime Video",
                     "Xsports",
+                    "OneFootball",
                     "YouTube - Caz\u00e9TV"
                 ]
             },
@@ -655,9 +667,9 @@
             {
                 "country": "Brazil",
                 "channels": [
+                    "Xsports",
                     "Disney+",
-                    "ESPN 4",
-                    "Xsports"
+                    "ESPN 4"
                 ]
             },
             {
@@ -1467,8 +1479,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             }
         ]
@@ -1712,8 +1724,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             }
         ]
@@ -1781,9 +1793,9 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
+                    "ESPN",
                     "Xsports",
-                    "ESPN"
+                    "Disney+"
                 ]
             }
         ]
@@ -4939,8 +4951,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN 2"
+                    "ESPN 2",
+                    "Disney+"
                 ]
             }
         ]
@@ -5895,6 +5907,69 @@
         "fixture": "Semen Padang FC vs Persijap Jepara",
         "league_id": 1015,
         "league": "Indonesia Super League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15997938,
+        "kickoff": 1776533400,
+        "fixture": "Hapoel Be'er Sheva vs Hapoel Petach Tikva",
+        "league_id": 266,
+        "league": "Premier League, Championship Round",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15997941,
+        "kickoff": 1776618000,
+        "fixture": "Beitar Jerusalem vs Maccabi Haifa",
+        "league_id": 266,
+        "league": "Premier League, Championship Round",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15997939,
+        "kickoff": 1776619800,
+        "fixture": "Maccabi Tel Aviv vs Hapoel Tel Aviv",
+        "league_id": 266,
+        "league": "Premier League, Championship Round",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15997937,
+        "kickoff": 1776531000,
+        "fixture": "Maccabi Netanya vs Ashdod SC",
+        "league_id": 266,
+        "league": "Premier League, Relegation Round",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15997936,
+        "kickoff": 1776531600,
+        "fixture": "Hapoel Haifa vs Maccabi Bney Reine",
+        "league_id": 266,
+        "league": "Premier League, Relegation Round",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15997942,
+        "kickoff": 1776532500,
+        "fixture": "Bnei Sakhnin vs Ironi Dorot Tiberias",
+        "league_id": 266,
+        "league": "Premier League, Relegation Round",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15997940,
+        "kickoff": 1776614400,
+        "fixture": "Hapoel Ironi Kiryat Shmona vs Hapoel Jerusalem",
+        "league_id": 266,
+        "league": "Premier League, Relegation Round",
         "venue": "TBA",
         "tv_channels": []
     },
