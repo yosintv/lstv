@@ -46,8 +46,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             },
             {
@@ -137,8 +137,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             },
             {
@@ -227,8 +227,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             },
             {
@@ -1330,6 +1330,18 @@
                     "Disney+",
                     "ESPN 4"
                 ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Football"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Football"
+                ]
             }
         ]
     },
@@ -1425,8 +1437,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             }
         ]
@@ -1649,8 +1661,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             }
         ]
@@ -2737,7 +2749,20 @@
         "league_id": 192,
         "league": "Premier Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOI TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "LOI TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15238069,
@@ -2746,7 +2771,20 @@
         "league_id": 192,
         "league": "Premier Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOI TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "LOI TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15238070,
@@ -2755,7 +2793,20 @@
         "league_id": 192,
         "league": "Premier Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOI TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "LOI TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15238067,
@@ -2764,7 +2815,21 @@
         "league_id": 192,
         "league": "Premier Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOI TV",
+                    "Virgin Media Two"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "LOI TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15238071,
@@ -2953,7 +3018,14 @@
         "league_id": 13470,
         "league": "Canadian Premier League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Fox Sports 2"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15502802,
@@ -3998,8 +4070,17 @@
         "tv_channels": []
     },
     {
+        "match_id": 16029424,
+        "kickoff": 1777112100,
+        "fixture": "Ludogorets vs FC CSKA 1948 Sofia",
+        "league_id": 247,
+        "league": "First Professional League, Championship Round",
+        "venue": "Huvepharma Arena",
+        "tv_channels": []
+    },
+    {
         "match_id": 16029425,
-        "kickoff": 1777129200,
+        "kickoff": 1777122000,
         "fixture": "CSKA Sofia vs Levski Sofia",
         "league_id": 247,
         "league": "First Professional League, Championship Round",
@@ -4007,12 +4088,39 @@
         "tv_channels": []
     },
     {
-        "match_id": 16029424,
-        "kickoff": 1777129200,
-        "fixture": "Ludogorets vs FC CSKA 1948 Sofia",
+        "match_id": 16030283,
+        "kickoff": 1777048200,
+        "fixture": "FK Spartak Varna vs Beroe Stara Zagora",
         "league_id": 247,
-        "league": "First Professional League, Championship Round",
-        "venue": "Huvepharma Arena",
+        "league": "First Professional League, Relegation Round",
+        "venue": "Stadion Spartak",
+        "tv_channels": []
+    },
+    {
+        "match_id": 16030624,
+        "kickoff": 1777127400,
+        "fixture": "PFK Montana 1921 vs FK Dobrudzha Dobrich",
+        "league_id": 247,
+        "league": "First Professional League, Relegation Round",
+        "venue": "Ogosta Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 16030638,
+        "kickoff": 1777129200,
+        "fixture": "Lokomotiv Sofia vs FK Septemvri Sofia",
+        "league_id": 247,
+        "league": "First Professional League, Relegation Round",
+        "venue": "Lokomotiv Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 16030282,
+        "kickoff": 1777201200,
+        "fixture": "Slavia Sofia vs Botev Vratsa",
+        "league_id": 247,
+        "league": "First Professional League, Relegation Round",
+        "venue": "Aleksandar Shalamanov Stadium",
         "tv_channels": []
     },
     {
@@ -5122,7 +5230,20 @@
         "league_id": 193,
         "league": "First Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOI TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "LOI TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15238763,
@@ -5131,7 +5252,20 @@
         "league_id": 193,
         "league": "First Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOI TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "LOI TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15238764,
@@ -5140,7 +5274,20 @@
         "league_id": 193,
         "league": "First Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOI TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "LOI TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15238765,
@@ -5149,7 +5296,20 @@
         "league_id": 193,
         "league": "First Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOI TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "LOI TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15238766,
@@ -6368,17 +6528,17 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "BBC iPlayer",
+                    "BBC Sport Web",
                     "BBC Scotland",
-                    "BBC Sport Web"
+                    "BBC iPlayer"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "BBC iPlayer",
+                    "BBC Sport Web",
                     "BBC Scotland",
-                    "BBC Sport Web"
+                    "BBC iPlayer"
                 ]
             }
         ]
