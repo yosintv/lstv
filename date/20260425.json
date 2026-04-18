@@ -22,15 +22,15 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Sky Sports Premier League",
-                    "Sky Sports Main Event"
+                    "Sky Sports Main Event",
+                    "Sky Sports Premier League"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Sky Sports Premier League",
-                    "Sky Sports Main Event"
+                    "Sky Sports Main Event",
+                    "Sky Sports Premier League"
                 ]
             }
         ]
@@ -69,8 +69,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "Xsports"
+                    "Xsports",
+                    "Disney+"
                 ]
             },
             {
@@ -160,8 +160,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "Xsports"
+                    "Xsports",
+                    "Disney+"
                 ]
             },
             {
@@ -456,8 +456,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "Xsports"
+                    "Xsports",
+                    "Disney+"
                 ]
             }
         ]
@@ -4106,15 +4106,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 16030638,
-        "kickoff": 1777129200,
-        "fixture": "Lokomotiv Sofia vs FK Septemvri Sofia",
-        "league_id": 247,
-        "league": "First Professional League, Relegation Round",
-        "venue": "Lokomotiv Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 16030282,
         "kickoff": 1777201200,
         "fixture": "Slavia Sofia vs Botev Vratsa",
@@ -6528,17 +6519,17 @@
             {
                 "country": "Ireland",
                 "channels": [
+                    "BBC iPlayer",
                     "BBC Sport Web",
-                    "BBC Scotland",
-                    "BBC iPlayer"
+                    "BBC Scotland"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
+                    "BBC iPlayer",
                     "BBC Sport Web",
-                    "BBC Scotland",
-                    "BBC iPlayer"
+                    "BBC Scotland"
                 ]
             }
         ]
