@@ -10,8 +10,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             },
             {
@@ -56,8 +56,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 4",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 4"
                 ]
             },
             {
@@ -101,8 +101,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             },
             {
@@ -168,8 +168,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             },
             {
@@ -257,8 +257,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             },
             {
@@ -843,8 +843,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 4",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 4"
                 ]
             }
         ]
@@ -1052,8 +1052,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             }
         ]
@@ -1209,7 +1209,33 @@
         "league_id": 19,
         "league": "FA Cup",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "BBC One"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "channels": [
+                    "BBC One"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "BBC One"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "BBC One",
+                    "TNT Sports 1"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15957607,
@@ -1222,8 +1248,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             }
         ]
@@ -1266,8 +1292,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 4",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 4"
                 ]
             }
         ]
@@ -1468,11 +1494,60 @@
         "league_id": 242,
         "league": "MLS",
         "venue": "Saputo Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Afghanistan",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "Canada",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "Italy",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            },
+            {
+                "country": "San Marino",
+                "channels": [
+                    "MLS Pass on Apple TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15171503,
-        "kickoff": 1777149000,
+        "kickoff": 1777142700,
         "fixture": "Minnesota United vs Los Angeles FC",
         "league_id": 242,
         "league": "MLS",
@@ -1679,8 +1754,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             }
         ]
@@ -1688,7 +1763,7 @@
     {
         "match_id": 14081732,
         "kickoff": 1777126500,
-        "fixture": "Real Valladolid vs Real Sociedad B U21",
+        "fixture": "Real Valladolid vs Real Sociedad B",
         "league_id": 54,
         "league": "LaLiga 2",
         "venue": "Jos\u00e9 Zorrilla",
@@ -1907,8 +1982,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             }
         ]
@@ -2379,7 +2454,15 @@
         "league_id": 11653,
         "league": "Liga de Primera",
         "venue": "Nacional Julio Mart\u00ednez Pr\u00e1danos",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Chile",
+                "channels": [
+                    "TNT SPORTS Premium",
+                    "TNT SPORTS Premium HD"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15353034,
@@ -3063,7 +3146,20 @@
         "league_id": 192,
         "league": "Premier Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOI TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "LOI TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15260784,
@@ -4964,7 +5060,7 @@
     },
     {
         "match_id": 15886339,
-        "kickoff": 1777190400,
+        "kickoff": 1777197600,
         "fixture": "Boldklubben af 1893 vs Middelfart",
         "league_id": 47,
         "league": "Betinia Liga, Relegation Round",
@@ -4973,7 +5069,7 @@
     },
     {
         "match_id": 15886346,
-        "kickoff": 1777197600,
+        "kickoff": 1777204800,
         "fixture": "Aarhus Fremad vs Hobro",
         "league_id": 47,
         "league": "Betinia Liga, Relegation Round",
@@ -4982,7 +5078,7 @@
     },
     {
         "match_id": 15886341,
-        "kickoff": 1777204800,
+        "kickoff": 1777212000,
         "fixture": "HB K\u00f8ge vs AaB",
         "league_id": 47,
         "league": "Betinia Liga, Relegation Round",
@@ -8235,7 +8331,7 @@
         "fixture": "Central Espa\u00f1ol vs CA Cerro",
         "league_id": 278,
         "league": "Liga AUF Uruguaya, Apertura",
-        "venue": "TBA",
+        "venue": "Parque Palermo",
         "tv_channels": []
     },
     {
@@ -8244,7 +8340,7 @@
         "fixture": "Cerro Largo vs Racing de Montevideo",
         "league_id": 278,
         "league": "Liga AUF Uruguaya, Apertura",
-        "venue": "TBA",
+        "venue": "Estadio Arquitecto Antonio Eleuterio Ubilla",
         "tv_channels": []
     },
     {
@@ -8253,7 +8349,7 @@
         "fixture": "Montevideo Wanderers vs Pe\u00f1arol",
         "league_id": 278,
         "league": "Liga AUF Uruguaya, Apertura",
-        "venue": "TBA",
+        "venue": "Estadio Alfredo Victor Viera",
         "tv_channels": []
     },
     {
@@ -8298,6 +8394,24 @@
         "fixture": "C\u00f4ng An H\u00e0 N\u1ed9i vs S\u00f4ng Lam Ngh\u1ec7 An",
         "league_id": 626,
         "league": "V-League 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 16033285,
+        "kickoff": 1777117500,
+        "fixture": "Colwyn Bay vs Penybont",
+        "league_id": 254,
+        "league": "Cymru Premier, Europa League Playoffs",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 16033284,
+        "kickoff": 1777219200,
+        "fixture": "Barry Town vs Haverfordwest County AFC",
+        "league_id": 254,
+        "league": "Cymru Premier, Europa League Playoffs",
         "venue": "TBA",
         "tv_channels": []
     }
