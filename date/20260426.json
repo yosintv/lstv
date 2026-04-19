@@ -10,14 +10,20 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             },
             {
                 "country": "China",
                 "channels": [
                     "Migu"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "TNT Sports 1"
                 ]
             }
         ]
@@ -33,8 +39,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "Xsports"
+                    "Xsports",
+                    "Disney+"
                 ]
             },
             {
@@ -56,8 +62,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN 4"
+                    "ESPN 4",
+                    "Disney+"
                 ]
             },
             {
@@ -101,14 +107,28 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             },
             {
                 "country": "China",
                 "channels": [
                     "Migu"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Premier League",
+                    "Sky Sports Main Event"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Premier League",
+                    "Sky Sports Main Event"
                 ]
             }
         ]
@@ -168,8 +188,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             },
             {
@@ -257,8 +277,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             },
             {
@@ -328,8 +348,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "Xsports"
+                    "Xsports",
+                    "Disney+"
                 ]
             }
         ]
@@ -830,7 +850,14 @@
         "league_id": 696,
         "league": "UEFA Champions League, Women, Knockout stage",
         "venue": "FC Bayern Campus",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "CBS Sports Network"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15467033,
@@ -843,8 +870,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN 4"
+                    "ESPN 4",
+                    "Disney+"
                 ]
             }
         ]
@@ -1052,8 +1079,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             }
         ]
@@ -1248,8 +1275,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             }
         ]
@@ -1292,8 +1319,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN 4"
+                    "ESPN 4",
+                    "Disney+"
                 ]
             }
         ]
@@ -1552,7 +1579,14 @@
         "league_id": 242,
         "league": "MLS",
         "venue": "Allianz Field",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Fox"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15171499,
@@ -1687,7 +1721,14 @@
         "league_id": 18,
         "league": "Championship",
         "venue": "The Hawthorns",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "CBS Sports Network"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14059996,
@@ -1754,8 +1795,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             }
         ]
@@ -1982,8 +2023,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             }
         ]
@@ -2009,8 +2050,8 @@
                 "country": "Brazil",
                 "channels": [
                     "Disney+",
-                    "ESPN",
-                    "Xsports"
+                    "Xsports",
+                    "ESPN"
                 ]
             }
         ]
@@ -2065,7 +2106,20 @@
         "league_id": 53,
         "league": "Serie B",
         "venue": "Stadio Benito Stirpe",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bermuda",
+                "channels": [
+                    "Fox Soccer Plus"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Fox Soccer Plus"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14317599,
@@ -2458,8 +2512,8 @@
             {
                 "country": "Chile",
                 "channels": [
-                    "TNT SPORTS Premium",
-                    "TNT SPORTS Premium HD"
+                    "TNT SPORTS Premium HD",
+                    "TNT SPORTS Premium"
                 ]
             }
         ]
@@ -3306,17 +3360,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 15698600,
-        "kickoff": 1777138200,
-        "fixture": "FC Arge\u0219 Pite\u0219ti vs Universitatea Craiova",
-        "league_id": 152,
-        "league": "SuperLiga, Championship round",
-        "venue": "Stadionul Orasenesc",
-        "tv_channels": []
-    },
-    {
         "match_id": 15698603,
-        "kickoff": 1777138200,
+        "kickoff": 1777226400,
         "fixture": "FC Dinamo Bucure\u0219ti vs FC Rapid Bucure\u0219ti",
         "league_id": 152,
         "league": "SuperLiga, Championship round",
@@ -3325,7 +3370,7 @@
     },
     {
         "match_id": 15689833,
-        "kickoff": 1777140000,
+        "kickoff": 1777118400,
         "fixture": "FC Boto\u0219ani vs SC O\u021belul Gala\u021bi",
         "league_id": 152,
         "league": "SuperLiga, Relegation round",
@@ -3333,35 +3378,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 15689856,
-        "kickoff": 1777140000,
-        "fixture": "FC Hermannstadt vs FK Cs\u00edkszereda Miercurea Ciuc",
-        "league_id": 152,
-        "league": "SuperLiga, Relegation round",
-        "venue": "Municipal Sibiu",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15689859,
-        "kickoff": 1777140000,
-        "fixture": "FC Metaloglobus Bucure\u0219ti vs AFC Unirea 04 Slobozia",
-        "league_id": 152,
-        "league": "SuperLiga, Relegation round",
-        "venue": "Stadionul Metaloglobus",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15689818,
-        "kickoff": 1777140000,
-        "fixture": "FCSB vs FC Petrolul Ploie\u0219ti",
-        "league_id": 152,
-        "league": "SuperLiga, Relegation round",
-        "venue": "National Arena",
-        "tv_channels": []
-    },
-    {
         "match_id": 15689830,
-        "kickoff": 1777140000,
+        "kickoff": 1777201200,
         "fixture": "UTA Arad vs FC Farul Constan\u021ba",
         "league_id": 152,
         "league": "SuperLiga, Relegation round",
@@ -3627,7 +3645,14 @@
         "league_id": 1690,
         "league": "NWSL",
         "venue": "Sports Illustrated Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "CBS"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15388455,
@@ -4732,15 +4757,6 @@
         "league_id": 247,
         "league": "First Professional League, Championship Round",
         "venue": "Balgarska Armiya Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 16030624,
-        "kickoff": 1777127400,
-        "fixture": "PFK Montana 1921 vs FK Dobrudzha Dobrich",
-        "league_id": 247,
-        "league": "First Professional League, Relegation Round",
-        "venue": "Ogosta Stadium",
         "tv_channels": []
     },
     {
@@ -8236,15 +8252,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 14090624,
-        "kickoff": 1777122000,
-        "fixture": "FC Epicentr Dunaivtsi vs Oleksandria",
-        "league_id": 218,
-        "league": "Premier League",
-        "venue": "Stadion Im. Tonkocheyeva",
-        "tv_channels": []
-    },
-    {
         "match_id": 14090626,
         "kickoff": 1777122000,
         "fixture": "Zoria Luhansk vs NK Veres Rivne",
@@ -8296,6 +8303,15 @@
         "league_id": 218,
         "league": "Premier League",
         "venue": "Tsentralnyi Stadion",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14090624,
+        "kickoff": 1777284000,
+        "fixture": "FC Epicentr Dunaivtsi vs Oleksandria",
+        "league_id": 218,
+        "league": "Premier League",
+        "venue": "Stadion Im. Tonkocheyeva",
         "tv_channels": []
     },
     {
