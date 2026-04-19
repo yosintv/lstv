@@ -10,8 +10,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             },
             {
@@ -62,8 +62,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 4",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 4"
                 ]
             },
             {
@@ -107,8 +107,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             },
             {
@@ -188,8 +188,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             },
             {
@@ -277,8 +277,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             },
             {
@@ -427,9 +427,27 @@
         "venue": "Groupama Stadium",
         "tv_channels": [
             {
+                "country": "Andorra",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
                 "country": "China",
                 "channels": [
                     "Migu"
+                ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
+            {
+                "country": "Monaco",
+                "channels": [
+                    "beIN SPORTS 1"
                 ]
             }
         ]
@@ -870,31 +888,33 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 4",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 4"
                 ]
             }
         ]
     },
     {
-        "match_id": 14288873,
+        "match_id": 14288870,
         "kickoff": 1777114800,
-        "fixture": "AVS - Futebol SAD vs Sporting CP",
+        "fixture": "Gil Vicente vs Casa Pia",
         "league_id": 238,
         "league": "Liga Portugal Betclic",
-        "venue": "Estadio do CD das Aves",
-        "tv_channels": [
-            {
-                "country": "Brazil",
-                "channels": [
-                    "Disney+"
-                ]
-            }
-        ]
+        "venue": "Est\u00e1dio Cidade de Barcelos",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14288871,
+        "kickoff": 1777127400,
+        "fixture": "Tondela vs CD Nacional",
+        "league_id": 238,
+        "league": "Liga Portugal Betclic",
+        "venue": "Est\u00e1dio Jo\u00e3o Cardoso",
+        "tv_channels": []
     },
     {
         "match_id": 14288877,
-        "kickoff": 1777114800,
+        "kickoff": 1777136400,
         "fixture": "Benfica vs Moreirense",
         "league_id": 238,
         "league": "Liga Portugal Betclic",
@@ -909,8 +929,26 @@
         ]
     },
     {
+        "match_id": 14288878,
+        "kickoff": 1777145400,
+        "fixture": "Vit\u00f3ria SC vs Rio Ave",
+        "league_id": 238,
+        "league": "Liga Portugal Betclic",
+        "venue": "Est\u00e1dio Dom Afonso Henriques",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14288874,
+        "kickoff": 1777213800,
+        "fixture": "Estoril Praia vs Famalic\u00e3o",
+        "league_id": 238,
+        "league": "Liga Portugal Betclic",
+        "venue": "Estadio Antonio Coimbra da Mota",
+        "tv_channels": []
+    },
+    {
         "match_id": 14288875,
-        "kickoff": 1777114800,
+        "kickoff": 1777222800,
         "fixture": "CF Estrela Amadora vs FC Porto",
         "league_id": 238,
         "league": "Liga Portugal Betclic",
@@ -925,35 +963,8 @@
         ]
     },
     {
-        "match_id": 14288874,
-        "kickoff": 1777114800,
-        "fixture": "Estoril Praia vs Famalic\u00e3o",
-        "league_id": 238,
-        "league": "Liga Portugal Betclic",
-        "venue": "Estadio Antonio Coimbra da Mota",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14288876,
-        "kickoff": 1777114800,
-        "fixture": "FC Alverca vs FC Arouca",
-        "league_id": 238,
-        "league": "Liga Portugal Betclic",
-        "venue": "Complexo Desportivo FC Alverca",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14288870,
-        "kickoff": 1777114800,
-        "fixture": "Gil Vicente vs Casa Pia",
-        "league_id": 238,
-        "league": "Liga Portugal Betclic",
-        "venue": "Est\u00e1dio Cidade de Barcelos",
-        "tv_channels": []
-    },
-    {
         "match_id": 14288872,
-        "kickoff": 1777114800,
+        "kickoff": 1777222800,
         "fixture": "Santa Clara vs Sporting Braga",
         "league_id": 238,
         "league": "Liga Portugal Betclic",
@@ -961,22 +972,20 @@
         "tv_channels": []
     },
     {
-        "match_id": 14288871,
-        "kickoff": 1777114800,
-        "fixture": "Tondela vs CD Nacional",
+        "match_id": 14288873,
+        "kickoff": 1777231800,
+        "fixture": "AVS - Futebol SAD vs Sporting CP",
         "league_id": 238,
         "league": "Liga Portugal Betclic",
-        "venue": "Est\u00e1dio Jo\u00e3o Cardoso",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14288878,
-        "kickoff": 1777114800,
-        "fixture": "Vit\u00f3ria SC vs Rio Ave",
-        "league_id": 238,
-        "league": "Liga Portugal Betclic",
-        "venue": "Est\u00e1dio Dom Afonso Henriques",
-        "tv_channels": []
+        "venue": "Estadio do CD das Aves",
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14028532,
@@ -1079,8 +1088,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             }
         ]
@@ -1275,8 +1284,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             }
         ]
@@ -1319,8 +1328,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 4",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 4"
                 ]
             }
         ]
@@ -1795,8 +1804,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             }
         ]
@@ -2023,8 +2032,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             }
         ]
@@ -2049,9 +2058,9 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
                     "Xsports",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             }
         ]
@@ -2203,8 +2212,26 @@
         "tv_channels": []
     },
     {
+        "match_id": 14138635,
+        "kickoff": 1777113000,
+        "fixture": "Serikspor A.\u015e. vs Hatayspor",
+        "league_id": 98,
+        "league": "1. Lig",
+        "venue": "Ismail Ogan Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14138631,
+        "kickoff": 1777113000,
+        "fixture": "Vanspor FK vs \u0130stanbulspor",
+        "league_id": 98,
+        "league": "1. Lig",
+        "venue": "Van Ataturk Stadi",
+        "tv_channels": []
+    },
+    {
         "match_id": 14138633,
-        "kickoff": 1777215600,
+        "kickoff": 1777122000,
         "fixture": "Adana Demirspor vs \u00dcmraniyespor",
         "league_id": 98,
         "league": "1. Lig",
@@ -2213,7 +2240,7 @@
     },
     {
         "match_id": 14138638,
-        "kickoff": 1777215600,
+        "kickoff": 1777208400,
         "fixture": "Amed Sportif Faaliyetler vs Bodrum FK",
         "league_id": 98,
         "league": "1. Lig",
@@ -2222,7 +2249,7 @@
     },
     {
         "match_id": 14138639,
-        "kickoff": 1777215600,
+        "kickoff": 1777208400,
         "fixture": "Erzurumspor FK vs Band\u0131rmaspor",
         "league_id": 98,
         "league": "1. Lig",
@@ -2231,7 +2258,7 @@
     },
     {
         "match_id": 14143646,
-        "kickoff": 1777215600,
+        "kickoff": 1777208400,
         "fixture": "Ke\u00e7i\u00f6reng\u00fcc\u00fc vs Manisa FK",
         "league_id": 98,
         "league": "1. Lig",
@@ -2240,7 +2267,7 @@
     },
     {
         "match_id": 14138640,
-        "kickoff": 1777215600,
+        "kickoff": 1777208400,
         "fixture": "Pendikspor vs Boluspor",
         "league_id": 98,
         "league": "1. Lig",
@@ -2249,7 +2276,7 @@
     },
     {
         "match_id": 14138636,
-        "kickoff": 1777215600,
+        "kickoff": 1777208400,
         "fixture": "Sakaryaspor vs \u00c7orum FK",
         "league_id": 98,
         "league": "1. Lig",
@@ -2258,7 +2285,7 @@
     },
     {
         "match_id": 14138632,
-        "kickoff": 1777215600,
+        "kickoff": 1777208400,
         "fixture": "Sar\u0131yer vs Esenler Erokspor",
         "league_id": 98,
         "league": "1. Lig",
@@ -2266,30 +2293,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 14138635,
-        "kickoff": 1777215600,
-        "fixture": "Serikspor A.\u015e. vs Hatayspor",
-        "league_id": 98,
-        "league": "1. Lig",
-        "venue": "Ismail Ogan Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 14138634,
-        "kickoff": 1777215600,
+        "kickoff": 1777208400,
         "fixture": "Sivasspor vs I\u011fd\u0131r FK",
         "league_id": 98,
         "league": "1. Lig",
         "venue": "Yeni Sivas 4 Eyl\u00fcl Stadyumu",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14138631,
-        "kickoff": 1777215600,
-        "fixture": "Vanspor FK vs \u0130stanbulspor",
-        "league_id": 98,
-        "league": "1. Lig",
-        "venue": "Van Ataturk Stadi",
         "tv_channels": []
     },
     {
@@ -7046,6 +7055,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 14336442,
+        "kickoff": 1777111200,
+        "fixture": "Leix\u00f5es SC vs Portimonense SAD",
+        "league_id": 239,
+        "league": "Liga Portugal 2",
+        "venue": "Est\u00e1dio do Mar",
+        "tv_channels": []
+    },
+    {
         "match_id": 14336441,
         "kickoff": 1777114800,
         "fixture": "Chaves vs UD Oliveirense",
@@ -7064,44 +7082,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 14336438,
-        "kickoff": 1777114800,
-        "fixture": "Felgueiras vs Uni\u00e3o de Leiria",
-        "league_id": 239,
-        "league": "Liga Portugal 2",
-        "venue": "Est\u00e1dio Dr. Machado de Matos",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14336442,
-        "kickoff": 1777114800,
-        "fixture": "Leix\u00f5es SC vs Portimonense SAD",
-        "league_id": 239,
-        "league": "Liga Portugal 2",
-        "venue": "Est\u00e1dio do Mar",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14336443,
-        "kickoff": 1777114800,
-        "fixture": "Lusit\u00e2nia Lourosa vs Pa\u00e7os de Ferreira",
-        "league_id": 239,
-        "league": "Liga Portugal 2",
-        "venue": "Est\u00e1dio do Lusit\u00e2nia de Lourosa FC",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14336440,
-        "kickoff": 1777114800,
-        "fixture": "Penafiel vs FC Porto B",
-        "league_id": 239,
-        "league": "Liga Portugal 2",
-        "venue": "Estadio Municipal 25 de Abril",
-        "tv_channels": []
-    },
-    {
         "match_id": 14336435,
-        "kickoff": 1777114800,
+        "kickoff": 1777122000,
         "fixture": "SC Farense vs Acad\u00e9mico Viseu FC",
         "league_id": 239,
         "league": "Liga Portugal 2",
@@ -7109,21 +7091,48 @@
         "tv_channels": []
     },
     {
-        "match_id": 14336444,
-        "kickoff": 1777114800,
-        "fixture": "SL Benfica B U21 vs Mar\u00edtimo",
+        "match_id": 14336438,
+        "kickoff": 1777136400,
+        "fixture": "Felgueiras vs Uni\u00e3o de Leiria",
         "league_id": 239,
         "league": "Liga Portugal 2",
-        "venue": "Benfica Campus",
+        "venue": "Est\u00e1dio Dr. Machado de Matos",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14336443,
+        "kickoff": 1777197600,
+        "fixture": "Lusit\u00e2nia Lourosa vs Pa\u00e7os de Ferreira",
+        "league_id": 239,
+        "league": "Liga Portugal 2",
+        "venue": "Est\u00e1dio do Lusit\u00e2nia de Lourosa FC",
         "tv_channels": []
     },
     {
         "match_id": 14336436,
-        "kickoff": 1777114800,
+        "kickoff": 1777208400,
         "fixture": "Vizela vs Sporting CP B U21",
         "league_id": 239,
         "league": "Liga Portugal 2",
         "venue": "Est\u00e1dio do FC Vizela",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14336440,
+        "kickoff": 1777213800,
+        "fixture": "Penafiel vs FC Porto B",
+        "league_id": 239,
+        "league": "Liga Portugal 2",
+        "venue": "Estadio Municipal 25 de Abril",
+        "tv_channels": []
+    },
+    {
+        "match_id": 14336444,
+        "kickoff": 1777222800,
+        "fixture": "SL Benfica B U21 vs CS Mar\u00edtimo",
+        "league_id": 239,
+        "league": "Liga Portugal 2",
+        "venue": "Benfica Campus",
         "tv_channels": []
     },
     {
