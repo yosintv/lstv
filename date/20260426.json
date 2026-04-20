@@ -10,8 +10,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             },
             {
@@ -45,8 +45,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Xsports",
-                    "Disney+"
+                    "Disney+",
+                    "Xsports"
                 ]
             },
             {
@@ -113,8 +113,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             },
             {
@@ -126,15 +126,15 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Sky Sports Main Event",
-                    "Sky Sports Premier League"
+                    "Sky Sports Premier League",
+                    "Sky Sports Main Event"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Sky Sports Main Event",
-                    "Sky Sports Premier League"
+                    "Sky Sports Premier League",
+                    "Sky Sports Main Event"
                 ]
             }
         ]
@@ -194,8 +194,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             },
             {
@@ -295,8 +295,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             },
             {
@@ -405,8 +405,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Xsports",
-                    "Disney+"
+                    "Disney+",
+                    "Xsports"
                 ]
             },
             {
@@ -1273,8 +1273,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             }
         ]
@@ -1463,6 +1463,12 @@
                 ]
             },
             {
+                "country": "Norway",
+                "channels": [
+                    "Viaplay"
+                ]
+            },
+            {
                 "country": "Switzerland",
                 "channels": [
                     "BBC One"
@@ -1471,8 +1477,8 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "BBC One",
-                    "TNT Sports 1"
+                    "TNT Sports 1",
+                    "BBC One"
                 ]
             }
         ]
@@ -1488,14 +1494,20 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             },
             {
                 "country": "China",
                 "channels": [
                     "Migu"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "TNT Sports 1"
                 ]
             },
             {
@@ -2108,7 +2120,7 @@
     },
     {
         "match_id": 15171503,
-        "kickoff": 1777142700,
+        "kickoff": 1777149900,
         "fixture": "Minnesota United vs Los Angeles FC",
         "league_id": 242,
         "league": "MLS",
@@ -2329,8 +2341,20 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Football"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Football"
                 ]
             }
         ]
@@ -2557,8 +2581,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             }
         ]
@@ -2583,9 +2607,9 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Xsports",
+                    "Disney+",
                     "ESPN",
-                    "Disney+"
+                    "Xsports"
                 ]
             }
         ]
@@ -7625,6 +7649,33 @@
         "tv_channels": []
     },
     {
+        "match_id": 15400168,
+        "kickoff": 1777149900,
+        "fixture": "Sportivo Luque\u00f1o vs Sportivo Trinidense",
+        "league_id": 11540,
+        "league": "Divisi\u00f3n de Honor, Apertura",
+        "venue": "Estadio Feliciano Caceres",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15400167,
+        "kickoff": 1777158000,
+        "fixture": "Libertad vs Olimpia",
+        "league_id": 11540,
+        "league": "Divisi\u00f3n de Honor, Apertura",
+        "venue": "Estadio Tigo La Huerta",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15400171,
+        "kickoff": 1777236300,
+        "fixture": "CS 2 de Mayo vs Guaran\u00ed",
+        "league_id": 11540,
+        "league": "Divisi\u00f3n de Honor, Apertura",
+        "venue": "Estadio Monumental Rio Parapiti",
+        "tv_channels": []
+    },
+    {
         "match_id": 15703718,
         "kickoff": 1777114800,
         "fixture": "Stallion Laguna vs Taguig FC",
@@ -7837,6 +7888,33 @@
         "fixture": "AD Sanjoanense vs USC Paredes",
         "league_id": 17101,
         "league": "Liga 3, Relegation Round, Group 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 16042205,
+        "kickoff": 1777215600,
+        "fixture": "Grupo Desportivo de Bragan\u00e7a vs Rebordosa AC",
+        "league_id": 10093,
+        "league": "Campeonato de Portugal, Promotion Round, Serie 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 16042190,
+        "kickoff": 1777215600,
+        "fixture": "Le\u00e7a FC vs SC Vianense",
+        "league_id": 10093,
+        "league": "Campeonato de Portugal, Promotion Round, Serie 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 16042200,
+        "kickoff": 1777215600,
+        "fixture": "Oliveira Hospital vs GD Vit\u00f3ria Sernache",
+        "league_id": 10093,
+        "league": "Campeonato de Portugal, Promotion Round, Serie 2",
         "venue": "TBA",
         "tv_channels": []
     },
