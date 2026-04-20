@@ -263,6 +263,18 @@
                 "channels": [
                     "Migu"
                 ]
+            },
+            {
+                "country": "Italy",
+                "channels": [
+                    "Sky Sport Calcio"
+                ]
+            },
+            {
+                "country": "San Marino",
+                "channels": [
+                    "Sky Sport Calcio"
+                ]
             }
         ]
     },
@@ -395,9 +407,27 @@
         "venue": "Estadio El Sadar",
         "tv_channels": [
             {
+                "country": "Andorra",
+                "channels": [
+                    "Teledeporte"
+                ]
+            },
+            {
                 "country": "Brazil",
                 "channels": [
                     "Disney+"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "Teledeporte"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "Teledeporte"
                 ]
             }
         ]
@@ -870,6 +900,36 @@
         "venue": "FC Bayern Campus",
         "tv_channels": [
             {
+                "country": "Austria",
+                "channels": [
+                    "ZDF"
+                ]
+            },
+            {
+                "country": "Germany",
+                "channels": [
+                    "ZDF"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "channels": [
+                    "ZDF"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "ZDF"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "ZDF"
+                ]
+            },
+            {
                 "country": "United States",
                 "channels": [
                     "CBS Sports Network"
@@ -886,22 +946,31 @@
         "venue": "Meadow Park",
         "tv_channels": [
             {
+                "country": "Andorra",
+                "channels": [
+                    "L'\u00c9quipe"
+                ]
+            },
+            {
                 "country": "Brazil",
                 "channels": [
                     "Disney+",
                     "ESPN 4"
                 ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "L'\u00c9quipe"
+                ]
+            },
+            {
+                "country": "Monaco",
+                "channels": [
+                    "L'\u00c9quipe"
+                ]
             }
         ]
-    },
-    {
-        "match_id": 14288870,
-        "kickoff": 1777114800,
-        "fixture": "Gil Vicente vs Casa Pia",
-        "league_id": 238,
-        "league": "Liga Portugal Betclic",
-        "venue": "Est\u00e1dio Cidade de Barcelos",
-        "tv_channels": []
     },
     {
         "match_id": 14288871,
@@ -1209,7 +1278,20 @@
         "league_id": 36,
         "league": "Scottish Premiership, Championship Round",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Main Event"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Main Event"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15981439,
@@ -1286,6 +1368,12 @@
                 "channels": [
                     "Disney+",
                     "ESPN"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "TNT Sports 1"
                 ]
             }
         ]
@@ -6734,6 +6822,15 @@
         "match_id": 16037139,
         "kickoff": 1777222800,
         "fixture": "Raja Club Athletic vs Fath Union Sport",
+        "league_id": 937,
+        "league": "Botola Pro",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 16038792,
+        "kickoff": 1777222800,
+        "fixture": "Union Sportive Yacoub El Mansour vs AS FAR Rabat",
         "league_id": 937,
         "league": "Botola Pro",
         "venue": "TBA",
